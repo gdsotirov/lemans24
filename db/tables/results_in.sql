@@ -8,7 +8,7 @@ CREATE TABLE results_in (
   drivers_cntry VARCHAR(16)   NOT NULL  COMMENT 'Drivers countries (ISO 3166 3 characters code) separated',
   drivers_name  VARCHAR(256)  NOT NULL  COMMENT 'Drivers names',
   chassis       VARCHAR(64)   NOT NULL  COMMENT 'Chassis name',
-  engine        VARCHAR(32)   NOT NULL  COMMENT 'Engine name',
+  engine        VARCHAR(64)   NOT NULL  COMMENT 'Engine name',
   tyre          VARCHAR(16)   NULL      COMMENT 'Tyres manufacturer',
   laps          INT           NULL      COMMENT 'Laps driven',
   distance      DECIMAL(8,3)  NULL      COMMENT 'Distance passed',
