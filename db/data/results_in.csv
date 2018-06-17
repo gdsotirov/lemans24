@@ -491,7 +491,7 @@
 1937;DNF;5.0;4;FRA;Raymond Sommer;FRA|ITA;Raymond Sommer|Giovanni Battista Guidotti;Alfa Romeo 8C 2900A Spider;Alfa Romeo 2.9L Supercharged I8;;11;148.412;;Cracked cylinder
 1937;DNF;5.0;12;FRA;Eugéne Chaboud;FRA|FRA;Eugéne Chaboud|Jean Trémoulet;Delahaye 135CS;Delahaye 3.6L I6;;9;121.936;;Accident
 1937;DNF;5.0;7;GRC;André M. Embiricos;GRC|ARG;Nicholas S. Embiricos|Raphaël Béthenod de las Casas;Talbot T150C;Talbot 4.0L I6;;9;121.936;;Accident
-1937;DNF;1.5;38;FRA;Ecurie Eudel;FRA|CHE;Raoul Forestier|Roger Caron;Riley Sprite TT;Riley 1.5L I4;;8;107.936;;Fatal accident Kippeurt
+1937;DNF;1.5;38;FRA;Ecurie Eudel;FRA|CHE;Raoul Forestier|Roger Caron;Riley Sprite TT;Riley 1.5L I4;;8;107.936;;Fatal accident - Kippeurt
 1937;DNF;2.0;30;DEU;BMW;DEU|DEU;Fritz Roth|Uli Richter;BMW 328;BMW 2.0L I6;;8;107.936;;Fatal accident - Fairfield
 1937;DNF;2.0;28;GBR;David Murray;GBR|GBR;David Murray|Pat Fairfield;Frazer Nash-BMW 328;BMW 2.0L I6;;8;107.936;;Accident
 1937;DNF;3.0;20;FRA;René Kippeurt;FRA|FRA;René Kippeurt|René Poulain;Bugatti Type 44;Bugatti 3.0L I8;;8;107.936;;Accident
@@ -581,3 +581,230 @@
 1939;DNF;1.5;30;DEU;Adler;DEU|DEU;Otto Löhr|Paul von Guilleaume;Adler Trumpf;Adler 1.5L I4;;6;80.952;;Piston
 1939;DNF;1.1;46;FRA;Jacques Savoye;FRA|FRA;Jacques Savoye|Pierre Savoye;"Singer Nine Le Mans Replica ""Savoye Special""";Singer 1.0L I4;;4;53.968;;
 1939;DNS;1.5;0;DEU;Adler;DEU|DEU;Fritz Huschke von Hanstein|f.n.u. Karkmann;Adler Trumpf;Adler 1.5L I4;;0;0.0;;
+1949;1;S2.0;22;GBR;Peter Mitchell-Thomson, Lord Selsdon (private entrant);USA|GBR;Luigi Chinetti|Peter Mitchell-Thomson,Lord Selsdon;Ferrari 166 MM;Ferrari 2.0L V12;;235;3178.299;;
+1949;2;S3.0;15;FRA;Henri Louveau (private entrant);FRA|ESP;Henri Louveau|Juan Jover;Delage D6S-3L;Delage 3.0L i6;;234;3162.576;;
+1949;3;S2.0;26;GBR;Mrs. P. Trevelyan (private entrant);GBR|GBR;Harold John Aldington|Norman Culpan;Frazer Nash High Speed Le Mans Replica;Bristol 2.0L I6;;224;3033.420;;
+1949;4;S3.0;14;GBR;W.S. Watney (private entrant);FRA|ESP;Louis Gérard|Francisco Godia-Sales;Delage D6S-3L;Delage 3.0L I6;;212;2871.737;;
+1949;5;S5.0;11;FRA;Pierre Meyrat (private entrant);FRA|FRA;Pierre Meyrat|Robert Brunet;Delahaye 135CS;Delahaye 4.0L I6;;210;2844.816;;
+1949;6;S5.0;6;GBR;H.S.F. Hay (private entrant);GBR|GBR;"Jack ""Zoltan"" Hay|Tommy Wisdom";Embiricos Bentley Paulin;Bentley 4.3L I6;;210;2841.380;;
+1949;7;S2.0;27;GBR;Arthur Jones (private entrant);GBR|GBR;Arthur Jones|Nick Haines;Aston Martin DB2;Aston Martin 2.0L I4;;207;2801.165;;
+1949;8;S1.5;35;GBR|GBR;Ecurie Lapin Blanc|HRG Engineering;GBR|GBR;Eric Thompson|Jack Fairman;HRG 1500 Lightweight Le Mans;Singer 1.5L I4;;202;2736.182;;
+1949;9;S5.0;12;FRA;René Bouchard (private entrant);FRA|FRA;René Bouchard|Pierre Larrue;Delahaye 135MS;Delahaye 3.6L I6;;200;2711.467;;
+1949;NC;S5.0;9;FRA;Henry Leblanc (private entrant);FRA|FRA;Henry Leblanc|Jean Brault;Delahaye 135CS;Delahaye 3.6L I6;;194;2619.820;;
+1949;10;S2.0;29;GBR;Robert Lawrie (private entrant);GBR|GBR;Robert Lawrie|Richard W. Parker;Aston Martin 2-Litre Sports (DB1);Aston Martin 2.0L I4;;193;2616.716;;
+1949;11;S1.1;44;FRA;Monopole-Poissy;FRA|FRA;Jean de Montrémy|Eugène Dussous;Monopole Sport;Simca 1.1L I4;;185;2502.195;;
+1949;NC;S3.0;20;GBR;Jack Bartlett (private entrant);GBR|GBR;Jack Bartlett|Nigel Mann;Healey Elliott;Riley 2.4L I4;;180;2439.177;;
+1949;12;S1.1;47;FRA;N.J. Mahé / R. Crovetto (private entrant);FRA|FRA;Norbert Jean Mahé|Roger Crovetto;Simca Huit;Gordini 1.1L I4;;178;2408.647;;
+1949;13;S750;58;CSK;Let-Aviation;CZK|CZK;František Sutnar|Otto Krattner;Aero Minor Sport 750;Aero 0.7L Flat-2 (2-Stroke);;177;2391.932;;
+1949;14;S1.5;41;FRA;Auguste Lachaize (private entrant);FRA|FRA;Auguste Lachaize|Albert Debille;DB Tank;Citroën 1.5L I4;;176;2387.283;;
+1949;NC;S1.1;52;FRA;André Guillard (private entrant);FRA|FRA;André Guillard|Théodore Martin;Simca Huit;Gordini 1.1L I4;;156;2111.434;;
+1949;15;S750;60;FRA;Ecurie Verte;FRA|FRA;Emmanuel Baboin|Pierre Gay;Simca Six;Simca 0.6L I4;;156;2111.110;;
+1949;16;S750;59;FRA;Jacques Poch (private entrant);CZK|FRA;Ivan Hodač|Jacques Poch;Aero Minor Sport 750;Aero 0.7L Flat-2 (2-Stroke);;150;2031.438;;
+1949;DNF;S5.0;1;FRA;André Chambas / Écurie Verte;FRA|FRA;André Chambas|André Morel;Talbot-Lago Grand Sport Coupé;Talbot-Lago 4.5L I6;;222;0.0;;Head gasket
+1949;DNF;S3.0;18;FRA;Auguste Veuillet (private entrant);FRA|FRA;Auguste Veuillet|Edmond Mouche;Delage D6-3L;Delage 3.0L I6;;208;0.0;;Engine
+1949;DNF;S2.0;28;GBR;Mrs. R.P. Hichens (private entrant);FRA|GBR;Pierre Marechal|Donald Mathieson;Aston Martin DB2;Aston Martin 2.0L i4;;192;0.0;;Fatal accident - Maréchal
+1949;DNF;S5.0;4;FRA;Ecurie Charles Pozzi;FRA|FRA;André Simon|Pierre Flahaut;Delahaye 175S;Delahaye 4.5L I6;;179;0.0;;Engine
+1949;DNF;S1.5;42;FRA|FRA;René Bonnet|Automobiles DB;FRA|FRA;René Bonnet|Charles Deutsch;DB 5;Citroën 1.5L I4;;175;0.0;;Engine
+1949;DSQ;S1.5;43;GBR;G.E. Phillips (private entrant);GBR|GBR;George Phillips|R.M. Dryden;MG TC Special Body;MG 1.3L I4;;134;0.0;;DQ: Outside help
+1949;DNF;S5.0;8;FRA;Louis Villeneuve (private entrant);FRA|FRA;Marius Chanal|Yves Giraud-Cabantous;Delahaye 135CS;Delahaye 3.6L I6;;128;0.0;;Gearbox
+1949;DNF;S5.0;10;GBR;R.R.C. Walker Racing Team;GBR|GBR;Tony Rolt|Guy Jason-Henry;Delahaye 135CS;Delahaye 3.6L I6;;126;0.0;;Bearings
+1949;DNF;S5.0;5;FRA;Etablissements Delettrez;FRA|FRA;Jean Delettrez|Jacques Delettrez;Delettrez Diesel;Delettrez 4.4L I6 (Diesel);;123;0.0;;Out of fuel
+1949;DNF;S1.1;45;FRA;Monopole-Poissy;FRA|FRA;Jean Hémard|Raymond Leinard;Monopole;Simca 1.1L I4;;120;0.0;;Engine
+1949;DNF;S1.1;48;FRA;Just-Emile Vernet (private entrant);FRA|FRA;Just-Emile Vernet|Claude Batault;Simca Huit;Simca 1.1L I4;;118;0.0;;Accident
+1949;DNF;S1.1;56;FRA;Jacques Savoye (private entrant);FRA|FRA;Jacques Savoye|Marcel Renault;Singer 9;Singer 1.0L I4;;97;0.0;;Clutch
+1949;DNF;S5.0;2;FRA|FRA;Écurie France|Talbot-Lago;FRA|FRA;Paul Vallée|Guy Mairesse;Talbot-Lago Monoplace Décalée;Talbot-Lago 4.5L I6;;95;0.0;;Engine
+1949;DNF;S1.1;54;FRA;Mme Vivianne Elder (private entrant);FRA|FRA;Vivianne Elder|René Camerano;Simca Huit;Simca 1.1L I4;;95;0.0;;Crankshaft
+1949;DNF;S1.1;46;FRA;Robert Redge (private entrant);FRA|FRA;Félix Lecerf|Robert Redge;Simca Dého;Simca 1.1L I4;;89;0.0;;Crankshaft
+1949;DNF;S1.1;50;FRA|FRA;Amédée Gordini, Automobiles Gordini;FRA|FRA;Pierre Veyron|José Scaron;Simca-Gordini T8;Simca 1.1L I4;;88;0.0;;Clutch
+1949;DNF;S1.5;34;GBR|GBR;Ecurie Lapin Blanche|HRG Engineering;GBR|GBR;Jack Scott-Douglas|Neville Gee;HRG 1500 Lightweight Le Mans;Singer 1.5L I4;;83;0.0;;Engine
+1949;DNF;S3.0;16;FRA;Marc Versini (private entrant);FRA|FRA;Marc Versini|Gaston Serraud;Delage D6-3L;Delage 3.0L I6;;58;0.0;;Engine
+1949;DNF;S2.0;23;FRA;J.A. Plisson (private entrant);FRA|FRA;"Jean Lucas|Pierre Louis-Dreyfus (""Ferret"")";Ferrari 166MM;Ferrari 2.0L V12;;53;0.0;;Accident
+1949;DNF;S5.0;3;FRA;Ecurie Charles Pozzi;FRA|FRA;Eugène Chaboud|Charles Pozzi;Delahaye 175S;Delahaye 4.5L I6;;52;0.0;;Electrical
+1949;DNF;S2.0;30;GBR;Peter Monkhouse (private entrant);GBR|GBR;Peter Monkhouse|Ernest Stapleton;Aston Martin Speed Model;Aston Martin 2.0L I4;;45;0.0;;Cylinder head
+1949;DNF;S1.1;51;FRA;Robert Tocheport (private entrant);FRA|CHE;Robert Tocheport|Roget Carron;Simca Huit;Simca 1.1L I4;;45;0.0;;Radiator
+1949;DNF;S1.5;36;FRA;Just-Emile Vernet (private entrant);FRA|FRA;Georges Trouis|Roger Eckerlein;Riley RMA;Riley 1.5L I4;;40;0.0;;Engine
+1949;DNF;S2.0;31;GBR;Dudley C. Folland (private entrant);GBR|GBR;Anthony Heal|Dudley Folland;Aston Martin Speed Model;Aston Martin 2.0L I4;;26;0.0;;Piston
+1949;DNF;S5.0;7;FRA;Ecurie Rosier;FRA|FRA;Louis Rosier|Jean-Louis Rosier;Talbot-Lago Spéciale;Talbot-Lago 4.1L I6;;21;0.0;;Fan belt
+1949;DNF;S1.1;57;FRA;Camille Hardy (private entrant);FRA|FRA;Camille Hardy|Maurice Roger;Renault 4CV;Renault 0.8L I4;;21;0.0;;Valves
+1949;DNF;S1.5;33;GBR|GBR;Ecurie Lapin Blanche|HRG Engineering;GBR|GBR;Peter Clark|Mortimer Morris-Goodall;HRG 1500 Lightweight Le Mans;Singer 1.5L I4;;11;0.0;;Radiator
+1949;DNF;S3.0;19;GBR;Aston Martin Lagonda Ltd.;GBR|GBR;Leslie Johnson|Charles Brackenbury;Aston Martin DB2;Lagonda 2.6L I6;;6;0.0;;Loss of water
+1949;DNF;S2.0;32;BEL;Louis Eggen (private entrant);BEL|BEL;Louis Eggen|Egon Kraft de la Saulx;Alvis TA 14;Alvis 1.9L I4;;6;0.0;;Bearings
+1949;DNF;S1.1;49;FRA|FRA;Amédée Gordini|Automobiles Gordini;FRA|FRA;Jean Trévoux|Marcel Lesurque;Simca-Gordini TMM;Simca 1.1L I4;;5;0.0;;Clutch
+1950;1;S5.0;5;FRA;Louis Rosier (private entrant);FRA|FRA;Louis Rosier|Jean-Louis Rosier;Talbot-Lago T26 GS Biplace;Talbot-Lago 4.5L S6;;256;3465.120;;
+1950;2;S5.0;7;FRA;Pierre Meyrat (private entrant);FRA|FRA;Pierre Meyrat|Guy Mairesse;Talbot-Lago T26 Monoplace Decalee;Talbot-Lago 4.5L S6;;255;3440.090;;
+1950;3;S8.0;4;GBR;S.H. Allard;GBR|USA;Sydney Allard|Tom Cole Jr.;Allard J2;Cadillac 5.4L V8;;251;3389.050;;
+1950;4;S5.0;14;GBR;Healey Motors Ltd.;GBR|GBR;Tony Rolt|Duncan Hamilton;Nash-Healey E;Nash 3.8L S6;;250;3384.880;;
+1950;5;S3.0;19;GBR;Aston Martin Ltd.;GBR|GBR;George Abecassis|Lance Macklin;Aston Martin DB2;Aston Martin 2.6L S6;;249;3370.240;;
+1950;6;S3.0;21;GBR;Aston Martin Ltd.;GBR|GBR;Reg Parnell|Charles Brackenbury;Aston Martin DB2;Aston Martin 2.6L S6;;244;3294.320;;
+1950;7;S3.0;18;FRA;Henri Louveau (private entrant);FRA|FRA;Henri Louveau|Jean Estager;Delage D6-3L;Delage 3.0L S6;;241;3253.080;;
+1950;8;S5.0;11;GBR;E.R. Hall (private entrant);GBR|GBR;Eddie Hall|Tom Clarke;Bentley Corniche TT Coupé;Bentley 4.3L S6;;236;3203.930;;
+1950;9;S2.0;30;GBR;H.J. Aldington (private entrant);GBR|GBR;"Richard Stoop|T.A.S.O. ""Donald"" Mathieson";Frazer Nash Milla Miglia;Bristol 2.0L S6;;235;3174.710;;
+1950;10;S8.0;3;USA;Briggs Cunningham (private entrant);USA|USA;Miles Collier|Sam Collier;Cadillac Coupe de Ville;Cadillac 5.4L V8;;233;3149.190;;
+1950;11;S8.0;2;USA;Briggs Cunningham (private entrant);USA|USA;Briggs Cunningham|Phil Walters;Cadillac Spider;Cadillac 5.4L V8;;232;3141.030;;
+1950;12;S5.0;15;GBR;P.T.C. Clark (private entrant);GBR|GBR;Peter Clark|Nick Haines;Jaguar XK120S;Jaguar 3.4L S6;;230;3133.240;;
+1950;13;S5.0;6;FRA;André Chambas (private entrant);FRA|FRA;André Chambas|André Morel;Talbot-Lago Gran Sport Coupe;Talbot-Lago 4.5L S6;;228;3083.870;;
+1950;14;S5.0;12;GBR;H.S.F. Hay (private entrant);GBR|GBR;Jack 'Zoltan' Hay|Hugh Hunter;Bentley 4¼ Paulin;Bentley 4.3L S6;;225;3036.110;;
+1950;15;S5.0;16;GBR;P.C.D. Walker (private entrant);GBR|GBR;Peter Whitehead|John Marshall;Jaguar XK120S;Jaguar 3.4L S6;;225;3035.720;;
+1950;16;S1.5;36;GBR;Jowett Cars Ltd.;GBR|GBR;Tommy Wisdom|Tommy Wise;Jowett Jupiter Javelin;Jowett 1486cc Flat-4;;220;2928.570;;
+1950;17;S3.0;22;GBR;R. Lawrie (private entrant);GBR|GBR;Rob Lawrie|Geoffrey Beetson;Riley RMC;Riley 2.5L S4;;213;2878.240;;
+1950;18;S1.5;39;GBR;G.E. Phillips (private entrant);GBR|GBR;George Phillips|Eric Winterbottom;MG TC Special;MG 1244cc S4;;208;2812.580;;
+1950;19;S3.0;23;GBR;N.H. Mann (private entrant);GBR|GBR;Nigel Mann|Mortimer Morris-Goodall;Healey Elliott;Riley 2.4L S4;;203;2746.580;;
+1950;20;S2.0;31;GBR;N.R. Culpan (private entrant);GBR|GBR;Norman Culpan|Lt. Cdr. Peter Wilson;Frazer Nash High Speed Le Mans Replica;Bristol 2.0L S6;;201;2721.730;;
+1950;21;S750;51;CZE;Rudý Letov Letnany;NLD|NLD;Maurice Gatsonides|Henk Hoogeven;Aero Minor 750;Aero 744cc Flat-2 (2-Stroke);;184;2490.670;;
+1950;22;S750;52;FRA;Etablissements Monopole;FRA|FRA;Jean de Montrémy|Jean Hémard;Monopole X84;Panhard 611cc Flat-2;;180;2434.960;;
+1950;23;S750;58;FRA;Automobiles Deutsch et Bonnet;FRA|FRA;René Bonnet|Élie Bayol;DB Sport;Panhard 611cc Flat-2;;175;2372.800;;
+1950;24;S1.1;46;FRA;J.L.V. Sandt (private entrant);FRA|FRA;Jean Sandt|Hervé Coatalen;Renault 4CV;Renault 760cc S4;;171;2314.410;;
+1950;25;S1.1;48;FRA;L. Pons (private entrant);FRA|FRA;Jacques Lecat|Louis Pons;Renault 4CV;Renault 760cc S4;;170;2300.950;;
+1950;26;S750;55;FRA;A. Lachaize (private entrant);FRA|FRA;Auguste Lachaize|Albert Debille;Panhard Dyna X84 Sport;Panhard 611cc Flat-2;;168;2279.660;;
+1950;27;S1.1;45;FRA;J.-E. Vernet (private entrant);FRA|FRA;Just-Emile Vernet|Roger Eckerlein;Renault 4CV;Renault 760cc S4;;158;2133.080;;
+1950;28;S750;56;FRA;R. Gaillard (private entrant);FRA|FRA;Raymond Gaillard|Pierre Chancel;Callista RAN D120;Panhard 611cc Flat-2;;153;2073.810;;
+1950;29;S750;57;BEL;L. Eggen (private entrant);BEL|BEL;Louis Eggen|Escale;Panhard Dyna X84;Panhard 611cc Flat-2;;151;2039.940;;
+1950;DNF;S5.0;17;GBR;L. Johnson (private entrant);GBR|GBR;Leslie Johnson|Bert Hadley;Jaguar XK120S;Jaguar 3.4L S6;;220;0.0;;Clutch
+1950;DSQ;S5.0;8;FRA;Ecurie Lutetia;FRA|FRA;Charles Pozzi|Pierre Flahaut;Delahaye 175S;Delahaye 4.5L S6;;165;0.0;;Disqualified
+1950;DNF;S2.0;28;GBR;Peter Mitchell-Thomson,Lord Selsdon (private entrant);GBR|FRA;Peter Mitchell-Thomson|Lord Selsdon|Jean Lucas;Ferrari 166MM;Ferrari 2.0L V12;;164;0.0;;Accident
+1950;DNF;S1.1;43;FRA;Automobiles Gordini;FRA|FRA;Georges Blondel|Raoul Martin;Gordini T15S;Simca 1090cc S4;;157;0.0;;Engine
+1950;DNF;S1.1;41;FRA;Mmes Rouault et Gordine (private entrant);FRA|FRA;Germaine Rouault|Reginé Gordine;Gordini T11 MM;Simca 1090cc S4;;143;0.0;;Accident
+1950;DNF;S750;49;FRA;J. Poch (private entrant);FRA|FRA;Jacques Poch|Edmond Mouche;Aero Minor;Aero 744cc Flat-2 (2-Stroke);;139;0.0;;roulement
+1950;DNF;S1.1;40;FRA;N.-J. Mahé (private entrant);FRA|FRA;Norbert Jean Mahé|Sacha Gordine;Simca Huit;Simca 1090cc S4;;126;0.0;;Engine
+1950;DNF;S3.0;24;USA;Luigi Chinetti;USA|FRA;"Luigi Chinetti|Pierre-Louis Dreyfus (""Heldé"")";Ferrari 195S Spyder;Ferrari 2.4L V12;;121;0.0;;Transmission
+1950;DNF;S5.0;10;FRA;Etablissements Delettrez;FRA|FRA;Jean Delettrez|Jacques Delettrez;Delettrez Diesel;Delettrez 4.4L S6 (Diesel);;120;0.0;;Engine
+1950;DNF;S1.1;44;CZE;A.Z.N.P.;CZE|CZE;Václav Bobek|Jaroslav Netušil;Škoda 1101 Spyder;Škoda 1089cc S4;;120;0.0;;Engine
+1950;DNF;S750;54;FRA;G. Lapchin (private entrant);FRA|FRA;Guy Lapchin|Charles Plantivaux;Panhard Dyna X84 Sport;Panhard 611cc Flat-2;;115;0.0;;Ignition
+1950;DNF;S3.0;33;FRA;Automobiles Gordini;ARG|ARG;Juan Manuel Fangio|José Froilán González;Gordini T15S Coupé;Simca 1491cc supercharged S4;;95;0.0;;Ignition
+1950;DNF;S1.1;47;FRA;Ets. Savin & Leroy (private entrant);FRA|FRA;Fernand Leroy|Marcel Joseph;Renault 4CV;Renault 760cc S4;;92;0.0;;Accident
+1950;DNF;S750;53;FRA;J. Savoye (private entrant);FRA|FRA;Jacques Savoye|Eugène Dussous;Monopole X84;Panhard 611cc Flat-2;;89;0.0;;unknown
+1950;DNF;S750;50;FRA;Sté. Pierre Ferry (private entrant);FRA|FRA;Pierre Ferry|André-Georges Claude;Ferry Sport;Renault 747cc S4;;86;0.0;;Engine
+1950;DNF;S3.0;25;USA;Luigi Chinetti;FRA|ITA;Raymond Sommer|Dorino Serafini;Ferrari 195S Coupé;Ferrari 2.4L V12;;82;0.0;;Electrical
+1950;DNF;S1.1;42;FRA;Automobiles Gordini;FRA|FRA;José Scaron|Robert Pascal;Gordini T15S;Simca 1090cc S4;;77;0.0;;Engine
+1950;DNF;S1.5;37;FRA;J. Brault (private entrant);FRA|FRA;Jean Brault|Louis Paimpol;Fiat 1500 Spéciale;Fiat 1.5L S4;;75;0.0;;Gearbox
+1950;DNF;S1.5;35;FRA;Automobiles Gordini;FRA|FRA;Roger Loyer|Jean Behra;Gordini T15S;Simca 1491cc S4;;50;0.0;;Valves
+1950;DNF;S2.0;64;FRA;Automobiles Deutsch et Bonnet;FRA|FRA;René Simone|Michel Arnaud;DB 5;Citroën 1.9L S4;;44;0.0;;Clutch
+1950;DNF;S2.0;26;USA;P.Rubirosa (private entrant);DOM|FRA;Porfirio Rubirosa|Pierre Leygonie;Ferrari 166MM;Ferrari 2.0L V12;;44;0.0;;Engine
+1950;DNF;S5.0;1;FRA;Manufactures d'Armes de Paris;FRA|FRA;Pierre Veyron|Fernand Lacour;M.A.P. Diesel;M.A.P. 5.0L supercharged Flat-4 (Diesel);;39;0.0;;Out of water
+1950;DNF;S3.0;32;FRA;Automobiles Gordini;FRA|FRA;Maurice Trintignant|Robert Manzon;Gordini T15S Coupé;Simca 1491cc supercharged S4;;34;0.0;;Radiator => water leak
+1950;DNF;S1.1;63;FRA;M. Gendron (private entrant);FRA|FRA;Marcel Gendron|Jean Vinatier;Renault 4CV;Renault 760cc S4;;32;0.0;;Ignition
+1950;DNF;S2.0;27;USA;Mme Y. Simon (private entrant);FRA|FRA;Yvonne Simon|Michel Kasse;Ferrari 166MM Coupé;Ferrari 2.0L V12;;25;0.0;;Out of fuel
+1950;DNF;S750;60;FRA;Ecurie Verte;FRA|FRA;Emmanuel Baboin|Pierre Gay;Simca Six Spéciale;Simca 580cc S4;;20;0.0;;Out of fuel
+1950;DNF;S1.5;34;FRA;Automobiles Gordini;FRA|FRA;André Simon|Aldo Gordini;Gordini T15S;Simca 1491cc S4;;14;0.0;;Gearbox
+1950;DNF;S1.1;66;FRA;A. Guillard (private entrant);FRA|CHE;André Guillard|Roger Carron;Simca Huit Spéciale;Simca 1087cc S4;;13;0.0;;Engine
+1950;DNF;S3.0;20;GBR;Aston Martin Ltd.;GBR|USA;Eric Thompson|John Gordon;Aston Martin DB2;Aston Martin 2.6L S6;;8;0.0;;Engine
+1950;DNF;S750;59;FRA;Automobiles Deutsch et Bonnet;FRA|FRA;Georges Guyot|Pierre Chaussat;DB Sport;Panhard 611cc Flat-2;;6;0.0;;Accident
+1950;DNF;S5.0;9;FRA;Ecurie Lutetia;FRA|FRA;Gaston Serraud|André de Guelfi;Delahaye 175S;Delahaye 4.5L S6;;0;0.0;;Battery
+1951;1;S5.0;20;GBR;Jaguar Cars Ltd;GBR|GBR;Peter Walker|Peter Whitehead;Jaguar XK-120C;Jaguar 3.4L S6;;267;3611.193;;
+1951;2;S5.0;9;FRA;Pierre Meyrat (private entrant);FRA|FRA;Pierre Meyrat|Guy Mairesse;Talbot-Lago T26 GS Biplace;Talbot-Lago 4.5L S6;;258;3486.020;;
+1951;3;S3.0;26;GBR;Aston Martin Ltd.;GBR|GBR;Lance Macklin|Eric Thompson;Aston Martin DB2;Aston Martin 2.6L S6;;257;3476.907;;
+1951;4;S5.0;10;FRA;"Pierre ""Levegh"" (private entrant)";FRA|FRA;"Pierre ""Levegh""|René Marchand";Talbot-Lago T26 Monoplace Decalée;Talbot-Lago 4.5L S6;;256;3463.290;;
+1951;5;S3.0;25;GBR;Aston Martin Ltd.;GBR|GBR;George Abecassis|Brian Shawe-Taylor;Aston Martin DB2;Aston Martin 2.6L S6;;255;3449.290;;
+1951;6;S5.0;19;GBR;Donald Healey Motor Company;GBR|GBR;Tony Rolt|Duncan Hamilton;Nash-Healey Sport Coupé;Nash 3.8L S6;;255;3448.730;;
+1951;7;S3.0;24;GBR;Aston Martin Ltd.;GBR|GBR;Reg Parnell|David Hampshire;Aston Martin DB2;Aston Martin 2.6L S6;;252;3401.590;;
+1951;8;S5.0;15;USA;Luigi Chinetti;USA|FRA;Luigi Chinetti|Jean Lucas;Ferrari 340 America Barchetta;Ferrari 4.1L V12;;246;3328.160;;
+1951;9;S3.0;29;FRA;N.-J. Mahé (private entrant);FRA|FRA;Norbert Jean Mahé|Jacques Péron;Ferrari 212 Export Coupé;Ferrari 2.6L V12;;244;3297.420;;
+1951;10;S3.0;28;GBR;N.H. Mann (private entrant);GBR|GBR;Nigel Mann|Mortimer Morris-Goodall;Aston Martin DB2;Aston Martin 2.6L S6;;236;3196.340;;
+1951;11;S3.0;21;GBR;R. Lawrie (private entrant);GBR|GBR;Rob Lawrie|Ivan Waller;Jaguar XK-120S;Jaguar 3.4L S6;;236;3187.210;;
+1951;12;S2.0;33;ITA;Scuderia Ambrosiana;ITA|ITA;Comte Giovanni Lurani|Giovanni Bracco;Lancia Aurelia B20 GT;Lancia 2.0L V6;;235;3172.380;;
+1951;13;S3.0;27;GBR;P.T.C. Clark (private entrant);GBR|GBR;Peter Clark|James Scott-Douglas;Aston Martin DB2;Aston Martin 2.6L S6;;233;3152.030;;
+1951;14;S2.0;35;GBR;Automobiles Frazer Nash Ltd.;GBR|GBR;Eric Winterbottom|John Marshall;Frazer Nash Le Mans Replica;Bristol 2.0L S6;;232;3137.340;;
+1951;15;S2.0;32;USA;Luigi Chinetti;FRA|GBR;Yvonne Simon|Betty Haig;Ferrari 166MM Berlinetta;Ferrari 2.0L V12;;231;3124.690;;
+1951;16;S3.0;31;USA;Charles Moran Jr. (private entrant);USA|ITA;Charles Moran Jr.|Franco Cornacchia;Ferrari 212 Export Spyder;Ferrari 2.6L V12;;227;3072.180;;
+1951;17;S5.0;11;FRA;A. Chambas (private entrant);FRA|FRA;André Chambas|André Morel;Talbot-Lago SS Spyder;Talbot-Lago 4.5L S6;;226;3058.500;;
+1951;18;S2.0;34;GBR;Mrs P. Trevelyan (private entrant);GBR|GBR;Richard Stoop|Peter Wilson;Frazer Nash Mille Miglia;Bristol 2.0L S6;;217;2940.440;;
+1951;19;S1.1;46;DEU;Porsche KG;FRA|FRA;Auguste Veuillet|Edmond Mouche;Porsche 356 SL Coupe;Porsche 1086cc Flat-4;;210;2840.650;;
+1951;20;S1.1;48;FRA;Automobiles Deutsch et Bonnet;FRA|FRA;René Bonnet|Élie Bayol;DB Sport;Panhard 851cc Flat-2;;206;2780.570;;
+1951;21;S1.5;66;FRA;M. Becquart (private entrant);FRA|GBR;Marcel Becquart|Gordon Wilkins;Jowett Jupiter;Jowett 1486cc Flat-4;;203;2748.090;;
+1951;22;S750;50;FRA;Régie Renault;FRA|FRA;Francois Landon|André Briat;Renault 4CV-1063;Renault 747cc S4;;197;2668.755;;
+1951;23;S750;60;FRA;Etablissements Monopole;FRA|FRA;Jean de Montrémy|Jean Hémard;Monopole X84;Panhard 614cc FLat-2;;194;2629.116;;
+1951;24;S750;61;FRA;R. Gaillard (private entrant);FRA|FRA;Raymond Gaillard|Pierre Chancel;Panhard Dyna X84;Panhard 611cc Flat-2;;190;2576.610;;
+1951;25;S750;54;FRA;Régie Renault;FRA|FRA;Jacques Lecat|Henri Senftleben;Renault 4CV-1063;Renault 747cc S4;;184;2492.270;;
+1951;26;S750;58;FRA;Auguste Lachaize (private entrant);FRA|FRA;Jean-Paul Colas|Robert Schollmann;Callista RAN D120;Panhard 611cc Flat-2;;183;2473.880;;
+1951;27;S750;53;FRA;Régie Renault;FRA|FRA;Just-Emile Vernet|Jean Pairard;Renault 4CV-1063;Renault 747cc S4;;181;2447.337;;
+1951;28;S750;56;FRA;Automobiles Deutsch et Bonnet;FRA|FRA;Michel Arnaud|Louis Pons;DB Sport;Panhard 745cc Flat-2;;179;2422.780;;
+1951;NC;S8.0;2;GBR;S.H. Allard;GBR|GBR;Peter Reece|Alfred Hitchings;Allard J2;Cadillac 5.4L V8;;230;0.0;;Transmission, Last lap too slow
+1951;NC;S8.0;4;USA;Briggs Cunningham;USA|USA;John Fitch|Phil Walters;Cunningham C2-R;Chrysler 5.5L V8;;223;3018.080;;Last lap too slow
+1951;NC;S5.0;14;GBR;H.S.F. Hay (private entrant);GBR|GBR;Jack 'Zoltan' Hay|Tom Clarke;Bentley 4¼ Paulin;Bentley 4.3L S6;;204;2765.120;;Insufficient distance
+1951;DNF;S750;51;FRA;Régie Renault;FRA|FRA;Jean-Louis Rosier|Jean Estager;Renault 4CV-1063;Renault 0.7L I4;;194;0.0;;Accident
+1951;DSQ;S750;57;BEL;L. Eggen (private entrant);BEL|FRA;Louis Eggen|André Beaulieux;DB Sport;Panhard 745cc Flat-2;;184;0.0;;Disqualified
+1951;DNF;S750;52;FRA;Régie Renault;FRA|FRA;Jean Sandt|Paul Moser;Renault 4CV-1063;Renault 747cc S4;;177;0.0;;Fire
+1951;DNF;S8.0;1;GBR;S.H. Allard;GBR|USA;Sydney Allard|Tom Cole Jr.;Allard J2;Cadillac 5.4L V8;;134;0.0;;Gearbox
+1951;DNF;S1.1;45;CHE;R. Caron (private entrant);CHE|FRA;Roger Caron|André Guillard;Simca Huit Sport;Simca 1090cc S4;;133;0.0;;Engine
+1951;DNF;S5.0;17;USA;W. Spear (private entrant);USA|BEL;Bill Spear|Johnny Claes;Ferrari 340 America Barchetta;Ferrari 4.1L V12;;132;0.0;;Clutch burned
+1951;DNF;S1.5;37;FRA;Equipe Gordini;FRA|FRA;Pierre Veyron|Georges Monneret;Gordini T15S;Simca 1495cc S4;;130;0.0;;Distribution
+1951;DNF;S5.0;7;FRA;Henri Louveau (private entrant);ARG|ARG;José Froilán González|Onofre Marimón;Talbot-Lago T26 GS Biplace;Talbot-Lago 4.5L S6;;128;0.0;;Radiator
+1951;DNF;S5.0;18;GBR;E.R. Hall (private entrant);GBR|ITA;Eddie Hall|Giuseppe Navone;Ferrari 340 America Barchetta;Ferrari 4.1L V12;;125;0.0;;Battery
+1951;DNF;S8.0;5;USA;Briggs Cunningham;USA|USA;George Rand|Fred Wacker Jr.;Cunningham C2-R;Chrysler 5.5L V8;;98;0.0;;Accident => gearbox
+1951;DNF;S5.0;6;FRA;Louis Rosier (private entrant);FRA|ARG;Louis Rosier|Juan Manuel Fangio;Talbot-Lago T26 GS Biplace;Talbot-Lago 4.5L S6;;92;0.0;;Oil tank
+1951;DNF;S5.0;22;GBR;Jaguar Cars Ltd|Stirling Moss;GBR|GBR;Stirling Moss|Jack Fairman;Jaguar XK-120C;Jaguar 3.4L S6;;92;0.0;;Oil pressure
+1951;DNF;S5.0;62;FRA;H. Leblanc (private entrant);FRA|FRA;Henry Leblanc|Robert Bertrand;Delahaye 135CS;Delahaye 3.6L S6;;88;0.0;;Brakes
+1951;DNF;S1.5;43;GBR;G.E. Phillips (private entrant);GBR|GBR;George Phillips|Alan Rippon;MG TD EX.172;MG 1250cc S4;;80;0.0;;Piston
+1951;DNF;S1.5;40;FRA;Equipe Gordini;FRA|FRA;José Scaron|Aldo Gordini;Gordini T15S;Simca 1495cc S4;;77;0.0;;Fuel pump
+1951;DNF;S8.0;3;USA;Briggs Cunningham;USA|USA;Briggs Cunningham|George Huntoon;Cunningham C2-R;Chrysler 5.5L V8;;76;0.0;;Accident => suspension
+1951;DNF;S2.0;64;FRA;René Bouchard (private entrant);FRA|FRA;Robert Bouchard|Lucien Farnaud;Ferrari 166MM Barchetta;Ferrari 2.0L V12;;75;0.0;;Engine
+1951;DNF;S5.0;23;GBR|ITA;Jaguar Cars Ltd|Clemente Biondetti;ITA|GBR;Clemente Biondetti|Leslie Johnson;Jaguar XK-120C;Jaguar 3.4L S6;;50;0.0;;Oil pump
+1951;DNF;S1.5;39;FRA;Equipe Gordini;FRA|FRA;Maurice Trintignant|Jean Behra;Gordini T15S;Simca 1495cc S4;;49;0.0;;Camshaft
+1951;DNF;S1.5;41;GBR;Jowett Cars Ltd.;GBR|GBR;Tommy Wisdom|Tommy Wise;Jowett Jupiter R1;Jowett 1486cc Flat-4;;48;0.0;;Head gasket
+1951;DNF;S750;59;USA;Crosley Motors;USA|USA;George Schrafft|Phil Stiles;Crosley Hotshot Super Sport;Crosley 726cc S4;;40;0.0;;Head gasket
+1951;DNF;S750;49;FRA;J. Poch (private entrant);FRA|FRA;Jacques Poch|Maurice Vaselle;Aero Minor;Aero 749cc S2 (2-Stroke);;40;0.0;;Electrical
+1951;DNF;S750;55;FRA;Satecmo;FRA|FRA;Georges Claude|Pierre Clause;Renault 4CV-1063;Renault 747cc S4;;38;0.0;;Ignition
+1951;DNF;S5.0;8;FRA;E. Chaboud (private entrant);FRA|FRA;Eugène Chaboud|Lucien Vincent;Talbot-Lago T26 GS Biplace;Talbot-Lago 4.5L S6;;33;0.0;;Radiator
+1951;DNF;S5.0;16;USA;Luigi Chinetti;MCO|FRA;"Louis Chiron|Pierre-Louis Dreyfus (""Heldé"")";Ferrari 340 America Barchetta;Ferrari 4.1L V12;;29;0.0;;Disqualified
+1951;DNF;S1.5;38;FRA;Equipe Gordini;FRA|FRA;Robert Manzon|André Simon;Gordini T15S;Simca 1495cc S4;;26;0.0;;Distribution
+1951;DNF;S5.0;12;FRA;Etablissements Delettrez;FRA|FRA;Jean Delettrez|Jacques Delettrez;Delettrez Diesel;Delettrez 4.5L S6 (Diesel);;24;0.0;;Engine
+1951;DNF;S1.5;42;GBR;Jowett Cars Ltd.;GBR|GBR;Bert Hadley|Charles Goodacre;Jowett Jupiter;Jowett 1486cc Flat-4;;19;0.0;;Burnt valve
+1951;DNF;S3.0;30;BEL;Johnny Claes (private entrant);FRA|FRA;Jean Larivière|André Guelfi;Ferrari 212 Export C;Ferrari 2.6L V12;;5;0.0;;Fatal accident - Larivière
+1952;1;S3.0;21;DEU;Daimler-Benz A.G.;DEU|DEU;Hermann Lang|Fritz Riess;Mercedes-Benz W194;Mercedes-Benz 3.0L S6;;277;3733.800;;
+1952;2;S3.0;20;DEU;Daimler-Benz A.G.;DEU|DEU;Theo Helfrich|Helmut Niedermayr;Mercedes-Benz W194;Mercedes-Benz 3.0L S6;;276;3720.260;;
+1952;3;S5.0;10;GBR;Donald Healey Motor Co.;GBR|GBR;Leslie Johnson|Tommy Wisdom;Nash-Healey 4 Litre;Nash 4.1L S6;;262;3534.030;;
+1952;4;S8.0;1;USA;Briggs Cunningham;USA|USA;Briggs Cunningham|Bill Spear;Cunningham C4-R;Chrysler 5.4L V8;;252;3399.030;;
+1952;5;S5.0;14;USA;Luigi Chinetti;FRA|FRA;André Simon|Lucien Vincent;Ferrari 340 America (Vignale);Ferrari 4.1L V12;;250;3361.810;;
+1952;6;S2.0;39;ITA;Scuderia Lancia;ITA|ITA;Luigi Valenzano|Ippocampo (Umberto Castiglioni);Lancia Aurelia B.20 GT;Lancia 1991cc V6;;248;3342.420;;
+1952;7;S3.0;32;GBR;P.C.T. Clark (private entrant);GBR|GBR;Peter Clark|Mike Keen;Aston Martin DB2;Aston Martin 2.6L S6;;248;3335.780;;
+1952;8;S2.0;40;ITA;Scuderia Lancia;ITA|ITA;Felice Bonetto|Enrico Anselmi;Lancia Aurelia B.20 GT;Lancia 1991cc V6;;247;3320.440;;
+1952;9;S8.0;6;FRA;A. Chambas (private entrant);FRA|FRA;André Chambas|André Morel;Talbot-Lago T26 SS Spyder;Talbot-Lago 4.5L S6 supercharged;;235;3155.230;;
+1952;10;S2.0;42;GBR;Mrs P. Trevelyan (private entrant);GBR|GBR;Rodney 'Roy' Peacock|Gerry Ruddock;Frazer Nash Le Mans Mk.II;Bristol 1970cc S6;;225;3021.530;;
+1952;11;S1.1;50;DEU;Porsche KG;FRA|FRA;Auguste Veuillet|Edmond Mouche;Porsche 356 SL;Porsche 1086cc F4;;220;2955.410;;
+1952;12;S1.1;52;FRA;Automobiles Panhard et Levassor;FRA|FRA;Robert Chancel|Charles Plantivaux;Monopole Dyna X86 Coupe;Panhard 851cc F2;;217;2914.950;;
+1952;13;S1.5;45;FRA;M. Becquart (private entrant);FRA|GBR;Marcel Becquart|Gordon Wilkins;Jowett Jupiter R1;Jowett 1486cc F4;;210;2818.900;;
+1952;14;S750;60;FRA;Etablissements Monopole;FRA|FRA;Pierre Hémard|Eugène Dussous;Monopole X84;Panhard 612cc F2;;208;2802.190;;
+1952;15;S750;68;FRA;RNU Renault;FRA|FRA;Ernest de Regibus|Marius Porta;Renault 4CV-1063;Renault 747cc S4;;195;2628.850;;
+1952;16;S750;61;FRA;R. Gaillard (private entrant);FRA|FRA;Raymond Gaillard|Pierre Chancel;Panhard Dyna X84 Sport;Panhard 611cc F2;;186;2508.340;;
+1952;17;S750;67;FRA;RNU Renault;FRA|FRA;Jean Rédélé|Guy Lapchin;Renault 4CV-1063;Renault 747cc S4;;178;2388.050;;
+1952;DNF;S5.0;8;FRA;"Pierre ""Levegh"" (private entrant)";FRA|FRA;"Pierre ""Levegh"" (Pierre Bouillin)|René Marchand";Talbot-Lago T26 GS Spyder;Talbot-Lago 4.5L S6;;0;0.0;;Engine
+1952;DNF;S3.0;25;GBR;Aston Martin Ltd.;GBR|GBR;Lance Macklin|Peter Collins;Aston Martin DB3 Spyder;Aston Martin 2.6L S6;;0;0.0;;Accident
+1952;DNF;S5.0;65;FRA;E. Chaboud (private entrant);FRA|FRA;Eugène Chaboud|Charles Pozzi;Talbot-Lago T26 GS Spyder;Talbot-Lago 4.5L S6;;0;0.0;;Accident
+1952;DNF;S1.5;48;ITA;Automobili O.S.C.A.;ITA|FRA;Dr. Mario Damonte|Martial (Fernand Lacour);O.S.C.A. MT-4 Coupé (Vignale);O.S.C.A. 1342cc S4;;0;0.0;;Clutch
+1952;DNF;S2.0;41;GBR;Automobiles Frazer Nash Ltd.;GBR|GBR;Richard 'Dickie' Stoop|Peter Wilson;Frazer Nash Mille Miglia;Bristol 1979cc S6;;0;0.0;;Transmission
+1952;DSQ;S1.5;47;FRA;A. Lachaize (private entrant);FRA|FRA;Auguste Lachaize|Eugène Martin;Porsche 356 SL;Porsche 1484cc F4;;0;0.0;;Disqualified: pit infringement
+1952;DNF;S1.5;46;GBR;Jowett Cars Ltd.;GBR|GBR;Bert Hadley|Tommy Wise;Jowett Jupiter R1;Jowett 1486cc F4;;0;0.0;;Engine
+1952;DNF;S750;56;FRA;J.-E. Vernet (private entrant);FRA|FRA;Just-Emile Vernet|Jean Pairard;Renault 4CV-1063;Renault 747cc S4;;0;0.0;;Ignition
+1952;DNF;S3.0;31;GBR;N.H. Mann (private entrant);GBR|GBR;Nigel Mann|Mortimer Morris-Goodall;Aston Martin DB2;Aston Martin 2.6L S6;;0;0.0;;Starter
+1952;DNF;S8.0;5;GBR;S.H. Allard;USA|USA;Zora Arkus-Duntov|Frank Curtis;Allard J2X Le Mans;Chrysler 5.4L V8;;0;0.0;;Transmission
+1952;DNF;S8.0;4;GBR;S.H. Allard;GBR|GBR;Sydney Allard|Jack Fairman;Allard J2X Le M ans;Chrysler 5.4L V8;;0;0.0;;Engine
+1952;DNF;S2.0;43;FRA;A. Constantin (private entrant);FRA|FRA;Alexandis Constantin|Jacques Poch;Peugeot 203C;Peugeot 1290cc S4 supercharged;;0;0.0;;Accident
+1952;DNF;S5.0;12;USA;Luigi Chinetti;USA|FRA;Luigi Chinetti|Jean Lucas;Ferrari 340 America;Ferrari 4.1L V12;;0;0.0;;Disqualified: early refuel
+1952;DNF;S3.0;34;FRA;Automobiles Gordini;FRA|FRA;Jean Behra|Robert Manzon;Gordini T15S;Gordini 2.3L S6;;0;0.0;;Brakes, engine
+1952;DNF;S5.0;9;FRA;P. Meyrat (private entrant);FRA|FRA;Pierre Meyrat|Guy Mairesse;Talbot-Lago T26 GS Spyder;Talbot-Lago 4.5L S6;;0;0.0;;Oil pump
+1952;DNF;S3.0;33;USA;C. Moran (private entrant);USA|ITA;Charles Moran|Franco Cornacchia;Ferrari 212 Export;Ferrari 2.6L V12;;0;0.0;;Electrics
+1952;DNF;S750;59;FRA;Automobiles Panhard et Levassor;FRA|FRA;Jacques Savoye|Raymond Lienard;Monopole X84;Panhard 612cc F2;;0;0.0;;Engine
+1952;DNF;S3.0;30;ITA;Scuderia Ferrari;FRA|USA;Pagnibon (Pierre Boncompagni)|Tom Cole;Ferrari 225 S Berlinetta;Ferrari 2.7L V12;;0;0.0;;Electrics
+1952;DNF;S1.5;64;NLD;M. Gatsonides (private entrant);NLD|NLD;Maurice Gatsonides|Hugo van Zuylen Nijeveldt;Jowett Jupiter R1;Jowett 1486cc F4;;0;0.0;;Engine
+1952;DNF;S3.0;22;DEU;Daimler-Benz A.G.;DEU|DEU;Karl Kling|Hans Klenk;Mercedes-Benz W194;Mercedes-Benz 3.0L S6;;0;0.0;;Electrics
+1952;DNF;S8.0;2;USA;Briggs Cunningham;USA|USA;Phil Walters|Duane Carter;Cunningham C4-RK Coupe;Chrysler 5.4L V8;;0;0.0;;Engine
+1952;DNF;S750;54;FRA;RNU Renault;FRA|FRA;Louis Pons|Paul Moser;Renault 4CV-1063;Renault 747cc S4;;0;0.0;;Accident
+1952;DNF;S1.1;51;DEU;Porsche KG;DEU|DEU;Huschke von Hanstein|Petermax Müller;Porsche 356 SL;Porsche 1086cc F4;;0;0.0;;Transmission
+1952;DNF;S8.0;3;USA;Briggs Cunningham;USA|USA;"John Fitch|George ""Rice"" (George Viola)";Cunningham C4-R;Chrysler 5.4L V8;;0;0.0;;Engine
+1952;DNF;S5.0;15;FRA;Ecurie Rosier;FRA|FRA;Louis Rosier|Maurice Trintignant;Ferrari 340 America Spyder;Ferrari 4.1L V12;;0;0.0;;Clutch
+1952;DNF;S750;58;FRA;Automobiles Deutsch et Bonnet;FRA|FRA;Jean-Paul Colas|Robert Schollmann;DB Coach;Panhard 745cc F2;;0;0.0;;Out of fuel
+1952;DNF;S1.5;44;FRA;Automobiles Gordini;FRA|FRA;Roger Loyer|Clarence de Rinen;Gordini T15S;Gordini 1490cc S4;;0;0.0;;Clutch
+1952;DNF;S5.0;16;USA;Luigi Chinetti;FRA|FRA;Heldé (Pierre-Louis Dreyfus)|René Dreyfus;Ferrari 340 America Spyder;Ferrari 4.1L V12;;0;0.0;;Clutch
+1952;DNF;S5.0;18;GBR;Jaguar Cars Ltd.;GBR|GBR;Tony Rolt|Duncan Hamilton;Jaguar C-Type;Jaguar 3.5L S6;;0;0.0;;Engine
+1952;DNF;S750;57;FRA;Automobiles Deutsch et Bonnet;FRA|FRA;René Bonnet|Élie Bayol;DB Sport;Panhard 745cc F2;;0;0.0;;Transmission
+1952;DNF;S3.0;26;GBR;Aston Martin Ltd.;GBR|GBR;Dennis Poore|Pat Griffith;Aston Martin DB3 Spyder;Aston Martin 2.6L S6;;0;0.0;;Water pump
+1952;DNF;S3.0;35;GBR;R. Lawrie (private entrant);GBR|GBR;Robert Lawrie|John Isherwood;Morgan Plus 4;Standard 2.1L S4;;0;0.0;;Water pump
+1952;DNF;S5.0;11;GBR;Donald Healey Motor Co.;FRA|FRA;Pierre Veyron|Yves Giraud-Cabantous;Nash-Healey;Nash 4.1L S6;;0;0.0;;Engine
+1952;DNF;S750;53;FRA;RNU Renault;FRA|FRA;Yves Lesur|André Briat;Renault 4CV-1063;Renault 747cc S4;;0;0.0;;Transmission
+1952;DNF;S3.0;62;ITA;Scuderia Ferrari;ITA|ITA;Alberto Ascari|Luigi Villoresi;Ferrari 250 S Berlinetta;Ferrari 3.0L V12;;0;0.0;;Clutch
+1952;DNF;S5.0;17;GBR;Jaguar Cars Ltd.;GBR|GBR;Stirling Moss|Peter Walker;Jaguar C-Type;Jaguar 3.5L S6;;0;0.0;;Engine
+1952;DNF;S5.0;19;GBR;Jaguar Cars Ltd.;GBR|GBR;Peter Whitehead|Ian Stewart;Jaguar C-Type;Jaguar 3.5L S6;;0;0.0;;Engine
+1952;DNF;S750;55;FRA;J. Lecat (private entrant);FRA|FRA;Jacques Lecat|Henri Senfftleben;Renault 4CV-1063;Renault 747cc S4;;0;0.0;;Engine
+1952;DNF;S3.0;27;GBR;Aston Martin Ltd.;GBR|GBR;Reg Parnell|Eric Thompson;Aston Martin DB3 Coupe;Aston Martin 2.6L S6;;0;0.0;;Transmission
+1952;DNF;S1.1;49;FRA;Mécanorma;FRA|FRA;Norbert Jean Mahé|José Scaron;Gordini T11 MM;Simca 1091cc S4;;0;0.0;;Fuel pump
+1952;DNS;S5.0;7;FRA;Ecurie Rosier;FRA|FRA;Jean-Louis Rosier|Jean Estager;Ferrari 340 America;Ferrari 4.1L V12;;0;0.0;;Engine
