@@ -21,6 +21,14 @@ my %columns = (
   "Distance"=> 12,
   "Time"    => 13,
   "Reason"  => 14);
+my @pos_codes_arr = (
+  "DNA", # Did Not Attend
+  "DNF", # Did Not Finish
+  "DNS", # Did Not Start
+  "DSQ", # Disqualified
+  "NC"   # Not classified
+);
+my %pos_codes = map { $_ => 1 } @pos_codes_arr;
 my %ctry_iso = (
   "ARGENTINA"           => "ARG",
   "AUSTRALIA"           => "AUS",
@@ -76,6 +84,19 @@ my %ctry_iso = (
   "UNITED STATES"       => "USA",
   "VENEZUELA"           => "VEN",
   "WEST GERMANY"        => "DEU");
+my %tyre_codes = (
+  "A" => "Avon",
+  "B" => "Barum",
+  "C" => "Continental",
+  "D" => "Dunlop",
+  "E" => "Englebert",
+  "F" => "Firestone",
+  "G" => "Goodyear",
+  "I" => "India",
+  "K" => "Kleber",
+  "M" => "Michelin",
+  "P" => "Pirelli",
+  "R" => "Rapson");
 
 # trim string from both sides
 sub trimboth {
@@ -130,6 +151,17 @@ foreach my $tab (@tables) {
     foreach my $row (@rows) {
       my @cells = $row->content_list();
       my $col_idx = 1;
+
+      # skip rows where sources or 70% of winner's race distance are given
+      if ( defined $cells[0]->attr('colspan') &&
+           $cells[0]->attr('colspan') > 8
+           && (   $cells[0]->as_text() =~ /Sources/g
+               || $cells[0]->as_text() =~ /race distance/g
+              )
+         )
+      {
+        next;
+      }
 
       # initialize columns in output array for each row
       if ( $row_idx > 1 ) {
@@ -187,7 +219,7 @@ foreach my $tab (@tables) {
           my $pos = $cell->as_text();
           $pos =~ s/^\s+|\s+$//g;
           $pos =~ s/[^0-9A-Z]//g;
-          if ( $pos eq "DNF" || $pos eq "DNS" || $pos eq "DSQ" || $pos eq "NC" ) {
+          if ( exists($pos_codes{$pos}) ) {
             $txt = $pos;
           }
           else {
@@ -231,6 +263,7 @@ foreach my $tab (@tables) {
           my @lns = split(/\|/, $cell->as_text());
           s{^\s+|\s+$}{}g foreach @lns;
           $txt = join("|", @lns);
+          $txt =~ s/\|\(private/ (private/g;
 
           if ( $col_idx == $headers{'Team'} ) {
             $outarr[$outarr_idx][$columns{'Team'}] = $txt;
@@ -243,25 +276,31 @@ foreach my $tab (@tables) {
           $outarr[$outarr_idx][$columns{'Chassis'}] = trimboth($cell->as_text());
         }
         elsif ( $col_idx == $headers{'Engine'} ) {
-          $outarr[$outarr_idx][$columns{'Engine'}] = trimboth($cell->as_text());
+          $txt = trimboth($cell->as_text());
+          $txt =~ s/\|//g;
+          $outarr[$outarr_idx][$columns{'Engine'}] = $txt;
         }
         elsif ( defined $headers{'Tyres'} && $col_idx == $headers{'Tyres'} ) {
-          $outarr[$outarr_idx][$columns{'Tyres'}] = trimboth($cell->as_text());
+          my $tyres = trimboth($cell->as_text());
+          $tyres =~ s/[^a-zA-Z]//g;
+          if ( $tyres =~ /[A-Z]/ ) { # if only one capital letter search in codes
+            $outarr[$outarr_idx][$columns{'Tyres'}] = $tyre_codes{$tyres};
+          }
+          else {
+            $outarr[$outarr_idx][$columns{'Tyres'}] = $tyres;
+          }
         }
         elsif ( $col_idx == $headers{'Laps'} ) {
           $outarr[$outarr_idx][$columns{'Laps'}] = trimboth($cell->as_text());
         }
         elsif ( defined $headers{'Reason'} && $col_idx == $headers{'Reason'} ) {
-          $outarr[$outarr_idx][$columns{'Reason'}] = trimboth($cell->as_text());
+          $txt = trimboth($cell->as_text());
+          $txt =~ s/\|//g;
+          $outarr[$outarr_idx][$columns{'Reason'}] = $txt
         }
-
-        #$txt = $cell->as_text() if ( $txt eq "" );
-        #$txt =~ s/^\s+|\s+$//g;
-        #print "$txt,";
 
         $col_idx++;
       }
-      #print "\n" if ($row_idx > 1);
       $row_idx++;
       $outarr_idx++;
     }
@@ -270,7 +309,7 @@ foreach my $tab (@tables) {
 
 # Dump results table as CSV
 for my $row ( @outarr ) {
-  print join(',', @$row ), "\n";
+  print join(',', map { defined ? $_ : '' } @$row ), "\n";
 }
 
 $root->delete; # erase this tree because we're done with it
