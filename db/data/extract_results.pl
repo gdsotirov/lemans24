@@ -22,8 +22,10 @@ sub start {
 
   if ( $tag =~ /^span$/
        && defined $attr->{'id'}
-       && ( $attr->{'id'} =~ /^Official_results$/
-           || $attr->{'id'} =~ /^Did_Not_Finish$/
+       && (   $attr->{'id'} =~ /^Official_results/i
+           || $attr->{'id'} =~ /^Disqualified$/i
+           || $attr->{'id'} =~ /^Not_classified$/i
+           || $attr->{'id'} =~ /^Did_Not_Finish$/i
           )
      )
   {
