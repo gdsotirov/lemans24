@@ -24,7 +24,9 @@ my %columns = (
 my @pos_codes_arr = (
   "DNA", # Did Not Attend
   "DNF", # Did Not Finish
+  "DNP", # Did Not Practice
   "DNS", # Did Not Start
+  "DNQ", # Did Not Qualify
   "DSQ", # Disqualified
   "NC" , # Not classified
   "RES"  # Reserve
@@ -79,6 +81,7 @@ my %ctry_iso = (
   "SLOVAKIA"            => "SVK",
   "SLOVENIA"            => "SVN",
   "SOUTH AFRICA"        => "ZAF",
+  "SOUTHERN RHODESIA"   => "RHZW",
   "SPAIN"               => "ESP",
   "SWEDEN"              => "SWE",
   "SWITZERLAND"         => "CHE",
@@ -253,13 +256,14 @@ foreach my $tab (@tables) {
           foreach my $img (@imgs) { # build countries list
             $txt = $img->attr('alt');
             # Handle special values
-            if ( $txt eq "Flag of the Georgian Soviet Socialist Republic.svg" )
-            {
+            if ( $txt eq "Flag of the Georgian Soviet Socialist Republic.svg" ) {
               $txt = "Georgia";
             }
-            elsif ( $txt eq "Canadian Red Ensign (1921–1957).svg" )
-            {
+            elsif ( $txt eq "Canadian Red Ensign (1921–1957).svg" ) {
               $txt = "Canada";
+            }
+            elsif ( $txt eq "Federation of Rhodesia and Nyasaland" ) {
+              $txt = "Southern Rhodesia";
             }
             if ( $ctries ne "" ) {
              $ctries .= "|".$ctry_iso{uc($txt)};
@@ -331,7 +335,7 @@ foreach my $tab (@tables) {
 
 # Dump results table as CSV
 for my $row ( @outarr ) {
-  print join(',', map { defined ? $_ : '' }
+  print join(';', map { defined ? $_ : '' }
                   map { s/“/"/; $_ }
                   map { s/”/"/; $_ }
                   map { s/‘/'/; $_ }
