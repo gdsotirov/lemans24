@@ -28,6 +28,7 @@ sub start {
            || $attr->{'id'} =~ /^Not_classified$/i
            || $attr->{'id'} =~ /^Did_Not_Finish$/i
            || $attr->{'id'} =~ /^Did_Not_Start$/i
+           || $attr->{'id'} =~ /^Did_Not_Practise$/i
           )
      )
   {
