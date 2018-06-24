@@ -312,7 +312,13 @@ foreach my $tab (@tables) {
         elsif ( defined $headers{'Reason'} && $col_idx == $headers{'Reason'} ) {
           $txt = trimboth($cell->as_text());
           $txt =~ s/\|//g;
-          $outarr[$outarr_idx][$columns{'Reason'}] = $txt
+          if ( $txt =~ /\((\d+)hr\)$/g ) {
+            my $ret_hr = $1; 
+            $ret_hr--;
+            $outarr[$outarr_idx][$columns{'Time'}] = "$ret_hr:00:00";
+            $txt =~ s/\s*\(\d+hr\)$//g;
+          }
+          $outarr[$outarr_idx][$columns{'Reason'}] = ucfirst($txt);
         }
 
         $col_idx++;
@@ -325,7 +331,12 @@ foreach my $tab (@tables) {
 
 # Dump results table as CSV
 for my $row ( @outarr ) {
-  print join(',', map { defined ? $_ : '' } @$row ), "\n";
+  print join(',', map { defined ? $_ : '' }
+                  map { s/“/"/; $_ }
+                  map { s/”/"/; $_ }
+                  map { s/‘/'/; $_ }
+                  map { s/’/'/; $_ }
+                  @$row ), "\n";
 }
 
 $root->delete; # erase this tree because we're done with it
