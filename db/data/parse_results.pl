@@ -26,7 +26,8 @@ my @pos_codes_arr = (
   "DNF", # Did Not Finish
   "DNS", # Did Not Start
   "DSQ", # Disqualified
-  "NC"   # Not classified
+  "NC" , # Not classified
+  "RES"  # Reserve
 );
 my %pos_codes = map { $_ => 1 } @pos_codes_arr;
 my %ctry_iso = (
@@ -49,6 +50,7 @@ my %ctry_iso = (
   "EL SALVADOR"         => "SLV",
   "FINLAND"             => "FIN",
   "FRANCE"              => "FRA",
+  "GEORGIA"             => "GEO",
   "GERMANY"             => "DEU",
   "GREECE"              => "GRC",
   "GUATEMALA"           => "GTM",
@@ -66,6 +68,7 @@ my %ctry_iso = (
   "NEW ZEALAND"         => "NZL",
   "NORWAY"              => "NOR",
   "PANAMA"              => "PAN",
+  "POLAND"              => "POL",
   "PORTUGAL"            => "PRT",
   "PUERTO RICO"         => "PRI",
   "REPUBLIC OF IRELAND" => "IRL",
@@ -218,7 +221,10 @@ foreach my $tab (@tables) {
         if ( $col_idx == $headers{'Pos'} ) { # parse position
           my $pos = $cell->as_text();
           $pos =~ s/^\s+|\s+$//g;
-          $pos =~ s/[^0-9A-Z]//g;
+          $pos =~ s/[^0-9a-zA-Z]//g;
+          if ( $pos eq "Reserve" ) {
+            $pos = "RES";
+          }
           if ( exists($pos_codes{$pos}) ) {
             $txt = $pos;
           }
@@ -245,11 +251,21 @@ foreach my $tab (@tables) {
           my @imgs = $cell->find_by_tag_name('img'); 
           my $ctries = "";
           foreach my $img (@imgs) { # build countries list
+            $txt = $img->attr('alt');
+            # Handle special values
+            if ( $txt eq "Flag of the Georgian Soviet Socialist Republic.svg" )
+            {
+              $txt = "Georgia";
+            }
+            elsif ( $txt eq "Canadian Red Ensign (1921–1957).svg" )
+            {
+              $txt = "Canada";
+            }
             if ( $ctries ne "" ) {
-             $ctries .= "|".$ctry_iso{uc($img->attr('alt'))};
+             $ctries .= "|".$ctry_iso{uc($txt)};
             }
             else {
-              $ctries = $ctry_iso{uc($img->attr('alt'))};
+              $ctries = $ctry_iso{uc($txt)};
             }
           }
           #print $ctries.",";
@@ -290,7 +306,7 @@ foreach my $tab (@tables) {
             $outarr[$outarr_idx][$columns{'Tyres'}] = $tyres;
           }
         }
-        elsif ( $col_idx == $headers{'Laps'} ) {
+        elsif ( defined $headers{'Laps'} && $col_idx == $headers{'Laps'} ) {
           $outarr[$outarr_idx][$columns{'Laps'}] = trimboth($cell->as_text());
         }
         elsif ( defined $headers{'Reason'} && $col_idx == $headers{'Reason'} ) {
