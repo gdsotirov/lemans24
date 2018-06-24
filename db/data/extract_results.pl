@@ -8,10 +8,11 @@ use base "HTML::Parser";
 
 my $fgResults = 0;
 my $fgTable = 0;
+my $fgPrint = 1;
 
 sub text {
   my ($self, $text) = @_;
-  if ( $fgTable && $text ne "" && $text ne " " )
+  if ( $fgTable && $fgPrint && $text ne "" && $text ne " " )
   {
     print $text;
   }
@@ -26,6 +27,7 @@ sub start {
            || $attr->{'id'} =~ /^Disqualified$/i
            || $attr->{'id'} =~ /^Not_classified$/i
            || $attr->{'id'} =~ /^Did_Not_Finish$/i
+           || $attr->{'id'} =~ /^Did_Not_Start$/i
           )
      )
   {
@@ -48,6 +50,10 @@ sub start {
   {
     print $origtext;
   }
+  if ( $fgTable && $tag eq "sup" )
+  {
+    $fgPrint = 0;
+  }
 }
 
 sub end {
@@ -62,6 +68,10 @@ sub end {
   if ( $fgTable && ( $tag eq "tr" || $tag eq "th" || $tag eq "td" ) )
   {
     print $origtext;
+  }
+  if ( $fgTable && $tag eq "sup" )
+  {
+    $fgPrint = 1;
   }
 }
 
