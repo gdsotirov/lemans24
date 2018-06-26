@@ -36,6 +36,7 @@ my %ctry_iso = (
   "ARGENTINA"           => "ARG",
   "AUSTRALIA"           => "AUS",
   "AUSTRIA"             => "AUT",
+  "BAHAMAS"             => "BHS",
   "BELGIUM"             => "BEL",
   "BOLIVIA"             => "BOL",
   "BRAZIL"              => "BRA",
@@ -91,18 +92,19 @@ my %ctry_iso = (
   "VENEZUELA"           => "VEN",
   "WEST GERMANY"        => "DEU");
 my %tyre_codes = (
-  "A" => "Avon",
-  "B" => "Barum",
-  "C" => "Continental",
-  "D" => "Dunlop",
-  "E" => "Englebert",
-  "F" => "Firestone",
-  "G" => "Goodyear",
-  "I" => "India",
-  "K" => "Kleber",
-  "M" => "Michelin",
-  "P" => "Pirelli",
-  "R" => "Rapson");
+  "A"  => "Avon",
+  "B"  => "Barum",
+  "BF" => "BF Goodrich",
+  "C"  => "Continental",
+  "D"  => "Dunlop",
+  "E"  => "Englebert",
+  "F"  => "Firestone",
+  "G"  => "Goodyear",
+  "I"  => "India",
+  "K"  => "Kleber",
+  "M"  => "Michelin",
+  "P"  => "Pirelli",
+  "R"  => "Rapson");
 
 # trim string from both sides
 sub trimboth {
@@ -122,7 +124,7 @@ my $race_yr;
 my $root = HTML::TreeBuilder->new();
 
 # process standard input
-if ( $ARGV[0] =~ /[0-9]{4}/ ) {
+if ( $ARGV[0] =~ /^[0-9]{4}$/ ) {
   $race_yr = $ARGV[0];
   while(<STDIN>) {
     $root->parse($_);
@@ -265,6 +267,9 @@ foreach my $tab (@tables) {
             elsif ( $txt eq "Federation of Rhodesia and Nyasaland" ) {
               $txt = "Southern Rhodesia";
             }
+            elsif ( $txt eq "The Bahamas" ) {
+              $txt = "Bahamas";
+            }
             if ( $ctries ne "" ) {
              $ctries .= "|".$ctry_iso{uc($txt)};
             }
@@ -280,9 +285,15 @@ foreach my $tab (@tables) {
             $outarr[$outarr_idx][$columns{'DrCtry'}] = $ctries;
           }
 
-          my @lns = split(/\|/, $cell->as_text());
-          s{^\s+|\s+$}{}g foreach @lns;
-          $txt = join("|", @lns);
+          if ( $ctries =~ /\|/ ) {
+            my @lns = split(/\|/, $cell->as_text());
+            s{^\s+|\s+$}{}g, s{\s*\/\s*}{}g foreach @lns;
+            $txt = join("|", @lns);
+          }
+          else {
+            $txt = trimboth($cell->as_text());
+            $txt =~ s/\|//g;
+          }
           $txt =~ s/\|\(private/ (private/g;
 
           if ( $col_idx == $headers{'Team'} ) {
@@ -293,7 +304,9 @@ foreach my $tab (@tables) {
           }
         }
         elsif ( $col_idx == $headers{'Chassis'} ) {
-          $outarr[$outarr_idx][$columns{'Chassis'}] = trimboth($cell->as_text());
+          $txt = trimboth($cell->as_text());
+          $txt =~ s/\|//g;
+          $outarr[$outarr_idx][$columns{'Chassis'}] = $txt;
         }
         elsif ( $col_idx == $headers{'Engine'} ) {
           $txt = trimboth($cell->as_text());
