@@ -28,6 +28,7 @@ my @pos_codes_arr = (
   "DNS", # Did Not Start
   "DNQ", # Did Not Qualify
   "DSQ", # Disqualified
+  "DQ" , # Disqualified
   "NC" , # Not classified
   "RES"  # Reserve
 );
@@ -149,6 +150,7 @@ for ( keys %columns ) {
 }
 $outarr_idx++;
 
+my $rowspan = 0;
 my @tables = $root->find_by_tag_name('table');
 foreach my $tab (@tables) {
   if ( $tab->attr('class') eq 'wikitable' )
@@ -162,31 +164,26 @@ foreach my $tab (@tables) {
 
       # skip rows where sources or 70% of winner's race distance are given
       if ( defined $cells[0]->attr('colspan') &&
-           $cells[0]->attr('colspan') > 8
-           && (   $cells[0]->as_text() =~ /Sources/g
-               || $cells[0]->as_text() =~ /race distance/g
-              )
+           $cells[0]->attr('colspan') >= 8
          )
       {
         next;
       }
 
-      # initialize columns in output array for each row
-      if ( $row_idx > 1 ) {
+      # If rows are not spanned, initialize columns in output array for each row after the first
+      # If rows are spanned, initialize columns in output array for each odd row after the first two
+      if ( ( $rowspan == 0 && $row_idx > 1) || ( $rowspan == 2 && $row_idx > $rowspan && ($row_idx % 2) != 0 ) ) {
         for (keys %columns) {
           $outarr[$outarr_idx][$columns{$_}] = "";
         }
         $outarr[$outarr_idx][0] = $race_yr;
-      }
-      else {
-        $outarr_idx--;
       }
 
       foreach my $cell (@cells) {
         my $txt = "";
 
         # parse header and store column indexes
-        if ( $row_idx == 1 ) {
+        if ( $row_idx == 1 || ( $row_idx == $rowspan ) ) {
           my $title = $cell->as_text();
           if ( $title =~ /Pos\.?/ ) {
             $headers{'Pos'} = $col_idx;
@@ -219,129 +216,168 @@ foreach my $tab (@tables) {
             $headers{'Reason'} = $col_idx;
           }
 
+          if ( $row_idx == 1 && defined $cell->attr('rowspan') ) {
+            if ( $cell->attr('rowspan') == 2 && $rowspan == 0 ) {
+              $rowspan = 2;
+            }
+          }
+
           $col_idx++;
           next;
         }
 
-        if ( $col_idx == $headers{'Pos'} ) { # parse position
-          my $pos = $cell->as_text();
-          $pos =~ s/^\s+|\s+$//g;
-          $pos =~ s/[^0-9a-zA-Z]//g;
-          if ( $pos eq "Reserve" ) {
-            $pos = "RES";
-          }
-          if ( exists($pos_codes{$pos}) ) {
-            $txt = $pos;
-          }
-          else {
-            $pos =~ /([0-9]+)/;
-            $txt = $1;
-          }
-          $outarr[$outarr_idx][$columns{'Pos'}] = $txt;
-        }
-        # do not split class
-        elsif ( $col_idx == $headers{'Class'} ) {
-          my @lns = split(/[\|\s]/, $cell->as_text());
-          $txt = join("", @lns);
-          $outarr[$outarr_idx][$columns{'Class'}] = $txt;
-        }
-        # strip car number (leave only digits)
-        elsif ( $col_idx == $headers{'No'} ) {
-          $txt = $cell->as_text();
-          $txt =~ s/[^0-9]//g;
-          $outarr[$outarr_idx][$columns{'No'}] = $txt;
-        }
-        # extract team and driver countries into separate columns
-        elsif ( $col_idx == $headers{'Team'} || $col_idx == $headers{'Drivers'} ) {
-          my @imgs = $cell->find_by_tag_name('img'); 
-          my $ctries = "";
-          foreach my $img (@imgs) { # build countries list
-            $txt = $img->attr('alt');
-            # Handle special values
-            if ( $txt eq "Flag of the Georgian Soviet Socialist Republic.svg" ) {
-              $txt = "Georgia";
-            }
-            elsif ( $txt eq "Canadian Red Ensign (1921–1957).svg" ) {
-              $txt = "Canada";
-            }
-            elsif ( $txt eq "Federation of Rhodesia and Nyasaland" ) {
-              $txt = "Southern Rhodesia";
-            }
-            elsif ( $txt eq "The Bahamas" ) {
-              $txt = "Bahamas";
-            }
-            if ( $ctries ne "" ) {
-             $ctries .= "|".$ctry_iso{uc($txt)};
+        # If rows are spanned process odd rows first
+        if ( $rowspan == 0 || ( $rowspan == 2 && ($row_idx % 2) == 1 ) ) {
+          if ( $col_idx == $headers{'Pos'} ) { # parse position
+            my $pos = trimboth($cell->as_text());
+            my $pos_str = $pos;
+            $pos_str =~ s/[^a-zA-Z]//g;
+
+            if ( $pos_str ne "" ) {
+              if ( $pos_str eq "Reserve" ) {
+                $pos_str = "RES";
+              }
+              elsif ( $pos_str eq "DQ" ) {
+                $pos_str = "DSQ";
+              }
+
+              if ( exists($pos_codes{$pos_str}) ) {
+                $txt = $pos_str;
+              }
             }
             else {
-              $ctries = $ctry_iso{uc($txt)};
+              $pos =~ /([0-9]+)/;
+              $txt = $1;
+            }
+            $outarr[$outarr_idx][$columns{'Pos'}] = $txt;
+          }
+          # do not split class
+          elsif ( $col_idx == $headers{'Class'} ) {
+            my @lns = split(/[\|\s]/, $cell->as_text());
+            $txt = join("", @lns);
+            $outarr[$outarr_idx][$columns{'Class'}] = $txt;
+          }
+          # strip car number (leave only digits)
+          elsif ( $col_idx == $headers{'No'} ) {
+            $txt = $cell->as_text();
+            $txt =~ s/[^0-9]//g;
+            $outarr[$outarr_idx][$columns{'No'}] = $txt;
+          }
+          # extract team and driver countries into separate columns
+          elsif ( $col_idx == $headers{'Team'} || $col_idx == $headers{'Drivers'} ) {
+            my @imgs = $cell->find_by_tag_name('img'); 
+            my $ctries = "";
+            foreach my $img (@imgs) { # build countries list
+              my $ctry_code = "";
+              $txt = $img->attr('alt');
+              # Handle special values
+              if ( $txt eq "Flag of the Georgian Soviet Socialist Republic.svg" ) {
+                $txt = "Georgia";
+              }
+              elsif ( $txt eq "Canadian Red Ensign (1921–1957).svg" ) {
+                $txt = "Canada";
+              }
+              elsif ( $txt eq "Federation of Rhodesia and Nyasaland" ) {
+                $txt = "Southern Rhodesia";
+              }
+              elsif ( $txt eq "The Bahamas" ) {
+                $txt = "Bahamas";
+              }
+  
+              if ( exists($ctry_iso{uc($txt)}) ) {
+                $ctry_code = $ctry_iso{uc($txt)}; 
+              }
+              else {
+                $ctry_code = "???"; # unknown
+              }
+  
+              if ( $ctries ne "" ) {
+               $ctries .= "|".$ctry_code;
+              }
+              else {
+                $ctries = $ctry_code;
+              }
+            }
+            if ( $col_idx == $headers{'Team'} ) {
+              $outarr[$outarr_idx][$columns{'TeamCtry'}] = $ctries;
+            }
+            else {
+              $outarr[$outarr_idx][$columns{'DrCtry'}] = $ctries;
+            }
+  
+            if ( $ctries =~ /\|/ ) {
+              my @lns = split(/\|/, $cell->as_text());
+              s{^\s+|\s+$}{}g, s{\s*\/\s*}{}g foreach @lns;
+              $txt = join("|", @lns);
+            }
+            else {
+              $txt = trimboth($cell->as_text());
+              $txt =~ s/\|//g;
+            }
+            $txt =~ s/\|\(private/ (private/g;
+  
+            if ( $col_idx == $headers{'Team'} ) {
+              $txt =~ s/^\"//g;
+              $txt =~ s/\"$//g;
+              $outarr[$outarr_idx][$columns{'Team'}] = $txt;
+            }
+            else {
+              $outarr[$outarr_idx][$columns{'Drivers'}] = $txt;
             }
           }
-          #print $ctries.",";
-          if ( $col_idx == $headers{'Team'} ) {
-            $outarr[$outarr_idx][$columns{'TeamCtry'}] = $ctries;
-          }
-          else {
-            $outarr[$outarr_idx][$columns{'DrCtry'}] = $ctries;
-          }
-
-          if ( $ctries =~ /\|/ ) {
-            my @lns = split(/\|/, $cell->as_text());
-            s{^\s+|\s+$}{}g, s{\s*\/\s*}{}g foreach @lns;
-            $txt = join("|", @lns);
-          }
-          else {
+          elsif ( $col_idx == $headers{'Chassis'} ) {
             $txt = trimboth($cell->as_text());
             $txt =~ s/\|//g;
+            $outarr[$outarr_idx][$columns{'Chassis'}] = $txt;
           }
-          $txt =~ s/\|\(private/ (private/g;
-
-          if ( $col_idx == $headers{'Team'} ) {
-            $outarr[$outarr_idx][$columns{'Team'}] = $txt;
+          elsif ( $col_idx == $headers{'Engine'} ) {
+            $txt = trimboth($cell->as_text());
+            $txt =~ s/\|//g;
+            $outarr[$outarr_idx][$columns{'Engine'}] = $txt;
           }
-          else {
-            $outarr[$outarr_idx][$columns{'Drivers'}] = $txt;
+          elsif ( defined $headers{'Tyres'} && $col_idx == $headers{'Tyres'} ) {
+            my $tyres = trimboth($cell->as_text());
+            $tyres =~ s/[^a-zA-Z]//g;
+            if ( $tyres =~ /[A-Z]/ ) { # if only one capital letter search in codes
+              $outarr[$outarr_idx][$columns{'Tyres'}] = $tyre_codes{$tyres};
+            }
+            else {
+              $outarr[$outarr_idx][$columns{'Tyres'}] = $tyres;
+            }
+          }
+          elsif ( defined $headers{'Laps'} && $col_idx == $headers{'Laps'} ) {
+            $outarr[$outarr_idx][$columns{'Laps'}] = trimboth($cell->as_text());
+          }
+          elsif ( defined $headers{'Reason'} && $col_idx == $headers{'Reason'} ) {
+            $txt = trimboth($cell->as_text());
+            $txt =~ s/\|//g;
+            if ( $txt =~ /\((\d+)hr\)$/g ) {
+              my $ret_hr = $1; 
+              $ret_hr--;
+              $outarr[$outarr_idx][$columns{'Time'}] = "$ret_hr:00:00";
+              $txt =~ s/\s*\(\d+hr\)$//g;
+            }
+            $outarr[$outarr_idx][$columns{'Reason'}] = ucfirst($txt);
           }
         }
-        elsif ( $col_idx == $headers{'Chassis'} ) {
-          $txt = trimboth($cell->as_text());
-          $txt =~ s/\|//g;
-          $outarr[$outarr_idx][$columns{'Chassis'}] = $txt;
-        }
-        elsif ( $col_idx == $headers{'Engine'} ) {
-          $txt = trimboth($cell->as_text());
-          $txt =~ s/\|//g;
-          $outarr[$outarr_idx][$columns{'Engine'}] = $txt;
-        }
-        elsif ( defined $headers{'Tyres'} && $col_idx == $headers{'Tyres'} ) {
-          my $tyres = trimboth($cell->as_text());
-          $tyres =~ s/[^a-zA-Z]//g;
-          if ( $tyres =~ /[A-Z]/ ) { # if only one capital letter search in codes
-            $outarr[$outarr_idx][$columns{'Tyres'}] = $tyre_codes{$tyres};
+        else { # then process even rows with only column Engine
+          if ( $col_idx == $headers{'Engine'} ) {
+            $txt = trimboth($cell->as_text());
+            $txt =~ s/\|//g;
+            $outarr[$outarr_idx][$columns{'Engine'}] = $txt;
           }
-          else {
-            $outarr[$outarr_idx][$columns{'Tyres'}] = $tyres;
-          }
-        }
-        elsif ( defined $headers{'Laps'} && $col_idx == $headers{'Laps'} ) {
-          $outarr[$outarr_idx][$columns{'Laps'}] = trimboth($cell->as_text());
-        }
-        elsif ( defined $headers{'Reason'} && $col_idx == $headers{'Reason'} ) {
-          $txt = trimboth($cell->as_text());
-          $txt =~ s/\|//g;
-          if ( $txt =~ /\((\d+)hr\)$/g ) {
-            my $ret_hr = $1; 
-            $ret_hr--;
-            $outarr[$outarr_idx][$columns{'Time'}] = "$ret_hr:00:00";
-            $txt =~ s/\s*\(\d+hr\)$//g;
-          }
-          $outarr[$outarr_idx][$columns{'Reason'}] = ucfirst($txt);
         }
 
         $col_idx++;
       }
+      # If rows are not spanned, increase index for each row after the first one
+      if ( $rowspan == 0 && $row_idx > 1 ) {
+        $outarr_idx++;
+      } # If rows are spanned, increase out index for each even row
+      elsif ( $rowspan == 2 && $row_idx > $rowspan && ($row_idx % 2) == 0 ) {
+        $outarr_idx++;
+      }
       $row_idx++;
-      $outarr_idx++;
     }
   }
 }
@@ -349,10 +385,10 @@ foreach my $tab (@tables) {
 # Dump results table as CSV
 for my $row ( @outarr ) {
   print join(';', map { defined ? $_ : '' }
-                  map { s/“/"/; $_ }
-                  map { s/”/"/; $_ }
+                  map { tr/“”/"/s; $_ }
                   map { s/‘/'/; $_ }
                   map { s/’/'/; $_ }
+                  map { s/—/-/; $_ }
                   @$row ), "\n";
 }
 
