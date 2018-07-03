@@ -2,7 +2,11 @@
 # Parse results tables and dump as CSV
 
 use strict;
+use warnings;
+use utf8;
+use open ( ":encoding(UTF-8)", ":std" );
 use HTML::TreeBuilder 3;  # make sure our version isn't ancient
+use Encode qw/encode decode/;
 
 # Column names and indexes
 my %columns = (
@@ -92,6 +96,47 @@ my %ctry_iso = (
   "UNITED STATES"       => "USA",
   "VENEZUELA"           => "VEN",
   "WEST GERMANY"        => "DEU");
+my %ctry_iso_de = (
+  "ARGENTINIEN"             => "ARG",
+  "AUSTRALIEN"              => "AUS",
+  "ÖSTERREICH"              => "AUT",
+  "BELGIEN"                 => "BEL",
+  "BOLIVIEN"                => "BOL",
+  "BRASILIEN"               => "BRA",
+  "KANADA"                  => "CAN",
+  "KOLUMBIEN"               => "COL",
+  "KUBA"                    => "CUB",
+  "TSCHECHIEN"              => "CZE",
+  "TSCHECHOSLOWAKEI"        => "CSHH",
+  "DÄNEMARK"                => "DNK",
+  "DOMINIKANISCHE REPUBLIK" => "DOM",
+  "DEUTSCHE DEMOKRATISCHE REPUBLIK" => "DDDE",
+  "FINNLAND"                => "FIN",
+  "FRANKREICH"              => "FRA",
+  "GEORGIEN"                => "GEO",
+  "DEUTSCHLAND"             => "DEU",
+  "GRIECHENLAND"            => "GRC",
+  "HONGKONG"                => "HKG",
+  "IRLAND"                  => "IRL",
+  "ITALIEN"                 => "ITA",
+  "MEXIKO"                  => "MEX",
+  "MAROKKO"                 => "MAR",
+  "NIEDERLANDE"             => "NLD",
+  "NEUSEELAND"              => "NZL",
+  "NORWEGEN"                => "NOR",
+  "POLEN"                   => "POL",
+  "RUMÄNIEN"                => "ROU",
+  "RUSSISCHE FÖDERATION"    => "RUS",
+  "SAUDI-ARABIEN"           => "SAU",
+  "SLOWAKEI"                => "SVK",
+  "SLOWENIEN"               => "SVN",
+  "SÜDAFRIKA"               => "ZAF",
+  "SPANIEN"                 => "ESP",
+  "SCHWEDEN"                => "SWE",
+  "SCHWEIZ"                 => "CHE",
+  "VEREINIGTES KÖNIGREICH"  => "GBR",
+  "VEREINIGTE STAATEN"      => "USA",
+  "VENEZUELA"               => "VEN");
 my %tyre_codes = (
   "A"  => "Avon",
   "B"  => "Barum",
@@ -114,6 +159,14 @@ sub trimboth {
   $str =~ s/^\s+|\s+$//g;
 
   return $str;
+}
+
+sub utf_uc {
+  my $str = shift;
+  my $utf_str = decode('utf-8', $str);
+  $utf_str = uc($utf_str);
+  #return encode('utf-8', $utf_str);
+  return $utf_str;
 }
 
 if ( scalar @ARGV < 1 )
@@ -184,32 +237,32 @@ foreach my $tab (@tables) {
 
         # parse header and store column indexes
         if ( $row_idx == 1 || ( $row_idx == $rowspan ) ) {
-          my $title = $cell->as_text();
+          my $title = trimboth($cell->as_text());
           if ( $title =~ /Pos\.?/ ) {
             $headers{'Pos'} = $col_idx;
           }
-          elsif ( $title eq "Class" ) {
+          elsif ( $title eq "Class" || $title eq "Klasse" ) {
             $headers{'Class'} = $col_idx;
           }
-          elsif ( $title =~ /No\.?/ ) {
+          elsif ( $title =~ /No\.?/ || $title =~ /Nr\.?/ ) {
             $headers{'No'} = $col_idx;
           }
           elsif ( $title eq "Team" ) {
             $headers{'Team'} = $col_idx;
           }
-          elsif ( $title eq "Drivers" ) {
+          elsif ( $title eq "Drivers" || $title eq "Fahrer" ) {
             $headers{'Drivers'} = $col_idx;
           }
           elsif ( $title eq "Chassis" ) {
             $headers{'Chassis'} = $col_idx;
           }
-          elsif ( $title eq "Engine" ) {
+          elsif ( $title eq "Engine" || $title eq "Motor" ) {
             $headers{'Engine'} = $col_idx;
           }
-          elsif ( $title =~ /Tyres?/ ) {
+          elsif ( $title =~ /Tyres?/ || $title eq "Reifen" ) {
             $headers{'Tyres'} = $col_idx;
           }
-          elsif ( $title eq "Laps" ) {
+          elsif ( $title eq "Laps" || $title eq "Runden" ) {
             $headers{'Laps'} = $col_idx;
           }
           elsif ( $title eq "Reason" ) {
@@ -285,7 +338,10 @@ foreach my $tab (@tables) {
               }
   
               if ( exists($ctry_iso{uc($txt)}) ) {
-                $ctry_code = $ctry_iso{uc($txt)}; 
+                $ctry_code = $ctry_iso{uc($txt)};
+              }
+              elsif ( exists($ctry_iso_de{utf_uc($txt)}) ) {
+                $ctry_code = $ctry_iso_de{utf_uc($txt)};
               }
               else {
                 $ctry_code = "???"; # unknown
