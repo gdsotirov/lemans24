@@ -29,6 +29,7 @@ sub start {
            || $attr->{'id'} =~ /^Did_Not_Finish$/i
            || $attr->{'id'} =~ /^Did_Not_Start$/i
            || $attr->{'id'} =~ /^Did_Not_Practise$/i
+           || $attr->{'id'} =~ /^Schlussklassement$/i
           )
      )
   {
@@ -55,6 +56,10 @@ sub start {
   {
     $fgPrint = 0;
   }
+  if ( $fgTable && $tag eq "span" && exists($attr->{'style'}) && $attr->{'style'} eq "display:none;" )
+  {
+    $fgPrint = 0;
+  }
 }
 
 sub end {
@@ -71,6 +76,10 @@ sub end {
     print $origtext;
   }
   if ( $fgTable && $tag eq "sup" )
+  {
+    $fgPrint = 1;
+  }
+  if ( $fgTable && $tag eq "span" && $fgPrint == 0 )
   {
     $fgPrint = 1;
   }
