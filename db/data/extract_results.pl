@@ -23,13 +23,14 @@ sub start {
 
   if ( $tag =~ /^span$/
        && defined $attr->{'id'}
-       && (   $attr->{'id'} =~ /^Official_results/i
+       && (   $attr->{'id'} =~ /^Official_results/i || $attr->{'id'} =~ /^Results$/i
            || $attr->{'id'} =~ /^Disqualified$/i
-           || $attr->{'id'} =~ /^Not_classified$/i
-           || $attr->{'id'} =~ /^Did_Not_Finish$/i
-           || $attr->{'id'} =~ /^Did_Not_Start$/i
-           || $attr->{'id'} =~ /^Did_Not_Practise$/i
+           || $attr->{'id'} =~ /^Not_classified/i
+           || $attr->{'id'} =~ /^Did_Not_Finish/i
+           || $attr->{'id'} =~ /^Did_Not_Start/i
+           || $attr->{'id'} =~ /^Did_Not_Practise/i
            || $attr->{'id'} =~ /^Schlussklassement$/i
+           || $attr->{'id'} =~ /^Nur_in_der_Meldeliste$/i
           )
      )
   {
@@ -59,6 +60,10 @@ sub start {
   if ( $fgTable && $tag eq "span" && exists($attr->{'style'}) && $attr->{'style'} eq "display:none;" )
   {
     $fgPrint = 0;
+  }
+  if ( $fgTable && $tag eq "a" )
+  {
+    print " ";
   }
 }
 
