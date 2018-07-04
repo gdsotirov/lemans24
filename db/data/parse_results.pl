@@ -161,14 +161,6 @@ sub trimboth {
   return $str;
 }
 
-sub utf_uc {
-  my $str = shift;
-  my $utf_str = decode('utf-8', $str);
-  $utf_str = uc($utf_str);
-  #return encode('utf-8', $utf_str);
-  return $utf_str;
-}
-
 if ( scalar @ARGV < 1 )
 {
   die "Usage: $0 <file_name|year>\n";
@@ -340,8 +332,8 @@ foreach my $tab (@tables) {
               if ( exists($ctry_iso{uc($txt)}) ) {
                 $ctry_code = $ctry_iso{uc($txt)};
               }
-              elsif ( exists($ctry_iso_de{utf_uc($txt)}) ) {
-                $ctry_code = $ctry_iso_de{utf_uc($txt)};
+              elsif ( exists($ctry_iso_de{uc($txt)}) ) {
+                $ctry_code = $ctry_iso_de{uc($txt)};
               }
               else {
                 $ctry_code = "???"; # unknown
@@ -375,6 +367,7 @@ foreach my $tab (@tables) {
             if ( $col_idx == $headers{'Team'} ) {
               $txt =~ s/^\"//g;
               $txt =~ s/\"$//g;
+              $txt =~ s/\-\s/-/g;
               $outarr[$outarr_idx][$columns{'Team'}] = $txt;
             }
             else {
@@ -444,7 +437,9 @@ for my $row ( @outarr ) {
                   map { tr/“”/"/s; $_ }
                   map { s/‘/'/; $_ }
                   map { s/’/'/; $_ }
-                  map { s/—/-/; $_ }
+                  map { s/–/-/; $_ } # en dash
+                  map { s/—/-/; $_ } # em dash
+                  map { s/\240/ /; $_ } # non-breaking space
                   @$row ), "\n";
 }
 
