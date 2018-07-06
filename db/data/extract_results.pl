@@ -9,6 +9,7 @@ use base "HTML::Parser";
 my $fgResults = 0;
 my $fgTable = 0;
 my $fgPrint = 1;
+my $fgBridgestone = 0;
 
 sub text {
   my ($self, $text) = @_;
@@ -49,44 +50,59 @@ sub start {
   {
     print "|";
   }
-  if ( $fgTable && ( $tag eq "tr" || $tag eq "th" || $tag eq "td" ) )
+  if ( $fgTable )
   {
-    print $origtext;
-  }
-  if ( $fgTable && $tag eq "sup" )
-  {
-    $fgPrint = 0;
-  }
-  if ( $fgTable && $tag eq "span" && exists($attr->{'style'}) && $attr->{'style'} eq "display:none;" )
-  {
-    $fgPrint = 0;
-  }
-  if ( $fgTable && $tag eq "a" )
-  {
-    print " ";
+    if ( $tag eq "tr" || $tag eq "th" || $tag eq "td" ) 
+    {
+      print $origtext;
+    }
+    if ( $tag eq "sup" )
+    {
+      $fgPrint = 0;
+    }
+    if ( $tag eq "span" && exists($attr->{'style'}) && $attr->{'style'} eq "display:none;" )
+    {
+      $fgPrint = 0;
+    }
+    if ( $tag eq "a" )
+    {
+      print " ";
+    }
+    if ( $tag eq "a" && exists($attr->{'title'}) && $attr->{'title'} eq "Bridgestone" )
+    {
+      $fgBridgestone = 1;
+    }
   }
 }
 
 sub end {
   my ($self, $tag, $origtext) = @_;
 
-  if ( $fgTable && $tag =~ /^table$/ )
+  if ( $fgTable )
   {
-    print $origtext."\n";
-    $fgTable = 0;
-    $fgResults = 0;
-  }
-  if ( $fgTable && ( $tag eq "tr" || $tag eq "th" || $tag eq "td" ) )
-  {
-    print $origtext;
-  }
-  if ( $fgTable && $tag eq "sup" )
-  {
-    $fgPrint = 1;
-  }
-  if ( $fgTable && $tag eq "span" && $fgPrint == 0 )
-  {
-    $fgPrint = 1;
+    if ( $tag =~ /^table$/ )
+    {
+      print $origtext."\n";
+      $fgTable = 0;
+      $fgResults = 0;
+    }
+    if ( $tag eq "tr" || $tag eq "th" || $tag eq "td" )
+    {
+      print $origtext;
+    }
+    if ( $tag eq "sup" )
+    {
+      $fgPrint = 1;
+    }
+    if ( $tag eq "span" && $fgPrint == 0 )
+    {
+      $fgPrint = 1;
+    }
+    if ( $fgBridgestone && $tag eq "span" )
+    {
+      print "R";
+      $fgBridgestone = 0;
+    }
   }
 }
 
