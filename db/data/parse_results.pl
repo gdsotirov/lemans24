@@ -141,6 +141,7 @@ my %tyre_codes = (
   "A"  => "Avon",
   "B"  => "Barum",
   "BF" => "BF Goodrich",
+  "BR" => "Bridgestone",
   "C"  => "Continental",
   "D"  => "Dunlop",
   "E"  => "Englebert",
@@ -150,7 +151,8 @@ my %tyre_codes = (
   "K"  => "Kleber",
   "M"  => "Michelin",
   "P"  => "Pirelli",
-  "R"  => "Rapson");
+  "R"  => "Rapson",
+  "Y"  => "Yokohama");
 
 # trim string from both sides
 sub trimboth {
@@ -395,7 +397,9 @@ foreach my $tab (@tables) {
             }
           }
           elsif ( defined $headers{'Laps'} && $col_idx == $headers{'Laps'} ) {
-            $outarr[$outarr_idx][$columns{'Laps'}] = trimboth($cell->as_text());
+            $txt = trimboth($cell->as_text());
+            $txt =~ s/^\-$/0/g;
+            $outarr[$outarr_idx][$columns{'Laps'}] = $txt;
           }
           elsif ( defined $headers{'Reason'} && $col_idx == $headers{'Reason'} ) {
             $txt = trimboth($cell->as_text());
