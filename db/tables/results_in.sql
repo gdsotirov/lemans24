@@ -13,7 +13,7 @@ CREATE TABLE results_in (
   laps          INT           NULL      COMMENT 'Laps driven',
   distance      DECIMAL(8,3)  NULL      COMMENT 'Distance passed',
   racing_time   TIME          NULL      COMMENT 'Time',
-  reason        VARCHAR(45)   NULL      COMMENT 'Reason for NC, DNF, DSQ',
+  reason        VARCHAR(128)  NULL      COMMENT 'Reason for NC, DNF, DSQ',
   processed     TINYINT       NOT NULL  DEFAULT 0 COMMENT 'Record processed or not'
 )
 ENGINE = InnoDB

@@ -10,7 +10,7 @@ BEGIN
   END IF;
 
   IF NOT check_position(NEW.pos) THEN
-    SET @errmsg = 'Position sould be number, NC, DNF or DSQ!';
+    SET @errmsg = 'Position sould be number or special value (e.g. NC, DNF, DSQ, etc.)!';
     SIGNAL SQLSTATE '10102' SET MESSAGE_TEXT = @errmsg;
   END IF;
 
