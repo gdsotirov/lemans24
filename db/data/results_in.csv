@@ -9,7 +9,7 @@
 1923;8;5.0;7;FRA;Societe Lorraine de Dietrich et Cie;FRA|FRA;Gérard de Courcelles|André Rossignol;Lorraine-Dietrich B3-6 Sport;Lorraine-Dietrich 3.4L I6;Englebert;108;1864.296;;
 1923;9;8.0;2;BEL;Automobiles Excelsior SA;BEL|BEL;André Dills|Nicolas Caerels;Excelsior Adex C;Excelsior 5.3L I6;Englebert;106;1829.772;;
 1923;10;1.5;29;FRA;Automobiles Ettore Bugatti;FRA|FRA;Max de Pourtealés|Sosthene de la Rochefoucauld;Bugatti T22;Bugatti 1.5L I4;Englebert;104;1795.248;;
-1923;11;3.0;17;FRA;Societe des Automobiles Brasier;FRA|FRA;f.n.u. Migeot|Eugène Verpault;Brasier TB4;Brasier 2.1L I4;Englebert;99;1708.938;;
+1923;11;3.0;17;FRA;Societe des Automobiles Brasier;FRA|FRA;f.n.u. Migeot|Eugène Verpault;Brasier TB4;Brasier 2.1L I4;Dunlop;99;1708.938;;
 1923;12;1.1;34;FRA;Societe des Moteurs Salmson;FRA|FRA;Lucien Desvaux|Georges Casse;Salmson VAL-3;Salmson 1.1L I4;Englebert;98;1691.676;;
 1923;13;3.0;16;FRA;Automobiles Delage SA;FRA|FRA;f.n.u. Belbeu|Paul Torchy;Delage DE 2 Litre Sport;Delage 2.1L I4;Michelin;98;1691.676;;
 1923;14;3.0;19;FRA;Etablissements Charles Montier et Cie;BEL|FRA;Charles Montier|Albert Ouriou;Ford-Montier CM1;Montier 2.0L I4;Michelin;97;1674.414;;
@@ -2750,7 +2750,7 @@
 1984;DNF;IMSAGTO;121;GBR;Charles Ivey Racing;GBR|GBR|USA;David Ovey|Paul Smith|Margie Smith-Haas;Porsche 930;Porsche 3.3L Turbo Flat-6;Avon;146;1989.396;17:00:00;Oil leak
 1984;DNF;C1;34;AUS|GBR;Team Australia|John Fitzpatrick Racing;AUS|AUS;Peter Brock|Larry Perkins;Porsche 956;Porsche Type-935 2.6 L Turbo Flat-6;Dunlop;145;1975.770;17:00:00;Accident
 1984;DSQ;C1;16;GBR;GTi Engineering;GBR|GBR|FRA;Richard Lloyd|Nick Mason|René Metge;Porsche 956;Porsche Type-935 2.6 L Turbo Flat-6;Dunlop;139;1894.000;08:40:00;Outside help
-1984;DNF;C1;23;FRA;WM Secateva;FRA|FRA|FRA;Roger Dorchy|Alain Couderc|Gerard Patté;WM P83B;Peugeot PRV 2.8 L Turbo V6;Michelin;122;1662.372;17:00:00;Transmisson (gearbox)
+1984;DNF;C1;23;FRA;WM Secateva;FRA|FRA|FRA;Roger Dorchy|Alain Couderc|Gerard Patté;WM P83B;Peugeot PRV 2.8 L Turbo V6;Michelin;122;1662.372;17:00:00;Transmission (gearbox)
 1984;DNF;C1;6;FRA|ITA;BP Résidences Malardeau|Scuderia Jolly Club;ITA|FRA|ITA;Pierluigi Martini|Xavier Lapeyre|Beppe Gabbiani;Lancia LC2;Ferrari 308C 3.0 L Turbo V8;Dunlop;117;1594.242;08:35:00;
 1984;DNF;B;101;DNK;Jens Winther Team Castrol;DNK|GBR|DNK;Jens Winther|David Mercer|Lars-Viggo Jensen;BMW M1;BMW M88/1 3.5 L I6;Avon;96;1308.096;10:00:00;Front axle, left suspension
 1984;DNF;IMSAGTP;62;USA;Pegasus Racing Ltd.;USA|USA|USA;Ken Marsden Jr.|Marion L. Speer|Wayne Pickering;March 84G;Buick 3.3 L Turbo V6;Goodyear;95;1294.470;10:00:00;Engine (turbo)
@@ -3190,7 +3190,7 @@
 1991;DNF;C1;37;FRA|FRA;Automobiles Louis Descartes|Racing Organization Course (ROC);CHE|FRA;Bernard Thuner|Pascal Fabre;ROC 002;Ford Cosworth DFR 3.5L V8;Goodyear;38;516.800;;Transmission (driveshaft)
 1991;DNF;C1;5;FRA;Peugeot Talbot Sport;ITA|FRA|FRA;Mauro Baldi|Philippe Alliot|Jean-Pierre Jabouille;Peugeot 905;Peugeot SA35 3.5L V10;Michelin;22;299.200;;Engine
 1991;DNF;C2;46;DEU;Porsche Kremer Racing;MEX|CHE|GBR;Tomás López|Gregor Foitek|Tiff Needell;Porsche 962CK6;Porsche Type-935 3.2L Turbo Flat-6;Yokohama;18;244.800;;Accident
-1991;DNF;C1;7;FRA;Automobiles Louis Descartes;FRA|ITA|FRA;Philippe de Henning|Luigi Taverna|Patrick Gonin;ALD C91;Ford Cosworth DFR 3.5L V8;Goodyear;16;217.600;;Gearbox
+1991;DNF;C1;7;FRA;Automobiles Louis Descartes;FRA|ITA|FRA;Philippe de Henning|Luigi Taverna|Patrick Gonin;ALD C91;Ford Cosworth DFR 3.5L V8;Goodyear;16;217.600;;Transmission (gearbox)
 1991;DNS;C2;59;AUT|DEU;Konrad Motorsport|Joest Porsche Racing;AUT|DEU;Franz Konrad|Jürgen Barth;Porsche 962C;Porsche Type-935 3.0L Turbo Flat-6;Goodyear;0;0.0;;Withdrawn
 1991;DNS;C1;4;GBR|GBR;Silk Cut Jaguar|Tom Walkinshaw Racing;ITA|GBR|GBR;Teo Fabi|Kenny Acheson|Andy Wallace;Jaguar XJR-14;Jaguar Cosworth HB 3.5L V8;Goodyear;0;0.0;;Withdrawn
 1991;DNQ;C2;48;FRA;Courage Compétition;GBR|GBR|FRA;Chris Hodgetts|Andrew Hepworth|Thierry Lacerf;Cougar C24S;Porsche Type-935 3.0L Turbo Flat-6;Goodyear;0;0.0;;Underweight
@@ -3244,3 +3244,656 @@
 1992;DNA;C4;63;GBR;Don Farthing Racing;;;ProSport 3000;Cosworth 3.0L V8;;0;0.0;;
 1992;DNA;C4;64;GBR;Chris Taylor;GBR|GBR|GBR;Ian Ashley|John Morrison|Tony Trimmer;ProSport 3000;Cosworth 3.0L V8;;0;0.0;;
 1992;DNA;C4;65;GBR;Chris Taylor;GBR|GBR|GBR;Rob Murrells|Nick Adams|John Sheldon;ProSport 3000;Cosworth 3.0L V8;;0;0.0;;
+1993;1;C1;3;FRA;Peugeot Talbot Sport;FRA|FRA|AUS;Éric Hélary|Christophe Bouchut|Geoff Brabham;Peugeot 905 Evo 1B;Peugeot SA35 3.5 L V10;Michelin;375;5100.000;;
+1993;2;C1;1;FRA;Peugeot Talbot Sport;BEL|FRA|ITA;Thierry Boutsen|Yannick Dalmas|Teo Fabi;Peugeot 905 Evo 1B;Peugeot SA35 3.5L V10;Michelin;374;5086.400;;
+1993;3;C1;2;FRA;Peugeot Talbot Sport;FRA|ITA|FRA;Philippe Alliot|Mauro Baldi|Jean-Pierre Jabouille;Peugeot 905 Evo 1B;Peugeot SA35 3.5L V10;Michelin;367;4991.200;;
+1993;4;C1;36;JPN;Toyota Team Tom's;GBR|JPN|JPN;Eddie Irvine|Toshio Suzuki|Masanori Sekiya;Toyota TS010;Toyota RV10 3.5 L V10;Michelin;364;4950.400;;
+1993;5;C2;22;JPN|JPN;Y's Racing Team|SARD Co. Ltd.;AUT|ITA|JPN;Roland Ratzenberger|Mauro Martini|Naoki Nagasaka;Toyota 93C-V;Toyota R36V 3.6 L Turbo V8;Dunlop;363;4936.800;;
+1993;6;C2;25;JPN;Nisso Trust Racing Team;ZAF|SWE|SWE;George Fouché|Eje Elgh|Steven Andskär;Toyota 93C-V;Toyota R36V 3.6 L Turbo V8;Dunlop;358;4868.800;;
+1993;7;C2;21;DEU;Obermaier Racing GmbH;DEU|DEU|CHE;Otto Altenbach|Jürgen Oppermann|Loris Kessel;Porsche 962C;Porsche Type-935 3.0 L Turbo Flat-6;Goodyear;355;4828.000;;
+1993;8;C1;38;JPN;Toyota Team Tom's;GBR|NLD|ARG;Geoff Lees|Jan Lammers|Juan Manuel Fangio II;Toyota TS010;Toyota RV10 3.5 L V10;Michelin;353;4800.800;;
+1993;9;C2;18;DEU;Joest Porsche Racing;FRA|FRA|DEU;Bob Wollek|Henri Pescarolo|Ronny Meixner;Porsche 962C;Porsche Type-935 3.0 L Turbo Flat-6;Goodyear;351;4773.600;;
+1993;10;C2;14;FRA;Courage Compétition;GBR|FRA|FRA;Derek Bell|Lionel Robert|Pascal Fabre;Courage C30LM;Porsche Type-935 3.0 L Turbo Flat-6;Goodyear;347;4719.200;;
+1993;11;C2;13;FRA;Courage Compétition;FRA|FRA|FRA;Pierre Yver|Jean-Louis Ricci|Jean-François Yvon;Courage C30LM;Porsche Type-935 3.0L Turbo Flat-6;Goodyear;343;4664.800;;
+1993;12;C2;10;DEU;Porsche Kremer Racing;DEU|ITA|ZAF;Jürgen Lässig|Giovanni Lavaggi|Wayne Taylor;Porsche 962CK6;Porsche Type-935 3.0 L Turbo Flat-6;Dunlop;328;4460.800;;
+1993;13;C2;11;DEU;Porsche Kremer Racing;USA|ESP|FRA;Andy Evans|Tomás Saldaña|François Migault;Porsche 962CK6;Porsche Type-935 3.0 L Turbo Flat-6;Dunlop;316;4297.600;;
+1993;14;C2;23;FRA;Team Guy Chotard;FRA|FRA|FRA;Denis Morin|Didier Caradec|Alain Sturm;Porsche 962C;Porsche Type-935 3.0 L Turbo Flat-6;Goodyear;308;4188.800;;
+1993;15;GT;47;FRA|FRA;Monaco Media International|Larbre Compétition;FRA|DEU|FRA;Joël Gouhier|Jürgen Barth|Dominique Dupuy;Porsche 911 Carrera RSR;Porsche 3.8 L Flat-6;Pirelli;304;4134.400;;
+1993;16;GT;78;FRA|FRA;Jack Leconte|Larbre Compétition;ESP|FRA|FRA;Jesús Pareja|Jack Leconte|Pierre de Thoisy;Porsche 911 Carrera RSR;Porsche 3.8 L Flat-6;Goodyear;301;4093.600;;
+1993;17;GT;65;DEU;Heico Dienstleistungen;DEU|DEU|DEU;Ulrich Richter|Dirk Rainer Ebeling|Karl-Heinz Wlazik;Porsche 911 Carrera RSR;Porsche 3.8L Flat-6;Yokohama;299;4066.400;;
+1993;18;GT;77;CHE;Scuderia Chicco d'Oro;CHE|CHE|CHE;Claude Haldi|Olivier Haberthur|Charles Margueron;Porsche 911 Carrera RSR;Porsche 3.8 L Flat-6;Pirelli;299;4066.400;;
+1993;19;GT;62;AUT;Konrad Motorsport;AUT|JPN|BRA;Franz Konrad|Jun Harada|Antônio Hermann de Azevedo;Porsche 911 Carrera RS;Porsche 3.8 L Flat-6;Yokohama;293;3984.800;;
+1993;20;C2;24;FRA;Graff Racing;FRA|FRA|FRA;Jean-Bernard Bouvet|Richard Balandras|Bruno Miot;Spice SE89C;Ford Cosworth DFL 3.3 L V8;Goodyear;288;3916.800;;
+1993;21;GT;66;DEU;Mühlbauer Motorsport;DEU|CHE|DEU;Gustl Spreng|Sandro Angelastri|Fritz Müller;Porsche 911 Carrera RS;Porsche 3.6 L Flat-6;Pirelli;276;3753.600;;
+1993;22;GT;40;DEU;Obermaier Racing GmbH;BEL|DEU|FRA;Philippe Olczyk|Josef Prechtl|Gerard Dillmann;Porsche 911 Carrera 2 Cup;Porsche 3.8 L Flat-6;Pirelli;274;3726.400;;
+1993;23;GT;55;ITA;Agusta Racing;ITA|ITA|ITA;Onofrio Russo|Riccardo Agusta|Paolo Mondini;Venturi 500LM;Renault PRV 3.0 L Turbo V6;Dunlop;274;3726.400;;
+1993;24;LMP;33;FRA;Welter Racing;FRA|CHE|FRA;Patrick Gonin|Bernard Santal|Alain Lamouille;WR LM93;Peugeot 2.0 L Turbo I4;Michelin;268;3644.800;;
+1993;25;GT;57;FRA;Écurie Toison d'Or;BEL|BEL|BEL;Marc Duez|Éric Bachelart|Philip Verellen;Venturi 500LM;Renault PRV 3.0 L Turbo V6;Dunlop;267;3631.200;;
+1993;26;GT;49;BEL;Team Paduwa;FRA|FRA|FRA;Bruno Ilien|Alain Gadal|Bernard Robin;Porsche 911 Carrera 2 Cup;Porsche 3.6 L Flat-6;Dunlop;266;3617.600;;
+1993;27;GT;70;FRA;Éric Graham;BEL|BEL|FRA;Pascal Witmeur|Michel Neugarten|Jacques Tropenat;Venturi 500LM;Renault PRV 3.0 L Turbo V6;Dunlop;262;3563.200;;
+1993;28;GT;91;FRA;Alain Lamouille;FRA|FRA|FRA;Patrice Roussel|Édouard Sezionale|Hervé Rohée;Venturi 500LM;Renault PRV 3.0 L Turbo V6;Dunlop;246;3345.600;;
+1993;29;GT;92;FRA;BBA Compétition;FRA|FRA|FRA;Jean-Luc Maury-Laribière|Michel Krine|Patrick Camus;Venturi 500LM;Renault PRV 3.0 L Turbo V6;Dunlop;243;3304.800;;
+1993;30;LMP;35;ITA;Sport & Immagine SRL;ITA|ITA|ITA;Fabio Magnani|Luigi Taverna|Roberto Ragazzi;Lucchini SP91;Alfa Romeo 3.0 L V6;Pirelli;221;3005.600;;
+1993;DNF;C2;17;DEU;Joest Porsche Racing;DEU|DEU|DEU;"Manuel Reuter|Frank Jelinski|""John Winter""";Porsche 962C;Porsche Type-935 3.0 L Turbo Flat-6;Goodyear;282;3835.200;19:25:00;Engine
+1993;DNF;LMP;34;FRA;Didier Bonnet Racing;FRA|FRA|FRA;Yvan Muller|Gérard Tremblay|Georges Tessier;Debora SP93;Alfa Romeo 3.0 L V6;Pirelli;259;3522.400;22:50:00;Engine
+1993;DNF;C1;37;JPN;Toyota Team Tom's;FRA|GBR|GBR;Pierre-Henri Raphanel|Kenny Acheson|Andy Wallace;Toyota TS010;Toyota RV10 3.5 L V10;Michelin;212;2883.200;15:11:00;Transmission (gearbox)
+1993;DNF;GT;71;FRA;Jacadi Racing;FRA|FRA|FRA;Jacques Laffite|Michel Maisonneuve|Christophe Dechavanne;Venturi 500LM;Renault PRV 3.0 L Turbo V6;Dunlop;210;2856.000;20:40:00;Engine
+1993;DNF;C2;15;DEU;Porsche Kremer Racing;ITA|GBR|USA;Almo Coppelli|Robin Donovan|Steve Fossett;Porsche 962CK6;Porsche Type-935 3.0 L Turbo Flat-6;Dunlop;204;2774.400;16:45:00;Out of fuel
+1993;DNF;GT;52;GBR;TWR Jaguar Racing;FRA|USA|DEU;Paul Belmondo|Jay Cochran|Andreas Fuchs;Jaguar XJ220;Jaguar JV6 3.5 L Turbo V6;Dunlop;176;2393.600;13:55:00;Overheat
+1993;DNF;C2;28;FRA;Roland Bassaler;FRA|FRA|FRA;Roland Bassaler|Patrick Bourdais|Jean-Louis Capette;Sauber SHS C6;BMW M88 3.5 L I6;Goodyear;166;2257.600;16:00:00;Accident
+1993;DNF;GT;44;GBR|GBR;Lotus Sport|Chamberlain Engineering;GBR|FRA|FRA;Richard Piper|Olindo Iacobelli|Ferdinand de Lesseps;Lotus Esprit S300;Lotus 2.2 L Turbo I4;Dunlop;162;2203.200;15:20:00;Engine (head gasket)
+1993;DNF;C2;27;GBR;Chamberlain Engineering;USA|GBR|BEL;Andy Petery|Nick Adams|Hervé Regout;Spice SE89C;Ford Cosworth DFZ 3.5 L V8;Goodyear;137;1863.200;16:25:00;Engine
+1993;DNF;C2;12;FRA;Courage Compétition;JPN|SLV|ITA;Tomiko Yoshikawa|Carlos Moran|Alessandro Gini;Courage C30LM;Porsche Type-935 3.0 L Turbo Flat-6;Goodyear;108;1468.800;09:20:00;Wheel
+1993;DNF;GT;45;GBR|GBR;Lotus Sport|Chamberlain Engineering;JPN|GBR|DNK;Yojiro Terada|Peter Hardman|Thorkild Thyrring;Lotus Esprit S300;Lotus 2.2L Turbo I4;Dunlop;92;1251.200;09:20:00;Engine
+1993;DNF;GT;56;FRA;Stéphane Ratel;GRC|USA|FRA;Costas Los|Johannes Bardutt|Claude Brana;Venturi 500LM;Renault PRV 3.0 L Turbo V6;Dunlop;80;1088.000;09:05:00;Accident
+1993;DNF;GT;46;DEU;Le Mans Porsche Team;DEU|DEU|USA;Walter Röhrl|Hans-Joachim Stuck|Hurley Haywood;Porsche 911 Turbo S LM-GT;Porsche 3.2 L Turbo Flat-6;Goodyear;79;1074.400;07:20:00;Accident (with #34 at Toyota curve)
+1993;DNF;GT;76;CHE;Cartronic Motorsport;CHE|ITA|CHE;Enzo Calderari|Luigino Pagotto|Lilian Bryner;Porsche 911 Carrera 2 Cup;Porsche 3.6 L Flat-6;Pirelli;64;870.400;06:10:00;Accident
+1993;DNF;GT;48;BEL;Team Paduwa;DEU|BEL|BEL;Harald Grohs|Jean-Paul Libert|Didier Theys;Porsche 911 Carrera 2 Cup;Porsche 3.6 L Flat-6;Dunlop;8;108.800;01:00:00;Overheat
+1993;DNF;GT;51;GBR;TWR Jaguar Racing;DEU|GBR|GBR;Armin Hahne|Win Percy|David Leslie;Jaguar XJ220;Jaguar JV6 3.5 L Turbo V6;Dunlop;6;81.600;01:35:00;Overheat
+1993;DSQ;GT;50;GBR;TWR Jaguar Racing;DNK|AUS|GBR;John Nielsen|David Brabham|David Coulthard;Jaguar XJ220;Jaguar JV6 3.5 L Turbo V6;Dunlop;306;4161.600;;Illegal exhaust (catalytic converter not approved)
+1993;DNS;GT;72;GBR;Simpson Engineering;GBR|ITA|JPN;Robin Smith|Stefano Sebastiani|Tetsuya Ota;Ferrari 348 LM;Ferrari 3.4 L V8;Pirelli;0;0.0;;
+1993;DNA;GT;41;DEU;Obermaier Racing GmbH;ITA|ITA|ITA;Ruggero Grassi|Sergio Brambilla|Renato Mastropietro;Porsche 911 Carrera Cup 2;Porsche 3.8L Flat-6;;0;0.0;;
+1993;DNA;GT;99;GEO;Georgia Automotive Mig Tako;USA|ITA|FRA;Pierre Honegger|Giampiero Consonni|Philippe Renault;MIG M100;Motori Moderni 3.5L V12;Pirelli;0;0.0;;
+1993;DNA;C1;7;FRA;Jean-Louis Ricci;GBR|FRA|FRA|FRA;Robs Lamplough|Olivier Leclére|Jean-Louis Ricci|Jean-Francois Véroux;Allard J2X-C;Cosworth DFL 3.3L V8;;0;0.0;;
+1993;DNA;C2;26;GBR;GP Motorsport;;;Spice SE90C;Cosworth DFL 3.0L V8;;0;0.0;;
+1993;DNA;C4;58;DEU;Roock Racing International;CHE;Bruno Eichmann;Porsche 911 Carrera RSR;Porsche 3.8L Flat-6;;0;0.0;;
+1993;DNA;C4;59;DEU;Roock Racing International;NLD;Mike Hezemans;Porsche 911 Carrera RSR;Porsche 3.8L Flat-6;;0;0.0;;
+1993;DNA;C4;63;DEU;Ed Arnold;;;BMW M5;;;0;0.0;;
+1993;DNA;C4;67;DEU;Fa Derknum GmbH;FRA|DEU|DEU|DEU;Bruno Ilien|Hans Dorr|Günter Döbler|Marcus Menden;Porsche 911 Carrera 2 Cup;Porsche 3.6L Flat-6;;0;0.0;;
+1993;DNA;C4;74;;;CAN;John Graham;Ford Mustang;;;0;0.0;;
+1993;DNA;C4;75;USA;Chevrolet Bob Jankel;;;Chevrolet Corvette;;;0;0.0;;
+1994;1;GT1;36;DEU|DEU;Le Mans Porsche Team|Joest Racing;FRA|USA|ITA;Yannick Dalmas|Hurley Haywood|Mauro Baldi;Dauer 962 Le Mans;Porsche Type-935 3.0 L Turbo Flat-6;Goodyear;344;4685.701;;
+1994;2;LMP1/C90;1;JPN;SARD Company Ltd.;GBR|ITA|USA;Eddie Irvine|Mauro Martini|Jeff Krosnoff;Toyota 94C-V;Toyota R36V 3.6 L Turbo V8;Dunlop;343;4667.566;;
+1994;3;GT1;35;DEU|DEU;Le Mans Porsche Team|Joest Racing;DEU|USA|BEL;Hans-Joachim Stuck|Danny Sullivan|Thierry Boutsen;Dauer 962 Le Mans;Porsche Type-935 3.0 L Turbo Flat-6;Goodyear;343;4667.552;;
+1994;4;LMP1/C90;4;JPN;Nisso Trust Racing Team;SWE|ZAF|FRA;Steven Andskär|George Fouché|Bob Wollek;Toyota 94C-V;Toyota R36V 3.6 L Turbo V8;Dunlop;328;4466.397;;
+1994;5;IMSAGTS;75;USA;Clayton Cunningham Racing;NZL|USA|USA;Steve Millen|Johnny O'Connell|John Morton;Nissan 300ZX Turbo;Nissan VG30DETT 3.0 L Turbo V6;Yokohama;317;4314.224;;
+1994;6;LMP1/C90;5;GBR;Gulf Oil Racing;GBR|GBR|DEU;Derek Bell|Robin Donovan|Jürgen Lässig;Kremer K8 Spyder;Porsche Type-935 3.0 L Turbo Flat-6;Dunlop;316;4301.231;;
+1994;7;LMP1/C90;9;FRA;Courage Compétition;FRA|USA|BEL;Jean-Louis Ricci|Andy Evans|Philippe Olczyk;Courage C32LM;Porsche Type-935 3.0 L Turbo Flat-6;Michelin;310;4219.308;;
+1994;8;GT2;52;FRA;Larbre Compétition;ESP|FRA|ESP;Jesús Pareja|Dominique Dupuy|Carlos Palau;Porsche 911 Carrera RSR;Porsche 3.8 L Flat-6;Michelin;307;4176.567;;
+1994;9;GT2;54;CHE;Écurie Biennoise;CHE|CHE|ITA;Enzo Calderari|Lilian Bryner|Renato Mastropietro;Porsche 911 Carrera RSR;Porsche 3.8 L Flat-6;Pirelli;299;4066.259;;
+1994;10;GT2;59;DEU;Konrad Motorsport;NLD|NLD|SVN;Cor Euser|Patrick Huisman|Matiaz Tomlje;Porsche 911 Carrera RSR;Porsche 3.8 L Flat-6;Pirelli;295;4011.859;;
+1994;11;GT2;57;ESP;Repsol Ferrari España;ESP|ESP|ESP;Prince Alfonso de Orléans-Borbón|Tomás Saldaña|Andrés Vilariño;Ferrari 348 GTC-LM;Ferrari 3.4 L V8;Pirelli;276;3758.441;;
+1994;12;GT1;40;FRA|BEL;Rent-A-Car Racing Team|Luigi Racing;FRA|GBR|FRA;René Arnoux|Justin Bell|Bertrand Balas;Dodge Viper RT/10;Dodge 8.0 L V10;Michelin;273;3717.810;;
+1994;13;GT2;60;FRA;Legeay Sports Mécanique;FRA|FRA|FRA;Benjamin Roy|Luc Galmard|Jean-Claude Police;Alpine A610 Turbo;Renault PRV 3.0 L Turbo V6;Michelin;272;3698.888;;
+1994;14;GT2;48;DEU;Kremer Honda Racing;DEU|FRA|BEL;Armin Hahne|Christophe Bouchut|Bertrand Gachot;Honda NSX;Honda 3.0 L V6;Dunlop;257;3500.460;;
+1994;15;IMSAGTS;74;JPN;Team Artnature;JPN|FRA|FRA;Yojiro Terada|Franck Fréon|Pierre de Thoisy;Mazda RX-7 GTO;Mazda 13J 2.0 L 3- Rotor;Dunlop;250;3405.713;;
+1994;16;GT2;46;DEU;Kremer Honda Racing;CHE|JPN|JPN;Philippe Favre|Hideki Okada|Kazuo Shimizu;Honda NSX;Honda 3.0 L V6;Dunlop;240;3262.037;;
+1994;17;GT2;68;ITA;Agusta Racing Team;FRA|ESP|ESP;Jean-Louis Sirera|Antonio Puig|Xavier Camp;Venturi 400GTR;Renault PRV 3.0L Turbo V6;Dunlop;225;3066.115;;
+1994;18;GT2;47;DEU|JPN;Kremer Honda Racing|Team Kunimitsu;JPN|JPN|JPN;Kunimitsu Takahashi|Keiichi Tsuchiya|Akira Iida;Honda NSX;Honda 3.0 L V6;Yokohama;222;3020.641;;
+1994;NC;GT1;41;FRA|BEL;Rent-A-Car Racing Team|Luigi Racing;FRA|FRA|FRA;François Migault|Denis Morin|Philippe Gache;Dodge Viper RT/10;Dodge 8.0 L V10;Michelin;225;3059.868;;Insufficient distance
+1994;NC;GT1;30;FRA;BBA Compétition;FRA|FRA|FRA;Jean-Luc Maury-Laribière|Bernard Chauvin|Hervé Poulain;Venturi 600LM;Renault PRV 3.0 L Turbo V6;Dunlop;221;3007.805;;Insufficient distance
+1994;NC;GT1;37;GBR;A.D.A. Engineering Ltd.;GBR|GBR|GBR;Dominic Chappell|Jonathan Baker|Phil Andrews;De Tomaso Pantera 200;Ford 5.0 L V8;Goodyear;210;2865.039;;Insufficient distance
+1994;NC;LMP1/C90;6;GBR|JPN;A.D.A. Engineering Ltd.|Team Nippon;JPN|JPN|JPN;Jun Harada|Tomiko Yoshikawa|Masahiko Kondo;Porsche 962C GTi;Porsche Type-935 3.0 L Turbo Flat-6;Goodyear;189;2569.158;;Insufficient distance
+1994;NC;GT2;65;ITA;Agusta Racing Team;FRA|CHE|FRA;Stéphane Ratel|Franz Hunkeler|Edouard Chaufour;Venturi 400GTR;Renault PRV 3.0 L Turbo V6;Dunlop;137;1872.214;;Insufficient distance
+1994;DNF;GT1;34;FRA;Michel Hommell;FRA|FRA|FRA;Alain Cudini|Éric Hélary|Jean-Christophe Boullion;Bugatti EB110 SS;Bugatti 3.5 L Turbo V12;Michelin;230;3128.000;23:20:00;Accident
+1994;DNF;LMP1/C90;2;FRA;Courage Compétition;FRA|FRA|FRA;Henri Pescarolo|Alain Ferté|Franck Lagorce;Courage C32LM;Porsche Type-935 3.0 L Turbo Flat-6;Michelin;142;1931.200;;Engine
+1994;DNF;GT1;31;ITA;Agusta Racing Team;ITA|FRA|ITA;Riccardo Agusta|Michel Krine|Almo Coppelli;Venturi 600LM;Renault PRV 3.0 L Turbo V6;Dunlop;115;1564.000;12:00:00;Fire
+1994;DNF;GT1;38;FRA;Jacadi Racing;FRA|FRA|BEL;Michel Ferté|Olivier Grouillard|Michel Neugarten;Venturi 600LM;Renault PRV 3.0 L Turbo V6;Michelin;107;1455.200;11:40:00;Engine
+1994;DNF;LMP1/C90;3;FRA;Courage Compétition;FRA|FRA|FRA;Lionel Robert|Pascal Fabre|Pierri-Henri Raphanel;Courage C32LM;Porsche Type-935 3.0 L Turbo Flat-6;Michelin;107;1455.200;08:05:00;Engine
+1994;DNF;LMP2;21;FRA;Welter Racing;FRA|FRA;Patrick Gonin|Pierre Petit;WR LM93;Peugeot 2.0 L Turbo V6;Michelin;104;1414.400;10:55:00;Engine, fire
+1994;DNF;GT1;33;BEL|AUT;Patrick Nève Racing|Konrad Motorsport;AUT|BRA|DEU;Franz Konrad|Antônio Hermann de Azevedo|Mike Sommer;Porsche 911 Turbo 3.6;Porsche 3.6 L Turbo Flat-6;Pirelli;100;1360.000;10:10:00;Engine
+1994;DNF;LMP1/C90;7;GBR|FRA;Stealth Engineering|SBF;FRA|FRA|FRA;Dominique Lacaud|Sylvain Boulay|Bernard Robin;ALD 06;BMW M88 3.5 L I6;Goodyear;96;1305.600;11:00:00;Engine
+1994;DNF;GT2;49;FRA|FRA;Porsche Flymo Mobil Alméras|Larbre Compétition;FRA|FRA|FRA;Jacques Laffite|Jacques Alméras|Jean-Marie Alméras;Porsche 911 Carrera RSR;Porsche 3.8 L Flat-6;Pirelli;94;1278.400;09:00:00;Accident
+1994;DNF;LMP2;22;FRA;Welter Racing;BEL|FRA|FRA;Hervé Regout|Jean-François Yvon|Jean-Paul Libert;WR LM93;Peugeot 2.0 L Turbo V6;Michelin;86;1169.600;10:15:00;Suspension
+1994;DNF;GT2;58;DEU;Seikel Motorsport;DEU|GBR|DNK;Dr. Thomas Bscher|Lindsay Owen-Jones|John Nielsen;Porsche 968 Turbo RS;Porsche 3.0 L Turbo I4;Yokohama;84;1142.400;07:30:00;Accident
+1994;DNF;LMP2;20;FRA;Didier Bonnet Racing;FRA|FRA|CHE;Georges Tessier|Pascal Dro|Bernard Santal;Debora LMP294;Alfa Romeo 3.0 L V6;Pirelli;79;1074.400;10:00:00;Accident
+1994;DNF;LMP1/C90;8;FRA;Roland Bassaler;FRA|FRA|FRA;Nicolas Minassian|Patrick Bourdais|Olivier Couvrier;Alpa LM;Ford Cosworth DFL 3.5 L V8;Goodyear;64;870.400;12:50:00;Wheel
+1994;DNF;GT2;50;FRA;Larbre Compétition;FRA|FRA|FRA;Pierre Yver|Jack Leconte|Jean-Luc Chéreau;Porsche 911 Carrera RSR;Porsche 3.8 L Flat-6;Michelin;62;843.200;;Accident
+1994;DNF;GT2;62;GBR|GBR;Lotus Sport|Chamberlain Engineering;GBR|GBR|FRA;Richard Piper|Peter Hardman|Olindo Iacobelli;Lotus Esprit S300;Lotus 2.2 L Turbo I4;Michelin;59;802.400;05:40:00;Accident
+1994;DNF;GT2;55;GBR;Simpson Engineering;GBR|ITA|JPN;Robin Smith|Stefano Sebastiani|Tetsuya Ota;Ferrari 348 LM;Ferrari 3.4 L V8;Yokohama;57;775.200;11:05:00;Transmission (gearbox)
+1994;DNF;GT2;45;DEU;Heico Service GmbH;DEU|DEU|DEU;Ulrich Richter|Karl-Heinz Wlazik|Dirk Ebeling;Porsche 911 Carrera RSR;Porsche 3.8 L Flat-6;Pirelli;57;775.200;05:00:00;Engine
+1994;DNF;GT1;29;SWE|DEU;Strandell|Obermaier Racing;SWE|CHE|ITA;Anders Olofsson|Sandro Angelastro|Max Angelelli;Ferrari F40;Ferrari 3.0 L Turbo V8;Pirelli;51;693.600;;Electrics
+1994;DNF;GT2;63;GBR;Chamberlain Engineering;NZL|GBR|GBR;Rob Wilson|David Brodie|William Hewland;Harrier LR9C;Ford Cosworth YBT 2.0 L Turbo I4;Dunlop;45;612.000;09:55:00;Suspension
+1994;DNF;GT2;56;CHE;Elf Haberthur Racing;CHE|FRA|FRA;Olivier Haberthur|Patrice Goueslard|Patrick Vuillaume;Porsche 911 Turbo 3.6;Porsche 3.6 L Turbo Flat-6;Goodyear;42;571.200;07:00:00;Engine (turbo)
+1994;DNF;GT2;66;GBR|NOR;Bristow Racing|Erik Henriksen;GBR|GBR|GBR;Ray Bellm|Harry Nuttall|Charles Rickett;Porsche 911 Carrera RSR;Porsche 3.8 L Flat-6;Goodyear;34;462.400;03:10:00;Engine
+1994;DNF;GT2;61;GBR|GBR;Lotus Sport|Chamberlain Engineering;DNK|NLD|DEU;Thorkild Thyrring|Klaas Zwart|Andreas Fuchs;Lotus Esprit S300;Lotus 2.2 L Turbo I4;Michelin;28;380.800;06:20:00;Wheel (rear)
+1994;DNF;IMSAGTS;76;USA;Clayton Cunningham Racing;BEL|USA|JPN;Eric van de Poele|Paul Gentilozzi|Shunji Kasuya;Nissan 300ZX Turbo;Nissan VRH35 3.0 L Turbo V6;Yokohama;25;340.000;02:10:00;Engine
+1994;DNF;GT2;64;ITA;Ferrari Club Italia;ARG|ITA|FRA;Oscar Larrauri|Fabio Mancini|Joël Gouhier;Ferrari 348 GTC-LM;Ferrari 3.4 L V8;Pirelli;23;312.800;04:15:00;Engine
+1994;DSQ;GT2;51;USA;Callaway Sport Inc.;DEU|USA|FRA;Frank Jelinski|Boris Said|Michel Maisonneuve;Callaway Corvette SuperNatural;Chevrolet 6.2 L V8;Yokohama;142;1931.200;;Outside help
+1994;DNA;LMP1C90;7;GBR;Stealth Engineering;GBR|GBR;Justin Bell|Tiff Needell;Porsche 962C;Porsche Type-935 3.0L Turbo Flat-6;;0;0.0;;
+1994;DNA;WSC;13;FRA;Courage Compétition;;;Courage C41;Chevrolet 4.5L V8;;0;0.0;;
+1994;DNA;WSC;14;USA;Brix Racing;USA|CAN|ITA;Bob Schader|Jeremy Dale|Ruggero Melgrati;Spice HC 94;Oldsmobile 5.0L V8;;0;0.0;;
+1994;DNA;WSC;15;USA;Screaming Eagles Racing;USA|USA;Craig Nelson|Dan Clark;Spice SE90;Lexus;;0;0.0;;
+1994;DNA;WSC;16;USA;Pegasus Racing;USA|USA|USA|AUT;Oliver Kuttner|Mike Sheehan|Jim Downing|Dieter Quester;Pegasus;BMW M88 3.5L I6;Goodyear;0;0.0;;
+1994;DNA;GT1;32;CHE;Ecurie Biennoise;CHE|CHE;Enzo Calderari|Lilian Bryner;Porsche 911 Turbo;Porsche 3.8L Flat-6;;0;0.0;;
+1994;DNA;GT1;33;FRA;Larbre Compétition;FRA|ESP|FRA|FRA|FRA;Jean-Pierre Jarier|Jésus Pareja|Dominique Dupuy|Joël Gouhier|Jack Leconte;Porsche 911 Turbo S LM;Porsche 3.8L Flat-6;;0;0.0;;
+1994;DNA;GT2;42;DEU;Gustl Spreng Racing;DEU|DEU;Gustl Spreng|Fritz Müller;Porsche 993 Carrera RSR;Porsche 3.8L Flat-6;;0;0.0;;
+1994;DNA;GT1;43;MCO;JCB Racing;FRA|FRA|FRA|BEL;Jean-Claude Basso|François Migault|Claude Meigemont|Philippe Olczyk;Venturi 600LM;Renault PRV 3.0L Turbo V6;;0;0.0;;Reserve
+1994;DNA;GT1;44;FRA;BBA Sport et Compétition;FRA|FRA|CHE;Éric Graham|Francois Birbeau|Laurent Lécuyer;Venturi 600LM;Renault PRV 3.0L Turbo V6;Michelin;0;0.0;;Reserve
+1994;DNA;GT2;51;DEU;Obermaier Racing GmbH;ITA|ITA;Ruggero Grassi|Renato Mastropietro;Porsche 911 Carrera 2;Porsche 3.8L Flat-6;;0;0.0;;
+1994;DNA;GT2;52;BEL;Patrick Nève Racing;FRA|FRA|BEL|NLD|DEU|SVN;Alain Gadal|Bruno Ilien|Didier de Puysseleyr|Patrick Huisman|Bernd Netzeband|Matiaz Tomlje;Porsche 911 Carrera RSR;Porsche 3.8L Flat-6;;0;0.0;;
+1994;DNA;GT2;67;FRA;Patrick Boirdon;FRA|FRA|FRA|FRA;Patrick Boirdon|Jean-Marc Massé|Philippe Sinault|Jérôme Brarda;Porsche 911 Carrera 2;Porsche 3.8L Flat-6;;0;0.0;;
+1994;DNA;GT2;69;FRA;Guy Chotard;FRA|FRA|FRA;Didier Caradec|Jean-Louis LeDuigou|André Gahinet;Porsche 911 Carrera RSR;Porsche 3.8L Flat-6;;0;0.0;;Reserve
+1994;DNA;GT2;70;CHE;Mühlbauer Motorsport;DEU|DEU|FRA|ITA|CHE;Alexander Mattschull|Arnold Mattschull|Philippe Auvray|Sandro Angelastro|Toni Seiler;Porsche 911 Carrera RSR;Porsche 3.8L Flat-6;;0;0.0;;
+1994;DNA;GT2;71;DEU;Konrad Motorsport;DEU;Franz Konrad;Porsche 911 Carrera RSR;Porsche 3.8L Flat-6;;0;0.0;;
+1995;1;GT1;59;JPN|GBR;Kokusai Kaihatsu Racing|Lanzante Motorsport;FRA|JPN|FIN;Yannick Dalmas|Masanori Sekiya|JJ Lehto;McLaren F1 GTR;BMW S70 6.1L V12;Michelin;298;4055.800;;
+1995;2;WSC;13;FRA;Courage Compétition;FRA|FRA|USA;Bob Wollek|Éric Hélary|Mario Andretti;Courage C34;Porsche Type-935 3.0L Turbo Flat-6;Michelin;297;4046.339;;
+1995;3;GT1;51;GBR|GBR;Harrods Mach One Racing|David Price Racing;GBR|GBR|GBR;Andy Wallace|Derek Bell|Justin Bell;McLaren F1 GTR;BMW S70 6.1L V12;Goodyear;296;4030.430;;
+1995;4;GT1;24;GBR;GTC Gulf Racing;GBR|GBR|BRA;Mark Blundell|Ray Bellm|Maurizio Sandro Sala;McLaren F1 GTR;BMW S70 6.1L V12;Michelin;291;3966.833;;
+1995;5;GT1;50;FRA;Giroix Racing Team;FRA|CHE|FRA;Fabien Giroix|Jean-Denis Délétraz|Olivier Grouillard;McLaren F1 GTR;BMW S70 6.1L V12;Michelin;290;3956.324;;
+1995;6;WSC;4;DEU;Porsche Kremer Racing;BEL|DEU|FRA;Thierry Boutsen|Hans-Joachim Stuck|Christophe Bouchut;Kremer K8 Spyder;Porsche Type-935 3.0L Turbo Flat-6;Goodyear;289;3939.401;;
+1995;7;WSC;5;USA|JPN;D.T.R.|Mazdaspeed Co. Ltd.;USA|JPN|FRA;Jim Downing|Yojiro Terada|Franck Fréon;Kudzu DG-3;Mazda 13G 2.0L 3- Rotor;Goodyear;282;3846.505;;
+1995;8;GT2;84;JPN;Team Kunimitsu Honda;JPN|JPN|JPN;Keiichi Tsuchiya|Akira Iida|Kunimitsu Takahashi;Honda NSX;Honda 3.0L V6;Yokohama;275;3746.959;;
+1995;9;GT2;73;USA;Callaway Competition;ITA|USA|DEU;Enrico Bertaggia|Johnny Unser|Frank Jelinski;Callaway Corvette SuperNatural;Chevrolet 6.3L V8;BF Goodrich;273;3713.295;;
+1995;10;GT1;22;JPN;NISMO;JPN|JPN|JPN;Hideo Fukuyama|Masahiko Kondo|Shunji Kasuya;Nissan Skyline GT-R LM;Nissan 2.6L Turbo I6;Bridgestone;271;3695.879;;
+1995;11;GT2;75;GBR;Agusta Racing Team;ITA|GBR|GBR;Riccardo Agusta|Robin Donovan|Eugene O'Brien;Callaway Corvette SuperNatural;Chevrolet 6.3L V8;Dunlop;271;3686.061;;
+1995;12;GT1;34;FRA;Pilot Aldix Racing;FRA|FRA|ESP;Michel Ferté|Olivier Thévenin|Carlos Palau;Ferrari F40 LM;Ferrari 3.0L Turbo V8;Michelin;270;3681.213;;
+1995;13;GT1;42;FRA;BBA Compétition;FRA|FRA|FRA;Jean-Luc Maury-Laribière|Marc Sourd|Hervé Poulain;McLaren F1 GTR;BMW S70 6.1L V12;Dunlop;266;3623.946;;
+1995;14;GT1;27;JPN;SARD Co. Ltd.;USA|ITA|ITA;Jeff Krosnoff|Marco Apicella|Mauro Martini;Toyota Supra LM;Toyota 3S-GTE 2.1L Turbo I4;Dunlop;264;3597.984;;
+1995;15;GT2;77;DEU;Seikel Motorsport;DEU|FRA|CZE;Peter Seikel|Guy Kuster|Karel Dolejsi;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Pirelli;263;3585.386;;
+1995;16;GT2;78;FRA;Jean-François Veroux;FRA|FRA|FRA;Jean-François Veroux|Eric van de Vyver|Didier Ortion;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Goodyear;262;3570.306;;
+1995;17;GT2;81;GBR;Richard Jones;GBR|GBR|GBR;Richard Jones|Nick Adams|Gerard MacQuillan;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Goodyear;250;3406.099;;
+1995;18;GT1;41;ITA|ITA;Ennea SRL|Ferrari Club Italia;GBR|ITA|ITA;Gary Ayles|Massimo Monti|Fabio Mancini;Ferrari F40 GTE;Ferrari 3.0L Turbo V8;Pirelli;237;3232.396;;
+1995;19;GT1;54;DEU;Freisinger Motorsport;DEU|JPN|FRA;Wolfgang Kaufmann|Yukihiro Hane|Michel Ligonnet;Porsche 993 Bi-Turbo;Porsche 3.8L Turbo Flat-6;Goodyear;229;3124.714;;
+1995;20;LMP2;14;FRA;Didier Bonnet Racing;FRA|FRA|FRA;Patrice Roussel|Eduoard Sezionale|Bernard Sental;Debora LMP295;Ford Cosworth 2.0L Turbo I4;Michelin;222;3027.187;;
+1995;NC;GT1;44;FRA;Venturi Automobiles SA;FRA|FRA|FRA;Jean-Marc Gounon|Paul Belmondo|Arnaud Trévisiol;Venturi 600LM;Renault PRV 3.0L Turbo V6;Michelin;193;2639.153;;Insufficient distance
+1995;NC;GT2;71;GBR;Team Marcos;GBR|GBR|FRA;David Leslie|Chris Marsh|François Migault;Marcos Mantara LM600;Chevrolet 6.3L V8;Dunlop;184;2509.034;;Insufficient distance
+1995;NC;GT1;46;JPN;Honda Motor Co. Ltd.;JPN|CHE|JPN;Hideki Okada|Philippe Favre|Naoki Hattori;Honda NSX GT1;Honda 3.0L V6;Dunlop;121;1657.716;;Insufficient distance
+1995;DNF;LMP2;9;FRA;Welter Racing;FRA|FRA|FRA;William David|Jean-Bernard Bouvet|Richard Balandras;WR LM94/5;Peugeot 2.0L Turbo I4;Michelin;196;2665.600;;Fuel pressure
+1995;DNF;GT1;45;FRA;Éric Graham;FRA|FRA|FRA;Éric Graham|François Birbeau|Ferdinand de Lesseps;Venturi 600LM;Renault PRV 3.0L Turbo V6;Dunlop;178;2420.800;;Electrics
+1995;DNF;WSC;3;DEU;Porsche Kremer Racing;DEU|AUT|BRA;Jürgen Lässig|Franz Konrad|Antonio Herrmann de Azevedo;Kremer K8 Spyder;Porsche Type-935 3.0L Turbo Flat-6;Goodyear;163;2216.800;16:28:00;Electrics
+1995;DNF;GT1;23;JPN;NISMO;JPN|JPN|JPN;Kazuyoshi Hoshino|Toshio Suzuki|Masahiko Kageyama;Nissan Skyline GT-R LM;Nissan 2.6L Turbo I6;Bridgestone;157;2135.200;14:00:00;Transmission
+1995;DNF;GT1;57;GBR;PC Automotive Jaguar;GBR|GBR|GBR;Richard Piper|Tiff Needell|James Weaver;Jaguar XJ220;Jaguar JV6 3.5L Turbo V6;Dunlop;135;1836.000;12:50:00;Engine
+1995;DNF;GT2;70;GBR;Team Marcos;GBR|BRA|NLD;Chris Hodgetts|Thomas Erdos|Cor Euser;Marcos Mantara LM600;Chevrolet 6.3L V8;Dunlop;133;1808.800;19:42:00;Transmission
+1995;DNF;GT1;49;GBR|GBR;West Competition|David Price Racing;DNK|DEU|DEU;John Nielsen|Jochen Mass|Dr. Thomas Bscher;McLaren F1 GTR;BMW S70 6.1L V12;Goodyear;131;1781.600;12:28:00;Accident
+1995;DNF;GT1;43;FRA;BBA Compétition;FRA|CHE|FRA;Emmanuel Clérico|Laurent Lecuyer|Bernard Chauvin;Venturi 600LM;Renault PRV 3.0L Turbo V6;Dunlop;130;1768.000;14:00:00;Fire
+1995;DNF;GT1;58;GBR;PC Automotive Jaguar;CHE|FRA|GBR;Bernard Thuner|Olindo Iaccobelli|Win Percy;Jaguar XJ220;Jaguar JV6 3.5L Turbo V6;Dunlop;123;1672.800;15:05:00;Accident
+1995;DNF;GT2;76;GBR;Agusta Racing Team;DNK|ITA|FRA;Thorkild Thyrring|Almo Coppelli|Patrick Bourdais;Callaway Corvette SuperNatural;Chevrolet 6.3L V8;Dunlop;96;1305.600;10:50:00;Accident
+1995;DNF;GT1;37;FRA;Larbre Compétition;FRA|FRA|MCO;Dominique Dupuy|Emmanuel Collard|Stéphane Ortelli;Porsche 911 GT2 Evo;Porsche 3.6L Turbo Flat-6;Michelin;82;1115.200;08:03:00;Accident (with #79)
+1995;DNF;GT2;79;CHE;Stadler Motorsport;CHE|CHE|DEU;Enzo Calderari|Lilian Bryner|Andreas Fuchs;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Pirelli;81;1101.600;08:03:00;Accident (with #37)
+1995;DNF;GT1;25;GBR;GTC Gulf Racing;FRA|FRA|GBR;Pierre-Henri Raphanel|Philippe Alliot|Lindsay Owen-Jones;McLaren F1 GTR;BMW S70 6.1L V12;Michelin;77;1047.200;05:23:00;Accident
+1995;DNF;GT1;36;FRA;Larbre Compétition;FRA|ESP|FRA;Jean-Pierre Jarier|Jesús Pareja|Érik Comas;Porsche 911 GT2 Evo;Porsche 3.6L Turbo Flat-6;Michelin;64;870.400;05:58:00;Accident
+1995;DNF;GT2;91;DEU|DEU;Heico Motorsport|Kremer Racing;ESP|ESP|ESP;Tomas Saldaña|Miguel Ángel de Castro|Prince Alfonso de Orléans-Borbón;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Goodyear;63;856.800;05:54:00;Accident
+1995;DNF;GT1;30;USA;ZR-1 Corvette Team USA;USA|CAN|USA;John Paul Jr.|Chris McDougall|James Mero;Chevrolet Corvette ZR-1;Chevrolet 6.3L Turbo V8;Goodyear;57;775.200;21:30:00;Engine
+1995;DNF;GT1;40;ITA|ITA;Ennea SRL|Ferrari Club Italia;SWE|ITA|JPN;Anders Olofsson|Luciano Della Noce|Tetsuya Ota;Ferrari F40 GTE;Ferrari 3.0L Turbo V8;Pirelli;42;571.200;05:40:00;Transmission (gearbox)
+1995;DNF;GT1;52;GBR;Lister Cars Ltd.;GBR|GBR|GBR;Geoff Lees|Dominic Chappell|Rupert Keegan;Lister Storm GTS;Jaguar 7.0L V12;Michelin;40;544.000;05:15:00;Transmission (gearbox)
+1995;DNF;GT1;55;FRA|FRA;Jean-Claude Miloé|Societé Larbre Compétition;FRA|FRA|FRA;Jack Leconte|Pierre Yver|Jean-Luc Chéreau;Porsche 911 GT2 Evo;Porsche 3.6L Turbo Flat-6;Michelin;40;544.000;04:50:00;Accident
+1995;DNF;LMP2;8;FRA;Welter Racing;FRA|FRA|FRA;Patrick Gonin|Pierre Petit|Marc Rostan;WR LM95;Peugeot 2.0L Turbo I4;Michelin;33;448.800;03:57:00;Accident
+1995;DNF;WSC;11;FRA;Courage Compétition;FRA|FRA|FRA;Henri Pescarolo|Franck Lagorce|Éric Bernard;Courage C41;Chevrolet 5.0L V8;Goodyear;26;353.600;03:38:00;Electrics
+1995;DNF;GT1;26;JPN;SARD Co. Ltd.;FRA|GBR|JPN;Alain Ferté|Kenny Acheson|Tomiko Yoshikawa;Sard MC8-R;Toyota 4.0L Turbo V8;Dunlop;14;190.400;11:09:00;Clutch
+1995;DNF;GT2;82;CHE;Elf Haberthur Racing;CHE|FRA|CHE;Charles Margueron|Pierre de Thoisy|Philippe Siffert;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Pirelli;13;176.800;02:10:00;Accident
+1995;DNF;WSC;1;USA;Euromotorsport Racing Inc.;ITA|USA|FRA;Massimo Sigala|Jay Cochran|René Arnoux;Ferrari 333 SP;Ferrari F310E 4.0L V12;Goodyear;7;95.200;01:07:00;Electrics
+1995;DNF;GT1;47;JPN;Honda Motor Co. Ltd.;DEU|BEL|ITA;Armin Hahne|Bertrand Gachot|Ivan Capelli;Honda NSX GT1;Honda 3.0L Turbo V6;Dunlop;7;95.200;01:20:00;Clutch
+1995;DNS;WSC;12;FRA;Courage Compétition;BEL|MCO|SVN;Eric van de Poele|Olivier Beretta|Matiaz Tomlje;Courage C41;Chevrolet 5.0L V8;Goodyear;0;0.0;;
+1995;DNS;WSC;6;FRA;Norbert Santos;FRA|BEL|FRA;Dominique Lacaud|Jean-Paul Libert|Pascal Dro;Norma M14;Buick 4.5L V6;Goodyear;0;0.0;;
+1995;DNS;WSC;7;FRA;Sylvain Boulay;CAN|FRA|FRA;John Jones|Jean-Marc Massé|François Provost;Tiga FJ94;Buick 4.5L V6;;0;0.0;;
+1995;DNA;GT2;88;FRA;Christian Heinkélé;FRA|FRA|FRA;Christian Heinkélé|Lucien Guitteny|François O'Born;Ferrari F355;Ferrari F129B 3.5L V8;;0;0.0;;
+1995;DNA;P2;10;FRA;Alain Lebrun;FRA|FRA|FRA|FRA;Patrick Bonjour|François O'Born|Franck Matifas|Pierre Bruneau;WR LMP2;Peugeot 2.0L Turbo V6;;0;0.0;;
+1995;DNA;P2;15;FRA;Didier Bonnet;CHE|FRA|FRA|FRA;Bernard Santal|Christophe Caveng|Patrice Roussel|Didier Bonnet;Debora LMP201;Cosworth 2.0L I4;;0;0.0;;
+1995;DNA;GT1;20;GBR;Chamberlain Engineering;GBR|GBR|GBR|JPN;Peter Hardman|Richard Dean|Dominic Chapell|Jun Harada;Jaguar XJ220;Jaguar JV6 3.5L Turbo V6;;0;0.0;;
+1995;DNA;GT1;33;GBR;Ascari Cars Ltd.;NLD|GBR|GBR;Klaas Zwart|Nigel Greensall|Jonathan Baker;Ascari FGT-LM;Ford 5.7L V8;;0;0.0;;
+1995;DNA;GT1;35;FRA;Manoirde l'Automobile;FRA|FRA|FRA;Eric Hélary|Alain Cudini|Stéphan Grégoire;Aston Martin DB7 LM;Aston Martin 3.2L Turbo I6;;0;0.0;;
+1995;DNA;GT1;48;JPN;Honda Motor Co. Ltd.;CHE|JPN|JPN;Philippe Favre|Hideki Okada|Naoki Hattori;Honda NSX GT1;Honda 3.0L Turbo V6;;0;0.0;;
+1995;DNA;GT2;53;DEU;Obermaier Racing GmbH;FRA|BEL|DEU|CHE|DEU;Philippe Auvray|Hervé Regout|Jürgen von Gartzen|Sandro Angelastro|Uwe Alzen;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;;0;0.0;;
+1995;DNA;GT1;61;FRA;Rent-a-Car Racing Team;FRA|FRA|FRA;Bertrand Balas|Marcel Tarrès|David Velay;Dodge Viper;Chrysler 8.0L V10;;0;0.0;;
+1995;DNA;GT2;74;CHE;Callaway Schweiz;CHE|CHE|CHE|ITA;Kurt Huber|Hans Hauser|Seppi Wendlinger|Enrico Bertaggia;Callaway Corvette SuperNatural;Chevrolet 6.3L V8;;0;0.0;;
+1995;DNA;GT2;83;FRA;Jean-Francois Metz;FRA|FRA|FRA;Patrick Bornhauser|Jean-François Metz|Marc Pachot;VBM 4000GTC;PRV Douvrin Sodemo 3.0L Turbo V6;;0;0.0;;
+1995;DNA;GT2;85;JPN;Team Nakajima Honda;JPN|JPN|JPN;Takuya Kurosawa|Kouji Satou|Tetsuya Tanaka;Honda NSX GT1;Honda 3.0L V6;;0;0.0;;
+1995;DNA;GT2;86;ESP;Sport Time;ESP|ESP|ESP;Javier Camp|Antonio Puig|Joaquim Guasch;Venturi 400GTR;Renault PRV 3.0L Turbo V6;;0;0.0;;
+1995;DNA;GT2;87;FRA;Patrick Boidron;FRA|FRA|FRA;Pierre-François Bernigand|Patrick Boidron|Philippe Régnier;Ferrari F355;Ferrari F129B 3.5L V8;;0;0.0;;
+1995;DNA;WSC;16;CZE;Vonka Racing Team;CZE|BRA|DEU;Jan Vonka|Wilson Fittipaldi|Franz Konrad;Kremer K8 Spyder;Porsche Type-935 3.0L Turbo Flat-6;;0;0.0;;
+1995;DNA;WSC;2;USA;JF America Racing;;;Ferrari 333SP;Ferrari F310E 4.0L V12;;0;0.0;;
+1995;DNA;P2;16;CZE;Vonka Racing Team;CZE|CZE;Jan Vonka|Dan Novotny;PRC S94;BMW;;0;0.0;;Car not bought
+1995;DNA;GT1;21;GBR;Chamberlain Engineering;GBR|GBR;Peter Hardman|Win Percy;Jaguar XJ220;Jaguar JV6 3.5L Turbo V6;;0;0.0;;
+1995;DNA;GT1;28;JPN;Nisso Trust Racing;ZAF|SWE|SWE;George Fouché|Steven Andskär|Thomas Danielsson;Toyota Supra GT LM;Toyota 3S-GTE 2.1L Turbo I4;;0;0.0;;
+1995;DNA;GT1;29;USA;ZR-1 Corvette Team;USA;Mac DeMere;Chevrolet Corvette ZR-1;Chevrolet 6.3L Turbo V8;;0;0.0;;
+1995;DNA;GT1;31;ITA;AIM Team Lamborghini GT;GBR|GBR;Rupert Keegan|Harry Nuttall;Lamborghini Jota;;;0;0.0;;
+1995;DNA;GT1;32;ITA;AIM Team Lamborghini GT;GBR|GBR;Harry Nuttall|Rupert Keegan;Lamborghini Jota;;;0;0.0;;
+1995;DNA;GT2;56;USA;Callaway Competition;;;Callaway C7;;;0;0.0;;
+1995;DNA;GT1;60;FRA;Crisal Competition;FRA|FRA|FRA;Thierry Guiod|Dominique Bardini|Michel Cottot;Venturi 600LM;Renault PRV 3.0L Turbo V6;;0;0.0;;
+1995;DNA;GT2;72;FRA;Legeay Sports;FRA|FRA|FRA;Bernard Castagné|Luc Galmard|Benjamin Roy;Alpine A610;Renault 3.0L Turbo V6;;0;0.0;;
+1996;1;LMP1;7;DEU;Joest Racing;USA|AUT|DEU;Davy Jones|Alexander Wurz|Manuel Reuter;TWR Porsche WSC-95;Porsche Type-935 3.0L Turbo Flat-6;Goodyear;354;4814.400;;
+1996;2;GT1;25;DEU;Porsche AG;DEU|BEL|FRA;Hans-Joachim Stuck|Thierry Boutsen|Bob Wollek;Porsche 911 GT1;Porsche 3.2L Turbo Flat-6;Michelin;353;4800.800;;
+1996;3;GT1;26;DEU;Porsche AG;AUT|FRA|CAN;Karl Wendlinger|Yannick Dalmas|Scott Goodyear;Porsche 911 GT1;Porsche 3.2L Turbo Flat-6;Michelin;341;4637.600;;
+1996;4;GT1;30;GBR|GBR;West Competition|David Price Racing;DNK|DEU|NLD;John Nielsen|Dr. Thomas Bscher|Peter Kox;McLaren F1 GTR;BMW S70 6.1L V12;Goodyear;338;4596.800;;
+1996;5;GT1;34;GBR|GBR;Gulf Racing|GTC Racing;FRA|GBR|AUS;Pierre-Henri Raphanel|Lindsay Owen-Jones|David Brabham;McLaren F1 GTR;BMW S70 6.1L V12;Michelin;335;4556.000;;
+1996;6;GT1;29;GBR|GBR;Harrods Mach One Racing|David Price Racing;GBR|FRA|GBR;Andy Wallace|Olivier Grouillard|Derek Bell;McLaren F1 GTR;BMW S70 6.1L V12;Goodyear;328;4460.800;;
+1996;7;LMP1;5;FRA;La Filière Elf;FRA|FRA|FRA;Henri Pescarolo|Franck Lagorce|Emmanuel Collard;Courage C36;Porsche Type-935 3.0L Turbo Flat-6;Michelin;327;4447.200;;
+1996;8;GT1;39;ITA|DEU;Team Bigazzi SRL|Team BMW Motorsport;BRA|VEN|USA;Nelson Piquet|Johnny Cecotto|Danny Sullivan;McLaren F1 GTR;BMW S70 6.1L V12;Michelin;324;4406.400;;
+1996;9;GT1;33;GBR|GBR;Gulf Racing|GTC Racing;GBR|GBR|FIN;Ray Bellm|James Weaver|JJ Lehto;McLaren F1 GTR;BMW S70 6.1L V12;Michelin;323;4392.800;;
+1996;10;GT1;48;USA;Canaska Southwind Motorsport;USA|USA|USA;Price Cobb|Shawn Hendricks|Mark Dismore;Chrysler Viper GTS-R;Chrysler 356-T6 8.0L V10;Michelin;320;4352.000;;
+1996;11;GT1;38;ITA|DEU;Team Bigazzi SRL|Team BMW Motorsport;FRA|GBR|BEL;Jacques Laffite|Steve Soper|Marc Duez;McLaren F1 GTR;BMW S70 6.1L V12;Michelin;318;4324.800;;
+1996;12;GT2;79;DEU;Roock Racing Team;FRA|DEU|CHE;Guy Martinolle|Ralf Kelleners|Bruno Eichmann;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Michelin;317;4311.200;;
+1996;13;LMP1;4;FRA;Courage Compétition;USA|NLD|GBR;Mario Andretti|Jan Lammers|Derek Warwick;Courage C36;Porsche Type-935 3.0L Turbo Flat-6;Michelin;315;4284.000;;
+1996;14;GT2;71;NZL|GBR;New Hardware Racing|Parr Motorsport;NZL|NZL|GBR;Bill Farmer|Greg Murphy|Robert Nearn;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Pirelli;313;4256.800;;
+1996;15;GT1;23;JPN;NISMO;JPN|JPN|JPN;Kazuyoshi Hoshino|Masahiro Hasemi|Toshio Suzuki;Nissan Skyline GT-R LM;Nissan 2.8L Turbo I6;Bridgestone;307;4175.200;;
+1996;16;GT2;75;JPN;Team Kunimitsu Honda;JPN|JPN|JPN;Kunimitsu Takahashi|Keiichi Tsuchiya|Akira Iida;Honda NSX;Honda 3.0L V6;Yokohama;305;4148.000;;
+1996;17;GT2;83;NZL|GBR;New Hardware Racing|Parr Motorsport;MCO|USA|NZL;Stéphane Ortelli|Andy Pilgrim|Andrew Bagnall;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Pirelli;299;4066.400;;
+1996;18;GT2;77;DEU;Seikel Motorsport;FRA|AUT|JPN;Guy Fuster|Manfred Jurasz|Takaji Suzuki;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Pirelli;297;4039.200;;
+1996;19;GT1;28;GBR;Newcastle United Lister;GBR|GBR|GBR;Geoff Lees|Tiff Needell|Anthony Reid;Lister Storm GTS;Jaguar 7.0L V12;Michelin;295;4012.000;;
+1996;20;GT2;82;FRA;Larbre Compétition;FRA|DEU|FRA;Patrice Goueslard|André Ahrlé|Patrick Bourdais;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Michelin;284;3862.400;;
+1996;21;GT1;50;FRA;Viper Team Oreca;FRA|FRA|FRA;Philippe Gache|Éric Hélary|Olivier Beretta;Chrysler Viper GTS-R;Chrysler 356-T6 8.0L V10;Michelin;283;3848.800;;
+1996;22;GT1;27;FRA|FRA;Chéreau Sports|Larbre Compétition;FRA|FRA|FRA;Jean-Luc Chéreau|Pierre Yver|Jack Leconte;Porsche 911 GT2 Evo;Porsche 3.6L Turbo Flat-6;Michelin;279;3794.400;;
+1996;23;GT1;49;USA;Canaska Southwind Motorsport;FRA|CAN|USA;Alain Cudini|Victor Sifton|John Morton;Chrysler Viper GTS-R;Chrysler 356-T6 8.0L V10;Michelin;269;3658.400;;
+1996;24;GT1;46;JPN;Team Menicon SARD Co. Ltd.;FRA|ITA|FRA;Alain Ferté|Mauro Martini|Pascal Fabre;SARD MC8-R;Toyota 4.0L Turbo V8;Dunlop;256;3481.600;;
+1996;25;LMP2;20;JPN;Mazdaspeed Co. Ltd.;JPN|USA|FRA;Yojiro Terada|Jim Downing|Franck Fréon;Kudzu DLM;Mazda 2.0L 3- Rotor;Goodyear;251;3413.600;;
+1996;DNF;LMP1;8;DEU;Joest Racing;ITA|ITA|BEL;Michele Alboreto|Pierluigi Martini|Didier Theys;TWR Porsche WSC-95;Porsche Type-935 3.0L Turbo Flat-6;Goodyear;300;4080.000;22:21:00;Transmission (driveshaft)
+1996;DNF;LMP2;14;FRA;Welter Racing SARL;FRA|FRA|FRA;Patrick Gonin|Pierre Petit|Marc Rostan;WR LM96;Peugeot 2.0L Turbo I4;Michelin;221;3005.600;18:27:00;Mechanical
+1996;DNF;LMP1;3;FRA;Courage Compétition;FRA|FRA|FRA;Didier Cottaz|Philippe Alliot|Jérôme Policand;Courage C36;Porsche Type-935 3.0L Turbo Flat-6;Michelin;215;2924.000;14:37:00;Accident
+1996;DNF;GT1;22;JPN;NISMO;JPN|JPN|JPN;Aguri Suzuki|Masahiko Kageyama|Masahiko Kondo;Nissan Skyline GT-R LM;Nissan 2.8L Turbo I6;Bridgestone;209;2842.400;15:12:00;Accident
+1996;DNF;WSC;17;BEL|BEL;Racing For Belgium|Team Scandia;BEL|BEL|BEL;Eric van de Poele|Marc Goossens|Éric Bachelart;Ferrari 333 SP;Ferrari F310E 4.0L V12;Pirelli;208;2828.800;15:00:00;Accident
+1996;DNF;GT1;57;JPN;Team SARD Toyota Co. Ltd.;JPN|JPN|JPN;Masanori Sekiya|Hidetoshi Mitsusada|Masami Kageyama;Toyota Supra LM;Toyota 3S-GTE 2.1L Turbo I4;Dunlop;205;2788.000;17:13:00;Accident
+1996;DNF;LMP2;15;FRA;Welter Racing SARL;FRA|FRA|FRA;William David|Sébastien Enjolras|Arnaud Trévisiol;WR LM96;Peugeot 2.0L Turbo I4;Michelin;162;2203.200;13:25:00;Accident
+1996;DNF;WSC;19;USA;Riley & Scott Cars Inc.;ZAF|USA|USA;Wayne Taylor|Scott Sharp|Jim Pace;Riley & Scott Mk III;Oldsmobile Aurora 4.0L V8;Pirelli;157;2135.200;;Transmission
+1996;DNF;GT1;53;GBR|FRA;Kokusai Kaihatsu Racing|Giroix Racing Team;FRA|CHE|BRA;Fabien Giroix|Jean-Denis Délétraz|Maurizio Sandro Sala;McLaren F1 GTR;BMW S70 6.1L V12;Michelin;146;1985.600;10:40:00;Engine
+1996;DNF;GT1;59;ITA|ITA;Ennea SRL|Ferrari Club Italia;GBR|ITA|JPN;Robin Donovan|Piero Nappi|Tetsuya Ota;Ferrari F40 GTE;Ferrari F120B 3.5L Turbo V8;Pirelli;129;1754.400;11:10:00;Clutch
+1996;DNF;GT2;74;GBR;Agusta Racing Team, Ltd.;ITA|ITA|FRA;Rocky Agusta|Almo Copelli|Patrick Camus;Callaway Corvette;Chevrolet LT1 6.2L V8;Dunlop;114;1550.400;11:05:00;Clutch
+1996;DNF;LMP1;1;DEU;Kremer Racing;FRA|DEU|FIN;Christophe Bouchut|Jürgen Lässig|Harri Toivonen;Kremer K8 Spyder;Porsche Type-935 3.0L Turbo Flat-6;Goodyear;110;1496.000;08:00:00;Accident
+1996;DNF;GT1;37;DEU;Konrad Motorsport;AUT|BRA|DEU;Franz Konrad|Antonio Herrmann de Azevedo|Wido Rössler;Porsche 911 GT2 Evo;Porsche 3.6L Turbo Flat-6;Michelin;107;1455.200;07:26:00;Fire
+1996;DNF;GT1;44;ITA;Ennea SRL Igol;ITA|SWE|SWE;Luciano Della Noce|Anders Olofsson|Carl Rosenblad;Ferrari F40 GTE;Ferrari F120B 3.5L Turbo V8;Pirelli;98;1332.800;06:11:00;Engine
+1996;DNF;GT1;51;FRA;Viper Team Oreca;FRA|GBR|GBR;Dominique Dupuy|Perry McCarthy|Justin Bell;Chrysler Viper GTS-R;Chrysler 356-T6 8.0L V10;Michelin;96;1305.600;10:38:00;Engine
+1996;DNF;GT1;55;DEU;Roock Racing Team;FRA|ESP|GBR;Jean-Pierre Jarier|Jesús Pareja|Dominic Chappell;Porsche 911 GT2 Evo;Porsche 3.6L Turbo Flat-6;Michelin;93;1264.800;10:30:00;Engine
+1996;DNF;GT1;56;FRA;Pilot Pen Racing;FRA|FRA|FRA;Michel Ferté|Olivier Thévenin|Nicolas Leboissetier;Ferrari F40 LM;Ferrari F120B 3.5L Turbo V8;Michelin;93;1264.800;08:27:00;Fire
+1996;DNF;LMP1;2;DEU;Kremer Racing;USA|ZAF|SWE;Steve Fossett|George Fouché|Stanley Dickens;Kremer K8 Spyder;Porsche Type-935 3.0L Turbo Flat-6;Goodyear;58;788.800;04:10:00;Accident
+1996;DNF;GT2;73;CHE;Elf Haberthur Racing;BEL|CHE|FRA;Michel Neugarten|Toni Seiler|Bruno Ilien;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Dunlop;46;625.600;;Transmission (gearbox)
+1996;DNF;GT2;81;GBR;Team Marcos;NLD|BRA|FRA;Cor Euser|Thomas Erdos|Pascal Dro;Marcos Mantara LM600;Chevrolet 6.1L V8;Dunlop;40;544.000;02:50:00;Electrics
+1996;DNF;GT1;45;ITA;Ennea SRL Igol;FRA|FRA|FRA;Jean-Marc Gounon|Éric Bernard|Paul Belmondo;Ferrari F40 GTE;Ferrari F120B 3.5L Turbo V8;Pirelli;40;544.000;02:31:00;Engine
+1996;DNF;GT2;70;GBR;EMKA Productions;GBR|GBR|GBR;Steve O'Rourke|Guy Holmes|Soames Langston;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Dunlop;32;435.200;01:56:00;Engine
+1996;DNF;WSC;18;USA;Rocketsports Inc.;USA|FRA|ESP;Andy Evans|Yvan Muller|Fermín Velez;Ferrari 333 SP;Ferrari F130E 4.0L V12;Pirelli;31;421.600;01:58:00;Out of fuel
+1996;DNS;LMP2;9;FRA;Didier Bonnet;FRA|FRA|FRA;Jean-Claude Basso|Edouard Sezionale|Thierry Lecerf;Debora LMP296;Cosworth 2.0L Turbo I4;Michelin;0;0.0;;Engine
+1996;DNS;GT1;32;FRA;Société Legeay Sports;FRA|FRA|FRA|FRA;Marc Sourd|Stéphane Daoudi|Lionel Robert|Jean-Louis Déglise;Renault Spider;Renault PRV 3.0L Turbo V6;Dunlop;0;0.0;;Reserve
+1996;DNS;GT1;40;FRA;BBA Compétition;FRA|CHE|FRA;Emmanuel Clérico|Laurent Lécuyer|Jean-Luc Maury-Laribière;Venturi 600SLM;Renault PRV 3.0L Turbo V6;Michelin;0;0.0;;Reserve
+1996;DNS;GT2;72;CHE;Stadler Motorsport;CHE|CHE|DEU;Enzo Calderari|Lilian Bryner|Uli Richter;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Pirelli;0;0.0;;Reserve
+1996;DNA;LMP2;10;FRA;ASA Sequanie;FRA;Guillaume Gomez;Debora LMP295;Cosworth 2.0L Turbo I4;;0;0.0;;
+1996;DNA;LMP2;11;FRA;Graff Racing;FRA|FRA;David Terrien|Soheil Ayari;WR LM94;Peugeot 2.0L Turbo I4;;0;0.0;;
+1996;DNA;LMP2;12;FRA;Bertrand Gachot;FRA;Bertrand Gachot;WR LM94;SsangYong 2.0L Turbo I4;;0;0.0;;
+1996;DNA;LMP2;16;FRA;Alain Lebrun;FRA|FRA|FRA;Pierre Bruneau|Patrick Camus|Philippe Sinault;WR LM93;Peugeot 2.0L Turbo I4;;0;0.0;;
+1996;DNA;GT1;31;FRA;Société Legeay Sports;FRA|FRA|FRA|FRA;Marc Sourd|Lionel Robert|Stéphane Daoudi|Benjamin Roy;Renault Spider;Renault PRV 3.0L Turbo V6;Dunlop;0;0.0;;
+1996;DNA;GT1;41;FRA;BBA Compétition;SWE|NLD|FRA|NLD;Stanley Dickens|Arie Luyendyk|Michel Ligonnet|John Hugenholtz;McLaren F1 GTR;BMW S70 6.1L V12;;0;0.0;;
+1996;DNA;GT1;42;USA;Callaway Competition;ITA|USA|DEU;Enrico Bertaggia|Boris Said III|Frank Jelinski;Callaway C7R;Chevrolet 6.2L V8;;0;0.0;;
+1996;DNA;GT1;47;DEU;Kremer Racing;ESP|ESP|USA;Tomas Saldaña|Prince Alfonso de Orleans Bourbon|Paul Burdell;Porsche 911 GT2 Evo;Porsche 3.6L Turbo Flat-6;;0;0.0;;
+1996;DNA;GT1;52;FRA;Societé Viper Team Oreca;FRA|FRA|MCO;Philippe Gache|Eric Hélary|Olivier Beretta;Chrysler Viper GTS-R;Chrysler 356-T6 8.0L V10;;0;0.0;;Withdrawn
+1996;DNA;GT1;60;GBR;ADA Engineering;DNK|DNK|GBR|ITA|CHL;Thorkild Thyrring|Kris Nissen|Phil Andrews|Max Angelelli|Eliseo Salazar;De Tomaso Pantera;Ford 5.0L V8;Goodyear;0;0.0;;
+1996;DNA;GT1;62;MCO;Monaco Racing Team;FRA|MCO|USA;Patrick Tambay|Gildo Pallanca-Pastor|Derek Hill;Bugatti EB110S;Bugatti 3.5L Turbo V12;Michelin;0;0.0;;
+1996;DNA;GT2;76;PRT;Team Jumbo Pao de Acucar;PRT|PRT|PRT;Manuel Mello-Breyner|Thomaz Mello-Breyner|Pedro Mello-Breyner;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Pirelli;0;0.0;;
+1996;DNA;GT2;78;GBR;Richard Jones;GBR|USA|GBR|GBR;Nick Adams|Chris Gleason|Gerard MacQuillan|Richard Jones;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Goodyear;0;0.0;;
+1996;DNA;GT2;80;GBR;Team Marcos;GBR|GBR|GBR|GBR;Win Percy|Robert Schirle|David Warnock|Allen Lloyd;Marcos Mantara LM600;Chevrolet 6.1L V8;Dunlop;0;0.0;;
+1996;DNA;GT2;85;FRA;Yellow Racing;FRA|FRA|CHE;Christian Heinkélé|Lucien Guitteny|Jean Guy;Ferrari F355;Ferrari F129B 3.5L V8;Michelin;0;0.0;;
+1996;DNA;LMP2;21;FRA;Sylvain Boulay;FRA;Sylvain Boulay;Tiga FJ94;Buick 4.5L V6;;0;0.0;;
+1996;DNA;GT1;24;JPN;NISMO;JPN|JPN;Masahiro Hasemi|Hideo Fukuyama;Nissan Skyline GT-R LM;Nissan 2.6L Turbo I6;;0;0.0;;
+1996;DNA;GT1;35;GBR;Lotus Racing Team;NLD|GBR;Mike Hezemans|Alex Portman;Lotus Esprit V8;Lotus 3.5L Turbo V8;;0;0.0;;
+1996;DNA;GT1;36;GBR;Lotus Racing Team;NLD|GBR;Jan Lammers|Perry McCarthy;Lotus Esprit V8;Lotus 3.5L Turbo V8;;0;0.0;;
+1996;DNA;GT1;43;USA;Callaway Competition;USA|ITA;Boris Said III|Enrico Bertaggia;Callaway C7R;Chevrolet 6.3L V8;;0;0.0;;
+1996;DNA;GT2;54;GBR;Gary Ward;;;Honda NSX;Honda 3.0L V6;;0;0.0;;
+1996;DNA;GT1;58;FRA;Société Larbre Compétition;;;McLaren F1 GTR;BMW S70 6.1L V12;;0;0.0;;
+1996;DNA;GT1;61;NLD;Franck Muller;;;McLaren F1 GTR;BMW S70 6.1L V12;;0;0.0;;
+1996;DNA;GT2;84;FRA;Jean-François Metz;FRA|FRA|FRA;Jean-François Metz|Patrick Bornhauser|Dominique Lacaud;VBM 4000GTC;PRV Douvrin-Sodemo 3.0L Turbo V6;;0;0.0;;
+1997;1;LMP;7;DEU;Joest Racing;ITA|SWE|DNK;Michele Alboreto|Stefan Johansson|Tom Kristensen;TWR Porsche WSC-95;Porsche Type-935 3.0L Turbo Flat-6;Goodyear;361;4911.405;;
+1997;2;GT1;41;GBR|GBR;Gulf Team Davidoff|GTC Racing;FRA|FRA|SWE;Jean-Marc Gounon|Pierre-Henri Raphanel|Anders Olofsson;McLaren F1 GTR;BMW S70 6.0L V12;Michelin;360;4897.800;;
+1997;3;GT1;43;DEU|DEU;Team BMW Motorsport|BMW Team Schnitzer;NLD|ITA|FRA;Peter Kox|Roberto Ravaglia|Éric Hélary;McLaren F1 GTR;BMW S70 6.0L V12;Michelin;358;4870.590;;
+1997;4;LMP;13;FRA;Courage Compétition;FRA|FRA|BEL;Didier Cottaz|Jérôme Policand|Marc Goossens;Courage C41;Porsche Type-935 3.0L Turbo Flat-6;Michelin;336;4571.280;;
+1997;5;GT1;33;DEU;Schübel Engineering;PRT|DEU|FRA;Pedro Lamy|Armin Hahne|Patrice Goueslard;Porsche 911 GT1;Porsche 3.2L Turbo Flat-6;Michelin;331;4503.255;;
+1997;6;LMP;3;ITA;Moretti Racing Inc.;ITA|BEL|ITA;Gianpiero Moretti|Didier Theys|Max Papis;Ferrari 333 SP;Ferrari F310E 4.0L V12;Yokohama;321;4367.205;;
+1997;7;LMP;8;FRA;La Filière Elf;FRA|FRA|FRA;Henri Pescarolo|Jean-Philippe Belloc|Emmanuel Clérico;Courage C36;Porsche Type-935 3.0L Turbo Flat-6;Michelin;319;4339.995;;
+1997;8;GT1;27;ITA;BMS Scuderia Italia;ITA|ITA|BRA;Pierluigi Martini|Christian Pescatori|Antônio Hermann de Azevedo;Porsche 911 GT1;Porsche 3.2L Turbo Flat-6;Pirelli;317;4312.785;;
+1997;9;GT2;78;CHE;Elf Haberthur Racing;BEL|FRA|FRA;Michel Neugarten|Guy Martinolle|Jean-Claude Lagniez;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Dunlop;307;4176.735;;
+1997;10;GT2;74;DEU;Roock Racing;DEU|USA|CHE;André Ahrlé|Andy Pilgrim|Bruno Eichmann;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Michelin;306;4163.130;;
+1997;11;GT2;73;DEU;Roock Racing;PRT|PRT|PRT;Manuel Mello-Breyner|Tomaz Mello-Breyner|Pedro Mello-Breyner;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Michelin;295;4013.475;;
+1997;12;GT1;23;JPN|GBR;Nissan Motorsport|TWR;JPN|FRA|JPN;Kazuyoshi Hoshino|Érik Comas|Masahiko Kageyama;Nissan R390 GT1;Nissan VRH35L 3.5L Turbo V8;Bridgestone;294;3999.870;;
+1997;13;GT2;80;CHE|DEU;GT Racing Team AG|Roock Racing;DEU|GBR|GBR;Claudia Hürtgen|John Robinson|Hugh Price;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Pirelli;280;3809.400;;
+1997;14;GT2;63;FRA;Viper Team Oreca;GBR|FRA|USA;Justin Bell|Pierre Yver|John Morton;Chrysler Viper GTS-R;Chrysler 8.0L V10;Michelin;278;3782.190;;
+1997;15;GT2;64;GBR;Chamberlain Engineering;NLD|FIN|USA;Hans Hugenholtz|Jari Nurminen|Chris Gleason;Chrysler Viper GTS-R;Chrysler 8.0L V10;Goodyear;269;3659.745;;
+1997;16;LMP;10;FRA;Courage Compétition;SWE|FRA|BEL;Fredrik Ekblom|Jean-Louis Ricci|Jean-Paul Libert;Courage C36;Porsche Type-935 3.0L Turbo Flat-6;Michelin;265;3605.325;;
+1997;17;LMP;15;USA|JPN;Team T.D.R.|Mazdaspeed;JPN|USA|FRA;Yojiro Terada|Jim Downing|Franck Fréon;Kudzu DLM-4;Mazda R26B 2.6L 4- Rotor;Goodyear;263;3578.115;;
+1997;DNF;GT1;26;DEU;Porsche AG;FRA|DEU|FRA;Emmanuel Collard|Ralf Kelleners|Yannick Dalmas;Porsche 911 GT1;Porsche 3.2L Turbo Flat-6;Goodyear;327;4448.835;;Fire
+1997;DNF;GT1;39;GBR|GBR;Gulf Team Davidoff|GTC Racing;GBR|GBR|JPN;Ray Bellm|Andrew Gilbert-Scott|Masanori Sekiya;McLaren F1 GTR;BMW S70 6.0L V12;Michelin;326;4435.230;;Fire
+1997;DNF;GT2;61;FRA;Viper Team Oreca;FRA|MCO|FRA;Philippe Gache|Olivier Beretta|Dominique Dupuy;Chrysler Viper GTS-R;Chrysler 8.0L V10;Michelin;263;3578.115;;Accident
+1997;DNF;GT1;25;DEU;Porsche AG;DEU|BEL|FRA;Hans-Joachim Stuck|Thierry Boutsen|Bob Wollek;Porsche 911 GT1;Porsche 3.2L Turbo Flat-6;Goodyear;238;3237.990;;Transmission (gearbox)
+1997;DNF;GT1;42;DEU|DEU;Team BMW Motorsport|BMW Team Schnitzer;FIN|GBR|BRA;JJ Lehto|Steve Soper|Nelson Piquet;McLaren F1 GTR;BMW S70 6.0L V12;Michelin;236;3210.780;;Accident
+1997;DNF;GT1;29;FRA;JB Racing;DEU|FRA|FRA;Jürgen von Gartzen|Olivier Thévenin|Alain Ferté;Porsche 911 GT1;Porsche 3.2L Turbo Flat-6;Michelin;236;3210.780;;Engine
+1997;DNF;GT1;54;GBR;David Price Racing;GBR|GBR|USA;Andy Wallace|James Weaver|Butch Leitzinger;Panoz Esperante GTR-1;Ford ( Roush) 6.0L V8;Goodyear;236;3210.780;;Engine
+1997;DNF;GT1;30;DEU;Kremer Racing;FRA|USA|BEL;Christophe Bouchut|Andy Evans|Bertrand Gachot;Porsche 911 GT1;Porsche 3.2L Turbo Flat-6;Goodyear;207;2816.235;;Overheating
+1997;DNF;GT2;75;FRA;Larbre Compétition;FRA|USA|BRA;Patrick Bourdais|Peter Kitchak|André Lara-Rezende;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Michelin;205;2789.025;;Transmission (gearbox)
+1997;DNF;LMP;9;FRA;Courage Compétition;USA|USA|FRA;Mario Andretti|Michael Andretti|Olivier Grouillard;Courage C36;Porsche Type-935 3.0L Turbo Flat-6;Michelin;197;2680.185;;Accident
+1997;DNF;GT1;52;FRA;DAMS;FRA|FRA|FRA;Franck Lagorce|Éric Bernard|Jean-Christophe Boullion;Panoz Esperante GTR-1;Ford ( Roush) 6.0L V8;Michelin;149;2027.145;;Oil leak
+1997;DNF;GT1;55;GBR;David Price Racing;AUS|GBR|USA;David Brabham|Perry McCarthy|Doc Bundy;Panoz Esperante GTR-1;Ford ( Roush) 6.0L V8;Goodyear;145;1972.725;;Fire
+1997;DNF;GT1;21;JPN|GBR;Nissan Motorsport|TWR;GBR|DEU|ZAF;Martin Brundle|Jörg Müller|Wayne Taylor;Nissan R390 GT1;Nissan VRH35L 3.5L Turbo V8;Bridgestone;139;1891.095;;Spin
+1997;DNF;GT1;28;DEU;Konrad Motorsport;AUT|ITA|GBR;Franz Konrad|Mauro Baldi|Robert Nearn;Porsche 911 GT1;Porsche 3.2L Turbo Flat-6;Pirelli;138;1877.490;;Accident
+1997;DNF;GT2;67;USA|GBR;Saleen-Allen Speedlab|Cirtek Racing;USA|USA|ESP;Steve Saleen|Price Cobb|Carlos Palau;Saleen Mustang RRR;Ford 5.9L V8;Dunlop;133;1809.465;;Wheel
+1997;DNF;GT2;79;DEU;Konrad Motorsport;CHE|USA|FRA;Toni Seiler|Larry Schumacher|Michel Ligonnet;Porsche 911 GT2;Porsche 3.2L Turbo Flat-6;Pirelli;126;1714.230;;Engine
+1997;DNF;GT1;22;JPN|GBR;Nissan Motorsport|TWR;ITA|BEL|JPN;Riccardo Patrese|Eric van de Poele|Aguri Suzuki;Nissan R390 GT1;Nissan VRH35L 3.5L Turbo V8;Bridgestone;121;1646.205;;Transmission (gearbox)
+1997;DNF;GT1;49;GBR;GT1 Lotus Racing;NLD|NLD|DEU;Jan Lammers|Mike Hezemans|Alexander Grau;Lotus Elise GT1;Chevrolet LT5 6.0L V8;Michelin;121;1646.205;;Oil leak
+1997;DNF;LMP;5;DEU;Kremer Racing;ESP|SWE|DEU;Tomás Saldaña|Carl Rosenblad|Jürgen Lässig;Kremer K8 Spyder;Porsche Type-935 3.0L Turbo Flat-6;Goodyear;103;1401.315;;Engine
+1997;DNF;GT2;84;CHE;Stadler Motorsport;CHE|CHE|ITA;Enzo Calderari|Lilian Bryner|Angelo Zadra;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Pirelli;98;1333.290;;Oil leak
+1997;DNF;GT1;44;JPN|GBR;Team Lark McLaren|Parabolica Motorsports;JPN|JPN|GBR;Akihiko Nakaya|Keiichi Tsuchiya|Gary Ayles;McLaren F1 GTR;BMW S70 6.0L V12;Michelin;88;1197.240;;Accident
+1997;DNF;GT2;77;FRA|FRA;Chereau Sports|Larbre Compétition;FRA|FRA|FRA;Jean-Luc Chéreau|Jack Leconte|Jean-Pierre Jarier;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Michelin;77;1047.585;;Transmission (gearbox)
+1997;DNF;GT1;46;GBR;Newcastle United Lister;GBR|BRA|AUS;Julian Bailey|Thomas Erdos|Mark Skaife;Lister Storm GTL;Jaguar 7.0L V12;Dunlop;77;1047.585;;Transmission (gearbox)
+1997;DNF;GT2;62;FRA;Viper Team Oreca;USA|FRA|BEL;Tommy Archer|Soheil Ayari|Marc Duez;Chrysler Viper GTS-R;Chrysler 8.0L V10;Michelin;76;1033.980;;Accident
+1997;DNF;GT2;60;GBR;Agusta Racing Team Ltd.;ITA|ITA|FRA;Almo Coppelli|Rocky Agusta|Éric Graham;Callaway Corvette LM-GT;Chevrolet LT1 6.2L V8;Dunlop;45;612.225;;Ignition
+1997;DNF;GT2;66;USA|GBR;Saleen-Allen Speedlab|Cirtek Racing;GBR|GBR|GBR;David Warnock|Rob Schirle|Allen Lloyd;Saleen Mustang RRR;Ford 5.9L V8;Dunlop;28;380.940;;Electrics
+1997;DNF;GT1;45;GBR;Newcastle United Lister;GBR|GBR|ZAF;Geoff Lees|Tiff Needell|George Fouché;Lister Storm GTL;Jaguar 7.0L V12;Dunlop;21;285.705;;Accident
+1997;DNF;LMP;4;FRA;Pilot Racing;FRA|ESP|USA;Michel Ferté|Adrián Campos|Charlie Nearburg;Ferrari 333 SP;Ferrari F310E 4.0L V12;Dunlop;18;244.890;;Fuel system
+1997;DNF;GT2;70;NLD;Marcos Racing International;NLD|JPN|DEU;Cor Euser|Takaji Suzuki|Harald Becker;Marcos Mantara LM600;Chevrolet 5.9L V8;Dunlop;15;204.075;;Oil leak
+1997;DNF;GT1;32;DEU;Roock Racing;MCO|GBR|AUT;Stéphane Ortelli|Allan McNish|Karl Wendlinger;Porsche 911 GT1;Porsche 3.2L Turbo Flat-6;Michelin;8;108.840;;Accident
+1997;DNF;LMP;14;GBR;Pacific Racing Ltd.;FIN|CHL|ESP;Harri Toivonen|Eliseo Salazar|Jesús Pareja;BRM P301;Nissan 3.0L Turbo V6;Pirelli;6;81.630;;Engine
+1997;DNS;GT1;40;GBR|GBR;Gulf Team Davidoff|GTC Racing;DNK|DEU|GBR;John Nielsen|Thomas Bscher|Chris Goodwin;McLaren F1 GTR;BMW S70 6.0L V12;Michelin;0;0.0;;Fire
+1997;DNQ;LMP;6;DEU;Kremer Racing;ITA|FRA|FRA;Giovanni Lavaggi|Jean-Luc Maury-Laribière|Bernard Chauvin;Kremer K8 Spyder;Porsche Type-935 3.0L Turbo Flat-6;Goodyear;0;0.0;;
+1997;DNQ;GT1;50;GBR;GT1 Lotus Racing;FRA|CHE|THA;Fabien Giroix|Jean-Denis Delétraz|Ratanakul Prutirat;Lotus Elise GT1;Chevrolet LT5 6.0L V8;Michelin;0;0.0;;
+1997;DNQ;GT2;71;GBR;Team Marcos Racing International;GBR|FRA|CHE;Dominic Chapell|François Migault|Henri-Louis Maunoir;Marcos Mantara LM600;Chevrolet 5.9L V8;Dunlop;0;0.0;;
+1997;DNA;LMP;2;FRA;Rachel Welter;FRA|FRA;Sébastien Enjolras|Marc Rostan;WR LM97;Peugeot PRV 2.0L Turbo V6;;0;0.0;;
+1997;DNA;LMP;12;FRA;Didier Bonnet;FRA|FRA|FRA;David Dussau|Edouard Sezionale|François Jakubowski;Debora LMP297;Cosworth 2.0L Turbo I4;;0;0.0;;
+1997;DNA;LMP;16;USA;Matrix Motor Co Ltd.;USA|BEL|GBR;Tim Richardson|Bernard de Dryver|Robin Donovan;Matrix MPX-1;Nissan 3.0L Turbo V6;;0;0.0;;
+1997;DNA;LMP;17;FRA;Alain le Brun;FRA;Pierre Bruneau;WR LM97;Peugeot PRV 2.0L Turbo V6;;0;0.0;;Withdrawn
+1997;DNA;GT1;34;JPN;Team Menicon Sard;FRA;Olivier Grouillard;Sard MC8-R;Toyota- Lexus 4.0L Turbo V8;;0;0.0;;Disqualified
+1997;DNA;GT1;35;JPN;Team Menicon Sard;FRA|FRA|ESP|FRA|FRA;Olivier Grouillard|Cathy Muller|Oriol Servià|Alexandre Debanne|Christophe Tinseau;Sard MC8-R;Toyota-Lexus 4.0L Turbo V8;;0;0.0;;
+1997;DNA;GT1;36;FRA;RJ Racing;FRA|FRA|FRA|FRA;Patrick Gonin|Stéphane Daoudi|Benjamin Roy|Marc Sourd;Helem-Renault Spider;Renault PRV 3.0L Turbo V6;;0;0.0;;
+1997;DNA;GT1;37;FRA;RJ Racing;FRA|FRA|FRA|FRA;Patrick Gonin|Stéphane Daoudi|Benjamin Roy|Marc Sourd;Helem-Renault Spider;Renault PRV 3.0L Turbo V6;;0;0.0;;
+1997;DNA;GT1;38;FRA;BBA Compétition;FRA|FRA|FRA;Jean-Luc Maury-Laribiere|Alain Ferté|Marcel Tarrès;McLaren F1 GTR;BMW S70 6.0L V12;;0;0.0;;
+1997;DNA;GT1;51;GBR;GT1 Team Lotus;THA|BRA|THA;Ratanakul Prutirat|Maurizio Sandro Sala|Kasikam Suphot;Lotus Elise GT1;Chevrolet LT5 6.0L V8;;0;0.0;;
+1997;DNA;GT1;53;FRA;Société DAMS;FRA|FRA|DEU;David Velay|Jean-Christophe Boullion|Wolfgang Kaufmann;Panoz Esperante GTR-1;Ford Roush 6.0L V8;;0;0.0;;Disqualified
+1997;DNA;GT2;65;GBR;Chamberlain Engineering;USA|USA;Jay Cochran|Chris Gleason;Chrysler Viper GTS-R;Chrysler 8.0L V10;;0;0.0;;
+1997;DNA;GT2;69;FRA;Eric van de Vyver;FRA;Eric van de Vyver;Gillet Vertigo V de V;Cosworth 2.0L Turbo I4;;0;0.0;;
+1997;DNA;GT2;76;DEU;Bruno Krauss Rennsporttechnik;DEU|DEU;Bernhard Müller|Michael Trunk;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;;0;0.0;;
+1997;DNA;GT2;81;CHE;GT Racing Team AG;ITA|ITA;Luca Drudi|Luigino Pagotto;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;;0;0.0;;
+1997;DNA;GT2;83;GBR;Gerard McQuillan;GBR|GBR|USA;Ben Collins|Gerard McQuillan|Scott Peeler;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;;0;0.0;;
+1997;DNA;GT2;85;GBR;Steve O'Rourke;GBR|GBR|GBR;Steve O'Rourke|Tim Sugden|Win Percy;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;;0;0.0;;
+1997;DNA;GT1;24;ITA;Ennea Srl;;;Ferrari F40 GTE Evoluzione;Ferrari F120B 3.5L Turbo V8;;0;0.0;;
+1997;DNA;GT1;31;FRA;Société Larbre Competition;;;Porsche 911 GT1;Porsche 3.2L Turbo Flat-6;;0;0.0;;
+1997;DNA;GT1;47;GBR;GBF Ltd.;ITA|GBR;Andrea Boldrini|Martin Stretton;Lotus Elise GT1;Chevrolet LT5 6.0L V8;;0;0.0;;
+1997;DNA;GT1;48;GBR;GBF Ltd.;ITA|ITA;Domenico Schiattarella|Luca Badore;Lotus Elise GT1;Chevrolet LT5 6.0L V8;;0;0.0;;
+1997;DNA;GT2;68;USA;Saleen-Allen Speedlab;GBR;James Kaye;Saleen Mustang RRR;Ford 5.9L V8;;0;0.0;;
+1997;DNA;GT2;72;GBR;Team Marcos Racing International;GBR|FRA|GBR;Chris Marsh|François Migault|Andy Purvis;Marcos Mantara LM600;Chevrolet 5.9L V8;;0;0.0;;
+1997;DNA;GT2;82;GBR;Parr Motorsport;GBR|MCO|GBR;Hugh Price|Stéphane Ortelli|John Robinson;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;;0;0.0;;
+1998;1;GT1;26;DEU;Porsche AG;FRA|GBR|MCO;Laurent Aïello|Allan McNish|Stéphane Ortelli;Porsche 911 GT1-98;Porsche 3.2L Turbo Flat-6;Michelin;351;4783.781;;
+1998;2;GT1;25;DEU;Porsche AG;DEU|DEU|FRA;Jörg Müller|Uwe Alzen|Bob Wollek;Porsche 911 GT1-98;Porsche 3.2L Turbo Flat-6;Michelin;350;4770.127;;
+1998;3;GT1;32;JPN|GBR;Nissan Motorsports|TWR;JPN|JPN|JPN;Aguri Suzuki|Kazuyoshi Hoshino|Masahiko Kageyama;Nissan R390 GT1;Nissan VRH35L 3.5L Turbo V8;Bridgestone;347;4721.414;;
+1998;4;GT1;40;GBR|GBR;Gulf Team Davidoff|EMKA Racing;GBR|GBR|USA;Steve O'Rourke|Tim Sugden|Bill Auberlen;McLaren F1 GTR;BMW S70 6.0L V12;Pirelli;343;4672.796;;
+1998;5;GT1;30;JPN|GBR;Nissan Motorsports|TWR;DNK|DEU|FRA;John Nielsen|Michael Krumm|Franck Lagorce;Nissan R390 GT1;Nissan VRH35L 3.5L Turbo V8;Bridgestone;342;4649.099;;
+1998;6;GT1;31;JPN|GBR;Nissan Motorsports|TWR;NLD|FRA|ITA;Jan Lammers|Érik Comas|Andrea Montermini;Nissan R390 GT1;Nissan VRH35L 3.5L Turbo V8;Bridgestone;342;4649.012;;
+1998;7;GT1;45;USA;Panoz Motorsports Inc.;AUS|GBR|GBR;David Brabham|Andy Wallace|Jamie Davies;Panoz Esperante GTR-1;Ford ( Roush) 6.0L V8;Michelin;335;4562.990;;
+1998;8;LMP1;12;USA;Doyle-Risi Racing;ZAF|BEL|ESP;Wayne Taylor|Eric van de Poele|Fermín Velez;Ferrari 333 SP;Ferrari F310E 4.0L V12;Pirelli;332;4516.928;;
+1998;9;GT1;27;JPN|DEU;Toyota Motorsports|Toyota Team Europe;JPN|JPN|JPN;Ukyo Katayama|Toshio Suzuki|Keiichi Tsuchiya;Toyota GT-One;Toyota R36V 3.6L Turbo V8;Michelin;326;4443.214;;
+1998;10;GT1;33;JPN|GBR;Nissan Motorsports|TWR;JPN|JPN|JPN;Satoshi Motoyama|Takuya Kurosawa|Masami Kageyama;Nissan R390 GT1;Nissan VRH35L 3.5L Turbo V8;Bridgestone;319;4337.425;;
+1998;11;GT2;53;FRA;Viper Team Oreca;GBR|USA|ITA;Justin Bell|David Donohue|Luca Drudi;Chrysler Viper GTS-R;Chrysler 8.0L V10;Michelin;317;4308.193;;
+1998;12;LMP1;16;DEU;Kremer Racing;ITA|ITA|FRA;Rocky Agusta|Almo Coppelli|Xavier Pompidou;Kremer K8/2 Spyder;Porsche Type-935 3.2L Turbo Flat-6;Goodyear;314;4264.196;;
+1998;13;GT2;51;FRA;Viper Team Oreca;MCO|PRT|USA;Olivier Beretta|Pedro Lamy|Tommy Archer;Chrysler Viper GTS-R;Chrysler 8.0L V10;Michelin;312;4240.199;;
+1998;14;LMP1;3;ITA;Moretti Racing Inc.;ITA|ITA|BEL;Gianpiero Moretti|Mauro Baldi|Didier Theys;Ferrari 333 SP;Ferrari F310E 4.0L V12;Yokohama;311;4226.493;;
+1998;15;LMP1;15;FRA;La Filière;FRA|FRA|FRA;Henri Pescarolo|Olivier Grouillard|Franck Montagny;Courage C36;Porsche Type-935 3.0L Turbo Flat-6;Michelin;304;4133.121;;
+1998;16;LMP1;24;FRA;Courage Compétition;JPN|FRA|FRA;Yojiro Terada|Franck Fréon|Olivier Thévenin;Courage C41;Porsche Type-935 3.0L Turbo Flat-6;Michelin;300;4089.012;;
+1998;17;GT2;64;DEU;Roock Racing;DEU|FRA|GBR;Claudia Hürtgen|Michel Ligonnet|Robert Nearn;Porsche 911 GT2;Porsche 3.8L Turbo Flat-6;Yokohama;285;3880.925;;
+1998;18;GT2;69;FRA;Michel Nourry;FRA|FRA|FRA;Michel Nourry|Thierry Perrier|Jean-Louis Ricci;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Goodyear;276;3754.980;;
+1998;19;GT2;56;GBR;Chamberlain Engineering;GBR|USA|NLD;Gary Ayles|Matt Turner|Hans Hugenholtz;Chrysler Viper GTS-R;Chrysler 8.0L V10;Dunlop;270;3673.350;;
+1998;20;GT2;68;CHE;Elf Haberthur Racing;FRA|FRA|FRA;Éric Graham|Hervé Poulain|Jean-Luc Maury-Laribière;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Dunlop;268;3646.140;;
+1998;21;GT2;55;GBR;Chamberlain Engineering;PRT|PRT|PRT;Ni Amorim|Gonçalo Gomes|Manuel Mello-Breyner;Chrysler Viper GTS-R;Chrysler 8.0L V10;Dunlop;264;3591.720;;
+1998;22;GT2;65;DEU;Roock Racing;GBR|DEU|GBR;Rob Schirle|André Ahrlé|David Warnock;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Yokohama;247;3360.435;;
+1998;23;GT2;72;FRA;Larbre Compétition;FRA|FRA|FRA;Patrice Goueslard|Jean-Luc Chéreau|Pierre Yver;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Michelin;240;3265.200;;
+1998;DNF;GT1;29;JPN|DEU;Toyota Motorsports|Toyota Team Europe;BEL|DEU|GBR;Thierry Boutsen|Ralf Kelleners|Geoff Lees;Toyota GT-One;Toyota R36V 3.6L Turbo V8;Michelin;330;4489.650;;Transmission (gearbox)
+1998;DNF;GT2;71;PRT;Estoril Racing Communication;FRA|PRT|FRA;Michel Maisonneuve|Manuel Monteiro|Michel Monteiro;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Pirelli;277;3768.585;;Engine
+1998;DNF;GT1;44;USA|FRA;Panoz Motorsports Inc.|DAMS;FRA|FRA|USA;Éric Bernard|Christophe Tinseau|Johnny O'Connell;Panoz Esperante GTR-1;Ford ( Roush) 6.0L V8;Michelin;236;3210.780;;Transmission (gearbox)
+1998;DNF;LMP1;13;FRA;Courage Compétition;FRA|BEL|FRA;Didier Cottaz|Marc Goossens|Jean-Philippe Belloc;Courage C51;Nissan VRH35Z 3.0L Turbo V8;Michelin;232;3156.360;;Gear lever
+1998;DNF;GT1;41;GBR|GBR;Gulf Team Davidoff|GTC Competition;DEU|ITA|ITA;Dr. Thomas Bscher|Emanuele Pirro|Rinaldo Capello;McLaren F1 GTR;BMW S70 6.0L V12;Goodyear;228;3101.940;;Accident
+1998;DNF;LMP1;8;DEU|DEU;Porsche AG|Joest Racing;FRA|USA|GBR;Pierre-Henri Raphanel|David Murry|James Weaver;Porsche LMP1-98;Porsche Type-935 3.2L Turbo Flat-6;Michelin;218;2965.890;;Spin
+1998;DNF;LMP1;10;FRA;Pilot Racing;FRA|FRA|FRA;Michel Ferté|Pascal Fabre|François Migault;Ferrari 333 SP;Ferrari F310E 4.0L V12;Dunlop;203;2761.815;;Transmission (gearbox)
+1998;DNF;GT2;67;CHE;Elf Haberthur Racing;BEL|FRA|FRA;Michel Neugarten|Jean-Claude Lagniez|David Smadja;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Dunlop;198;2693.790;;Transmission
+1998;DNF;GT1;28;JPN|DEU;Toyota Motorsports|Toyota Team Europe;GBR|FRA|FRA;Martin Brundle|Emmanuel Collard|Éric Hélary;Toyota GT-One;Toyota R36V 3.6L Turbo V8;Michelin;191;2598.555;;Accident
+1998;DNF;LMP1;5;FRA;JB Racing;ITA|FRA|FRA;Vincenzo Sospiri|Jean-Christophe Boullion|Jérôme Policand;Ferrari 333 SP;Ferrari F310E 4.0L V12;Michelin;187;2544.135;;Transmission (gearbox)
+1998;DNF;GT2;60;FRA|FRA;Chereau Sports|Larbre Compétition;FRA|SWE|GBR;Jean-Pierre Jarier|Carl Rosenblad|Robin Donovan;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Michelin;164;2231.220;;Suspension
+1998;DNF;GT2;62;CAN;CJ Motorsport;USA|CAN|DEU;John Morton|John Graham|Harald Grohs;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Goodyear;164;2231.220;;Accident
+1998;DNF;LMP1;21;FRA;Solution F;FRA|AUS|BEL;Philippe Gache|Wayne Gardner|Didier de Radiguès;Riley & Scott Mk III;Ford 5.1L V8;Pirelli;155;2108.775;;Engine
+1998;DNF;LMP1;14;FRA;Courage Compétition;SWE|FRA|JPN;Fredrik Ekblom|Patrice Gay|Takeshi Tsuchiya;Courage C51;Nissan VRH35Z 3.5L Turbo V8;Michelin;126;1714.230;;Water leak
+1998;DNF;LMP1;7;DEU|DEU;Porsche AG|Joest Racing;ITA|SWE|FRA;Michele Alboreto|Stefan Johansson|Yannick Dalmas;Porsche LMP1-98;Porsche Type-935 3.2L Turbo Flat-6;Michelin;107;1455.735;;Electrics
+1998;DNF;LMP2;22;FRA;Didier Bonnet Racing;FRA|FRA|FRA;Lionel Robert|Édouard Sezionale|Pierre Bruneau;Debora LMP296;BMW S50 3.2L I6;Michelin;106;1442.130;;Transmission (gearbox)
+1998;DNF;GT2;61;DEU;Krauss Race Sports Intl.;DEU|DEU|DEU;Bernhard Müller|Michael Trunk|Ernst Palmberger;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Dunlop;71;965.955;;Engine
+1998;DNF;LMP1;1;DEU;Team BMW Motorsport;DEU|GBR|DNK;Hans-Joachim Stuck|Steve Soper|Tom Kristensen;BMW V12 LM;BMW S70 6.0L V12;Michelin;60;816.300;;Rear drive train vibrations
+1998;DNF;LMP1;2;DEU;Team BMW Motorsport;ITA|DEU|VEN;Pierluigi Martini|Joachim Winkelhock|Johnny Cecotto;BMW V12 LM;BMW S70 6.0L V12;Michelin;43;585.015;;Rear drive train vibrations
+1998;DNF;GT1;36;DEU;AMG-Mercedes;FRA|BRA|FRA;Jean-Marc Gounon|Ricardo Zonta|Christophe Bouchut;Mercedes-Benz CLK-LM;Mercedes-Benz M119 5.0L V8;Bridgestone;31;421.755;;Engine
+1998;DNF;GT2;50;FRA;Viper Team Oreca;AUT|BEL|NLD;Karl Wendlinger|Marc Duez|Patrick Huisman;Chrysler Viper GTS-R;Chrysler 8.0L V10;Michelin;28;380.940;;Electrics
+1998;DNF;GT2;70;DEU;Konrad Motorsport;AUT|USA|USA;Franz Konrad|Larry Schumacher|Nick Ham;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Dunlop;24;326.520;;Accident
+1998;DNF;GT1;35;DEU;AMG-Mercedes;DEU|AUS|DEU;Bernd Schneider|Mark Webber|Klaus Ludwig;Mercedes-Benz CLK-LM;Mercedes-Benz M119 5.0L V8;Bridgestone;19;258.495;;Engine
+1998;DNF;GT2;73;DEU;Konrad Motorsport;CHE|USA|ITA;Toni Seiler|Peter Kitchak|Angelo Zadra;Porsche 911 GT2;Porsche 3.6L Turbo Flat-6;Dunlop;2;27.210;;Engine (piston)
+1998;DNS;GT1;37;GBR;Newcastle United;GBR|GBR|GBR;Julian Bailey|Tiff Needell|Anthony Reid;Lister Storm GTL;Jaguar 7.0L V12;;0;0.0;;Technical acceptance failed
+1998;DNS;GT1;46;USA;Panoz Motorsports Inc.;GBR|GBR;James Weaver|Perry McCarthy;Panoz Esperante GTR-1;Ford Roush 6.0L V8;;0;0.0;;Withdrawn
+1998;DNS;GT2;52;FRA;Societé Viper Team Oreca;MCO|AUT|ITA;Olivier Beretta|Karl Wendlinger|Luca Drudi;Chrysler Viper GTS-R;Chrysler 8.0L V10;;0;0.0;;Withdrawn
+1998;DNS;GT2;54;GBR;Orion Motorsport;GBR|GBR|NLD|GBR;Richard Dean|Julian Westwood|Michael Vergers|Kurt Luby;Chrysler Viper GTS-R;Chrysler 8.0L V10;;0;0.0;;Technical acceptance failed
+1998;DNS;GT2;58;FRA;R. J. Racing;FRA|FRA;Patrick Gonin|Benjamin Roy;Helem;Renault PRV 3.0L Turbo V6;;0;0.0;;Technical acceptance failed (engine configuration)
+1998;DNA;LMP1;17;DEU;Kremer Racing;ITA|ESP|FRA;Enrico Bertaggia|Tomas Saldaña|Alfonso de Orleans-Bourbon;Kremer K8 Spyder;Porsche Type-935 3.2L Turbo Flat-6;;0;0.0;;
+1998;DNA;LMP1;18;DEU;Konrad Motorsport;DEU;Franz Konrad;Kremer K8 Spyder;Porsche Type-935 3.2L Turbo Flat-6;;0;0.0;;
+1998;DNA;LMP1;19;FRA;Gerard Welter;FRA|FRA|FRA;Jean-Bernard Bouvet|Xavier Pompidou|Marc Rostan;WR LMP98;Peugeot PRV 2.0L Turbo V6;;0;0.0;;
+1998;DNA;LMP1;20;FRA;Jean-Luc Sonnier Idee Verte;FRA|FRA;Pierre Bruneau|Dominique Lacaud;WR LMP98;Peugeot PRV 2.0L Turbo V6;;0;0.0;;
+1998;DNA;GT1;38;DEU;Zakspeed Racing;DEU|DEU|FRA;Michael Bartels|Armin Hahne|Pierre-Henri Raphanel;Porsche 911 GT1;Porsche 3.2L Turbo Flat-6;;0;0.0;;
+1998;DNA;GT1;39;DEU;Zakspeed Racing;DEU|CHE|FRA;Alexander Grau|Jean-Denis Delétraz|Fabien Giroix;Porsche 911 GT1;Porsche 3.2L Turbo Flat-6;;0;0.0;;
+1998;DNA;GT1;48;FRA;Societé Larbre Competition;FRA|FRA|GBR|PRT|FRA|SWE;Jean-Pierre Jarier|Patrice Goueslard|Robin Donovan|Pedro Lamy|Christophe Bouchut|Carl Rosenblad;Porsche 911 GT1 Evo-97;Porsche 3.2L Turbo Flat-6;;0;0.0;;
+1998;DNA;GT2;63;GBR;Gerard MacQuillan;BRA|GBR|GBR;Thomas Erdos|Gerard MacQuillan|Richard Jones;Porsche 911 GT2;Porsche 3.8L Turbo Flat-6;;0;0.0;;
+1998;DNA;GT2;66;DEU;Roock Racing Motorsport;GBR|GBR|DEU;John Robinson|Hugh Price|Sascha Maassen;Porsche 911 GT2;Porsche 3.8L Turbo Flat-6;;0;0.0;;
+1998;DNA;LMP1;4;FRA;La Filiere Elf;ITA;Gianluca Giraudi;Ferrari 333SP;Ferrari F310E 4.0L V12;;0;0.0;;
+1998;DNA;LMP1;6;GBR;GTC Motorsport;GBR;Ray Bellm;Ferrari 333SP;Ferrari F310E 4.0L V12;;0;0.0;;
+1998;DNA;LMP1;9;FRA;Pilot Racing;GBR|FRA;Derek Bell|Michel Ferté;Ferrari 333SP;Ferrari F310E 4.0L V12;;0;0.0;;
+1998;DNA;LMP1;11;CHE;Ecurie Biennoise;CHE|CHE;Enzo Calderari|Lilian Bryner;Ferrari 333SP;Ferrari F310E 4.0L V12;;0;0.0;;
+1998;DNA;LMP1;23;FRA;Sarta Project Lukoil;FRA;François Migault;Sarta 624;Renault PRV 3.0L Turbo V6;;0;0.0;;
+1998;DNA;GT1;34;JPN;Nissan Motorsports;JPN|JPN|JPN;Masami Kageyama|Masahiko Kageyama|Satoshi Motoyama;Nissan R390 GT1;Nissan VRH35L 3.5L Turbo V8;;0;0.0;;
+1998;DNA;GT1;42;GBR;Parabolica Motorsport Motorsport;GBR|GBR;Chris Goodwin|Gary Ayles;McLaren F1 GTR LM;BMW S70 6.0L V12;;0;0.0;;
+1998;DNA;GT1;43;GBR;Parabolica Motorsport Motorsport;;;McLaren F1 GTR LM;BMW S70 6.0L V12;;0;0.0;;
+1998;DNA;GT1;47;GBR;Millenium Motorsport;GBR|GBR|SWE;Dino Morelli|David Goode|Carl Rosenblad;Porsche 911 GT1-97;Porsche 3.2L Turbo Flat-6;;0;0.0;;
+1998;DNA;GT2;57;FRA;R.J. Racing;FRA;Benjamin Roy;Helem;Renault PRV 3.0L Turbo V6;;0;0.0;;
+1998;DNA;GT2;59;GBR;Pilbeam Racing Designs Ltd.;GBR|GBR;Andrew Bramley|Chris Goodwin;Lotus Esprit Turbo V8;Lotus 3.5L Turbo V8;;0;0.0;;Disqualified
+1998;DNA;GT2;74;GBR;Cirtek Motorsport;GBR|GBR|FRA|USA|ESP;Robin Schirle|David Warnock|Michel Ligonnet|Steve Saleen|Carlos Palau;Saleen Mustang;Ford 6.0L V8;;0;0.0;;Withdrawn
+1998;DNA;GT2;75;GBR;Cirtek Motorsport;GBR|GBR|FRA|GBR;Robin Schirle|David Warnock|Michel Ligonnet|Christian Vann;Saleen Mustang;Ford 6.0L V8;;0;0.0;;Withdrawn
+1999;1;LMP;15;DEU;BMW Motorsport;DEU|ITA|FRA;Joachim Winkelhock|Pierluigi Martini|Yannick Dalmas;BMW V12 LMR;BMW S70 6.0L V12;Michelin;365;4982.974;;
+1999;2;LMGTP;3;JPN|DEU;Toyota Motorsport|Toyota Team Europe;JPN|JPN|JPN;Ukyo Katayama|Keiichi Tsuchiya|Toshio Suzuki;Toyota GT-One;Toyota R36V 3.6L Turbo V8;Michelin;364;4971.215;;
+1999;3;LMP;8;DEU;Audi Sport Team Joest;DEU|BEL|ITA;Frank Biela|Didier Theys|Emanuele Pirro;Audi R8R;Audi 3.6L Turbo V8;Michelin;360;4911.143;;
+1999;4;LMP;7;DEU;Audi Sport Team Joest;ITA|ITA|FRA;Michele Alboreto|Rinaldo Capello|Laurent Aïello;Audi R8R;Audi 3.6L Turbo V8;Michelin;346;4724.871;;
+1999;5;LMP;18;GBR;Price+ Bscher;DEU|USA|GBR;Thomas Bscher|Bill Auberlen|Steve Soper;BMW V12 LM;BMW S70 6.0L V12;Yokohama;345;4713.650;;
+1999;6;LMP;13;FRA;Courage Compétition;ITA|ITA|ITA;Alex Caffi|Andrea Montermini|Domenico Schiattarella;Courage C52;Nissan VRH35L 3.5L Turbo V8;Bridgestone;342;4660.565;;
+1999;7;LMP;12;USA;Panoz Motorsports;AUS|FRA|USA;David Brabham|Éric Bernard|Butch Leitzinger;Panoz LMP-1 Roadster-S;Ford ( Élan) 6.0L V8;Michelin;336;4587.348;;
+1999;8;LMP;21;JPN;Nissan Motorsports;FRA|BEL|SWE;Didier Cottaz|Marc Goossens|Fredrik Ekblom;Courage C52;Nissan VRH35L 3.5L Turbo V8;Bridgestone;335;4551.747;;
+1999;9;LMP;14;FRA;Pescarolo Promotion Racing Team;FRA|FRA|FRA;Henri Pescarolo|Michel Ferté|Patrice Gay;Courage C50;Porsche 3.0L Turbo Flat-6;Pirelli;327;4466.596;;
+1999;10;GTS;51;FRA;Viper Team Oreca;MCO|AUT|FRA;Olivier Beretta|Karl Wendlinger|Dominique Dupuy;Chrysler Viper GTS-R;Chrysler 8.0L V10;Michelin;325;4439.021;;
+1999;11;LMP;11;USA;Panoz Motorsports;USA|DNK|ITA;Johnny O'Connell|Jan Magnussen|Max Angelelli;Panoz LMP-1 Roadster-S;Ford ( Élan) 6.0L V8;Michelin;323;4410.482;;
+1999;12;GTS;52;FRA;Viper Team Oreca;USA|GBR|BEL;Tommy Archer|Justin Bell|Marc Duez;Chrysler Viper GTS-R;Chrysler 8.0L V10;Michelin;318;4343.782;;
+1999;13;GT;81;DEU;Manthey Racing GmbH;DEU|NLD|ITA;Uwe Alzen|Patrick Huisman|Luca Riccitelli;Porsche 911 GT3-R;Porsche 3.6L Flat-6;Pirelli;317;4320.392;;
+1999;14;GTS;56;GBR;Chamberlain Engineering;PRT|NLD|CHE;Ni Amorim|Hans Hugenholtz|Toni Seiler;Chrysler Viper GTS-R;Chrysler 8.0L V10;Michelin;314;4283.209;;
+1999;15;GTS;50;FRA;CICA Team Oreca;PRT|PRT|PRT;Manuel Mello-Breyner|Pedro Mello-Breyner|Tomaz Mello-Breyner;Chrysler Viper GTS-R;Chrysler 8.0L V10;Michelin;312;4265.509;;
+1999;16;GTS;55;FRA;Paul Belmondo Racing;FRA|FRA|FRA;Emmanuel Clérico|Jean-Claude Lagniez|Guy Martinolle;Chrysler Viper GTS-R;Chrysler 8.0L V10;Dunlop;309;4222.664;;
+1999;17;GTS;54;FRA;Paul Belmondo Racing;FRA|PRT|FRA;Paul Belmondo|Tiago Monteiro|Marc Rostan;Chrysler Viper GTS-R;Chrysler 8.0L V10;Dunlop;299;4083.442;;
+1999;18;GTS;64;DEU;Konrad Motorsport;AUT|USA|USA;Franz Konrad|Peter Kitchak|Charles Slater;Porsche 911 GT2;Porsche 3.8L Turbo Flat-6;Dunlop;293;3995.993;;
+1999;19;GT;80;USA;Champion Racing;DEU|FRA|DEU;Dirk Müller|Bob Wollek|Bernd Mayländer;Porsche 911 GT3-R;Porsche 3.6L Flat-6;Pirelli;292;3980.274;;
+1999;20;GTS;62;DEU;Roock Racing;DEU|DEU|BEL;Claudia Hürtgen|André Ahrlé|Vincent Vosse;Porsche 911 GT2;Porsche 3.8L Turbo Flat-6;Yokohama;290;3956.120;;
+1999;21;GT;84;FRA;Perspective Racing;FRA|FRA|FRA;Thierry Perrier|Jean-Louis Ricci|Michel Nourry;Porsche 911 3.8 RSR;Porsche 3.8L Flat-6;Pirelli;288;3935.378;;
+1999;22;GTS;57;GBR;Chamberlain Engineering;BRA|GBR|DEU;Thomas Erdos|Christian Vann|Christian Gläsel;Chrysler Viper GTS-R;Chrysler 8.0L V10;Michelin;270;3683.086;;
+1999;NC;GTS;65;FRA|FRA;Chéreau Sports|Larbre Compétition;FRA|FRA|FRA;Jean-Luc Chéreau|Patrice Goueslard|Pierre Yver;Porsche 911 GT2;Porsche 3.8L Turbo Flat-6;Michelin;240;3281.298;;Insufficient distance
+1999;DNF;LMP;17;DEU;Team BMW Motorsport;DNK|FIN|DEU;Tom Kristensen|JJ Lehto|Jörg Müller;BMW V12 LMR;BMW S70 6.0L V12;Michelin;304;4135.920;;Accident
+1999;DNF;GTS;53;FRA;Viper Team Oreca;USA|FRA|FRA;David Donohue|Jean-Philippe Belloc|Soheil Ayari;Chrysler Viper GTS-R;Chrysler 8.0L V10;Michelin;271;3686.955;;Mechanical
+1999;DNF;GTS;63;DEU;Roock Racing;DEU|GBR|GBR;Hubert Haupt|John Robinson|Hugh Price;Porsche 911 GT2;Porsche 3.8L Turbo Flat-6;Yokohama;232;3156.360;;Engine
+1999;DNF;LMP;19;JPN|GBR;Team Goh|David Price Racing;JPN|JPN|JPN;Hiro Matsushita|Hiroki Katoh|Akihiko Nakaya;BMW V12 LM;BMW S70 6.0L V12;Michelin;223;3033.915;;Transmission (gearbox)
+1999;DNF;LMP;26;DEU|NLD;Konrad Motorsport|Talkline Racing for Holland;NLD|NLD|NLD;Jan Lammers|Peter Kox|Tom Coronel;Lola B98/10;Ford ( Roush) 6.0L V8;Dunlop;213;2897.865;16:44:00;Transmission (gearbox)
+1999;DNF;LMGTP;10;GBR;Audi Sport UK Ltd.;GBR|GBR|GBR;James Weaver|Andy Wallace|Perry McCarthy;Audi R8C;Audi 3.6L Turbo V8;Michelin;198;2693.790;17:15:00;Transmission (gearbox)
+1999;DNF;LMGTP;2;JPN|DEU;Toyota Motorsports|Toyota Team Europe;BEL|DEU|GBR;Thierry Boutsen|Ralf Kelleners|Allan McNish;Toyota GT-One;Toyota R36V 3.6L Turbo V8;Michelin;173;2353.665;;Accident
+1999;DNF;GTS;61;DEU;Freisinger Motorsport;DEU|DEU|FRA;Ernst Palmberger|Wolfgang Kaufmann|Michel Ligonnet;Porsche 911 GT2;Porsche 3.8L Turbo Flat-6;Dunlop;157;2135.985;13:10:00;Engine
+1999;DNF;LMP;27;DEU;Kremer Racing;ESP|ZAF|BEL;Tomas Saldaña|Grant Orbell|Didier de Radiguès;Lola B98/10;Ford ( Roush) 6.0L V8;Goodyear;146;1986.330;13:35:00;Transmission (gearbox), engine
+1999;DNF;GTS;67;FRA;Larbre Compétition;FRA|FRA|FRA;Jean-Pierre Jarier|Sébastien Bourdais|Pierre de Thoisy;Porsche 911 GT2;Porsche 3.8L Turbo Flat-6;Michelin;134;1823.070;11:15:00;Engine
+1999;DNF;GTS;66;FRA;Estoril Racing Communication;PRT|FRA|FRA;Manuel Monteiro|Michel Monteiro|Michel Maisonneuve;Porsche 911 GT2;Porsche 3.8L Turbo Flat-6;Pirelli;123;1673.415;;Accident
+1999;DNF;LMP;22;JPN;Nissan Motorsports;DEU|JPN|FRA;Michael Krumm|Satoshi Motoyama|Érik Comas;Nissan R391;Nissan VRH50A 5.0L V8;Bridgestone;110;1496.550;;Engine
+1999;DNF;LMGTP;1;JPN|DEU;Toyota Motorsports|Toyota Team Europe;GBR|FRA|ITA;Martin Brundle|Emmanuel Collard|Vincenzo Sospiri;Toyota GT-One;Toyota R36V 3.6L Turbo V8;Michelin;90;1224.450;;Puncture
+1999;DNF;LMP;25;FRA;Team DAMS;FRA|FRA|FRA;Christophe Tinseau|Franck Montagny|David Terrien;Lola B98/10;Judd GV4 4.0L V10;Pirelli;77;1047.585;05:45:00;Engine
+1999;DNF;LMGTP;6;DEU;AMG-Mercedes;DEU|FRA|PRT;Bernd Schneider|Franck Lagorce|Pedro Lamy;Mercedes-Benz CLR;Mercedes-Benz GT108C 5.7L V8;Bridgestone;76;1033.980;04:49:00;Withdrawn (after the accident of the #5)
+1999;DNF;LMGTP;5;DEU;AMG-Mercedes;FRA|DEU|GBR;Christophe Bouchut|Nick Heidfeld|Peter Dumbreck;Mercedes-Benz CLR;Mercedes-Benz GT108C 5.7L V8;Bridgestone;75;1020.375;;Accident
+1999;DNF;LMP;24;JPN;Autoexe Motorsport;JPN|FRA|GBR;Yojiro Terada|Franck Fréon|Robin Donovan;Autoexe LMP99;Ford 6.0L V8;Yokohama;74;1006.770;10:00:00;Engine
+1999;DNF;LMP;29;FRA;JB Racing;FRA|ITA|ITA;Jérôme Policand|Mauro Baldi|Christian Pescatori;Ferrari 333 SP;Ferrari F130E 4.0L V12;Pirelli;71;965.955;06:20:00;Transmission (gearbox), engine
+1999;DNF;LMP;32;FRA|FRA;Riley & Scott Europe|Solution F;ITA|SWE|USA;Marco Apicella|Carl Rosenblad|Shane Lewis;Riley & Scott Mk III/2;Ford 6.0L V8;Pirelli;67;911.535;07:38:00;Eigine
+1999;DNF;LMGTP;9;GBR;Audi Sport UK Ltd.;SWE|MCO|DEU;Stefan Johansson|Stéphane Ortelli|Christian Abt;Audi R8C;Audi 3.6L Turbo V8;Michelin;55;748.275;;Transmission (gearbox)
+1999;DNF;LMP;31;FRA|FRA;Riley & Scott Europe|Solution F;FRA|ZAF|FRA;Philippe Gache|Gary Formato|Olivier Thévenin;Riley & Scott Mk III/2;Ford 6.0L V8;Pirelli;25;340.125;05:19:00;Engine
+1999;DNF;GTS;60;DEU;Freisinger Motorsport;AUS|AUT|JPN;Ray Lintott|Manfred Jurasz|Katsunori Iketani;Porsche 911 GT2;Porsche 3.8L Turbo Flat-6;Dunlop;24;326.520;02:10:00;Accident
+1999;DNS;LMGTP;4;DEU;AMG-Mercedes;AUS|FRA|DEU;Mark Webber|Jean-Marc Gounon|Marcel Tiemann;Mercedes-Benz CLR;Mercedes-Benz GT108C 5.7L V8;Bridgestone;0;0.0;;Accident in practice
+1999;DNS;LMP;23;JPN;Nissan Motorsports;JPN|JPN|BEL;Aguri Suzuki|Masami Kageyama|Eric van de Poele;Nissan R391;Nissan VRH50A 5.0L V8;Bridgestone;0;0.0;;Accident
+1999;DNQ;GT;83;GBR;GFB MacQuillan;BEL|GBR|USA;Michel Neugarten|Gerard MacQuillan|Chris Gleason;Porsche 911 3.8 RSR;Porsche 3.8L Flat-6;Pirelli;0;0.0;;
+1999;DNA;LMP;20;FRA;WR Racing;FRA;Guillaume Gomez;WR LMP99;Peugeot PRV 2.0L Turbo V6;;0;0.0;;
+1999;DNA;LMP;30;FRA;J.B. Jabouille Bouresche;ITA|FRA|ITA;Christian Pescatori|Jérôme Policand|Mauro Baldi;Ferrari 333SP;Ferrari F130E 4.0L V12;;0;0.0;;Withdrawn
+1999;DNA;GTS;58;FRA;Jean-Luc Maury-Laribiere Racing;FRA|FRA|FRA;Jean-Luc Maury-Laribière|Pascal Fabre|Pascal Hernandez;Chrysler Viper GTS-R;Chrysler 8.0L V10;;0;0.0;;Rejected
+1999;DNA;GTS;68;GBR;Gerard MacMillan;GBR|GBR|GBR;Richard Jones|Alec Hammond|Gary Ayles;Porsche 911 GT2;Porsche 3.8L Turbo Flat-6;;0;0.0;;
+1999;DNA;GTS;86;GBR;Brookspeed Motorsport;GBR|GBR|NZL|AUS;Dave Clark|Kilian Konig|Neil Cunningham|Ray Lintott;Chrysler Viper GTS-R;Chrysler 8.0L V10;Dunlop;0;0.0;;
+1999;DNA;LMP;28;DEU;Kremer Racing;;;Lola B98/10;Roush 6.0L V8;;0;0.0;;
+1999;DNA;LMGTP;33;GBR;G-Force Motorsport;DNK|SWE|GBR;Thorkild Thyrring|Magnus Wallinder|Geoff Lister;Porsche 911 GT1 Evo;Porsche 3.2L Turbo Flat-6;;0;0.0;;
+1999;DNA;LMGTP;34;GBR;Parr Gaumont Motorsport;GBR;David Saunders;Porsche 911 GT1 Evo;Porsche 3.2L Turbo Flat-6;;0;0.0;;
+1999;DNA;GTS;59;GBR;GT Developments;USA;Brian Cunningham;Chrysler Viper GTS-R;Chrysler 8.0L V10;;0;0.0;;
+1999;DNA;GTS;69;DEU;Krauss Race Sports International;DEU;Michael Trunk;Porsche 911 GT2;Porsche 3.8L Turbo Flat-6;;0;0.0;;
+1999;DNA;GTS;70;DEU;RWS Motorsport;AUT|AUT|ITA;Horst Felbermayr|Horst Felbermayr junior|Fabio Mancini;Porsche 911 GT2;Porsche 3.8L Turbo Flat-6;;0;0.0;;
+1999;DNA;GTS;82;FRA;Larbre Compétition;BEL|GBR|FRA;Michel Neugarten|Julian Westwood|Jack Leconte;Porsche 911 GT3-R;Porsche 3.8L Turbo Flat-6;;0;0.0;;
+1999;DNA;GTS;85;FRA;Red Racing;FRA|FRA;Lucien Guitteny|Patrick Camus;Ferrari 550 Maranello;Ferrari 5.5L V12;;0;0.0;;
+2000;1;LMP900;8;DEU;Audi Sport Team Joest;DEU|DNK|ITA;Frank Biela|Tom Kristensen|Emanuele Pirro;Audi R8;Audi 3.6L Turbo V8;Michelin;368;5007.988;;
+2000;2;LMP900;9;DEU;Audi Sport Team Joest;FRA|GBR|MCO;Laurent Aïello|Allan McNish|Stéphane Ortelli;Audi R8;Audi 3.6L Turbo V8;Michelin;367;4994.374;;
+2000;3;LMP900;7;DEU;Audi Sport Team Joest;DEU|ITA|ITA;Christian Abt|Michele Alboreto|Rinaldo Capello;Audi R8;Audi 3.6L Turbo V8;Michelin;365;4967.160;;
+2000;4;LMP900;16;FRA;Pescarolo Sport;FRA|FRA|FRA;Olivier Grouillard|Sébastien Bourdais|Emmanuel Clérico;Courage C52;Peugeot A32 3.2L Turbo V6;Michelin;344;4684.273;;
+2000;5;LMP900;12;USA;Panoz Motorsports;USA|JPN|FRA;Johnny O'Connell|Hiroki Katoh|Pierre-Henri Raphanel;Panoz LMP-1 Roadster-S;Élan 6L8 6.0L V8;Michelin;342;4650.282;;
+2000;6;LMP900;23;JPN;TV Asahi Team Dragon;JPN|JPN|JPN;Toshio Suzuki|Masami Kageyama|Masahiko Kageyama;Panoz LMP-1 Roadster-S;Élan 6L8 6.0L V8;Michelin;340;4630.200;;
+2000;7;GTS;51;FRA;Viper Team Oreca;FRA|MCO|AUT;Dominique Dupuy|Olivier Beretta|Karl Wendlinger;Chrysler Viper GTS-R;Chrysler 8.0L V10;Michelin;333;4531.825;;
+2000;8;LMP900;22;JPN;TV Asahi Team Dragon;JPN|JPN|JPN;Keiichi Tsuchiya|Akira Iida|Masahiko Kondo;Panoz LMP-1 Roadster-S;Élan 6L8 6.0L V8;Michelin;330;4494.105;;
+2000;9;GTS;53;FRA;Viper Team Oreca;USA|PRT|FRA;David Donohue|Ni Amorim|Anthony Beltoise;Chrysler Viper GTS-R;Chrysler 8.0L V10;Michelin;328;4463.792;;
+2000;10;GTS;64;USA;Corvette Racing;FRA|USA|USA;Franck Fréon|Andy Pilgrim|Kelly Collins;Chevrolet Corvette C5-R;Chevrolet LS7R 7.0L V8;Goodyear;327;4441.382;;
+2000;11;GTS;63;USA;Corvette Racing;USA|CAN|GBR;Chris Kneifel|Ron Fellows|Justin Bell;Chevrolet Corvette C5-R;Chevrolet LS7R 7.0L V8;Goodyear;326;4433.531;;
+2000;12;GTS;52;FRA;Viper Team Oreca;USA|BEL|NLD;Tommy Archer|Marc Duez|Patrick Huisman;Chrysler Viper GTS-R;Chrysler 8.0L V10;Michelin;324;4409.617;;
+2000;13;GTS;57;NLD;Carsport Holland;NLD|NLD|NLD;Mike Hezemans|David Hart|Hans Hugenholtz;Chrysler Viper GTS-R;Chrysler 8.0L V10;Michelin;317;4307.715;;
+2000;14;GTS;60;DEU;Konrad Motorsport;USA|USA|DEU;Charles Slater|Tommy Kendall|Jürgen von Gartzen;Porsche 911 GT2;Porsche 3.8L Turbo Flat-6;Dunlop;317;4306.594;;
+2000;15;LMP900;11;USA;Panoz Motorsports;AUS|DNK|USA;David Brabham|Jan Magnussen|Mario Andretti;Panoz LMP-1 Roadster-S;Élan 6L8 6.0L V8;Michelin;315;4291.468;;
+2000;16;GT;73;JPN;Team Taisan ( ja) Advan;JPN|JPN|BEL;Hideo Fukuyama|Atsushi Yogo|Bruno Lambert;Porsche 911 GT3-R;Porsche 3.6L Flat-6;Yokohama;310;4220.975;;
+2000;17;GT;82;AUS;Skea Racing International;GBR|USA|DEU;Johnny Mowlem|David Murry|Sascha Maassen;Porsche 911 GT3-R;Porsche 3.6L Flat-6;Pirelli;304;4138.542;;
+2000;18;GT;76;DEU;Seikel Motorsport;MAR|BEL|CAN;Max Cohen-Olivar|Michel Neugarten|Anthony Burgess;Porsche 911 GT3-R;Porsche 3.6L Flat-6;Dunlop;302;4106.595;;
+2000;19;LMP900;3;FRA;Team DAMS;FRA|FRA|FRA;Éric Bernard|Emmanuel Collard|Franck Montagny;Cadillac Northstar LMP;Cadillac Northstar 4.0L Turbo V8;Pirelli;300;4074.379;;
+2000;20;LMP900;6;FRA;Mopar Team Oreca;BEL|BEL|FRA;Didier Theys|Jeffrey van Hooydonk|Didier André;Reynard 2KQ-LM;Chrysler Mopar 6.0L V8;Michelin;292;3973.320;;
+2000;21;LMP900;1;USA;Team Cadillac;FRA|USA|GBR;Franck Lagorce|Butch Leitzinger|Andy Wallace;Cadillac Northstar LMP;Cadillac Northstar 4.0L Turbo V8;Pirelli;291;3954.845;;
+2000;22;LMP900;2;USA;Team Cadillac;ZAF|ITA|BEL;Wayne Taylor|Max Angelelli|Eric van de Poele;Cadillac Northstar LMP;Cadillac Northstar 4.0L Turbo V8;Pirelli;287;3900.400;;
+2000;23;GT;79;FRA;Perspective Racing;FRA|FRA|FRA;Thierry Perrier|Jean-Louis Ricci|Romano Ricci;Porsche 911 GT3-R;Porsche 3.6L Flat-6;Pirelli;286;3892.966;;
+2000;24;GT;80;BEL;M1 Club-Renstal Excelsior;BEL|BEL|BEL;Philippe Verellen|Rudi Penders|Kurt Dujardyn;Porsche 911 GT3-R;Porsche 3.6L Flat-6;Pirelli;285;3879.444;;
+2000;25;LMP675;32;CAN;Multimatic Motorsports;CAN|CAN|CAN;Scott Maxwell|John Graham|Greg Wilkins;Lola B2K/40;Nissan ( AER) VQL 3.0L V6;Pirelli;274;3726.007;;
+2000;26;LMP675;36;FRA;Rachel Welter;FRA|JPN|FRA;Richard Balandras|Yojiro Terada|Sylvain Boulay;WR LMP;Peugeot 2.0L Turbo I4;Michelin;266;3612.825;;
+2000;27;GT;75;DEU|USA;Manthey Racing|Gunnar Racing;USA|USA|USA;Michael Brockman|Mike Lauer|Gunnar Jeannette;Porsche 911 GT3-R;Porsche 3.6L Flat-6;Dunlop;261;3551.103;;
+2000;NC;LMP900;10;DNK;Team Den Blå Avis;DNK|ITA|DEU;John Nielsen|Mauro Baldi|Klaus Graf;Panoz LMP-1 Roadster-S;Élan 6L8 6.0L V8;Pirelli;205;2789.025;;Insufficient distance
+2000;DSQ;GT;83;USA;Dick Barbour Racing;DEU|DEU|FRA;Dirk Müller|Lucas Luhr|Bob Wollek;Porsche 911 GT3-R;Porsche 3.6L Flat-6;Michelin;319;4338.745;;Oversize fuel tank
+2000;DNF;GTS;59;DEU;Freisinger Motorsport;DEU|JPN|JPN;Wolfgang Kaufmann|Yukihiro Hane|Katsunori Iketani;Porsche 911 GT2;Porsche 3.8L Turbo Flat-6;Dunlop;313;4258.365;;Suspension
+2000;DNF;GT;81;CHE;Haberthur Racing;ITA|FRA|ITA;Gabrio Rosa|Michel Ligonnet|Fabio Babini;Porsche 911 GT3-R;Porsche 3.6L Flat-6;Pirelli;310;4217.550;;Accident
+2000;DNF;LMP900;17;FRA;SMG Compétition;FRA|ZAF|FRA;Philippe Gache|Gary Formato|Didier Cottaz;Courage C60;Judd GV4 4.0L V10;Pirelli;219;2979.495;;Suspension
+2000;DNF;GTS;56;JPN|GBR;Team Goh|Chamberlain Engineering;CHE|CHE|DEU;Walter Brun|Toni Seiler|Christian Gläsel;Chrysler Viper GTS-R;Chrysler 8.0L V10;Michelin;210;2857.050;;Accident
+2000;DNF;GTS;54;FRA;Paul Belmondo Racing;FRA|FRA|FRA;Boris Derichebourg|Guy Martinolle|Jean-Claude Lagniez;Chrysler Viper GTS-R;Chrysler 8.0L V10;Dunlop;180;2448.900;22:27:00;Accident, gearbox
+2000;DNF;LMP900;15;DEU|GBR;Thomas Bscher Promotion|David Price Racing;DEU|GBR|FRA;Dr. Thomas Bscher|Geoff Lees|Jean-Marc Gounon;BMW V12 LM;BMW S70 6.0L V12;Goodyear;180;2448.900;;Engine
+2000;DNF;LMP675;35;FRA;Gerard Welter;FRA|FRA|FRA;Xavier Pompidou|Stéphane Daoudi|Jean-Bernard Bouvet;WR LMP;Peugeot 2.0L Turbo I4;Michelin;169;2299.245;;Engine
+2000;DNF;LMP900;21;ITA;Team Rafanelli SRL;ITA|BEL|ITA;Domenico Schiattarella|Didier de Radiguès|Emanuele Naspetti;Lola B2K/10;Judd GV4 4.0L V10;Michelin;154;2095.170;12:20:00;Engine
+2000;DNF;LMP900;24;USA;Johansson-Matthews Racing;SWE|GBR|USA;Stefan Johansson|Guy Smith|Jim Matthews;Reynard 2KQ-LM;Judd GV4 4.0L V10;Yokohama;133;1809.465;17:26:00;Engine
+2000;DNF;GT;72;ESP;Repsol Racing Engineering;ESP|ESP|ITA;Tomas Saldaña|Jesús Diez Villaroel|Giovanni Lavaggi;Porsche 911 GT3-R;Porsche 3.6L Flat-6;Dunlop;78;1061.190;15:58:00;Accident
+2000;DNF;LMP675;34;FRA;Racing Organisation Course (ROC);ESP|FRA|FRA;Jordi Gené|Jean-Christophe Boullion|Jérôme Policand;Reynard 2KQ-LM;Volkswagen HPT16 2.0L Turbo I4;Michelin;72;979.560;11:52:00;Engine
+2000;DNF;LMP675;33;FRA;Racing Organisation Course (ROC);DEU|FRA|CHE;Ralf Kelleners|David Terrien|Jean-Denis Délétraz;Reynard 2KQ-LM;Volkswagen HPT16 2.0L Turbo I4;Michelin;44;598.620;11:47:00;Engine
+2000;DNF;LMP900;20;DEU|NLD;Konrad Motorsport|Racing for Holland;NLD|NLD|NLD;Jan Lammers|Tom Coronel|Peter Kox;Lola B2K/10;Ford ( Roush) 6.0L V8;Dunlop;38;516.990;;Lost wheel, DQ: left car
+2000;DNF;GT;77;FRA;Larbre Compétition;FRA|FRA|FRA;Patrice Goueslard|Christophe Bouchut|Jean-Luc Chéreau;Porsche 911 GT3-R;Porsche 3.6L Flat-6;Michelin;34;462.570;10:42:00;Accident (with #78)
+2000;DNF;GT;78;FRA;BBA Compétition;FRA|FRA|ITA;Jean-Luc Maury-Laribière|Bernard Chauvin|Angelo Zadra;Porsche 911 GT3-R;Porsche 3.6L Flat-6;Dunlop;32;435.360;10:42:00;Accident (with #77)
+2000;DNF;LMP675;30;FRA;Didier Bonnet Racing;FRA|FRA|FRA;Patrick Lemarié|Jean-Francois Yvon|Yann Goudy;Debora LMP2000;BMW 3.2L I6;Avon;24;326.520;;Oil leak
+2000;DNF;GT;71;USA;Michael Colucci Racing;USA|USA|USA;Shane Lewis|Cort Wagner|Bob Mazzuoccola;Porsche 911 GT3-R;Porsche 3.6L Flat-6;Michelin;22;299.310;;Accident
+2000;DNF;LMP900;4;FRA;Team DAMS;BEL|FRA|DNK;Marc Goossens|Christophe Tinseau|Kristian Kolby;Cadillac Northstar LMP;Cadillac Northstar 4.0L Turbo V8;Pirelli;4;54.420;;Engine (fire)
+2000;DNF;LMP900;5;FRA;Mopar Team Oreca;FRA|FRA|FRA;Yannick Dalmas|Nicolas Minassian|Jean-Philippe Belloc;Reynard 2KQ-LM;Chrysler Mopar 6.0L V8;Michelin;1;13.605;;Oil pressure
+2000;DNA;LMP900;13;FRA;Courage Compétition;;;Courage C60;Nissan 3.5L Turbo V8;;0;0.0;;Withdrawn
+2000;DNA;LMP900;14;GBR;Team Ascari;CAN|NLD|BRA;Robbie Stirling|Klaas Zwart|Max Wilson;Ascari A410;Judd GV4 4.0L V10;Pirelli;0;0.0;;
+2000;DNA;LMP900;18;ITA;Risi Competizione;DEU|ITA|ITA;Ralf Kelleners|Domenico Schiattarella|Alex Caffi;Ferrari 333SP;Ferrari F130E 4.0L V12;;0;0.0;;Withdrawn
+2000;DNA;LMP900;19;GBR;Gerard MacQuillan;GBR|GBR|GBR;Gary Ayles|Richard Jones|Gerard MacQuillan;Harrier LR10-LMP;Porsche 3.8L Turbo Flat-6;Goodyear;0;0.0;;
+2000;DNA;LMP675;31;FRA;Pierre Bruneau;FRA|FRA;Pierre Bruneau|Marc Rostan;Debora LMP299;BMW 3.2L I6;Avon;0;0.0;;
+2000;DNA;GTS;55;JPN;TV Asahi Team Tiger;JPN|JPN|JPN;Naoki Hattori|Masahiko Kondō|Masami Kageyama;Chrysler Viper GTS-R;Chrysler 8.0L V10;Michelin;0;0.0;;Withdrawn
+2000;DNA;GTS;58;GBR;Emka GTC;GBR;Steve O'Rourke;Ferrari 550 Maranello;Ferrari 6.0L V12;Pirelli;0;0.0;;Withdrawn
+2000;DNA;GTS;61;DEU;Roock Racing International Motorsport;CHE|GBR|JPN;Bruno Eichmann|Hugh Price|Toshio Suzuki;Porsche 911 GT2;Porsche 3.8L Turbo Flat-6;Yokohama;0;0.0;;
+2000;DNA;GT;70;USA;Tommy Milner BMW Team PTG;;;BMW M3 PTG;;Yokohama;0;0.0;;Withdrawn
+2000;DNA;GT;74;DEU;Manthey Racing;DEU|DEU|DEU;Kersten Jodexnis|Gustl Spreng|Mathias Weiland;Porsche 911 GT3 Supercup;Porsche 3.8L Turbo Flat-6;Michelin;0;0.0;;Refused
+2001;1;LMP900;1;DEU;Audi Sport Team Joest;DEU|ITA|DNK;Frank Biela|Emanuele Pirro|Tom Kristensen;Audi R8;Audi 3.6L Turbo V8;Michelin;321;4367.200;;
+2001;2;LMP900;2;DEU;Audi Sport North America;FRA|ITA|ITA;Laurent Aïello|Rinaldo Capello|Christian Pescatori;Audi R8;Audi 3.6L Turbo V8;Michelin;320;4353.600;;
+2001;3;LMGTP;8;GBR;Team Bentley;GBR|USA|BEL;Andy Wallace|Butch Leitzinger|Eric van de Poele;Bentley EXP Speed 8;Bentley ( Audi) 3.6L Turbo V8;Dunlop;306;4163.100;;
+2001;4;LMP900;16;FRA;Team PlayStation;MCO|AUT|PRT;Olivier Beretta|Karl Wendlinger|Pedro Lamy;Chrysler LMP;Chrysler ( Mopar) 6.0L V8;Michelin;298;4054.300;;
+2001;5;LMP675;38;FRA;ROC Auto;ESP|CHE|FRA;Jordi Gené|Jean-Denis Délétraz|Pascal Fabre;Reynard 2KQ-LM;Volkswagen HPT16 2.0L Turbo I4;Michelin;284;3863.800;;
+2001;6;GT;83;DEU;Seikel Motorsport;ITA|ITA|ITA;Gabrio Rosa|Fabio Babini|Luca Drudi;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Yokohama;283;3850.200;;
+2001;7;GT;77;DEU;Freisinger Motorsport;USA|FRA|FRA;Gunnar Jeannette|Romain Dumas|Philippe Haezebrouck;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Yokohama;282;3836.600;;
+2001;8;GTS;63;USA;Corvette Racing;CAN|USA|USA;Ron Fellows|Scott Pruett|Johnny O'Connell;Chevrolet Corvette C5-R;Chevrolet LS7R 7.0L V8;Goodyear;278;3782.200;;
+2001;9;GT;75;FRA;Perspective Racing;FRA|BEL|GBR;Thierry Perrier|Michel Neugarten|Nigel Smith;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Dunlop;275;3741.400;;
+2001;10;GT;80;FRA;Larbre Compétition;FRA|FRA|FRA;Jean-Luc Chéreau|Patrice Goueslard|Sébastien Dumez;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Michelin;274;3727.800;;
+2001;11;GT;72;JPN;Team Taisan ( ja) Advan;JPN|JPN|JPN;Hideo Fukuyama|Atsushi Yogo|Kazuyuki Nishizawa;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Yokohama;273;3714.200;;
+2001;12;GT;82;DEU;Seikel Motorsport;CAN|MAR|NZL;Tony Burgess|Max Cohen-Olivar|Andrew Bagnall;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Yokohama;272;3700.600;;
+2001;13;LMP900;17;FRA;Pescarolo Sport;FRA|FRA|FRA;Sébastien Bourdais|Jean-Christophe Boullion|Laurent Rédon;Courage C60;Peugeot A32 3.2L Turbo V6;Michelin;271;3687.000;;
+2001;14;GTS;64;USA;Corvette Racing;USA|USA|FRA;Andy Pilgrim|Kelly Collins|Franck Fréon;Chevrolet Corvette C5-R;Chevrolet LS7R 7.0L V8;Goodyear;271;3687.000;;
+2001;15;LMP900;6;FRA;DAMS;ZAF|ITA|FRA;Wayne Taylor|Max Angelelli|Christophe Tinseau;Cadillac Northstar LMP01;Cadillac Northstar 4.0L Turbo V8;Michelin;270;3673.400;;
+2001;16;GT;76;GBR|GBR;PK Sport|Ricardo Engineering;GBR|GBR|GBR;Mike Youles|Dave Warnock|Stephen Day;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Dunlop;265;3605.300;;
+2001;17;GT;74;FRA|FRA;Warm-Up Luc Alphand Aventures|JMB Racing;FRA|FRA|FRA;Luc Alphand|Michel Ligonnet|Luis Marques;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Michelin;265;3605.300;;
+2001;18;GTS;60;USA;Saleen-Allen Speedlab;AUT|GBR|USA;Franz Konrad|Oliver Gavin|Terry Borcheller;Saleen S7-R;Ford 7.0L V8;Goodyear;246;3346.800;;
+2001;19;LMP675;30;FRA;Gerard Welter;FRA|JPN|FRA;Stéphane Daoudi|Yojiro Terada|Jean-René de Fournoux;WR LMP01;Peugeot 2.0L Turbo I4;Michelin;245;3333.200;;
+2001;20;GTS;58;FRA;Larbre Compétition;FRA|FRA|PRT;Christophe Bouchut|Jean-Philippe Belloc|Tiago Monteiro;Chrysler Viper GTS-R;Chrysler 8.0L V10;Michelin;234;3183.600;;
+2001;NC;GT;79;FRA;Noël del Bello Racing;FRA|FRA|FRA;Sylvain Noël|Jean-Luc Maury-Laribière|Georges Forgeois;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Dunlop;193;2625.800;;Insufficient distance
+2001;DNF;LMP900;14;FRA;Viper Team Oreca;JPN|JPN|PRT;Seiji Ara|Masahiko Kondo|Ni Amorim;Chrysler LMP;Chrysler ( Mopar) 6.0L V8;Michelin;243;3306,015;;Fire
+2001;DNF;GTS;62;GBR|GBR;Ecurie Ecosse|Ray Mallock Ltd. (RML);GBR|GBR|BEL;Johnny Mowlem|Ian McKellar|Bruno Lambert;Saleen S7-R;Ford 7.0L V8;Dunlop;175;2380,875;;Engine (valves)
+2001;DNF;LMP900;9;NLD;Racing for Holland;NLD|NLD|BEL;Jan Lammers|Donny Crevels|Val Hillebrand;Dome S101;Judd GV4 4.0L V10;Michelin;156;2122,380;;Electrics (battery)
+2001;DNF;LMP900;20;GBR;Team Ascari;ZAF|GBR|FIN;Werner Lupberger|Ben Collins|Harri Toivonen;Ascari A410;Judd GV4 4.0L V10;Goodyear;134;1823,070;;Fuel pump
+2001;DNF;LMP900;15;FRA;Viper Team Oreca;FRA|FRA|FRA;Yannick Dalmas|Stéphane Sarrazin|Franck Montagny;Chrysler LMP;Chrysler ( Mopar) 6.0L V8;Michelin;126;1714,230;;Engine
+2001;DNF;GT;70;USA|USA;Aspen Knolls Racing|Michael Colucci Racing (MCR);USA|USA|USA;Bob Mazzuoccola|Vic Rice|Cort Wagner;Callaway C12-R;Chevrolet 7.0L V8;Goodyear;98;1333,290;;Overheating
+2001;DNF;LMP675;36;USA;Dick Barbour Racing;BEL|DEU|JPN;Didier de Radiguès|Sascha Maassen|Hideshi Matsuda;Reynard 01Q-LM;Judd GV675 3.4L V8;Goodyear;95;1292,475;;Fire
+2001;DNF;LMP675;32;USA|DEU;KnightHawk Racing|Roock Racing International;DEU|USA|USA;Claudia Hürtgen|Rick Fairbanks|Chris Gleason;Lola B2K/40;Nissan 3.4L V6;Avon;94;1278,870;;Overheating
+2001;DNF;LMP675;33;GBR;MG Sport & Racing Ltd.;GBR|GBR|GBR;Julian Bailey|Mark Blundell|Kevin McGarrity;MG-Lola EX257;MG ( AER) XP20 2.0L Turbo I4;Michelin;92;1251,660;;Oil leak
+2001;DNF;LMP900;11;USA;Panoz Motorsports;DEU|GBR|ZAF;Klaus Graf|Jamie Davies|Gary Formato;Panoz LMP07;Élan ( Zytek) 4.0L V8;Michelin;86;1170,030;;Accident
+2001;DNF;LMP900;12;USA;Panoz Motorsports;AUS|DNK|FRA;David Brabham|Jan Magnussen|Franck Lagorce;Panoz LMP07;Élan ( Zytek) 4.0L V8;Michelin;85;1156,425;;Electrical gears
+2001;DNF;LMP900;3;USA;Champion Racing;GBR|BEL|DEU;Johnny Herbert|Didier Theys|Ralf Kelleners;Audi R8;Audi 3.6L Turbo V8;Michelin;81;1102,005;;Engine
+2001;DNF;LMP900;10;DNK|JPN;Team Den Blå Avis|Team Goh;DNK|JPN|DNK;John Nielsen|Hiroki Katoh|Casper Elgaard;Dome S101;Judd GV4 4.0L V10;Goodyear;66;897,930;;Fuel pump
+2001;DNF;LMP900;21;GBR;Team Ascari;NLD|FRA|CAN;Klaas Zwart|Xavier Pompidou|Scott Maxwell;Ascari A410;Judd GV4 4.0L V10;Goodyear;66;897,930;;Accident
+2001;DNF;GTS;55;FRA;Paul Belmondo Racing;BEL|BEL|SWE;Vincent Vosse|Vanina Ickx|Carl Rosenblad;Chrysler Viper GTS-R;Chrysler 8.0L V10;Dunlop;61;829,905;;Accident
+2001;DNF;LMGTP;7;GBR;Team Bentley;GBR|MCO|GBR;Martin Brundle|Stéphane Ortelli|Guy Smith;Bentley EXP Speed 8;Bentley ( Audi) 3.6L Turbo V8;Dunlop;56;761,880;;Gearbox
+2001;DNF;LMP900;5;FRA;DAMS;FRA|FRA|BEL;Éric Bernard|Emmanuel Collard|Marc Goossens;Cadillac Northstar LMP01;Cadillac Northstar 4.0L Turbo V8;Michelin;56;761,880;;Accident
+2001;DNF;LMP900;19;FRA;SMG Compétition;FRA|FRA|FRA;Philippe Gache|Jérôme Policand|Anthony Beltoise;Courage C60;Judd GV4 4.0L V10;Michelin;51;693,855;;Engine
+2001;DNF;GTS;56;FRA;Paul Belmondo Racing;FRA|BEL|FRA;Grégoire de Galzain|Anthony Kumpen|Jean-Claude Lagniez;Chrysler Viper GTS-R;Chrysler 8.0L V10;Dunlop;44;598,620;;Accident
+2001;DNF;GT;71;ESP;Racing Engineering;GBR|USA|USA;Robin Donovan|Terry Lingner|Chris MacAllister;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Dunlop;44;598,620;;Accident
+2001;DNF;LMP900;18;FRA;Pescarolo Sport;FRA|FRA|FRA;Emmanuel Clérico|Didier Cottaz|Boris Derichebourg;Courage C60;Peugeot A32 3.2L Turbo V6;Michelin;42;571,410;;Accident
+2001;DNF;LMP900;4;GBR;Johansson Motorsport;SWE|NLD|FRA;Stefan Johansson|Tom Coronel|Patrick Lemarié;Audi R8;Audi 3.6L Turbo V8;Michelin;35;476,175;;Electrics
+2001;DNF;LMP675;34;GBR;MG Sport & Racing Ltd.;GBR|GBR|GBR;Anthony Reid|Warren Hughes|Jonny Kane;MG-Lola EX257;MG ( AER) XP20 2.0L Turbo I4;Michelin;30;408,150;;Exhaust, oil pressure
+2001;DNF;LMP675;37;USA;Dick Barbour Racing;CAN|VEN|USA;John Graham|Milka Duno|David Murry;Reynard 01Q-LM;Judd GV675 3.4L V8;Goodyear;4;54,420;;Accident
+2001;DNF;GTS;61;DEU;Konrad Motorsport;CHE|CHE|USA;Walter Brun|Toni Seiler|Charles Slater;Saleen S7-R;Ford 7.0L V8;Goodyear;4;54,420;;Accident
+2001;DNF;GTS;57;FRA|FRA|FRA;Equipe de France FFSA|Epsilon Sport|Oreca;FRA|FRA|FRA;David Terrien|Jonathan Cochet|Jean-Philippe Dayraut;Chrysler Viper GTS-R;Chrysler 8.0L V10;Michelin;4;54,420;;Accident
+2001;DNF;LMP675;35;GBR;S & R Rowan Racing Ltd.;IRL|GBR|FRA;Warren Carway|Martin O'Connell|François Migault;Pilbeam MP84;Nissan ( AER) VQL 3.0L V6;Avon;3;40,815;;Accident
+2001;DNA;LMP675;31;FRA;Rachel Welter;FRA|FRA|FRA|FRA|FRA|JPN;Sylvain Boulay|Jean-Bernard Bouvet|Richard Balandras|Yann Goudy|Jean-René de Fournoux|Yōjirō Terada;WR LMP01;Peugeot 2.0L Turbo I4;Michelin;0;0.0;;Reserve
+2001;DNA;LMP675;39;FRA;ROC Auto;ESP|FRA|FRA|GBR|GBR;Jordi Gené|Pascal Fabre|Jean-Denis Delétraz|Mark Smithson|Peter Owen;Reynard 2KQ-LM;Volkswagen HPT16 2.0L Turbo I4;Michelin;0;0.0;;Reserve
+2001;DNA;GT;78;DEU;Freisinger Motorsport;ITA|FRA|RUS|RUS;Andrea Garbagnati|Xavier Pompidou|Alexei Igorewitsch Wassiljew|Nikolai Fomenko;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Yokohama;0;0.0;;Reserve
+2001;DNA;GT;81;FRA;Larbre Compétition;FRA|FRA|FRA|CHE;Pierre Yver|Roland Bervillé|Bernard Simmenauer|Bruno Eichmann;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Michelin;0;0.0;;Reserve
+2001;DNA;GTS;59;USA;Saleen-Allen Speedlab;USA|GBR|USA|USA|USA;Terry Borcheller|Oliver Gavin|Ron Johnson|Tom Kendall|Chris Bingham;Saleen S7-R;Ford 7.0L V8;Goodyear;0;0.0;;
+2001;DNA;GTS;73;JPN;Team Taisan Advan;;;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Yokohama;0;0.0;;
+2002;1;LMP900;1;DEU;Audi Sport Team Joest;DEU|DNK|ITA;Frank Biela|Tom Kristensen|Emanuele Pirro;Audi R8;Audi 3.6L Turbo V8;Michelin;375;5118.750;;
+2002;2;LMP900;2;DEU;Audi Sport North America;GBR|ITA|ITA;Johnny Herbert|Christian Pescatori|Rinaldo Capello;Audi R8;Audi 3.6L Turbo V8;Michelin;374;5105.100;;
+2002;3;LMP900;3;DEU;Audi Sport Team Joest;DEU|DEU|AUT;Marco Werner|Michael Krumm|Philipp Peter;Audi R8;Audi 3.6L Turbo V8;Michelin;372;5077.800;;
+2002;4;LMGTP;8;GBR;Team Bentley;GBR|BEL|USA;Andy Wallace|Eric van de Poele|Butch Leitzinger;Bentley EXP Speed 8;Bentley 4.0L Turbo V8;Dunlop;362;4941.300;;
+2002;5;LMP900;15;FRA;PlayStation Team Oreca;MCO|FRA|PRT;Olivier Beretta|Érik Comas|Pedro Lamy;Dallara SP1;Judd GV4 4.0L V10;Michelin;359;4900.350;;
+2002;6;LMP900;14;FRA;PlayStation Team Oreca;FRA|FRA|FRA;Stéphane Sarrazin|Franck Montagny|Nicolas Minassian;Dallara SP1;Judd GV4 4.0L V10;Michelin;359;4900.350;;
+2002;7;LMP900;5;JPN;Audi Sport Japan Team Goh;JPN|FRA|JPN;Hiroki Katoh|Yannick Dalmas|Seiji Ara;Audi R8;Audi 3.6L Turbo V8;Michelin;358;4886.700;;
+2002;8;LMP900;16;NLD;Racing for Holland B.V.;NLD|NLD|NLD;Jan Lammers|Tom Coronel|Val Hillebrand;Dome S101;Judd GV4 4.0L V10;Michelin;351;4791.150;;
+2002;9;LMP900;6;USA;Team Cadillac;ZAF|ITA|FRA;Wayne Taylor|Max Angelelli|Christophe Tinseau;Cadillac Northstar LMP02;Cadillac Northstar 4.0L Turbo V8;Michelin;345;4709.250;;
+2002;10;LMP900;17;FRA;Pescarolo Sport;FRA|FRA|FRA;Sébastien Bourdais|Jean-Christophe Boullion|Franck Lagorce;Courage C60;Peugeot A32 3.2L Turbo V6;Michelin;343;4681.950;;
+2002;11;GTS;63;USA;Corvette Racing;CAN|USA|GBR;Ron Fellows|Johnny O'Connell|Oliver Gavin;Chevrolet Corvette C5-R;Chevrolet LS7R 7.0L V8;Goodyear;335;4572.750;;
+2002;12;LMP900;7;USA;Team Cadillac;FRA|FRA|FIN;Éric Bernard|Emmanuel Collard|JJ Lehto;Cadillac Northstar LMP02;Cadillac Northstar 4.0L Turbo V8;Michelin;334;4559.100;;
+2002;13;GTS;64;USA;Corvette Racing;GBR|USA|FRA;Andy Pilgrim|Kelly Collins|Franck Fréon;Chevrolet Corvette C5-R;Chevrolet LS7R 7.0L V8;Goodyear;331;4518.150;;
+2002;14;GTS;52;FRA|FRA;Equipe de France FFSA|Oreca;FRA|FRA|FRA;Jonathan Cochet|Benoît Tréluyer|Jean-Philippe Belloc;Chrysler Viper GTS-R;Chrysler 8.0L V10;Michelin;326;4449.900;;
+2002;15;LMP900;13;FRA;Courage Compétition;FRA|FRA|SWE;Didier Cottaz|Boris Derichebourg|Thed Björk;Courage C60;Judd GV4 4.0L V10;Michelin;322;4395.300;;
+2002;16;GT;81;USA;The Racer's Group;USA|DEU|DEU;Kevin Buckler|Lucas Luhr|Timo Bernhard;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Michelin;322;4395.300;;
+2002;17;GT;80;DEU;Freisinger Motorsport;FRA|DEU|DEU;Romain Dumas|Sascha Maassen|Jörg Bergmeister;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Dunlop;321;4381.650;;
+2002;18;GTS;50;FRA;Larbre Compétition;FRA|FRA|BEL;Christophe Bouchut|Patrice Goueslard|Vincent Vosse;Chrysler Viper GTS-R;Chrysler 8.0L V10;Michelin;319;4354.350;;
+2002;19;LMP675;29;FRA|FRA;Noël del Bello Racing|ROC Compétition;CHE|CHE|AUT;Jean-Denis Délétraz|Christophe Pillon|Walter Lechner, Jr.;Reynard 2KQ-LM;Volkswagen HPT16 2.0L I4;Michelin;317;4327.050;;
+2002;20;LMP675;25;FRA;Gerard Welter;FRA|FRA|FRA;Jean-René de Fournoux|Stéphane Daoudi|Jean-Bernard Bouvet;WR LM2001;Peugeot 2.0L Turbo I4;Michelin;317;4327.050;;
+2002;21;GT;77;JPN;Team Taisan Advan;JPN|JPN|JPN;Atsushi Yogo|Akira Iida|Kazuyuki Nishizawa;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Yokohama;316;4313.400;;
+2002;22;GT;82;DEU;Seikel Motorsport;ITA|ITA|ITA;Gabrio Rosa|Luca Drudi|Luca Riccitelli;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Yokohama;315;4299.750;;
+2002;23;GTS;68;GBR;Ray Mallock Ltd. (RML);PRT|PRT|GBR;Pedro Chaves|Miguel Ramos|Gavin Pickering;Saleen S7-R;Ford 7.0L V8;Dunlop;312;4258.800;;
+2002;24;GT;72;FRA;Luc Alphand Aventures;FRA|FRA|FRA;Luc Alphand|Christian Lavieille|Olivier Thévenin;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Dunlop;299;4081.350;;
+2002;25;GTS;51;FRA;Larbre Compétition;FRA|SWE|FRA;Jean-Luc Chéreau|Carl Rosenblad|Jean-Claude Lagniez;Chrysler Viper GTS-R;Chrysler 8.0L V10;Michelin;278;3794.700;;
+2002;26;GTS;66;DEU;Konrad Motorsport;USA|CHE|AUT;Terry Borcheller|Toni Seiler|Franz Konrad;Saleen S7-R;Ford 7.0L V8;Pirelli;266;3630.900;;
+2002;NC;LMP900;10;FRA|GBR;DAMS|Bob Berridge Racing|( Vaillante Camera Car);FRA|FRA|BEL;Philippe Gache|Emanuele Clerico|Michel Neugarten;Lola B98/10;Judd GV4 4.0L V10;Michelin;150;2047.500;;Insufficient distance
+2002;DNF;LMP900;19;USA;MBD Sportscar Team;BEL|VEN|CAN;Didier de Radiguès|Milka Duno|John Graham;Panoz LMP07;Mugen MF408S 4.0L V8;Avon;259;3535.350;;Electrics
+2002;DNF;LMP900;12;USA;Panoz Motor Sports;USA|USA|USA;Bill Auberlen|David Donohue|Gunnar Jeannette;Panoz LMP01 Evo;Élan 6L8 6.0L V8;Michelin;230;3139.500;;Engine
+2002;DNF;LMP675;27;GBR;MG Sport & Racing Ltd.;GBR|GBR|GBR;Mark Blundell|Julian Bailey|Kevin McGarrity;MG-Lola EX257;MG ( AER) XP20 2.0L Turbo I4;Michelin;219;2989.350;;Engine
+2002;DNF;LMP900;4;USA;Riley & Scott Racing;BEL|USA|BEL;Marc Goossens|Jim Matthews|Didier Theys;Riley & Scott Mk III C;Élan 6L8 6.0L V8;Goodyear;189;2579.850;;Engine
+2002;DNF;LMP900;9;JPN;Kondo Racing;JPN|GBR|FRA;Masahiko Kondo|Ian McKellar Jr.|François Migault;Dome S101;Judd GV4 4.0L V10;Michelin;182;2484.300;;Transmission (gearbox)
+2002;DNF;GT;73;GBR;DeWALT Racesport Salisbury;GBR|GBR|GBR;Richard Stanton|Steve Hyde|Richard Hayes;Morgan Aero 8R;BMW (Mader) 4.0L V8;Dunlop;181;2470.650;;Engine
+2002;DNF;GTS;58;GBR;Prodrive;SWE|CHE|CZE;Rickard Rydell|Alain Menu|Tomáš Enge;Ferrari 550-GTS Maranello;Ferrari F131 6.0L V12;Michelin;167;2279.550;;Fire
+2002;DNF;GT;75;USA;Orbit Racing;USA|USA|USA;Leo Hindery, Jr.|Peter Baron|Anthony Kester;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Michelin;165;2252.250;;Broken axle
+2002;DNF;LMP900;18;FRA;Pescarolo Sport;FRA|MCO|JPN;Éric Hélary|Stéphane Ortelli|Ukyo Katayama;Courage C60;Peugeot A32 3.2L Turbo V6;Michelin;144;1965.600;;Engine
+2002;DNF;GT;85;NLD;Spyker Automobielen B.V.;NLD|DEU|NLD;Peter Kox|Norman Simon|Hans Hugenholtz;Spyker C8 Double-12R;BMW 3.4L V8;Dunlop;142;1938.300;;Engine (valves)
+2002;DNF;LMP675;26;GBR;MG Sport & Racing Ltd.;GBR|GBR|GBR;Anthony Reid|Warren Hughes|Jonny Kane;MG-Lola EX257;MG ( AER) XP20 2.0L Turbo I4;Michelin;129;1760.850;;Transmission (gearbox)
+2002;DNF;LMP675;28;FRA;ROC Auto;ESP|GBR|GBR;Jordi Gené|Mark Smithson|Peter Owen;Reynard 2KQ-LM;Volkswagen HPT16 2.0L I4;Michelin;126;1719.900;;Transmission (gearbox)
+2002;DNF;GT;74;FRA;Auto Palace;FRA|JPN|FRA;Guillaume Gomez|Ryo Fukuda|Laurent Cazenave;Ferrari 360 Modena GT;Ferrari F133 3.6L V8;Pirelli;119;1624.350;;Electrics
+2002;DNF;LMP675;30;USA;KnightHawk Racing;USA|USA|USA;Steve Knight|Mel Hawkins|Duncan Dayton;MG-Lola EX257;MG ( AER) XP20 2.0L Turbo I4;Avon;102;1392.300;;Fire
+2002;DNF;LMP900;22;FRA;DAMS (Leader Camera Car);FRA|BEL|GBR;Jérôme Policand|Marc Duez|Perry McCarthy;Panoz LMP-1 Roadster-S;Élan 6L8 6.0L V8;Michelin;98;1337.700;;Transmission (driveshaft)
+2002;DNF;GTS;53;NLD|ITA;Team Carsport Holland|Racing Box;NLD|ITA|BEL|ITA;Mike Hezemans|Gabriele Matteuzzi|Anthony Kumpen|Luca Capellari;Chrysler Viper GTS-R;Chrysler 8.0L V10;Pirelli;93;1269.450;;Accident
+2002;DNF;LMP900;11;USA;Panoz Motor Sports;AUS|DNK|USA;David Brabham|Jan Magnussen|Bryan Herta;Panoz LMP01 Evo;Élan 6L8 6.0L V8;Michelin;90;1228.500;;Engine
+2002;DNF;GT;71;FRA;JMB Racing;USA|USA|USA;Steve Earle|Chris MacAllister|Gary Schultheis;Ferrari 360 Modena GT;Ferrari F133 3.6L V8;Pirelli;85;1160.250;;Electrics
+2002;DNF;GTS;67;DEU;Konrad Motorsport;CHE|USA|USA;Walter Brun|Charles Slater|Rodney Mall;Saleen S7-R;Ford 7.0L V8;Pirelli;83;1132.950;;Fuel pump
+2002;DNF;GT;78;GBR;PK Sport Ltd.;GBR|GBR|GBR;Robin Liddell|David Warnock|Piers Masarati;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Pirelli;83;1132.950;;Overheating
+2002;DNF;LMP900;21;GBR;Team Ascari;ZAF|GBR|USA;Werner Lupberger|Ben Collins|Timothy J. Bell;Ascari KZR-1;Judd GV4 4.0L V10;Dunlop;17;232.050;;Suspension
+2002;DNF;GT;70;FRA;JMB Racing;USA|GBR|GBR;Cort Wagner|Sam Hancock|Martin Short;Ferrari 360 Modena GT;Ferrari F133 3.6L V8;Pirelli;16;218.400;;Accident
+2002;DNF;LMP675;24;JPN;Autoexe Motorsport;JPN|USA|USA;Yojiro Terada|John Fergus|Jim Downing;Autoexe ( WR) LMP-02;Mazda R26B 2.6L 4- Rotor;Avon;5;68.250;;Transmission (gearbox)
+2002;51;GT;76;USA;Orbit Racing;USA|USA|USA;Gary Schultheis|John Lloyd|Grady Willingham;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;;0;0.0;;Reserve
+2002;52;GT;79;GBR;PK Sport Ltd.;GBR|CZE|CHN;Don Freeman|Milan Maderyc|Philip Ma;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Pirelli;0;0.0;;Reserve
+2002;53;GT;83;DEU;Seikel Motorsport;CAN|NZL|CAN;Tony Burgess|Andrew Bagnall|David Shep;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Yokohama;0;0.0;;Reserve
+2002;54;LMP900;20;USA;MBD Sportscar Team;VEN|CAN|CAN;Milka Duno|Scott Maxwell|John Graham;Panoz LMP07;Mugen MF408S 4.0L V8;Avon;0;0.0;;Reserve
+2002;55;GTS;57;ITA;Team Rafanelli Srl.;;;Ferrari 550 GTS Maranello;Ferrari F131 6.0L V12;Michelin;0;0.0;;Withdrawn
+2002;56;GTS;59;GBR;Prodrive;;;Ferrari 550 GTS Maranello;Ferrari F131 6.0L V12;Michelin;0;0.0;;Withdrawn
