@@ -158,7 +158,8 @@ my %tyre_codes = (
   "F"  => "Firestone",
   "G"  => "Goodyear",
   "I"  => "India",
-  "K"  => "Kleber",
+  "K"  => "Klèber",
+  "KH" => "Kumho",
   "M"  => "Michelin",
   "P"  => "Pirelli",
   "R"  => "Rapson",
@@ -242,7 +243,7 @@ foreach my $tab (@tables) {
         # parse header and store column indexes
         if ( $row_idx == 1 || ( $row_idx == $rowspan ) ) {
           my $title = trimboth($cell->as_text());
-          if ( $title =~ /Pos\.?/ ) {
+          if ( $title =~ /^Pos\.?/ ) {
             $headers{'Pos'} = $col_idx;
           }
           elsif ( $title eq "Class" || $title eq "Klasse" ) {
@@ -408,7 +409,7 @@ foreach my $tab (@tables) {
           }
           elsif ( defined $headers{'Laps'} && $col_idx == $headers{'Laps'} ) {
             $txt = trimboth($cell->as_text());
-            $txt =~ s/^\-$/0/g;
+            $txt =~ s/^[\-–]$/0/g; # dash and en dash
             $outarr[$outarr_idx][$columns{'Laps'}] = $txt;
           }
           elsif ( defined $headers{'Reason'} && $col_idx == $headers{'Reason'} ) {
