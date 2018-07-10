@@ -10,6 +10,7 @@ my $fgResults = 0;
 my $fgTable = 0;
 my $fgPrint = 1;
 my $fgBridgestone = 0;
+my $fgKumho = 0;
 
 sub text {
   my ($self, $text) = @_;
@@ -74,6 +75,10 @@ sub start {
     {
       $fgBridgestone = 1;
     }
+    if ( $tag eq "a" && exists($attr->{'title'}) && $attr->{'title'} eq "Kumho Tires" )
+    {
+      $fgKumho = 1;
+    }
   }
 }
 
@@ -104,6 +109,11 @@ sub end {
     {
       print "R";
       $fgBridgestone = 0;
+    }
+    if ( $fgKumho && $tag eq "span" )
+    {
+      print "H";
+      $fgKumho = 0;
     }
   }
 }
