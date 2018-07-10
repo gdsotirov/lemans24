@@ -4,7 +4,7 @@ CREATE TABLE IF NOT EXISTS circuits (
   since       DATE          NOT NULL,
   length_km   DECIMAL(5,3)  NULL,
   length_mi   DECIMAL(5,3)  GENERATED ALWAYS AS (length_km*0.621371192) VIRTUAL,
-  layout      BLOB          NULL,
+  layout      LONGBLOB      NULL,
   changes     VARCHAR(128)  NULL,
 
   PRIMARY KEY (id),
