@@ -174,10 +174,10 @@
 1927;DNF;2.0;10;FRA;Fabrique Automobile de St Ouen;FRA|FRA;Michel Doré|Roger Hellot;Fasto A3 Sport;Fasto 2.0L I4;Dunlop;75;1294.650;;Engine
 1927;DNF;2.0;9;FRA;Fabrique Automobile de St Ouen;FRA|FRA;f.n.u. Brosseau|Frédéric Thelusson;Fasto A3 Sport;Fasto 2.0L I4;Dunlop;72;1242.864;;Electrics (magneto)
 1927;DNF;1.1;22;FRA;Societe des Applications à Refroidisssements par Air;FRA|FRA;Henri Armand|Gaston Duval;S.A.R.A. BDE;S.A.R.A. 1.1L I4;Englebert;50;863.100;;Loose wheel shaft
-1927;DNF;5.0;1;GBR;Bentley Motors Limited;GBR|GBR;Frank Clement|Leslie Callingham;"Bentley 4½ Litre (""Old Mother Gun"")";Bentley 4.4L I6;Dunlop;42;725.004;;Out of track at Maison Blanche trying to avoid #11
+1927;DNF;5.0;1;GBR;Bentley Motors Limited;GBR|GBR;Frank Clement|Leslie Callingham;"Bentley 4½ Litre (""Old Mother Gun"")";Bentley 4.4L I6;Dunlop;42;725.004;;Accident (out of track at Maison Blanche trying to avoid #11)
 1927;DNF;2.0;12;FRA;Automobiles Th. Schneider SA;FRA|FRA;Jacques Chanterelle|René Schiltz;Th.Schneider 25 SP 'Le Mans';Theo Schneider 2.0L I4;Dunlop;35;604.170;;Withdrawal following accident with #11
 1927;DNF;3.0;2;GBR;Bentley Motors Limited;FRA|GBR;Andre d'Erlanger|George Duller;Bentley 3 Litre Speed;Bentley 3.0L I4;Dunlop;34;586.908;;Accident (at Maison Blanche with #11)
-1927;DNF;2.0;11;FRA;Automobiles Th. Schneider SA;FRA|FRA;Robert Poirier|Pierre Tabourin;Th.Schneider 25 SP 'Le Mans';Theo Schneider 2.0L I4;Dunlop;34;586.908;;Out of track at Maison Blanche
+1927;DNF;2.0;11;FRA;Automobiles Th. Schneider SA;FRA|FRA;Robert Poirier|Pierre Tabourin;Th.Schneider 25 SP 'Le Mans';Theo Schneider 2.0L I4;Dunlop;34;586.908;;Accident (out of track at Maison Blanche)
 1927;DSQ;1.5;14;FRA;Societe des Applications à Refroidisssements par Air;FRA|FRA;Gaston Mottet|Emile Maret;S.A.R.A. SP7;S.A.R.A. 1.5L I6;Englebert;26;448.812;;Accident
 1927;DSQ;1.1;29;FRA;Societe des Automobile Ariès;FRA|FRA;Fernand Gabriel|Louis Paris;Ariès CC2 Super;Ariès 1.1L I4;Dunlop;23;397.026;;Out of race, too much delay
 1927;DSQ;1.1;24;FRA;Societe des Moteurs Salmson;FRA|FRA;Lionel de Marmier|Pierre Goutte;Salmson Grand Sport;Salmson 1.1L I4;Dunlop;21;362.502;;Starter motor
@@ -383,7 +383,7 @@
 1934;DNF;1.5;21;GBR;Aston Martin Ltd.;GBR|GBR;A C Bertelli|Clifton Penn-Hughes;Aston Martin 1½ Le Mans;Aston Martin 1.5L I4;;59;796.028;12:00:00;Insufficient distance
 1934;DNF;2.0;16;FRA;Louis Villeneuve;FRA|FRA;Louis Villeneuve|Géo Ham;Derby L8;Derby 2.0L V8;;44;593.648;;Gearbox
 1934;DNF;3.0;5;GBR;Tim Rose-Richards;GBR|GBR;Freddy Clifford|Owen Saunders-Davies;Alfa Romeo 8C 2300;Alfa Romeo 2.4L I8;;40;539.680;;Broken valve
-1934;DNF;1.1;46;FRA;Raymond Gaillard;FRA|FRA;Raymond Gaillard|Paul Vallée;Rally;Rally 1.0L I4;;38;512.696;;Out of track
+1934;DNF;1.1;46;FRA;Raymond Gaillard;FRA|FRA;Raymond Gaillard|Paul Vallée;Rally;Rally 1.0L I4;;38;512.696;;Accident (out of track)
 1934;DNF;750;53;FRA;Philippe Maillard-Brune;FRA|FRA;Philippe Maillard-Brune|Charles Druck;MG J-type Midget;MG 0.7L I4;;30;404.760;;Engine
 1934;DNF;1.1;43;FRA;J.A. Grégoire;FRA|FRA;Pierre Padrault|f.n.u. Charlault;Tracta;Tracta 1.0L I4;;23;310.316;;Ignition
 1934;DNF;2.0;18;GBR;Mrs. Gwenda Stewart;GBR|GBR;Gwenda Stewart|Louis Bonne;Derby L8;Derby 2.0L V8;;16;215.872;;
@@ -496,7 +496,7 @@
 1937;DNF;2.0;28;GBR;David Murray;GBR|GBR;David Murray|Pat Fairfield;Frazer Nash-BMW 328;BMW 2.0L I6;;8;107.936;00:45:00;Fatal accident - Fairfield (at Maison Blanche)
 1937;DNF;3.0;20;FRA;René Kippeurt;FRA|FRA;René Kippeurt|René Poulain;Bugatti Type 44;Bugatti 3.0L I8;;8;107.936;00:45:00;Fatal accident - Kippeurt (at Maison Blanche)
 1937;DNF;5.0;21;ITA;Luigi Chinetti;ITA|MCO;Luigi Chinetti|Louis Chiron;Talbot T150C;Talbot 4.0L I6;;7;94.444;;Engine
-1937;DNF;1.1;44;FRA;Gordini;FRA|FRA;Marino Zanardi|Angelo Molinari;Simca FIAT 508 S Ballila;Fiat 1.0L I4;;0;0.0;;Engine (cardan)
+1937;DNF;1.1;44;FRA;Gordini;FRA|FRA;Marino Zanardi|Angelo Molinari;Simca FIAT 508 S Ballila;Fiat 1.0L I4;;0;0.0;;Transmission (cardan)
 1938;1;5.0;15;FRA;Eugène Chaboud / Jean Trémoulet;FRA|FRA;Eugène Chaboud|Jean Trémoulet;Delahaye 135CS;Delahaye 3.6L I6;Dunlop;235;3180.940;;
 1938;2;5.0;14;FRA;Gaston Serraud;FRA|FRA;Gaston Serraud|Yves Giraud-Cabantous;Delahaye 135CS;Delahaye 3.6L I6;;233;3153.873;;
 1938;3;5.0;5;FRA;Jean Prenant;FRA|FRA;Jean Prenant|André Morel;Talbot T150SS Coupe;Talbot 4.0L I6;;219;2959.697;;
@@ -1458,11 +1458,11 @@
 1963;DNF;P+3.0;17;GBR;P.J. Sargent (private entrant);GBR|GBR;Peter Sargent|Peter Lumsden;Lister Costin Coupe;Jaguar 3.8L S6;Dunlop;29;390.369;3:00:00;Engine
 1963;DNF;P+3.0;18;GBR;David Brown Racing Dept.;USA|BEL;Phil Hill|Lucien Bianchi;Aston Martin DP215;Aston Martin 4.0L S6;Dunlop;29;390.369;3:00:00;Transmission (gearbox)
 1963;DNF;P1.0;54;FRA;Automobiles René Bonnet;FRA|FRA;Gérard Laureau|Jean Vinatier;Bonnet RB5;Renault 716cc S4;Dunlop;25;336.525;2:00:00;Out of fuel
-1963;DNF;GT+3.0;14;USA;Briggs Cunningham;USA|USA;Walt Hansgen|Augie Pabst;Jaguar E-Type Lightweight;Jaguar 3.8L S6;Dunlop;8;107.688;0:00:00;Transmission (gearbox)
+1963;DNF;GT+3.0;14;USA;Briggs Cunningham;USA|USA;Walt Hansgen|Augie Pabst;Jaguar E-Type Lightweight;Jaguar 3.8L S6;Dunlop;8;107.688;;Transmission (gearbox)
 1963;DNF;GT1.6;36;CHE;Scuderia Filipinetti;CHE|CHE;Karl Foitek|Armand Schäfer;Alfa Romeo Giulietta GZ;Alfa Romeo 1570cc S4;Dunlop;7;94.227;1:00:00;Engine (head gasket)
-1963;DNF;P1.0;51;FRA;Automobiles René Bonnet;FRA|FRA;Roger Masson|Pierre Monneret;Bonnet Aérodjet LM6;Renault-Gordini 996cc S4;Dunlop;4;53.844;0:00:00;Accident
-1963;DNF;P1.0;55;FRA;Sarayac (private entrant);FRA|FRA;Sarayac (Guy Flayac)|Lucien Barthe;Abarth 1000 SP;Fiat 998cc S4;Michelin;3;40.383;0:00:00;Engine
-1963;DNF;P1.0;56;DEU;Auto Union GmbH;FRA|FRA;André Guilhaudin|Alain Bertaut;CD-DKW Coupé;DKW 750cc S3 (2-Stroke);Michelin;1;13.461;0:00:00;Accident
+1963;DNF;P1.0;51;FRA;Automobiles René Bonnet;FRA|FRA;Roger Masson|Pierre Monneret;Bonnet Aérodjet LM6;Renault-Gordini 996cc S4;Dunlop;4;53.844;;Accident
+1963;DNF;P1.0;55;FRA;Sarayac (private entrant);FRA|FRA;Sarayac (Guy Flayac)|Lucien Barthe;Abarth 1000 SP;Fiat 998cc S4;Michelin;3;40.383;;Engine
+1963;DNF;P1.0;56;DEU;Auto Union GmbH;FRA|FRA;André Guilhaudin|Alain Bertaut;CD-DKW Coupé;DKW 750cc S3 (2-Stroke);Michelin;1;13.461;;Accident
 1963;DNP;GT+3.0;1;USA;A.Green (private entrant);USA|USA;Jerry Grant|Don Campbell;Chevrolet Corvette (C2);Chevrolet 5.4L V8;;0;0.0;;Did not arrive
 1963;DNP;GT+3.0;5;GBR;Lola Cars Ltd.;ZAF|RHZW;Tony Maggs|John Love;Lola Mk6 GT;Ford 4.7L V8;;0;0.0;;Did not arrive in time
 1963;DNP;GT1.3;40;BEL;Equipe Nationale Belge;BEL|BEL;Claude Dubois|Georges Harris;Lotus Elite Mk14;Coventry Climax 1216cc S4;;0;0.0;;Did not arrive
@@ -1583,9 +1583,9 @@
 1965;DNF;P2.0;33;DEU;Porsche System Engineering;GBR|DEU;Colin Davis|Gerhard Mitter;Porsche 904/8;Porsche 1985cc F8;Dunlop;20;269.220;3:00:00;Clutch
 1965;DNF;GT2.0;62;FRA;C. Poirot (private entrant);FRA|DEU;Christian Poirot|Rolf Stommelen;Porsche 904/4 GTS;Porsche 1968cc F4;Dunlop;13;174.993;1:00:00;Gearbox
 1965;DNF;P5.0;15;FRA;Ford France S.A.;FRA|FRA;Maurice Trintignant|Guy Ligier;Ford GT40 Spyder;Ford 4.7L V8;Goodyear;11;148.071;1:00:00;Gearbox
-1965;DNF;GT1.3;53;GBR;Standard Triumph Ltd.;GBR|GBR;Peter Bolton|Bill Bradley;Triumph Spitfire;Triumph 1147cc S4;Dunlop;6;80.766;0:00:00;Engine (connecting rod)
-1965;DNF;P5.0;8;FRA;J. Simone (private entrant);CHE|DEU;Jo Siffert|Jochen Neerpasch;Maserati Tipo 65;Maserati 5.0L V8;Dunlop;3;40.383;0:00:00;Accident
-1965;DNF;P1.6;40;ITA;SpA Dino SEFAC;ITA|ITA;Giancarlo Baghetti|Mario Casoni;Ferrari Dino 166P;Ferrari 1593cc V6;Dunlop;2;26.922;0:00:00;Engine
+1965;DNF;GT1.3;53;GBR;Standard Triumph Ltd.;GBR|GBR;Peter Bolton|Bill Bradley;Triumph Spitfire;Triumph 1147cc S4;Dunlop;6;80.766;;Engine (connecting rod)
+1965;DNF;P5.0;8;FRA;J. Simone (private entrant);CHE|DEU;Jo Siffert|Jochen Neerpasch;Maserati Tipo 65;Maserati 5.0L V8;Dunlop;3;40.383;;Accident
+1965;DNF;P1.6;40;ITA;SpA Dino SEFAC;ITA|ITA;Giancarlo Baghetti|Mario Casoni;Ferrari Dino 166P;Ferrari 1593cc V6;Dunlop;2;26.922;;Engine
 1965;DNF;GT1.6;43;ITA;Autodelta SpA;ITA|FRA;Teodoro Zeccoli|José Rosinski;Alfa Romeo Giulia TZ/2;Alfa Romeo 1570cc S4;Dunlop;1;13.461;1:00:00;Accident
 1965;DNQ;P1.15;56;FRA;Abarth France;FRA|FRA;Claude Ballot-Léna|Franck Ruata;Abarth 1000 SP;Fiat 998cc S4;;0;0.0;;
 1965;DNA;P+5.0;4;ITA;Iso Grifo Prototipi Bizzarrini;BEL|CHE;Pierre Noblet|Edgar Berney;Iso Grifo A3C;Chevrolet 5.4L V8;;0;0.0;;
@@ -1711,8 +1711,8 @@
 1967;DNF;S5.0;62;GBR;JW Automotive Engineering;GBR|GBR;Mike Salmon|Brian Redman;Ford GT40;Ford 4.7L V8;;20;269.220;1:00:00;Accident, fire
 1967;DNF;P1.15;54;GBR;Roger Nathan Racing Ltd.;GBR|GBR;Roger Nathan|Mike Beckwith;Costin Nathan GT;Hillman 1.0L I4;;15;201.915;4:00:00;Ignition
 1967;DNF;P1.3;50;GBR;Marcos Racing Ltd.;GBR|GBR;Chris Lawrence|Jem Marsh;Mini Marcos GT 2+2;BMC 1293cc S4;;13;174.993;2:00:00;Gearbox, oil pump
-1967;DNF;P+5.0;11;GBR|GBR;Lola Racing|Team Surtees;GBR|GBR;John Surtees|David Hobbs;Lola T70 Mk.III;Aston Martin 5.0L V8;Firestone;3;40.383;0:00:00;Engine (piston)
-1967;DNF;GT2.0;43;FRA;J. Franc (private entrant);FRA|DEU;Franc (Jacques Dewes)|Anton 'Toni' Fischhaber;Porsche 911 S;Porsche 1991cc F6;Dunlop;2;26.922;0:00:00;Clutch
+1967;DNF;P+5.0;11;GBR|GBR;Lola Racing|Team Surtees;GBR|GBR;John Surtees|David Hobbs;Lola T70 Mk.III;Aston Martin 5.0L V8;Firestone;3;40.383;;Engine (piston)
+1967;DNF;GT2.0;43;FRA;J. Franc (private entrant);FRA|DEU;Franc (Jacques Dewes)|Anton 'Toni' Fischhaber;Porsche 911 S;Porsche 1991cc F6;Dunlop;2;26.922;;Clutch
 1967;DNS;GT5.0;61;BEL;Equipe Nationale Belge;BEL|BEL;Gustave 'Taf' Gosselin|Hughes de Fierlandt;Ferrari 275 GTB Competizione;Ferrari 3.3L V12;Firestone;0;0.0;;
 1967;DNP;P+5.0;10;ITA;Prototipi Bizzarrini;CHE|ITA;Edgar Berney|Giancarlo Naddeo;Bizzarrini P538 GT Strada;Chevrolet 5.4L V8;;0;0.0;;Failed scrutineering
 1967;DNA;GT5.0;27;USA;North American Racing Team;MEX|ITA;Pedro Rodríguez|Giancarlo Baghetti;Ferrari 275 LM;Ferrari 3.3L V12;;0;0.0;;
@@ -1890,7 +1890,7 @@
 1970;DNF;S5.0;14;CHE;Scuderia Filipinetti;SWE|SWE;Jo Bonnier|Reine Wisell;Ferrari 512S;Ferrari 5.0L V12;Goodyear;36;484.884;3:00:00;Accident (at Maison Blanche)
 1970;DNF;S5.0;21;GBR;JW Automotive Engineering;MEX|FIN;Pedro Rodriguez|Leo Kinnunen;Porsche 917K;Porsche 4.9L F12;Firestone;22;296.318;3:00:00;Engine (fan cooler)
 1970;DNF;P2.0;48;BEL;Levi's International Racing Team;BEL|BEL;Julian Vernaeve|Yves Deprez;Chevron B16;Mazda 10A Twin Rotory (1964cc equivalent);Dunlop;19;255.911;3:00:00;Engine
-1970;DNF;S5.0;6;ITA;SpA Ferrari SEFAC;ITA|ITA;Nino Vaccarella|Ignazio Giunti;Ferrari 512S;Ferrari 5.0L V12;Firestone;7;94.283;0:00:00;Engine (connecting rod)
+1970;DNF;S5.0;6;ITA;SpA Ferrari SEFAC;ITA|ITA;Nino Vaccarella|Ignazio Giunti;Ferrari 512S;Ferrari 5.0L V12;Firestone;7;94.283;;Engine (connecting rod)
 1970;DNF;P3.0;37;ITA;Autodelta SpA;NLD|USA;Toine Hezemans|Masten Gregory;Alfa Romeo T33/3;Alfa Romeo 3.0L V8;Firestone;5;67.345;1:00:00;Engine (piston)
 1970;DNS;S5.0;17;GBR;Grand Bahamas Racing Team;BHS|GBR;Robin Ormes|David Prophet;Lola T70 Mk. IIIB;Chevrolet 4.9L V8;;0;0.0;;Did not qualify
 1970;DNS;P3.0;28;DEU;Martini International Racing Team;FRA|CHE|AUT;André de Cortanze|Dieter Spoerry|Rudi Lins;Porsche 908/2;Porsche 3.0L F8;;0;0.0;;Practice accident
@@ -2078,9 +2078,9 @@
 1973;DNF;S3.0;61;FRA;Daniel Rouveyran;FRA|FRA|FRA;Daniel Rouveyran|Christian Mons|Christian Ethuin;Lola T280/82;Ford Cosworth DFV 3.0L V8;Goodyear;38;518.320;4:00:00;Broken wheel
 1973;DNF;GT+5.0;29;USA;John Greenwood Racing;USA|USA;John Greenwood|Bob Johnson;Chevrolet Corvette;Chevrolet 7.0L V8;BF Goodrich;37;504.680;3:00:00;Engine (connecting rod)
 1973;DSQ;S3.0;62;FRA;Automobiles Ligier;FRA|FRA;Guy Ligier|Jacques Laffite;Ligier JS2;Maserati 3.0L V6;Michelin;24;327.360;2:00:00;Refuelling too early
-1973;DNF;T3.0;54;DEU;Ford Motorwerke;GBR|DEU;Gerry Birrell|Hans Heyer;Ford Capri RS;Ford 3.0L V6;Dunlop;4;54.560;0:00:00;Distribution
+1973;DNF;T3.0;54;DEU;Ford Motorwerke;GBR|DEU;Gerry Birrell|Hans Heyer;Ford Capri RS;Ford 3.0L V6;Dunlop;4;54.560;;Distribution
 1973;DNF;S2.0;2;CHE;Blancpain Total Dinitrol;FRA|BEL|FRA;Roger Dubois|Christine Beckers|Pierre Pagani;Chevron B21/23;Ford Cosworth FVC 1.8L I4;Michelin;9;122.760;1:00:00;Fuel injection
-1973;DNF;T5.0;58;CHE;Wicky Racing Team;CHE|CHE|CHE;Walter Brun|Cox Kocher|Jean-Pierre Aeschlimann;BMW 3.0CSL;BMW 3.3L I6;Firestone;1;13.640;0:00:00;Engine (piston)
+1973;DNF;T5.0;58;CHE;Wicky Racing Team;CHE|CHE|CHE;Walter Brun|Cox Kocher|Jean-Pierre Aeschlimann;BMW 3.0CSL;BMW 3.3L I6;Firestone;1;13.640;;Engine (piston)
 1973;DNQ;S3.0;57;FRA;Christian Poirot;FRA|FRA|DEU;Christian Poirot|Jean Rondeau|Jürgen Barth;Porsche 908/02;Porsche 3.0L Flat-8;Dunlop;0;0.0;;
 1973;DNQ;S2.0;65;FRA;Michel Elkoubi;FRA|ITA|ITA;Yves Martin|Ugo Locatelli|Marino Marini;ACE PB 2;Ford 2.0L V8;Goodyear;0;0.0;;
 1973;DNQ;S2.0;66;GBR;Promoto Racing Services;GBR|AGO|FRA;Brian Robinson|José Uriarte|Hervé le Guellec;Chevron B 21;Ford 2.0L V8;Firestone;0;0.0;;
@@ -2364,7 +2364,7 @@
 1978;DNF;GTP+3.0;78;FRA;WM A.E.R.E.M. / Team Esso Aseptogyl;FRA|FRA|FRA;Christian Debias|Xavier Mathiot|Marc Sourd;WMP78;PeugeotPRV 2.7L Turbo V6;Michelin;186;2537.040;;Accident
 1978;DNF;GTP3.0;76;FRA;WM A.E.R.E.M. / Team Esso Aseptogyl;FRA|FRA;Christine Dacremont|Marianne Hoepfner;WMP76;PeugeotPRV 2.7L V6;Michelin;171;2332.440;;Engine (head gasket)
 1978;DNF;GT+3.0;68;FRA;Hervé Poulain;DEU|DEU|FRA|LUD;Edgar Dören|Gerhard Holup|Hervé Poulain|Roman Feitler;Porsche 934;Porsche 3.0L Turbo Flat-6;Goodyear;167;2277.880;;Transmission (gearbox)
-1978;DNF;S+2.0;3;FRA;Renault Sport;GBR|FRA;Derek Bell|Jean-Pierre Jarier;Renault Alpine A442A;Renault 2.0L Turbo V6;Michelin;162;2209.680;;Differential
+1978;DNF;S+2.0;3;FRA;Renault Sport;GBR|FRA;Derek Bell|Jean-Pierre Jarier;Renault Alpine A442A;Renault 2.0L Turbo V6;Michelin;162;2209.680;;Transmission (differential)
 1978;DNF;IMSA+2.5;91;USA;Dick Barbour Racing;USA|USA|USA;Bob Garretson|Steve Earle|Robert Akin;Porsche 935/77;Porsche Type-935 3.0L Turbo Flat-6;Goodyear;159;2168.760;;Accident
 1978;DNF;S2.0;29;FRA;ROC Modylook;FRA|FRA|FRA;Michel Dubois|Daniel Gache|Julien Sanchez;Chevron B36;ROC-Chrysler 2.0L I4;Goodyear;142;1936.880;;Accident
 1978;DNF;Gr.5+2.0;48;CHE|CHE;Haberthur|Mecarillos-Cégécol Racing Team;CHE|CHE|CHE;"Herbert Müller|Claude Haldi|""Nico""";Porsche 935/76;Porsche Type-935 3.0L Turbo Flat-6;Goodyear;140;1909.600;;Gearbox casing
@@ -2489,7 +2489,7 @@
 1980;DNF;GT;80;PRI;Diego Febles Racing;PRI|PRI|VEN;Armando Gonzales|Diego Febles|Francisco Romero;Porsche 934;Porsche 3.0 L Turbo Flat-6;Goodyear;164;2234.664;14:10:00;Accident
 1980;DNF;Gr.5;44;GBR;Charles Ivey Racing;GBR|GBR|GBR;Peter Lovett|Dudley Wood|John Cooper;Porsche 935 K3;Porsche Type-935 3.0 L Turbo Flat-6;Dunlop;158;2152.908;12:54:00;Engine (head gasket)
 1980;DNF;S2.0;28;ITA;Scuderia Torino Corse;ITA|GBR;Lella Lombardi|Mark Thatcher;Osella PA8;BMW M12 2.0 L I4;Pirelli;157;2139.282;15:20:00;Accident
-1980;DNF;IMSA;85;USA|USA;Sun System|Whittington Brothers Racing;USA|USA|USA;Hurley Haywood|Don Whittington|Dale Whittington;Porsche 935 K3;Porsche Type-935 3.0 L Turbo Flat-6;Goodyear;151;2057.526;12:14:00;Differential
+1980;DNF;IMSA;85;USA|USA;Sun System|Whittington Brothers Racing;USA|USA|USA;Hurley Haywood|Don Whittington|Dale Whittington;Porsche 935 K3;Porsche Type-935 3.0 L Turbo Flat-6;Goodyear;151;2057.526;12:14:00;Transmission (differential)
 1980;DNF;GT;91;FRA;ASA Cachia;FRA|FRA|FRA;Christian Bussi|Bernard Salam|Cyril Grandet;Porsche 934;Porsche 3.0 L Turbo Flat-6;Dunlop;137;1866.762;14:30:00;Engine (valves)
 1980;DNF;IMSA;71;USA;Dick Barbour Racing;USA|USA|CAN;Bobby Rahal|Bob Garretson|Allan Moffat;Porsche 935 K3;Porsche Type-935 3.0 L Turbo Flat-6;Goodyear;134;1825.884;9:45:00;Engine (valves)
 1980;DNF;IMSA;77;FRA|FRA;JMS Racing|Charles Pozzi;FRA|FRA;Jean-Claude Andruet|Claude Ballot-Léna;Ferrari 512BB/LM;Ferrari 4.9 L Flat-12;Michelin;129;1757.754;11:25:00;Distribution
@@ -2766,7 +2766,7 @@
 1984;DNF;C2;79;GBR;A.D.A. Engineering;GBR|USA|USA;Ian Harrower|Bill Wolff|Glen Smith;ADA 01;Ford Cosworth DFL 3.3 L V8;Avon;42;572.292;05:00:00;Chassis broken
 1984;DNF;C2;85;FRA;Hubert Striebig;FRA|FRA|FRA;Hubert Striebig|Jacques Heuclin|Noël del Bello;Sthemo SM C2;BMW M88/1 3.5 L I6;Dunlop;41;558.666;05:00:00;Transmission (gearbox)
 1984;DNF;C2;77;GBR;Ecurie Ecosse;GBR|GBR|GBR;Mike Wilds|David Duffield|David Leslie;Ecosse C284;Ford Cosworth DFV 3.0 L V8;Avon;36;490.536;05:00:00;Out of fuel
-1984;DNF;C1;25;USA|GBR;C.A.M.S.|Charles Ivey Racing;USA|GBR|GBR;Dudley Wood|John Cooper|Barry Robinson;Grid S2;Porsche Type-935 2.9 L Turbo Flat-6;Avon;10;136.260;00:00:00;Electrics
+1984;DNF;C1;25;USA|GBR;C.A.M.S.|Charles Ivey Racing;USA|GBR|GBR;Dudley Wood|John Cooper|Barry Robinson;Grid S2;Porsche Type-935 2.9 L Turbo Flat-6;Avon;10;136.260;;Electrics
 1984;DNS;C1;39;JPN;Uchida Dome Racing Team;SWE|SWE;Eje Elgh|Stanley Dickens;Dome RC83;Ford Cosworth DFL 4.0 L V8;Dunlop;0;0.0;;Accident in practice
 1984;DNS;C2;99;GBR;J.Q.F. Engineering Ltd.;GBR|GBR|GBR;Roy Baker|Jeremy Rossiter|François Duret;Tiga GC84;Ford Cosworth BDT 1.8 L Turbo I4;Avon;0;0.0;;Engine damage in training
 1984;DNA;C1;29;CHE;Sauber Racing;;;Sauber C7;BMW;;0;0.0;;
@@ -3808,33 +3808,33 @@
 2001;19;LMP675;30;FRA;Gerard Welter;FRA|JPN|FRA;Stéphane Daoudi|Yojiro Terada|Jean-René de Fournoux;WR LMP01;Peugeot 2.0L Turbo I4;Michelin;245;3333.200;;
 2001;20;GTS;58;FRA;Larbre Compétition;FRA|FRA|PRT;Christophe Bouchut|Jean-Philippe Belloc|Tiago Monteiro;Chrysler Viper GTS-R;Chrysler 8.0L V10;Michelin;234;3183.600;;
 2001;NC;GT;79;FRA;Noël del Bello Racing;FRA|FRA|FRA;Sylvain Noël|Jean-Luc Maury-Laribière|Georges Forgeois;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Dunlop;193;2625.800;;Insufficient distance
-2001;DNF;LMP900;14;FRA;Viper Team Oreca;JPN|JPN|PRT;Seiji Ara|Masahiko Kondo|Ni Amorim;Chrysler LMP;Chrysler ( Mopar) 6.0L V8;Michelin;243;3306,015;;Fire
-2001;DNF;GTS;62;GBR|GBR;Ecurie Ecosse|Ray Mallock Ltd. (RML);GBR|GBR|BEL;Johnny Mowlem|Ian McKellar|Bruno Lambert;Saleen S7-R;Ford 7.0L V8;Dunlop;175;2380,875;;Engine (valves)
-2001;DNF;LMP900;9;NLD;Racing for Holland;NLD|NLD|BEL;Jan Lammers|Donny Crevels|Val Hillebrand;Dome S101;Judd GV4 4.0L V10;Michelin;156;2122,380;;Electrics (battery)
-2001;DNF;LMP900;20;GBR;Team Ascari;ZAF|GBR|FIN;Werner Lupberger|Ben Collins|Harri Toivonen;Ascari A410;Judd GV4 4.0L V10;Goodyear;134;1823,070;;Fuel pump
-2001;DNF;LMP900;15;FRA;Viper Team Oreca;FRA|FRA|FRA;Yannick Dalmas|Stéphane Sarrazin|Franck Montagny;Chrysler LMP;Chrysler ( Mopar) 6.0L V8;Michelin;126;1714,230;;Engine
-2001;DNF;GT;70;USA|USA;Aspen Knolls Racing|Michael Colucci Racing (MCR);USA|USA|USA;Bob Mazzuoccola|Vic Rice|Cort Wagner;Callaway C12-R;Chevrolet 7.0L V8;Goodyear;98;1333,290;;Overheating
-2001;DNF;LMP675;36;USA;Dick Barbour Racing;BEL|DEU|JPN;Didier de Radiguès|Sascha Maassen|Hideshi Matsuda;Reynard 01Q-LM;Judd GV675 3.4L V8;Goodyear;95;1292,475;;Fire
-2001;DNF;LMP675;32;USA|DEU;KnightHawk Racing|Roock Racing International;DEU|USA|USA;Claudia Hürtgen|Rick Fairbanks|Chris Gleason;Lola B2K/40;Nissan 3.4L V6;Avon;94;1278,870;;Overheating
-2001;DNF;LMP675;33;GBR;MG Sport & Racing Ltd.;GBR|GBR|GBR;Julian Bailey|Mark Blundell|Kevin McGarrity;MG-Lola EX257;MG ( AER) XP20 2.0L Turbo I4;Michelin;92;1251,660;;Oil leak
-2001;DNF;LMP900;11;USA;Panoz Motorsports;DEU|GBR|ZAF;Klaus Graf|Jamie Davies|Gary Formato;Panoz LMP07;Élan ( Zytek) 4.0L V8;Michelin;86;1170,030;;Accident
-2001;DNF;LMP900;12;USA;Panoz Motorsports;AUS|DNK|FRA;David Brabham|Jan Magnussen|Franck Lagorce;Panoz LMP07;Élan ( Zytek) 4.0L V8;Michelin;85;1156,425;;Electrical gears
-2001;DNF;LMP900;3;USA;Champion Racing;GBR|BEL|DEU;Johnny Herbert|Didier Theys|Ralf Kelleners;Audi R8;Audi 3.6L Turbo V8;Michelin;81;1102,005;;Engine
-2001;DNF;LMP900;10;DNK|JPN;Team Den Blå Avis|Team Goh;DNK|JPN|DNK;John Nielsen|Hiroki Katoh|Casper Elgaard;Dome S101;Judd GV4 4.0L V10;Goodyear;66;897,930;;Fuel pump
-2001;DNF;LMP900;21;GBR;Team Ascari;NLD|FRA|CAN;Klaas Zwart|Xavier Pompidou|Scott Maxwell;Ascari A410;Judd GV4 4.0L V10;Goodyear;66;897,930;;Accident
-2001;DNF;GTS;55;FRA;Paul Belmondo Racing;BEL|BEL|SWE;Vincent Vosse|Vanina Ickx|Carl Rosenblad;Chrysler Viper GTS-R;Chrysler 8.0L V10;Dunlop;61;829,905;;Accident
-2001;DNF;LMGTP;7;GBR;Team Bentley;GBR|MCO|GBR;Martin Brundle|Stéphane Ortelli|Guy Smith;Bentley EXP Speed 8;Bentley ( Audi) 3.6L Turbo V8;Dunlop;56;761,880;;Gearbox
-2001;DNF;LMP900;5;FRA;DAMS;FRA|FRA|BEL;Éric Bernard|Emmanuel Collard|Marc Goossens;Cadillac Northstar LMP01;Cadillac Northstar 4.0L Turbo V8;Michelin;56;761,880;;Accident
-2001;DNF;LMP900;19;FRA;SMG Compétition;FRA|FRA|FRA;Philippe Gache|Jérôme Policand|Anthony Beltoise;Courage C60;Judd GV4 4.0L V10;Michelin;51;693,855;;Engine
-2001;DNF;GTS;56;FRA;Paul Belmondo Racing;FRA|BEL|FRA;Grégoire de Galzain|Anthony Kumpen|Jean-Claude Lagniez;Chrysler Viper GTS-R;Chrysler 8.0L V10;Dunlop;44;598,620;;Accident
-2001;DNF;GT;71;ESP;Racing Engineering;GBR|USA|USA;Robin Donovan|Terry Lingner|Chris MacAllister;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Dunlop;44;598,620;;Accident
-2001;DNF;LMP900;18;FRA;Pescarolo Sport;FRA|FRA|FRA;Emmanuel Clérico|Didier Cottaz|Boris Derichebourg;Courage C60;Peugeot A32 3.2L Turbo V6;Michelin;42;571,410;;Accident
-2001;DNF;LMP900;4;GBR;Johansson Motorsport;SWE|NLD|FRA;Stefan Johansson|Tom Coronel|Patrick Lemarié;Audi R8;Audi 3.6L Turbo V8;Michelin;35;476,175;;Electrics
-2001;DNF;LMP675;34;GBR;MG Sport & Racing Ltd.;GBR|GBR|GBR;Anthony Reid|Warren Hughes|Jonny Kane;MG-Lola EX257;MG ( AER) XP20 2.0L Turbo I4;Michelin;30;408,150;;Exhaust, oil pressure
-2001;DNF;LMP675;37;USA;Dick Barbour Racing;CAN|VEN|USA;John Graham|Milka Duno|David Murry;Reynard 01Q-LM;Judd GV675 3.4L V8;Goodyear;4;54,420;;Accident
-2001;DNF;GTS;61;DEU;Konrad Motorsport;CHE|CHE|USA;Walter Brun|Toni Seiler|Charles Slater;Saleen S7-R;Ford 7.0L V8;Goodyear;4;54,420;;Accident
-2001;DNF;GTS;57;FRA|FRA|FRA;Equipe de France FFSA|Epsilon Sport|Oreca;FRA|FRA|FRA;David Terrien|Jonathan Cochet|Jean-Philippe Dayraut;Chrysler Viper GTS-R;Chrysler 8.0L V10;Michelin;4;54,420;;Accident
-2001;DNF;LMP675;35;GBR;S & R Rowan Racing Ltd.;IRL|GBR|FRA;Warren Carway|Martin O'Connell|François Migault;Pilbeam MP84;Nissan ( AER) VQL 3.0L V6;Avon;3;40,815;;Accident
+2001;DNF;LMP900;14;FRA;Viper Team Oreca;JPN|JPN|PRT;Seiji Ara|Masahiko Kondo|Ni Amorim;Chrysler LMP;Chrysler ( Mopar) 6.0L V8;Michelin;243;3306.015;;Fire
+2001;DNF;GTS;62;GBR|GBR;Ecurie Ecosse|Ray Mallock Ltd. (RML);GBR|GBR|BEL;Johnny Mowlem|Ian McKellar|Bruno Lambert;Saleen S7-R;Ford 7.0L V8;Dunlop;175;2380.875;;Engine (valves)
+2001;DNF;LMP900;9;NLD;Racing for Holland;NLD|NLD|BEL;Jan Lammers|Donny Crevels|Val Hillebrand;Dome S101;Judd GV4 4.0L V10;Michelin;156;2122.380;;Electrics (battery)
+2001;DNF;LMP900;20;GBR;Team Ascari;ZAF|GBR|FIN;Werner Lupberger|Ben Collins|Harri Toivonen;Ascari A410;Judd GV4 4.0L V10;Goodyear;134;1823.070;;Fuel pump
+2001;DNF;LMP900;15;FRA;Viper Team Oreca;FRA|FRA|FRA;Yannick Dalmas|Stéphane Sarrazin|Franck Montagny;Chrysler LMP;Chrysler ( Mopar) 6.0L V8;Michelin;126;1714.230;;Engine
+2001;DNF;GT;70;USA|USA;Aspen Knolls Racing|Michael Colucci Racing (MCR);USA|USA|USA;Bob Mazzuoccola|Vic Rice|Cort Wagner;Callaway C12-R;Chevrolet 7.0L V8;Goodyear;98;1333.290;;Overheating
+2001;DNF;LMP675;36;USA;Dick Barbour Racing;BEL|DEU|JPN;Didier de Radiguès|Sascha Maassen|Hideshi Matsuda;Reynard 01Q-LM;Judd GV675 3.4L V8;Goodyear;95;1292.475;;Fire
+2001;DNF;LMP675;32;USA|DEU;KnightHawk Racing|Roock Racing International;DEU|USA|USA;Claudia Hürtgen|Rick Fairbanks|Chris Gleason;Lola B2K/40;Nissan 3.4L V6;Avon;94;1278.870;;Overheating
+2001;DNF;LMP675;33;GBR;MG Sport & Racing Ltd.;GBR|GBR|GBR;Julian Bailey|Mark Blundell|Kevin McGarrity;MG-Lola EX257;MG ( AER) XP20 2.0L Turbo I4;Michelin;92;1251.660;;Oil leak
+2001;DNF;LMP900;11;USA;Panoz Motorsports;DEU|GBR|ZAF;Klaus Graf|Jamie Davies|Gary Formato;Panoz LMP07;Élan ( Zytek) 4.0L V8;Michelin;86;1170.030;;Accident
+2001;DNF;LMP900;12;USA;Panoz Motorsports;AUS|DNK|FRA;David Brabham|Jan Magnussen|Franck Lagorce;Panoz LMP07;Élan ( Zytek) 4.0L V8;Michelin;85;1156.425;;Electrical gears
+2001;DNF;LMP900;3;USA;Champion Racing;GBR|BEL|DEU;Johnny Herbert|Didier Theys|Ralf Kelleners;Audi R8;Audi 3.6L Turbo V8;Michelin;81;1102.005;;Engine
+2001;DNF;LMP900;10;DNK|JPN;Team Den Blå Avis|Team Goh;DNK|JPN|DNK;John Nielsen|Hiroki Katoh|Casper Elgaard;Dome S101;Judd GV4 4.0L V10;Goodyear;66;897.930;;Fuel pump
+2001;DNF;LMP900;21;GBR;Team Ascari;NLD|FRA|CAN;Klaas Zwart|Xavier Pompidou|Scott Maxwell;Ascari A410;Judd GV4 4.0L V10;Goodyear;66;897.930;;Accident
+2001;DNF;GTS;55;FRA;Paul Belmondo Racing;BEL|BEL|SWE;Vincent Vosse|Vanina Ickx|Carl Rosenblad;Chrysler Viper GTS-R;Chrysler 8.0L V10;Dunlop;61;829.905;;Accident
+2001;DNF;LMGTP;7;GBR;Team Bentley;GBR|MCO|GBR;Martin Brundle|Stéphane Ortelli|Guy Smith;Bentley EXP Speed 8;Bentley ( Audi) 3.6L Turbo V8;Dunlop;56;761.880;;Gearbox
+2001;DNF;LMP900;5;FRA;DAMS;FRA|FRA|BEL;Éric Bernard|Emmanuel Collard|Marc Goossens;Cadillac Northstar LMP01;Cadillac Northstar 4.0L Turbo V8;Michelin;56;761.880;;Accident
+2001;DNF;LMP900;19;FRA;SMG Compétition;FRA|FRA|FRA;Philippe Gache|Jérôme Policand|Anthony Beltoise;Courage C60;Judd GV4 4.0L V10;Michelin;51;693.855;;Engine
+2001;DNF;GTS;56;FRA;Paul Belmondo Racing;FRA|BEL|FRA;Grégoire de Galzain|Anthony Kumpen|Jean-Claude Lagniez;Chrysler Viper GTS-R;Chrysler 8.0L V10;Dunlop;44;598.620;;Accident
+2001;DNF;GT;71;ESP;Racing Engineering;GBR|USA|USA;Robin Donovan|Terry Lingner|Chris MacAllister;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Dunlop;44;598.620;;Accident
+2001;DNF;LMP900;18;FRA;Pescarolo Sport;FRA|FRA|FRA;Emmanuel Clérico|Didier Cottaz|Boris Derichebourg;Courage C60;Peugeot A32 3.2L Turbo V6;Michelin;42;571.410;;Accident
+2001;DNF;LMP900;4;GBR;Johansson Motorsport;SWE|NLD|FRA;Stefan Johansson|Tom Coronel|Patrick Lemarié;Audi R8;Audi 3.6L Turbo V8;Michelin;35;476.175;;Electrics
+2001;DNF;LMP675;34;GBR;MG Sport & Racing Ltd.;GBR|GBR|GBR;Anthony Reid|Warren Hughes|Jonny Kane;MG-Lola EX257;MG ( AER) XP20 2.0L Turbo I4;Michelin;30;408.150;;Exhaust, oil pressure
+2001;DNF;LMP675;37;USA;Dick Barbour Racing;CAN|VEN|USA;John Graham|Milka Duno|David Murry;Reynard 01Q-LM;Judd GV675 3.4L V8;Goodyear;4;54.420;;Accident
+2001;DNF;GTS;61;DEU;Konrad Motorsport;CHE|CHE|USA;Walter Brun|Toni Seiler|Charles Slater;Saleen S7-R;Ford 7.0L V8;Goodyear;4;54.420;;Accident
+2001;DNF;GTS;57;FRA|FRA|FRA;Equipe de France FFSA|Epsilon Sport|Oreca;FRA|FRA|FRA;David Terrien|Jonathan Cochet|Jean-Philippe Dayraut;Chrysler Viper GTS-R;Chrysler 8.0L V10;Michelin;4;54.420;;Accident
+2001;DNF;LMP675;35;GBR;S & R Rowan Racing Ltd.;IRL|GBR|FRA;Warren Carway|Martin O'Connell|François Migault;Pilbeam MP84;Nissan ( AER) VQL 3.0L V6;Avon;3;40.815;;Accident
 2001;DNA;LMP675;31;FRA;Rachel Welter;FRA|FRA|FRA|FRA|FRA|JPN;Sylvain Boulay|Jean-Bernard Bouvet|Richard Balandras|Yann Goudy|Jean-René de Fournoux|Yōjirō Terada;WR LMP01;Peugeot 2.0L Turbo I4;Michelin;0;0.0;;Reserve
 2001;DNA;LMP675;39;FRA;ROC Auto;ESP|FRA|FRA|GBR|GBR;Jordi Gené|Pascal Fabre|Jean-Denis Delétraz|Mark Smithson|Peter Owen;Reynard 2KQ-LM;Volkswagen HPT16 2.0L Turbo I4;Michelin;0;0.0;;Reserve
 2001;DNA;GT;78;DEU;Freisinger Motorsport;ITA|FRA|RUS|RUS;Andrea Garbagnati|Xavier Pompidou|Alexei Igorewitsch Wassiljew|Nikolai Fomenko;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Yokohama;0;0.0;;Reserve
@@ -3891,9 +3891,594 @@
 2002;DNF;LMP900;21;GBR;Team Ascari;ZAF|GBR|USA;Werner Lupberger|Ben Collins|Timothy J. Bell;Ascari KZR-1;Judd GV4 4.0L V10;Dunlop;17;232.050;;Suspension
 2002;DNF;GT;70;FRA;JMB Racing;USA|GBR|GBR;Cort Wagner|Sam Hancock|Martin Short;Ferrari 360 Modena GT;Ferrari F133 3.6L V8;Pirelli;16;218.400;;Accident
 2002;DNF;LMP675;24;JPN;Autoexe Motorsport;JPN|USA|USA;Yojiro Terada|John Fergus|Jim Downing;Autoexe ( WR) LMP-02;Mazda R26B 2.6L 4- Rotor;Avon;5;68.250;;Transmission (gearbox)
-2002;51;GT;76;USA;Orbit Racing;USA|USA|USA;Gary Schultheis|John Lloyd|Grady Willingham;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;;0;0.0;;Reserve
-2002;52;GT;79;GBR;PK Sport Ltd.;GBR|CZE|CHN;Don Freeman|Milan Maderyc|Philip Ma;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Pirelli;0;0.0;;Reserve
-2002;53;GT;83;DEU;Seikel Motorsport;CAN|NZL|CAN;Tony Burgess|Andrew Bagnall|David Shep;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Yokohama;0;0.0;;Reserve
-2002;54;LMP900;20;USA;MBD Sportscar Team;VEN|CAN|CAN;Milka Duno|Scott Maxwell|John Graham;Panoz LMP07;Mugen MF408S 4.0L V8;Avon;0;0.0;;Reserve
-2002;55;GTS;57;ITA;Team Rafanelli Srl.;;;Ferrari 550 GTS Maranello;Ferrari F131 6.0L V12;Michelin;0;0.0;;Withdrawn
-2002;56;GTS;59;GBR;Prodrive;;;Ferrari 550 GTS Maranello;Ferrari F131 6.0L V12;Michelin;0;0.0;;Withdrawn
+2002;DNA;GT;76;USA;Orbit Racing;USA|USA|USA;Gary Schultheis|John Lloyd|Grady Willingham;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;;0;0.0;;Reserve
+2002;DNA;GT;79;GBR;PK Sport Ltd.;GBR|CZE|CHN;Don Freeman|Milan Maderyc|Philip Ma;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Pirelli;0;0.0;;Reserve
+2002;DNA;GT;83;DEU;Seikel Motorsport;CAN|NZL|CAN;Tony Burgess|Andrew Bagnall|David Shep;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Yokohama;0;0.0;;Reserve
+2002;DNA;LMP900;20;USA;MBD Sportscar Team;VEN|CAN|CAN;Milka Duno|Scott Maxwell|John Graham;Panoz LMP07;Mugen MF408S 4.0L V8;Avon;0;0.0;;Reserve
+2002;DNA;GTS;57;ITA;Team Rafanelli Srl.;;;Ferrari 550 GTS Maranello;Ferrari F131 6.0L V12;Michelin;0;0.0;;Withdrawn
+2002;DNA;GTS;59;GBR;Prodrive;;;Ferrari 550 GTS Maranello;Ferrari F131 6.0L V12;Michelin;0;0.0;;Withdrawn
+2003;1;LMGTP;7;GBR;Team Bentley;ITA|DNK|GBR;Rinaldo Capello|Tom Kristensen|Guy Smith;Bentley Speed 8;Bentley 4.0L Turbo V8;Michelin;377;5145.399;;
+2003;2;LMGTP;8;GBR;Team Bentley;GBR|AUS|GBR;Mark Blundell|David Brabham|Johnny Herbert;Bentley Speed 8;Bentley 4.0L Turbo V8;Michelin;375;5112.753;;
+2003;3;LMP900;6;USA;Champion Racing;FIN|ITA|SWE;JJ Lehto|Emanuele Pirro|Stefan Johansson;Audi R8;Audi 3.6L Turbo V8;Michelin;372;5077.637;;
+2003;4;LMP900;5;JPN;Audi Sport Japan Team Goh;JPN|DNK|DEU;Seiji Ara|Jan Magnussen|Marco Werner;Audi R8;Audi 3.6L Turbo V8;Michelin;370;5050.319;;
+2003;5;LMP900;11;USA;JML Team Panoz;MCO|USA|ITA;Olivier Beretta|Gunnar Jeannette|Max Papis;Panoz LMP01 Evo;Élan 6L8 6.0L V8;Michelin;360;4905.994;;
+2003;6;LMP900;15;NLD;Racing for Holland;NLD|NLD|GBR;Jan Lammers|John Bosch|Andy Wallace;Dome S101;Judd GV4 4.0L V10;Michelin;360;4905.130;;
+2003;7;LMP900;13;FRA;Courage Compétition;FRA|FRA|FRA;Jonathan Cochet|Stéphane Grégoire|Jean-Marc Gounon;Courage C60;Judd GV4 4.0L V10;Michelin;360;4904.801;;
+2003;8;LMP900;17;FRA;Pescarolo Sport;FRA|FRA|FRA;Jean-Christophe Boullion|Franck Lagorce|Stéphane Sarrazin;Courage C60;Peugeot 3.2L Turbo V6;Michelin;356;4853.808;;
+2003;9;LMP900;18;FRA;Pescarolo Sport;FRA|FRA|FRA;Éric Hélary|Nicolas Minassian|Soheil Ayari;Courage C60;Peugeot 3.2L Turbo V6;Michelin;352;4799.903;;
+2003;10;GTS;88;GBR;Veloqx Prodrive Racing;CZE|NLD|GBR;Tomáš Enge|Peter Kox|Jamie Davies;Ferrari 550-GTS Maranello;Ferrari F133 5.9L V12;Michelin;336;4585.143;;
+2003;11;GTS;50;USA;Corvette Racing;GBR|USA|USA;Oliver Gavin|Kelly Collins|Andy Pilgrim;Chevrolet Corvette C5-R;Chevrolet 7.0L V8;Goodyear;326;4442.495;;
+2003;12;GTS;53;USA;Corvette Racing;CAN|USA|FRA;Ron Fellows|Johnny O'Connell|Franck Fréon;Chevrolet Corvette C5-R;Chevrolet 7.0L V8;Goodyear;326;4442.380;;
+2003;13;LMP900;9;JPN;Kondo Racing;JPN|JPN|JPN;Masahiko Kondo|Ukyo Katayama|Ryo Fukuda;Dome S101;Mugen MF408S 4.0L V8;Yokohama;322;4392.183;;
+2003;14;GT;93;USA|USA;Alex Job Racing|Petersen Motorsports;DEU|FRA|DEU;Sascha Maassen|Emmanuel Collard|Lucas Luhr;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Michelin;320;4353.553;;
+2003;15;LMP675;29;FRA;Noël del Bello Racing;FRA|CHE|FRA;Jean-Luc Maury-Laribière|Christophe Pillon|Didier André;Reynard 2KQ-LM;Volkswagen HPT16 2.0L Turbo I4;Michelin;319;4345.614;;
+2003;16;GTS;86;FRA;Larbre Compétition;FRA|FRA|CHE;Patrice Goueslard|Christophe Bouchut|Steve Zacchia;Chrysler Viper GTS-R;Chrysler 8.0L V10;Michelin;317;4317.986;;
+2003;17;GT;87;USA;Orbit Racing;USA|USA|DEU;Leo Hindery, Jr.|Peter Baron|Marc Lieb;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Michelin;314;4284.739;;
+2003;18;GT;75;FRA|FRA;Thierry Perrier|Perspective Racing;BEL|GBR|GBR;Michel Neugarten|Nigel Smith|Ian Khan;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Pirelli;305;4152.908;;
+2003;19;GT;77;JPN;Team Taisan Advan;JPN|JPN|JPN;Atsushi Yogo|Akira Iida|Kazuyuki Nishizawa;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Yokohama;304;4145.264;;
+2003;20;GT;81;USA;The Racer's Group;USA|DEU|DEU;Kevin Buckler|Timo Bernhard|Jörg Bergmeister;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Michelin;304;4136.353;;
+2003;21;GTS;72;FRA;Luc Alphand Aventures;FRA|FRA|FRA;Luc Alphand|Jérôme Policand|Frédéric Dor;Ferrari 550-GTS Maranello;Ferrari F133 6.0L V12;Michelin;298;4066.018;;
+2003;22;LMP675;26;GBR;RN Motorsport Ltd.;DNK|JPN|DNK;John Nielsen|Hayanari Shimoda|Casper Elgaard;DBA4 03S;Zytek ZG348 3.4L V8;Dunlop;288;3927.181;;
+2003;23;GT;78;GBR;PK Sport, Ltd.;GBR|GBR|GBR;Robin Liddell|David Warnock|Piers Masarati;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Pirelli;285;3881.779;;
+2003;24;LMP900;19;ITA;Automotive Durango SRL;FRA|ITA|FRA;Sylvain Boulay|Michele Rugolo|Jean-Bernard Bouvet;Durango LMP1;Judd GV4 4.0L V10;Dunlop;277;3778.793;;
+2003;25;GT;70;FRA;JMB Racing;FRA|ITA|ITA;David Terrien|Fabrizio de Simone|Fabio Babini;Ferrari 360 Modena GT;Ferrari F131 3.6L V8;Pirelli;273;3723.603;;
+2003;26;GT;94;USA;Risi Competizione;USA|DEU|USA;Anthony Lazzaro|Ralf Kelleners|Terry Borcheller;Ferrari 360 Modena GT;Ferrari F131 3.6L V8;Michelin;269;3661.391;;
+2003;27;GT;84;JPN;T2M Motorsport;BEL|FRA|FRA;Vanina Ickx|Roland Bervillé|Patrick Bourdais;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Michelin;264;3601.102;;
+2003;NC;GTS;64;GBR|GBR;Graham Nash Motorsport|Ray Mallock Ltd.;PRT|BRA|GBR;Pedro Chaves|Thomas Erdos|Mike Newton;Saleen S7-R;Ford 7.0L V8;Dunlop;292;3985.800;;Engine
+2003;NC;GT;85;NLD;ST Team Orange Spyker;DEU|NLD|NLD;Norman Simon|Tom Coronel|Hans Hugenholtz;Spyker C8 Double-12R;Audi 4.0L V8;Dunlop;229;3118.716;;Insufficient distance
+2003;NC;LMP675;24;FRA;Rachel Welter;JPN|FRA|GBR;Yojiro Terada|Olivier Porta|Gavin Pickering;WR LMP01;Peugeot 2.0L Turbo I4;Michelin;235;3116.260;;Insufficient distance
+2003;DNF;LMP900;16;NLD;Racing for Holland;BOL|ITA|FRA;Felipe Ortiz|Beppe Gabbiani|Tristan Gommendy;Dome S101;Judd GV4 4.0L V10;Michelin;316;4313.400;23:45:00;Accident
+2003;DNF;LMP900;12;USA;JML Team Panoz;CHE|BEL|CAN;Benjamin Leuenberger|David Saelens|Scott Maxwell;Panoz LMP01 Evo;Élan 6L8 6.0L V8;Michelin;233;3180.450;18:12:00;Accident (at Playstation Chicane) 
+2003;DNF;GTS;68;FRA;Scorp Motorsport Communication;FRA|FRA|FRA;Luis Marques|Olivier Thévenin|Denis Dupuis;Chrysler Viper GTS-R;Chrysler 8.0L V10;Dunlop;229;3125.850;18:50:00;Engine
+2003;DNF;GT;99;FRA;XL Racing;FRA|FRA|FRA;Ange Barde|Michel Ferté|Gaël Lasoudier;Ferrari 550 Maranello;Ferrari F131 5.5L V12;Pirelli;227;3098.550;21:37:00;Fire (at Karting curve)
+2003;DNF;LMP900;4;USA;Riley & Scott Racing;USA|BEL|FRA;Jim Matthews|Marc Goossens|Christophe Tinseau;Riley & Scott Mk III C;Ford ( Yates) 6.0L V8;Michelin;214;2921.100;15:29:00;Engine
+2003;DNF;LMP675;25;FRA;Gerard Welter;FRA|FRA|FRA;Bastien Brière|Jean-René de Fournoux|Stéphane Daoudi;WR LMP02;Peugeot 3.0L V6;Michelin;176;2402.400;13:45:00;Accident (at Arnage)
+2003;DNF;GTS;80;GBR;Veloqx Prodrive Racing;GBR|GBR|GBR;Anthony Davidson|Kelvin Burt|Darren Turner;Ferrari 550-GTS Maranello;Ferrari F131 5.9L V12;Michelin;176;2402.400;18:44:00;Engine
+2003;DNF;LMP900;14;GBR|GBR;Team Nasamax|McNeil Engineering;FRA|CAN|ZAF;Romain Dumas|Robbie Sterling|Werner Lupberger;Reynard 01Q;Cosworth XDE 2.7L Turbo V8 ( Bioethanol);Goodyear;138;1883.700;16:58:00;Fire
+2003;DNF;GT;95;USA;Risi Competizione;USA|USA|GBR;Shane Lewis|Butch Leitzinger|Johnny Mowlem;Ferrari 360 Modena GT;Ferrari F133 3.6L V8;Yokohama;138;1883.700;11:00:00;Engine
+2003;DNF;GT;83;DEU;Seikel Motorsport;CAN|CAN|NZL;Anthony Burgess|David Shep|Andrew Bagnall;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Yokohama;134;1829.100;11:45:00;Transmission
+2003;DNF;LMP675;27;USA;Intersport Racing;USA|USA|USA;Jon Field|Duncan Dayton|Rick Sutherland;MG-Lola EX257;MG ( AER) XP20 2.0L Turbo I4;Goodyear;107;1460.550;07:45:00;Engine
+2003;DNF;GT;92;GBR;Dewalt Racesports Salisbury;GBR|GBR|GBR;Mike Jordan|Michael Caine|Tim Sugden;TVR Tuscan T400R;TVR Speed Six 4.0L I6;Dunlop;93;1269.450;10:40:00;Transsmission
+2003;DNF;GTS;66;DEU;Konrad Motorsport;AUT|CHE|CHE;Franz Konrad|Toni Seiler|Walter Brun;Saleen S7-R;Ford 7.0L V8;Dunlop;91;1242.150;07:50:00;Transsmission
+2003;DNF;LMP900;21;FRA;Edouard Sezionale;FRA|FRA|FRA;Patrice Roussel|Edouard Sezionale|Lucas Lasserre;Norma M2000-2;Ford ( Roush) 6.0L V8;Dunlop;82;1119.300;08:45:00;Engine
+2003;DNF;LMP675;31;FRA;Courage Compétition;FRA|FRA|SWE;David Hallyday|Philippe Alliot|Carl Rosenblad;Courage C65;JPX 3.4L V6;Michelin;41;559.650;10:10:00;Engine (piston)
+2003;DNF;LMP900;10;GBR|GBR;Audi Sport UK|Arena Motorsport;DEU|GBR|FIN;Frank Biela|Perry McCarthy|Mika Salo;Audi R8;Audi 3.6L Turbo V8;Michelin;28;382.200;02:39:00;Fuel feed
+2003;DNF;LMP675;23;USA;Team Bucknum Racing;USA|USA|USA;Jeff Bucknum|Bryan Willman|Chris McMurry;Pilbeam MP91;JPX 3.4L V6;Dunlop;27;368.550;04:20:00;Engine
+2003;DNF;GT;91;GBR;Dewalt Racesport Salisbury;GBR|GBR|GBR;Rob Barff|Richard Hay|Richard Stanton;TVR Tuscan T400R;TVR Speed Six 4.0L I6;Dunlop;11;150.150;03:35:00;Transsmission (after accident at 0:57)
+2003;DNF;GTS;61;USA;Carsport America;NLD|BEL|NLD;Mike Hezemans|Anthony Kumpen|David Hart;Pagani Zonda GR;Mercedes-Benz AMG 6.0L V12;Pirelli;10;136.500;01:40:00;Transmission (gearbox)
+2003;DNS;LMP900;20;GBR;Lister Racing;GBR|GBR|BEL;Jamie Campbell-Walter|Nathan Kinch|Vincent Vosse;Lister Storm LMP;Chevrolet LS1 6.0L V8;Dunlop;0;0.0;;
+2003;DNA;LMP900;22;GBR;Taurus Sports Racing;GBR|GBR|GBR;Justin Keen|Christian Vann|Phil Andrews;Lola B2K/10;Judd GV4 4.0L V10;Dunlop;0;0.0;;
+2003;DNA;GTS;67;DEU;Konrad Motorsport;FRA|CHE|ESP;Jean-Francois Yvon|Walter Brun|Jesus Diez de Villaroel;Saleen S7-R;Ford 7.0L V8;Dunlop;0;0.0;;
+2003;DNA;GT;82;USA;The Racers Group;GBR|DEU|AUT;Paul Daniels|Pierre Ehret|Werner Gröbl;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Michelin;0;0.0;;
+2003;DNA;GTS;65;GBR;Graham Nash Motorsport;BRA|GBR|GBR;Thomas Erdos|Gavin Pickering|Mike Newton;Saleen S7-R;Ford 7.0L V8;Dunlop;0;0.0;;
+2003;DNA;GT;79;GBR;PK Sport Ltd.;GBR|GBR|GBR;Bart Hayden|Gregor Fisken|Ian Donaldson;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Pirelli;0;0.0;;
+2003;DNA;GT;74;FRA;Luc Alphand Aventures;FRA|FRA|GBR;James Ruffier|Olivier Thevenin|Marino Franchitti;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Pirelli;0;0.0;;
+2004;1;LMP1;5;JPN;Audi Sport Japan Team Goh;JPN|ITA|DNK;Seiji Ara|Rinaldo Capello|Tom Kristensen;Audi R8;Audi 3.6L Turbo V8;Michelin;379;5169.970;;
+2004;2;LMP1;88;GBR;Audi Sport UK Team Veloqx;GBR|GBR|GBR;Jamie Davies|Johnny Herbert|Guy Smith;Audi R8;Audi 3.6L Turbo V8;Michelin;379;5167.703;;
+2004;3;LMP1;2;USA;ADT Champion Racing;FIN|DEU|ITA;JJ Lehto|Marco Werner|Emanuele Pirro;Audi R8;Audi 3.6L Turbo V8;Michelin;368;5019.804;;
+2004;4;LMP1;18;FRA;Pescarolo Sport;FRA|FRA|FRA;Soheil Ayari|Érik Comas|Benoît Tréluyer;Pescarolo C60;Judd GV5 5.0L V10;Michelin;361;4913.454;;
+2004;5;LMP1;8;GBR;Audi Sport UK Team Veloqx;GBR|DEU|DEU;Allan McNish|Frank Biela|Pierre Kaffer;Audi R8;Audi 3.6L Turbo V8;Michelin;350;4771.779;;
+2004;6;GTS;64;USA;Corvette Racing;GBR|MCO|DNK;Oliver Gavin|Olivier Beretta|Jan Magnussen;Chevrolet Corvette C5-R;Chevrolet 7.0L V8;Michelin;345;4695.140;;
+2004;7;LMP1;15;NLD;Racing for Holland;NLD|USA|JPN;Jan Lammers|Chris Dyson|Katsutomo Kaneishi;Dome S101;Judd GV4 4.0L V10;Dunlop;341;4651.158;;
+2004;8;GTS;63;USA;Corvette Racing;CAN|ITA|USA;Ron Fellows|Max Papis|Johnny O'Connell;Chevrolet Corvette C5-R;Chevrolet 7.0L V8;Michelin;334;4546.709;;
+2004;9;GTS;65;GBR;Prodrive Racing;GBR|GBR|SWE;Darren Turner|Colin McRae|Rickard Rydell;Ferrari 550-GTS Maranello;Ferrari F133 5.9L V12;Michelin;329;4478.806;;
+2004;10;GT;90;USA;White Lightning Racing;DEU|USA|DEU;Jörg Bergmeister|Patrick Long|Sascha Maassen;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Michelin;327;4450.974;;
+2004;11;GTS;66;GBR;Prodrive Racing;CHE|NLD|CZE;Alain Menu|Peter Kox|Tomáš Enge;Ferrari 550-GTS Maranello;Ferrari F133 5.9L V12;Michelin;325;4432.191;;
+2004;12;GT;77;JPN;ChoroQ Racing Team;JPN|JPN|JPN;Haruki Kurosawa|Kazuyuki Nishizawa|Manabu Orido;Porsche 911 GT3-RSR;Porsche 3.6L Flat-6;Yokohama;322;4384.260;;
+2004;13;GT;85;DEU;Freisinger Motorsport;MCO|DEU|FRA;Stéphane Ortelli|Ralf Kelleners|Romain Dumas;Porsche 911 GT3-RSR;Porsche 3.6L Flat-6;Dunlop;321;4371.299;;
+2004;14;GTS;69;FRA;Larbre Compétition;FRA|FRA|FRA;Christophe Bouchut|Patrice Goueslard|Olivier Dupard;Ferrari 550-GTS Maranello;Ferrari F133 5.9L V12;Michelin;317;4319.671;;
+2004;15;GT;84;DEU;Seikel Motorsport;CAN|USA|NZL;Anthony Burgess|Philip Collin|Andrew Bagnall;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Yokohama;317;4316.241;;
+2004;16;GT;72;FRA;Luc Alphand Aventures;FRA|FRA|FRA;Luc Alphand|Christian Lavieille|Philippe Alméras;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Michelin;316;4306.127;;
+2004;17;LMP1;14;GBR|GBR;Team Nasamax|McNeil Engineering;CAN|ZAF|GBR;Robbie Stirling|Werner Lupberger|Kevin McGarrity;Nasamax ( Reynard) DM139;Judd GV5 5.0L V10 ( Bioethanol);Dunlop;316;4299.330;;
+2004;18;GT;81;USA;The Racer's Group;DNK|GBR|GBR;Lars-Erik Nielsen|Ian Donaldson|Gregor Fisken;Porsche 911 GT3-RSR;Porsche 3.6L Flat-6;Michelin;314;4278.059;;
+2004;19;GT;92;GBR;Cirtek Motorsport;GBR|NLD|NZL;Frank Mountain|Hans Hugenholtz|Rob Wilson;Ferrari 360 Modena GTC;Ferrari F131 3.6L V8;Dunlop;311;4234.875;;
+2004;20;LMP1;4;GBR;Taurus Sports Racing;GBR|CHE|FRA;Christian Vann|Benjamin Leuenberger|Didier André;Lola B2K/10;Judd GV4 4.0L V10;Michelin;300;4089.222;;
+2004;21;GT;89;GBR;Chamberlain-Synergy Motorsport;GBR|GBR|GBR;Bob Berridge|Michael Caine|Chris Stockton;TVR Tuscan T400R;TVR Speed Six 4.0L I6;Dunlop;300;4089.111;;
+2004;22;GT;96;GBR;Chamberlain-Synergy Motorsport;GBR|GBR|GBR;Lawrence Tomlinson|Nigel Greensall|Gareth Evans;TVR Tuscan T400R;TVR Speed Six 4.0L I6;Dunlop;291;3966.253;;
+2004;23;GT;75;FRA|FRA;Thierry Perrier|Perspective Racing;GBR|GBR|GBR;Ian Khan|Nigel Smith|Tim Sugden;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Dunlop;283;3856.489;;
+2004;24;LMP1;20;GBR;Lister Racing;DNK|DNK|DNK;John Nielsen|Casper Elgaard|Jens Møller;Lister Storm LMP;Chevrolet LS1 6.0L V8;Dunlop;279;3805.250;;
+2004;25;LMP2;32;USA;Intersport Racing;USA|USA|USA;William Binnie|Clint Field|Rick Sutherland;Lola B2K/40;Judd KV675 3.4L V8;Pirelli;278;3790.213;;
+2004;26;LMP2;24;FRA;Rachel Welter;JPN|FRA|FRA;Yojiro Terada|Patrice Roussel|Olivier Porta;WR LM2001;Peugeot 2.0L Turbo I4;Michelin;270;3680.599;;
+2004;NC;GT;80;GBR;Morgan Works Race Team;GBR|NZL|GBR;Adam Sharpe|Neil Cunningham|Steve Hyde;Morgan Aero 8R;BMW B44 (Mader) 4.5L V8;Yokohama;222;3030.300;;Insufficient distance
+2004;DNF;LMP1;16;NLD;Racing for Holland;NLD|GBR|GBR;Tom Coronel|Justin Wilson|Ralph Firman;Dome S101;Judd GV4 4.0L V10;Dunlop;313;4272.450;;Ignition
+2004;DNF;LMP1;17;FRA;Pescarolo Sport;FRA|FRA|FRA;Sébastien Bourdais|Nicolas Minassian|Emmanuel Collard;Pescarolo C60;Judd GV5 5.0L V10;Michelin;282;3849.300;19:45:00;Engine (overheating)
+2004;DNF;LMP1;25;GBR;Ray Mallock Ltd. (RML);BRA|GBR|GBR;Thomas Erdos|Mike Newton|Nathan Kinch;MG-Lola EX257;MG ( AER) XP20 2.0L Turbo I4;Dunlop;256;3494.400;;Engine
+2004;DNF;LMP1;6;GBR;Rollcentre Racing;GBR|GBR|PRT;Martin Short|Rob Barff|João Barbosa;Dallara SP1;Judd GV4 4.0L V10;Dunlop;230;3139.500;;Accident
+2004;DNF;GT;87;USA|USA;Orbit Racing|BAM!;USA|DEU|DEU;Leo Hindery, Jr.|Marc Lieb|Mike Rockenfeller;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Michelin;223;3043.950;;Transmission (gearbox)
+2004;DNF;LMP1;9;JPN;Kondo Racing;JPN|JPN|JPN;Hiroki Kato|Ryo Fukuda|Ryo Michigami;Dome S101;Mugen MF408S 4.0L V8;Yokohama;206;2811.900;;Oil leak
+2004;DNF;GTS;62;NLD;Barron Connor Racing;NLD|FRA|CHE;Mike Hezemans|Ange Barde|Jean-Denis Délétraz;Ferrari 575-GTC;Ferrari F133 6.0L V12;Pirelli;200;2730.000;;Electronics
+2004;DNF;LMP1;22;GBR;Zytek Engineering, Ltd.;GBR|AUS|JPN;Andy Wallace|David Brabham|Hayanari Shimoda;Zytek 04S;Zytek ZG348 3.4L V8;Michelin;167;2279.550;;Engine
+2004;DNF;GTS;61;NLD;Barron Connor Racing;NLD|USA|ITA;John Bosch|Danny Sullivan|Thomas Biagi;Ferrari 575-GTC;Ferrari F133 6.0L V12;Pirelli;163;2224.950;;Brakes
+2004;DNF;GT;83;DEU;Seikel Motorsport;ITA|NLD|ITA;Gabrio Rosa|Peter van Merksteijn|Alex Caffi;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Yokohama;148;2020.200;;Engine
+2004;DNF;LMP2;36;FRA;Gerard Welter;FRA|FRA|FRA;Tristan Gommendy|Jean-Bernard Bouvet|Bastien Brière;WR LM2004;Peugeot ES9J4S 3.4L V6;Michelin;137;1870.050;;Electrics
+2004;DNF;GT;70;FRA;JMB Racing;FRA|BRA|FRA;Jean-René de Fournoux|Jaime Melo|Stéphane Daoudi;Ferrari 360 Modena GTC;Ferrari F131 3.6L V8;Michelin;133;1815.450;;Transmission
+2004;DNF;LMP2;31;FRA;Courage Compétition;CHE|GBR|FRA;Alexander Frei|Sam Hancock|Jean-Marc Gounon;Courage C65;JPX 3.4L V6;Michelin;127;1733.550;;Engine
+2004;DNF;LMP2;35;FRA;Epsilon Sport;FRA|USA|GBR;Renaud Derlot|Gunnar Jeannette|Gavin Pickering;Courage C65;Willman (JPX) 3.4L V6;Michelin;124;1692.600;;Engine
+2004;DNF;LMP1;29;FRA;Noël del Bello Racing;FRA|FRA|FRA;Bruno Besson|Sylvain Boulay|Jean-Luc Maury-Laribière;Reynard 2KQ;Volkswagen HPT16 2.0L Turbo I4;Michelin;122;1665.300;;Accident
+2004;DNF;LMP2;37;FRA;Paul Belmondo Racing;FRA|FRA|FRA;Paul Belmondo|Claude-Yves Gosselin|Marco Saviozzi;Courage C65;JPX 3.4L V6;Michelin;80;1092.000;;Accident
+2004;DNF;GT;86;DEU;Freisinger Motorsport;RUS|RUS|GBR;Alexey Vasilyev|Nikolai Fomenko|Robert Nearn;Porsche 911 GT3-RSR;Porsche 3.6L Flat-6;Dunlop;65;887.250;;Accident
+2004;DNF;LMP1;11;USA|FRA;Panoz Motor Sports|Larbre Compétition;FRA|FRA|FRA;Patrick Bourdais|Jean-Luc Blanchemain|Roland Bervillé;Panoz GTP;Élan 6L8 6.0L V8;Michelin;54;737.100;;Clutch
+2004;DNF;LMP1;10;GBR;Taurus Sports Racing;GBR|GBR|BEL;Phil Andrews|Calum Lockie|Anthony Kumpen;Lola B2K/10;Caterpillar 5.0L Turbo V10 ( Diesel);Dunlop;35;477.750;;Transmission (gearbox)
+2004;DNF;LMP1;27;USA;Intersport Racing;USA|USA|USA;Jon Field|Duncan Dayton|Larry Connor;Lola B01/60;Judd XV675 3.4L V8;Goodyear;29;395.850;;Suspension
+2004;DNF;GT;78;GBR;PK Sport Ltd.;USA|GBR|GBR;Jim Matthews|David Warnock|Paul Daniels;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Dunlop;27;368.550;;Electrics
+2004;DNA;LMP1;3;USA;Arena International Motorsport;SWE;Stefan Johansson;Dome S101;Mugen MF408S 4.0L V8;;0;0.0;;Withdrawn
+2004;DNA;LMP1;7;ITA;Spinnaker Clandesteam;ITA|ITA|FRA;Riccardo Agusta|Almo Coppelli|Sylvain Boulay;Dallara SP1;Judd GV4 4.0L V10;;0;0.0;;Withdrawn
+2004;DNA;LMP2;33;FRA;Courage Compétition;BEL|FRA|CHE;Marc Goossens|Jean-Philippe Belloc|Alexander Frei;Courage C65;Willman JPX 3.4L V6;;0;0.0;;Withdrawn
+2004;DNA;LMP2;34;FRA;Epsilon Sport;FRA|FRA|FRA|ESP;Lucas Lasserre|Xavier Pompidou|Jean-Christophe Boullion|Jesús Diez de Villarroel;Courage C65;Willman JPX 3.4L V6;;0;0.0;;Withdrawn
+2004;DNA;GTS;59;DEU;Konrad Motorsport;DEU;Franz Konrad;Saleen S7-R;Ford 7.0L V8;;0;0.0;;Withdrawn
+2004;DNA;GTS;60;FRA;Force One Racing;FRA|BEL|FRA;David Hallyday|Anthony Kumpen|Bruno Besson;Pagani Zonda;Mercedes-AMG 7.0L V12;;0;0.0;;Withdrawn
+2004;DNA;GTS;67;GBR;Care Racing;;;Ferrari 550 GTS Maranello;Ferrari F133 5.9L V12;;0;0.0;;Withdrawn
+2004;DNA;GTS;68;ITA;BMS Scuderia Italia;ITA|ITA;Fabrizio Gollin|Luca Cappellari;Ferrari 550 GTS Maranello;Ferrari F133 5.9L V12;;0;0.0;;Withdrawn
+2004;DNA;GT;95;USA;Risi Competizione;DEU|USA|ITA;Ralf Kelleners|Anthony Lazarro|Matteo Bobbi;Ferrari 360 Modena GTC;Ferrari F131 3.6L V8;;0;0.0;;Withdrawn
+2004;DNA;GTS;99;FRA;XL Racing;FRA|FRA|FRA;Olivier Pla|Jean-Philippe Belloc|Jean-Christophe Ravier;Ferrari 550 GTS Maranello;Ferrari F133 5.9L V12;;0;0.0;;Withdrawn
+2005;1;LMP1;3;USA;ADT Champion Racing;DNK|FIN|DEU;Tom Kristensen|JJ Lehto|Marco Werner;Audi R8;Audi 3.6L Turbo V8;Michelin;370;5050.500;;
+2005;2;LMP1;16;FRA;Pescarolo Sport;FRA|FRA|FRA;Emmanuel Collard|Jean-Christophe Boullion|Érik Comas;Pescarolo C60 Hybrid;Judd GV5 5.0L V10;Michelin;368;5023.200;;
+2005;3;LMP1;2;USA;ADT Champion Racing;DEU|GBR|ITA;Frank Biela|Allan McNish|Emanuele Pirro;Audi R8;Audi 3.6L Turbo V8;Michelin;364;4968.600;;
+2005;4;LMP1;4;FRA;Audi PlayStation Team Oreca;FRA|FRA|MCO;Franck Montagny|Jean-Marc Gounon|Stéphane Ortelli;Audi R8;Audi 3.6L Turbo V8;Michelin;362;4941.300;;
+2005;5;GT1;64;USA;Corvette Racing;GBR|MCO|DNK;Oliver Gavin|Olivier Beretta|Jan Magnussen;Chevrolet Corvette C6.R;Chevrolet LS7R 7.0L V8;Michelin;349;4763.850;;
+2005;6;GT1;63;USA;Corvette Racing;CAN|ITA|USA;Ron Fellows|Max Papis|Johnny O'Connell;Chevrolet Corvette C6.R;Chevrolet LS7R 7.0L V8;Michelin;347;4736.550;;
+2005;7;LMP1;10;NLD;Racing for Holland;NLD|USA|NLD;Jan Lammers|Elton Julian|John Bosch;Dome S101;Judd GV4 4.0L V10;Dunlop;346;4722.900;;
+2005;8;LMP1;12;FRA;Courage Compétition;DEU|CHE|GBR;Dominik Schwager|Alexander Frei|Christian Vann;Courage C60H;Judd GV4 4.0L V10;Yokohama;339;4627.350;;
+2005;9;GT1;59;GBR;Aston Martin Racing;AUS|FRA|GBR;David Brabham|Stéphane Sarrazin|Darren Turner;Aston Martin DBR9;Aston Martin 6.0L V12;Michelin;333;4545.450;;
+2005;10;GT2;71;USA|USA;Alex Job Racing|BAM! Motorsport;DEU|DEU|USA;Mike Rockenfeller|Marc Lieb|Leo Hindery;Porsche 911 GT3-RSR;Porsche 3.6L Flat-6;Yokohama;332;4531.800;;
+2005;11;GT2;90;USA|USA;Petersen Motorsports|White Lightning Racing;DEU|USA|DEU;Jörg Bergmeister|Patrick Long|Timo Bernhard;Porsche 911 GT3-RSR;Porsche 3.6L Flat-6;Michelin;331;4518.150;;
+2005;12;GT1;50;FRA;Larbre Compétition;FRA|FRA|BEL;Patrice Goueslard|Olivier Dupard|Vincent Vosse;Ferrari 550-GTS Maranello;Ferrari F133 5.9L V12;Michelin;324;4422.600;;
+2005;13;GT2;80;USA;Flying Lizard Motorsports;USA|USA|USA;Johannes van Overbeek|Lonnie Pechnik|Seth Neiman;Porsche 911 GT3-RSR;Porsche 3.6L Flat-6;Michelin;323;4408.950;;
+2005;14;LMP1;7;GBR;Creation Autosportif Ltd.;FRA|GBR|GBR;Nicolas Minassian|Jamie Campbell-Walter|Andy Wallace;DBA 03S;Judd GV4 4.0L V10;Michelin;322;4395.300;;
+2005;15;GT2;76;FRA;IMSA Performance;FRA|FRA|FRA;Raymond Narac|Sébastien Dumez|Romain Dumas;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Michelin;322;4395.300;;
+2005;16;LMP1;18;GBR;Rollcentre Racing;GBR|PRT|BEL;Martin Short|João Barbosa|Vanina Ickx;Dallara SP1;Judd GV4 4.0L V10;Michelin;318;4340.700;;
+2005;17;GT1;61;GBR|RUS|RUS;Cirtek Motorsport|Russian Age Racing|Convers Team;RUS|RUS|FRA;Nikolai Fomenko|Alexey Vasilyev|Christophe Bouchut;Ferrari 550-GTS Maranello;Ferrari F133 5.9L V12;Michelin;315;4299.750;;
+2005;18;GT2;72;FRA;Luc Alphand Aventures;FRA|FRA|FRA;Luc Alphand|Jérôme Policand|Christopher Campbell;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Michelin;311;4245.150;;
+2005;19;GT2;89;GBR;Sebah Automotive Ltd.;DNK|DNK|DEU;Lars-Erik Nielsen|Thorkild Thyrring|Pierre Ehret;Porsche 911 GT3-RSR;Porsche 3.6L Flat-6;Dunlop;307;4190.550;;
+2005;20;LMP2;25;GBR;Ray Mallock Ltd. (RML);BRA|GBR|GBR;Thomas Erdos|Mike Newton|Warren Hughes;MG-Lola EX264;Judd XV675 3.4L V8;Michelin;305;4163.250;;
+2005;21;LMP2;36;FRA;Paul Belmondo Racing;SAU|FRA|GBR;Karim A. Ojjeh|Claude-Yves Gosselin|Adam Sharpe;Courage C65;Ford ( AER) 2.0L Turbo I4;Michelin;300;4095.000;;
+2005;22;LMP2;37;FRA;Paul Belmondo Racing;FRA|FRA|USA;Didier André|Paul Belmondo|Rick Sutherland;Courage C65;Ford ( AER) 2.0L Turbo I4;Michelin;294;4013.100;;
+2005;23;GT2;83;DEU;Seikel Motorsport;USA|CAN|DEU;Philip Collin|David Shep|Horst Felbermayr, Sr.;Porsche 911 GT3-RSR;Porsche 3.6L Flat-6;Yokohama;274;3740.100;;
+2005;24;LMP2;30;DEU;Kruse Motorsport;GBR|GBR|GBR;Tim Mullen|Ian Mitchell|Phil Bennett;Courage C65;Judd XV675 3.4L V8;Pirelli;268;3617.250;;
+2005;NC;LMP1;9;GBR|GBR;Team Jota|Zytek Engineering Ltd.;GBR|GBR|JPN;Sam Hignett|John Stack|Haruki Kurosawa;Zytek 04S;Zytek ZG348 3.4L V8;Dunlop;325;4436.250;;
+2005;NC;GT2;95;GBR;Racesport Peninsula TVR;GBR|GBR|GBR;John Hartshorne|Richard Stanton|Piers Johnson;TVR Tuscan T400R;TVR Speed Six 4.0L I6;Dunlop;256;3494.400;;
+2005;NC;LMP2;24;FRA;Rachel Welter;JPN|FRA|USA;Yojiro Terada|Patrice Roussel|William Binnie;WR LMP04;Peugeot 2.0L Turbo I4;Pirelli;233;3180.450;;
+2005;DNF;GT1;58;GBR;Aston Martin Racing;NLD|PRT|CZE;Peter Kox|Pedro Lamy|Tomáš Enge;Aston Martin DBR9;Aston Martin 6.0L V12;Michelin;327;4477.200;;Fuel system
+2005;DNF;LMP1;17;FRA;Pescarolo Sport;FRA|FRA|FRA;Soheil Ayari|Éric Hélary|Sébastien Loeb;Pescarolo C60 Hybrid;Judd GV5 5.0L V10;Michelin;288;3931.200;;Accident
+2005;DNF;GT2;92;GBR|RUS;Cirtek Motorsport|Conversbank;SWE|GBR|NZL;Stefan Eriksson|Joe Macari|Rob Wilson;Ferrari 360 Modena GTC;Ferrari F131 3.6L V8;Dunlop;218;2975.700;;Wheel
+2005;DNF;LMP1;5;JPN;Jim Gainer International;JPN|JPN|JPN;Ryo Michigami|Seiji Ara|Katsutomo Kaneishi;Dome S101Hb;Mugen MF408S 4.0L V8;Dunlop;193;2634.450;13:35:00;Transmission (gearbox)
+2005;DNF;GT2;78;USA;Panoz Motor Sports;FRA|USA|GBR;Patrick Bourdais|Bryan Sellers|Marino Franchitti;Panoz Esperante GT-LM;Ford ( Élan) 5.0L V8;Pirelli;185;2525.250;;Transmission (gearbox)
+2005;DNF;LMP2;35;BEL;G-Force Racing / Bokkenrijders;NLD|DEU|GBR;Val Hillebrand|Frank Hahn|Gavin Pickering;Courage C65;Judd XV675 3.4L V8;Dunlop;183;2497.950;17:54:00;Transmission (gearbox)
+2005;DNF;GT2;91;JPN;T2M Motorsport;JPN|FRA|FRA;Yutaka Yamagishi|Xavier Pompidou|Jean-Luc Blanchemain;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Dunlop;183;2497.950;;Accident
+2005;DSQ;LMP1;8;GBR;Rollcentre Racing;DEU|GBR|CHE;Michael Krumm|Bobby Verdon-Roe|Harold Primat;Dallara SP1;Nissan 3.6L Turbo V8;Michelin;133;1815.450;;Insufficient distance after 18 hours
+2005;DNF;LMP2;32;USA;Intersport Racing;USA|GBR|GBR;Liz Halliday|Sam Hancock|Gregor Fisken;Lola B05/40;AER P07 2.0L Turbo I4;Goodyear;119;1624.350;09:30:00;Engine (valves)
+2005;DSQ;LMP2;34;USA;Miracle Motorsports;USA|GBR|USA;John Macaluso|Ian James|Andy Lally;Courage C65;AER P07 2.0L Turbo I4;Kumho;115;1569.750;;Reversing on track
+2005;DNF;LMP2;31;FRA;Noël del Bello Racing;FRA|CHE|PRT;Romain Iannetta|Christophe Pillon|Ni Amorim;Courage C65;CG- Mecachrome 3.4L V8;Michelin;99;1351.350;;Transmission (gearbox)
+2005;DNF;GT1;69;MCO;JMB Racing;FRA|FRA|USA;Jean-René De Fournoux|Stéphane Daoudi|Jim Matthews;Ferrari 575-GTC;Ferrari F133 6.0L V12;Pirelli;84;1146.600;07:58:00;Engine
+2005;DNF;GT2;85;NLD;Spyker Squadron b.v.;NLD|NLD|NLD;Tom Coronel|Peter van Merksteijn|Donny Crevels;Spyker C8 Spyder GT2-R;Audi 3.8L V8;Dunlop;76;1037.400;;Fire
+2005;DNF;GT2;93;GBR;Scuderia Ecosse;GBR|GBR|GBR;Andrew Kirkaldy|Nathan Kinch|Anthony Reid;Ferrari 360 Modena GTC;Ferrari F131 3.6L V8;Pirelli;70;955.500;06:52:00;Accident
+2005;DNF;GT1;51;ITA;BMS Scuderia Italia;ITA|ITA|PRT;Fabrizio Gollin|Christian Pescatori|Miguel Ramos;Ferrari 550-GTS Maranello;Ferrari F133 5.9L V12;Pirelli;67;914.550;;Accident
+2005;DNF;GT1;52;ITA;BMS Scuderia Italia;ITA|ITA|CHE;Michele Bartyan|Matteo Malucelli|Toni Seiler;Ferrari 550-GTS Maranello;Ferrari F133 5.9L V12;Pirelli;60;819.000;;Accident
+2005;DNF;LMP2;23;FRA;Gerard Welter;FRA|CAN|FRA;Jean-Bernard Bouvet|Robert Julien|Sylvain Boulay;WR LMP04;Peugeot ES9J4S 3.4L V6;Pirelli;53;723.450;;Off course
+2005;DNF;LMP1;13;FRA;Courage Compétition;FRA|JPN|FRA;Jonathan Cochet|Shinji Nakano|Bruce Jouanny;Courage C60H;Judd GV4 4.0L V10;Yokohama;52;709.800;06:45:00;Accident
+2005;DNF;LMP2;20;FRA;Pir Competition;FRA|FRA|FRA;Pierre Bruneau|Marc Rostan|Philippe Haezebrouck;Pilbeam MP93;JPX 3.4L V6;Michelin;32;436.800;05:00:00;Clutch
+2005;DNF;LMP2;39;GBR;Chamberlain-Synergy Motorsport;GBR|GBR|GBR;Bob Berridge|Gareth Evans|Peter Owen;Lola B05/40;AER P07 2.0L Turbo I4;Dunlop;30;409.500;04:45:00;Fire
+2005;DNF;LMP2;33;USA|GBR;Intersport Racing|Cirtek Motorsport;DNK|RUS|FRA;Juan Barazi|Sergey Zlobin|Bastien Brière;Courage C65;AER P07 2.0L Turbo I4;Michelin;30;409.500;;Suspension
+2005;DNF;GT2;77;USA;Panoz Motor Sports;USA|GBR|CAN;Bill Auberlen|Robin Liddell|Scott Maxwell;Panoz Esperante GT-LM;Ford ( Élan) 5.0L V8;Pirelli;27;368.550;;Engine
+2005;DNA;LMP2;45;ITA;Lucchini Engineering Srl.;ITA|ITA|ITA;Fabrizio Peroni|Marco Savoldi|Filippo Francioni;Lucchini XV;Judd XV675 3.4L V8;;0;0.0;;
+2005;DNA;LMP1;14;GBR;Team Nasamax;CAN|ZAF|GBR;Robbie Stirling|Werner Lupberger|Kevin McGarrity;Nasamax DM139;Judd GV4 4.0L V10;;0;0.0;;
+2005;DNA;GT1;55;USA;ACEMCO Motorsports;USA|GBR|DEU;Terry Borcheller|Johnny Mowlem|Ralf Kelleners;Saleen S7-R;Ford 7.0L V8;;0;0.0;;
+2005;DNA;GT1;60;FRA;Larbre Compétition;;;Ferrari 550 GTS Maranello;Ferrari F133 5.9L V12;;0;0.0;;
+2005;DNA;LMP1;11;NLD;Racing for Holland;;;Dome S101;Judd GV4 4.0L V10;;0;0.0;;
+2005;DNA;GT2;99;ITA;GPC Sport Srl.;ITA|ITA;Luca Drudi|Gabrio Rosa;Ferrari 360 Modena GTC;Ferrari F131 3.6L V8;;0;0.0;;
+2005;DNA;GT1;65;GBR;Graham Nash Motorsport;ITA|BEL|GBR|ITA;Matteo Bobbi|Stephane Lemeret|Ricky Cole|Paolo Ruberti;Saleen S7-R;Ford 7.0L V8;;0;0.0;;
+2005;DNA;GT2;86;NLD;Spyker Squadron b.v.;NLD|BEL|NLD;Frank Munsterhuis|Marc Goossens|Michael Bleekemolen;Spyker C8 Spyder GT2-R;Audi 3.8L V8;;0;0.0;;
+2005;DNA;GT2;75;FRA;Perspective Racing Thierry Perrier;;;Porsche 911 GT3 RS;Porsche 3.6L Flat-6;;0;0.0;;
+2006;1;LMP1;8;DEU;Audi Sport Team Joest;DEU|DEU|ITA;Frank Biela|Marco Werner|Emanuele Pirro;Audi R10 TDI;Audi TDI 5.5L Turbo V12( Diesel);Michelin;380;5187.000;;
+2006;2;LMP1;17;FRA;Pescarolo Sport;FRA|FRA|FRA;Sébastien Loeb|Éric Hélary|Franck Montagny;Pescarolo C60 Hybrid;Judd GV5 S2 5.0L V10;Michelin;376;5132.400;;
+2006;3;LMP1;7;DEU;Audi Sport Team Joest;ITA|DNK|GBR;Rinaldo Capello|Tom Kristensen|Allan McNish;Audi R10 TDI;Audi TDI 5.5L Turbo V12( Diesel);Michelin;367;5009.550;;
+2006;4;GT1;64;USA;Corvette Racing;GBR|MCO|DNK;Oliver Gavin|Olivier Beretta|Jan Magnussen;Chevrolet Corvette C6.R;Chevrolet LS7R 7.0L V8;Michelin;355;4845.750;;
+2006;5;LMP1;16;FRA;Pescarolo Sport;FRA|FRA|FRA;Emmanuel Collard|Érik Comas|Nicolas Minassian;Pescarolo C60 Hybrid;Judd GV5 S2 5.0L V10;Michelin;352;4804.800;;
+2006;6;GT1;7;GBR;Aston Martin Racing;CZE|GBR|ITA;Tomáš Enge|Darren Turner|Andrea Piccini;Aston Martin DBR9;Aston Martin 6.0L V12;Michelin;350;4777.500;;
+2006;7;GT1;72;FRA;Luc Alphand Aventures;FRA|FRA|FRA;Luc Alphand|Patrice Goueslard|Jérôme Policand;Chevrolet Corvette C5-R;Chevrolet LS7R 7.0L V8;Michelin;346;4722.900;;
+2006;8;LMP2;25;GBR;Ray Mallock Ltd. (RML);GBR|BRA|GBR;Mike Newton|Thomas Erdos|Andy Wallace;MG-Lola EX264;AER P07 2.0L Turbo I4;Michelin;343;4681.950;;
+2006;9;GT1;62;RUS|GBR;Russian Age Racing|Team Modena;ESP|AUS|BRA;Antonio García|David Brabham|Nelson Piquet Jr.;Aston Martin DBR9;Aston Martin 6.0L V12;Michelin;343;4681.950;;
+2006;10;GT1;9;GBR;Aston Martin Racing;PRT|FRA|MCO;Pedro Lamy|Stéphane Sarrazin|Stéphane Ortelli;Aston Martin DBR9;Aston Martin 6.0L V12;Michelin;342;4668.300;;
+2006;11;GT1;66;USA;ACEMCO Motorsports;GBR|USA|BRA;Johnny Mowlem|Terry Borcheller|Christian Fittipaldi;Saleen S7-R;Ford 7.0L V8;Michelin;337;4600.050;;
+2006;12;GT1;63;USA;Corvette Racing;CAN|USA|ITA;Ron Fellows|Johnny O'Connell|Max Papis;Chevrolet Corvette C6.R;Chevrolet LS7R 7.0L V8;Michelin;327;4463.550;;
+2006;13;LMP2;24;USA;Binnie Motorsports;USA|JPN|GBR;William Binnie|Yojiro Terada|Allen Timpany;Lola B05/42;Zytek ZG348 3.4L V8;Michelin;326;4449.900;;
+2006;14;LMP2;27;USA;Miracle Motorsports;USA|USA|GBR;Andy Lally|John Macaluso|Ian James;Courage C65;AER P07 2.0L Turbo I4;Kumho;324;4422.600;;
+2006;15;GT2;81;GBR;Team LNT;GBR|GBR|GBR;Lawrence Tomlinson|Tom Kimber-Smith|Richard Dean;Panoz Esperante GT-LM;Ford ( Élan) 5.0L V8;Pirelli;321;4381.650;;
+2006;16;GT2;83;DEU|DEU;Seikel Motorsport|Farnbacher Racing;DNK|DEU|DEU;Lars-Erik Nielsen|Pierre Ehret|Dominik Farnbacher;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Yokohama;320;4368.000;;
+2006;17;GT2;87;GBR;Scuderia Ecosse;GBR|CAN|GBR;Andrew Kirkaldy|Chris Niarchos|Tim Mullen;Ferrari F430GT;Ferrari F136 4.0L V8;Michelin;311;4245.150;;
+2006;18;GT2;80;USA;Flying Lizard Motorsports;USA|USA|USA;Johannes van Overbeek|Patrick Long|Seth Neiman;Porsche 911 GT3-RSR;Porsche 3.6L Flat-6;Michelin;309;4217.850;;
+2006;19;LMP2;33;USA;Intersport Racing;USA|USA|USA;Clint Field|Liz Halliday|Duncan Dayton;Lola B05/40;AER P07 2.0L Turbo I4;Goodyear;297;4054.050;;
+2006;20;LMP2;22;GBR;Rollcentre Racing;GBR|PRT|GBR;Martin Short|João Barbosa|Stuart Moseley;Radical SR9;Judd XV675 3.4L V8;Dunlop;294;4013.100;;
+2006;21;LMP2;32;FRA;Barazi-Epsilon;DNK|NLD|NZL;Juan Barazi|Michael Vergers|Neil Cunningham;Courage C65;AER P07 2.0L Turbo I4;Michelin;294;4013.100;;
+2006;22;GT2;93;JPN;Team Taisan Advan;JPN|JPN|USA;Kazuyuki Nishizawa|Shinichi Yamaji|Philip Collin;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Yokohama;291;3972.150;;
+2006;23;GT2;73;BEL|BEL;Gordon Racing Team|Ice Pol Racing Team;BEL|BEL|FRA;Yves-Emmanuel Lambert|Christian Lefort|Romain Iannetta;Porsche 911 GT3-RSR;Porsche 3.8L Flat-6;Dunlop;282;3849.300;;
+2006;24;LMP1;2;GBR|DNK;Zytek Engineering|Team Essex Invest;DNK|DNK|DNK;John Nielsen|Casper Elgaard|Philip Andersen;Zytek 06S;Zytek ZB408 4.0L V8;Michelin;269;3671.850;;
+2006;25;LMP1;19;GBR;Chamberlain-Synergy Motorsport;GBR|GBR|GBR;Bob Berridge|Gareth Evans|Peter Owen;Lola B06/10;AER P32T 3.6L Turbo V8;Dunlop;267;3644.550;;
+2006;NC;LMP2;20;FRA;Pir Competition;FRA|GBR|USA;Marc Rostan|Simon Pullan|Chris MacAllister;Pilbeam MP93;Judd XV675 3.4L V8;Michelin;244;3330.600;;Insufficient distance
+2006;NC;GT1;53;JPN;JLOC Isao Noritake;ITA|JPN|JPN;Marco Apicella|Koji Yamanishi|Yasutaka Hinoi;Lamborghini Murcielago R-GT;Lamborghini L535 6.0L V12;Pirelli;283;3862.950;;Did not corss the finish line
+2006;DNF;GT2;89;GBR;Sebah Automotive Ltd.;DEU|FRA|DNK;Christian Ried|Xavier Pompidou|Thorkild Thyrring;Porsche 911 GT3-RSR;Porsche 3.6L Flat-6;Dunlop;256;3494.400;20:40:00;Transmission (cardan)
+2006;DNF;LMP1;9;GBR;Creation Autosportif Ltd.;CHE|ITA|GBR;Felipe Ortiz|Giuseppe Gabbiani|Jamie Campbell-Walter;Creation CA06/H;Judd GV5 S2 5.0L V10;Michelin;240;3276.000;20:00:00;Engine
+2006;DNF;GT1;50;FRA;Larbre Compétition;FRA|FRA|CHE;Patrick Bornhauser|Jean-Luc Blanchemain|Gabriele Gardel;Ferrari 550-GTS Maranello;Ferrari F133 5.9L V12;Michelin;222;3030.300;17:35:00;Clutch
+2006;DNF;GT2;76;FRA;IMSA Performance Matmut;FRA|ITA|FRA;Raymond Narac|Luca Riccitelli|Romain Dumas;Porsche 911 GT3-RSR;Porsche 3.8L Flat-6;Michelin;211;2880.150;18:17:00;Engine
+2006;DNF;GT2;86;NLD;Spyker Squadron b.v.;NLD|NLD|GBR;Jeroen Bleekemolen|Mike Hezemans|Jonny Kane;Spyker C8 Spyder GT2-R;Audi 3.8L V8;Michelin;202;2757.300;15:05:00;Engine
+2006;DNF;GT1;67;RUS;Convers MenX Team;RUS|CZE|NLD;Alexey Vasilyev|Robert Pergl|Peter Kox;Ferrari 550-GTS Maranello;Ferrari F133 5.9L V12;Michelin;196;2675.400;15:04:00;Accident (out of track)
+2006;DNF;GT2;91;JPN;T2M Motorsport;JPN|FRA|SVK;Yutaka Yamagishi|Jean-René de Fournoux|Miro Konopka;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Dunlop;196;2675.400;18:28:00;Out of fuel
+2006;DNF;LMP2;39;GBR|PRT;Chamberlain-Synergy Motorsport|ASM Team Racing for Portugal;PRT|GBR|ESP;Miguel Amaral|Warren Hughes|Miguel Ángel de Castro;Lola B05/40;AER P07 2.0L Turbo I4;Dunlop;196;2675.400;17:29:00;Transmission (gearbox)
+2006;DNF;LMP1;6;GBR;Lister Storm Racing;GBR|DNK|DNK;Gavin Pickering|Nicolas Kiesa|Jens Møller;Lister Storm LMP Hybrid;Chevrolet LS1 6.0L V8;Dunlop;192;2620.800;15:52:00;Accident (out of track)
+2006;DNF;LMP1;14;NLD;Racing for Holland;NLD|MYS|SWE;Jan Lammers|Alex Yoong|Stefan Johansson;Dome S101Hb;Judd GV5 5.0L V10;Dunlop;182;2484.300;13:00:00;Accident (out of track)
+2006;DNF;LMP1;12;FRA;Courage Compétition;GBR|CHE|GBR;Sam Hancock|Alexander Frei|Gregor Fisken;Courage LC70;Mugen MF458S 4.5L V8;Yokohama;171;2334.150;15:02:00;Engine
+2006;DNF;GT2;90;USA|USA;White Lightning Racing|Krohn Racing;DEU|SWE|USA;Jörg Bergmeister|Niclas Jönsson|Tracy Krohn;Porsche 911 GT3-RSR;Porsche 3.6L Flat-6;Michelin;148;2020.200;11:17:00;Accident (out of track)
+2006;DNF;LMP2;30;FRA;Gerard Welter;FRA|FRA|FRA;Patrice Roussel|Frédéric Hauchard|Julien Briché;WR LMP04;Peugeot 2.0L Turbo I4;Pirelli;134;1829.100;16:30:00;Accident (out of track)
+2006;DNF;LMP1;5;CHE;Swiss Spirit;CHE|CHE|AUT;Harold Primat|Marcel Fässler|Philipp Peter;Courage LC70;Judd GV5 S2 5.0L V10;Michelin;132;1801.800;10:10:00;Transmission (gearbox)
+2006;DNF;GT1;61;RUS|GBR;Russian Age Racing|Cirtek Motorsport;GBR|GBR|GBR;Tim Sugden|Nigel Smith|Christian Vann;Ferrari 550-GTS Maranello;Ferrari F133 5.9L V12;Michelin;124;1692.600;09:35:00;Engine
+2006;DNF;GT2;98;FRA;Noël del Bello Racing;GBR|FRA|BEL;Adam Sharpe|Patrick Bourdais|Tom Cloet;Porsche 911 GT3-RSR;Porsche 3.6L Flat-6;Michelin;115;1569.750;09:56:00;Accident (out of track)
+2006;DNF;LMP2;36;FRA;Paul Belmondo Racing;FRA|SAU|FRA;Claude-Yves Gosselin|Karim A. Ojjeh|Pierre Ragues;Courage C65;Ford ( Mecachrome) 3.4L V8;Michelin;84;1146.600;07:55:00;Transmission (gearbox)
+2006;DNF;LMP2;37;FRA;Paul Belmondo Racing;FRA|FRA|FRA;Patrice Roussel|Didier André|Yann Clairay;Courage C65;Ford ( Mecachrome) 3.4L V8;Michelin;48;655.200;06:44:00;Accident (out of track)
+2006;DNF;LMP2;35;BEL;G-Force Racing;BEL|FRA|GBR;Franck Hahn|Jean-François Leroch|Ed Morris;Courage C65;Judd XV675 3.4L V8;Dunlop;47;641.550;06:28:00;Transmission (gearbox)
+2006;DNF;GT2;85;NLD;Spyker Squadron b.v.;NLD|GBR|NLD;Donny Crevels|Peter Dumbreck|Tom Coronel;Spyker C8 Spyder GT2-R;Audi 3.8L V8;Michelin;40;546.000;05:45:00;Engine
+2006;DNF;LMP1;13;FRA;Courage Compétition;JPN|FRA|JPN;Shinji Nakano|Jean-Marc Gounon|Haruki Kurosawa;Courage LC70;Mugen MF458S 4.5L V8;Yokohama;35;477.750;04:25:00;Transmission (gearbox)
+2006;DNF;GT2;77;CAN;Multimatic Motorsport Team Panoz;USA|CAN|USA;Gunnar Jeannette|Scott Maxwell|Tom Milner;Panoz Esperante GT-LM;Ford ( Élan) 5.0L V8;Pirelli;34;464.100;05:05:00;Electrics
+2006;DNF;GT1;69;ITA;BMS Scuderia Italia;ITA|ITA|ITA;Fabrizio Gollin|Fabio Babini|Christian Pescatori;Aston Martin DBR9;Aston Martin 6.0L V12;Pirelli;3;40.950;00:42:00;Accident (out of track)
+2006;DNS;GT2;84;GBR;Team Icer Brakes;ESP|ESP|ESP;Jesus Diaz Villaroel|Tomas Saldaña|Javier Macias;Ferrari F430 GT;Ferrari F136 4.0L V8;Dunlop;0;0.0;;Accident in practice
+2006;DNA;LMP1;10;GBR;Creation Autosportif Ltd.;;;Creation CA06/H;Judd GV5 S2 5.0L V10;Michelin;0;0.0;;Reserve
+2006;DNA;LMP2;23;GBR;Rollcentre Racing;;;Radical SR9;Judd XV675 3.4L V8;Dunlop;0;0.0;;Reserve
+2006;DNA;LMP2;31;FRA;Rachel Welter;;;WR LMP2 Hybrid;Peugeot 2.0L Turbo I4;;0;0.0;;Reserve
+2006;DNA;LMP2;40;DEU;Kruse Motorsport;;;Courage C65;Judd XV675 3.4L V8;;0;0.0;;Reserve
+2006;DNA;GT2;82;GBR;Team LNT;;;Panoz Esperante GT-LM;Élan 5.0L V8;Pirelli;0;0.0;;Reserve
+2006;DNA;GT2;83;DEU;Seikel Motorsport;DEU|CAN|USA;Tim Bergmeister|Tony Burgess|Phillip Collin;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;Yokohama;0;0.0;;Reserve
+2006;DNA;GT2;94;USA;Flying Lizard Motorsports;;;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;;0;0.0;;Reserve
+2006;DNA;GT2;94;DEU;Farnbacher Racing;DEU|DEU|DEU|USA;Horst Farnbacher|Dirk Werner|Marco Seefried|Ian Baas;Porsche 911 GT3-RS;Porsche 3.6L Flat-6;;0;0.0;;Reserve
+2007;1;LMP1;1;DEU;Audi Sport North America;DEU|ITA|DEU;Marco Werner|Emanuele Pirro|Frank Biela;Audi R10 TDI;Audi TDI 5.5L Turbo V12( Diesel);Michelin;369;5029.100;;
+2007;2;LMP1;8;FRA;Team Peugeot Total;FRA|PRT|FRA;Stéphane Sarrazin|Pedro Lamy|Sébastien Bourdais;Peugeot 908 HDi FAP;Peugeot HDi 5.5L Turbo V12( Diesel);Michelin;359;4892.811;;
+2007;3;LMP1;16;FRA;Pescarolo Sport;FRA|FRA|FRA;Emmanuel Collard|Jean-Christophe Boullion|Romain Dumas;Pescarolo 01;Judd GV5.5 S2 5.5L V10;Michelin;358;4879.182;;
+2007;4;LMP1;18;GBR;Rollcentre Racing;GBR|PRT|GBR;Stuart Hall|João Barbosa|Martin Short;Pescarolo 01;Judd GV5.5 S2 5.5L V10;Dunlop;347;4729.263;;
+2007;5;GT1;9;GBR;Aston Martin Racing;AUS|GBR|SWE;David Brabham|Darren Turner|Rickard Rydell;Aston Martin DBR9;Aston Martin 6.0L V12;Michelin;343;4674.747;;
+2007;6;GT1;63;USA;Corvette Racing;USA|DNK|CAN;Johnny O'Connell|Jan Magnussen|Ron Fellows;Chevrolet Corvette C6.R;Chevrolet LS7-R 7.0L V8;Michelin;342;4661.118;;
+2007;7;GT1;8;FRA;Aston Martin Racing Larbre;FRA|ITA|DNK;Christophe Bouchut|Fabrizio Gollin|Casper Elgaard;Aston Martin DBR9;Aston Martin 6.0L V12;Michelin;341;4647.489;;
+2007;8;LMP1;15;CZE;Charouz Racing System;CZE|DEU|MYS;Jan Charouz|Stefan Mücke|Alex Yoong;Lola B07/17;Judd GV5.5 S2 5.5L V10;Michelin;338;4606.602;;
+2007;9;GT1;7;GBR;Aston Martin Racing;GBR|NLD|CZE;Johnny Herbert|Peter Kox|Tomáš Enge;Aston Martin DBR9;Aston Martin 6.0L V12;Michelin;337;4592.973;;
+2007;10;GT1;54;FRA;Team Oreca;FRA|FRA|FRA;Laurent Groppi|Nicolas Prost|Jean-Philippe Belloc;Saleen S7-R;Ford 7.0L V8;Michelin;337;4592.973;;
+2007;11;GT1;100;ITA;Aston Martin Racing BMS;ITA|GBR|ITA;Fabio Babini|Jamie Davies|Matteo Malucelli;Aston Martin DBR9;Aston Martin 6.0L V12;Pirelli;336;4579.344;;
+2007;12;GT1;72;FRA;Luc Alphand Aventures;FRA|FRA|FRA;Luc Alphand|Jérôme Policand|Patrice Goueslard;Chevrolet Corvette C6.R;Chevrolet LS7-R 7.0L V8;Michelin;327;4456.683;;
+2007;13;LMP1;17;FRA;Pescarolo Sport;CHE|FRA|FRA;Harold Primat|Christophe Tinseau|Benoît Tréluyer;Pescarolo 01;Judd GV5.5 S2 5.5L V10;Michelin;325;4429.425;;
+2007;14;GT1;67;CZE;Convers MenX Racing;RUS|CZE|CZE;Alexey Vasilyev|Tomáš Kostka|Robert Pergl;Ferrari 550-GTS Maranello;Ferrari F133 5.9L V12;Pirelli;322;4388.538;;
+2007;15;GT2;76;FRA;IMSA Performance Matmut;FRA|AUT|USA;Raymond Narac|Richard Lietz|Patrick Long;Porsche 997 GT3-RSR;Porsche 3.8L Flat-6;Michelin;320;4361.280;;
+2007;16;GT1;55;FRA;Team Oreca;MCO|FRA|FRA;Stéphane Ortelli|Soheil Ayari|Nicolas Lapierre;Saleen S7-R;Ford 7.0L V8;Michelin;318;4334.022;;
+2007;17;GT1;59;GBR;Team Modena;ESP|NLD|BRA;Antonio García|Jos Menten|Christian Fittipaldi;Aston Martin DBR9;Aston Martin 6.0L V12;Michelin;318;4334.022;;
+2007;18;LMP2;31;USA;Binnie Motorsports;USA|GBR|GBR;William Binnie|Allen Timpany|Chris Buncombe;Lola B05/42;Zytek ZG348 3.4L V8;Kumho;318;4334.022;;
+2007;19;GT2;99;USA|USA;Risi Competizione|Krohn Racing;USA|SWE|USA;Tracy Krohn|Niclas Jönsson|Colin Braun;Ferrari F430 GT2;Ferrari F136 4.0L V8;Michelin;314;4279.506;;
+2007;20;LMP1;19;GBR;Chamberlain-Synergy Motorsport;GBR|GBR|GBR;Gareth Evans|Bob Berridge|Peter Owen;Lola B06/10;AER P32T 4.0L Turbo V8;Michelin;310;4224.990;;
+2007;21;GT2;93;ITA|DEU;Autorlando Sport|Farnbacher Racing;DEU|DNK|DNK;Pierre Ehret|Lars-Erik Nielsen|Allan Simonsen;Porsche 997 GT3-RSR;Porsche 3.8L Flat-6;Pirelli;309;4211.361;;
+2007;22;GT2;78;ITA|GBR;AF Corse|Aucott Racing;GBR|GBR|GBR;Joe Macari|Ben Aucott|Adrian Newey;Ferrari F430 GT2;Ferrari F136 4.0L V8;Michelin;308;4197.732;;
+2007;23;GT2;82;GBR;Team LNT;GBR|GBR|GBR;Lawrence Tomlinson|Richard Dean|Rob Bell;Panoz Esperante GT-LM;Ford ( Élan) 5.0L V8;Pirelli;308;4197.732;;
+2007;24;GT1;73;FRA;Luc Alphand Aventures;FRA|FRA|BEL;Jean-Luc Blanchemain|Didier André|Vincent Vosse;Chevrolet Corvette C5-R;Chevrolet LS7-R 7.0L V8;Michelin;306;4170.474;;
+2007;25;LMP1;14;NLD;Racing for Holland b.v.;NLD|NLD|NLD;Jan Lammers|Jeroen Bleekemolen|David Hart;Dome S101.5;Judd GV5.5 S2 5.5L V10;Michelin;305;4156.845;;
+2007;26;LMP1;12;FRA;Courage Compétition;CHE|FRA|FRA;Alexander Frei|Jonathan Cochet|Bruno Besson;Courage LC70;AER P32T 3.6L Turbo V8;Michelin;304;4156.845;;
+2007;27;LMP2;33;FRA|GBR;Barazi-Epsilon|Zytek Engineering;MEX|JPN|GBR;Adrian Fernández|Haruki Kurosawa|Robbie Kerr;Zytek 07S/2;Zytek ZG348 3.4L V8;Michelin;301;4102.329;;
+2007;28;GT1;70;BEL;PSI Experience;FRA|FRA|AUT;Claude-Yves Gosselin|David Hallyday|Philipp Peter;Chevrolet Corvette C6.R;Chevrolet LS7-R 7.0L V8;Pirelli;289;3938.781;;
+2007;29;GT1;6;FRA;Aston Martin Racing Larbre;FRA|FRA|GBR;Patrick Bornhauser|Roland Bervillé|Gregor Fisken;Aston Martin DBR9;Aston Martin 6.0L V12;Michelin;272;3707.088;;
+2007;DNF;LMP1;7;FRA;Team Peugeot Total;FRA|CAN|ESP;Nicolas Minassian|Jacques Villeneuve|Marc Gené;Peugeot 908 HDi FAP;Peugeot HDi 5.5L Turbo V12( Diesel);Michelin;338;4606.602;22:26:00;Engine
+2007;DNF;LMP1;2;DEU;Audi Sport North America;DNK|GBR|ITA;Tom Kristensen|Allan McNish|Rinaldo Capello;Audi R10 TDI;Audi TDI 5.5L Turbo V12( Diesel);Michelin;262;3570.798;17:02:00;Accident (out of track)
+2007;DNF;LMP2;32;FRA;Barazi-Epsilon;DNK|NLD|SAU;Juan Barazi|Michael Vergers|Karim Ojjeh;Zytek 07S/2;Zytek ZG348 3.4L V8;Michelin;252;3434.508;19:28:00;Accident (out of track)
+2007;DNF;GT2;83;ITA;G.P.C. Sport;HKG|SWE|ESP;Matthew Marsh|Carl Rosenblad|Jesús Diez Villarroel;Ferrari F430 GT2;Ferrari F136 4.0L V8;Pirelli;252;3434.508;21:05:00;Accident (out of track)
+2007;DNF;LMP2;25;GBR;Ray Mallock Ltd. (RML);GBR|GBR|BRA;Mike Newton|Andy Wallace|Thomas Erdos;MG-Lola EX264;AER P07 2.0L Turbo I4;Michelin;251;3420.879;19:09:00;Engine (piston)
+2007;DNF;GT2;87;GBR;Scuderia Ecosse;CAN|GBR|GBR;Chris Niarchos|Tim Mullen|Andrew Kirkaldy;Ferrari F430 GT2;Ferrari F136 4.0L V8;Pirelli;241;3284.589;19:16:00;Transmission
+2007;DNF;LMP2;35;ESP;Saulnier Racing;FRA|FRA|FRA;Jacques Nicolet|Alain Filhol|Bruce Jouanny;Courage LC75;AER P07 2.0L Turbo I4;Michelin;224;3052.896;18:55:00;Engine
+2007;DNF;GT2;97;USA;Risi Competizione;FIN|GBR|BRA;Mika Salo|Johnny Mowlem|Jaime Melo;Ferrari F430 GT2;Ferrari F136 4.0L V8;Michelin;223;3039.267;18:04:00;Water pump
+2007;DNF;LMP2;24;FRA;Noël del Bello Racing;RUS|FRA|USA;Vitaly Petrov|Romain Ianetta|Liz Halliday;Courage LC75;AER P07 2.0L Turbo I4;Michelin;198;2698.542;17:33:00;Transmission (gearbox)
+2007;DNF;LMP1;13;FRA;Courage Compétition;FRA|FRA|SWE;Jean-Marc Gounon|Guillaume Moreau|Stefan Johansson;Courage LC70;AER P32T 3.6L Turbo V8;Michelin;175;2385.075;13:51:00;Engine
+2007;DNF;GT2;85;NLD;Spyker Squadron b.v.;ITA|CHE|ITA;Andrea Belicchi|Andrea Chiesa|Alex Caffi;Spyker C8 Spyder GT2-R;Audi 3.8L V8;Michelin;145;1976.205;12:35:00;Transmission
+2007;DNF;LMP2;40;PRT;Quifel ASM Team Racing for Portugal;PRT|GBR|ESP;Miguel Amaral|Warren Hughes|Miguel Angel de Castro;Lola B05/40;AER P07 2.0L Turbo I4;Dunlop;137;1867.173;11:42:00;Accident (out of track)
+2007;DNF;LMP2;20;FRA;Pir Compétition;FRA|USA|GBR;Marc Rostan|Chris MacAllister|Gavin Pickering;Pilbeam MP93;Judd XV675 3.4L V8;Michelin;126;1717.254;15:23:00;Electrics (starter)
+2007;DNF;GT2;80;USA;Flying Lizard Motorsports;USA|USA|DEU;Johannes van Overbeek|Seth Neiman|Jörg Bergmeister;Porsche 997 GT3-RSR;Porsche 3.8L Flat-6;Michelin;124;1689.996;10:05:00;Transmission (gearbox)
+2007;DNF;LMP2;44;DEU;Kruse Motorsport;CAN|FRA|AUT;Tony Burgess|Jean de Pourtales|Norbert Siedler;Pescarolo 01;Judd XV675 3.4L V8;Kumho;98;1335.642;10:55:00;Engine
+2007;DNF;GT2;86;NLD;Spyker Squadron b.v.;CZE|NLD|GBR;Jaroslav Janiš|Mike Hezemans|Jonny Kane;Spyker C8 Spyder GT2-R;Audi 3.8L V8;Michelin;70;954.030;07:22:00;Engine
+2007;DNF;GT2;71;DEU|DEU;Seikel Motorsport|Team Felbermayr-Proton;AUT|AUT|USA;Horst Felbermayr|Horst Felbermayr Jr.|Philip Collin;Porsche 997 GT3-RSR;Porsche 3.8L Flat-6;Yokohama;68;926.772;08:27:00;Engine
+2007;DNF;LMP1;5;CHE;Swiss Spirit;CHE|CHE|CHE;Marcel Fässler|Jean-Denis Délétraz|Iradj Alexander;Lola B07/18;Audi 3.6L Turbo V8;Michelin;62;844.998;08:56:00;Electrics
+2007;DNF;GT2;81;GBR;Team LNT;GBR|GBR|USA;Tom Kimber-Smith|Danny Watts|Tom Milner Jr.;Panoz Esperante GT-LM;Ford ( Élan) 5.0L V8;Pirelli;60;817.740;06:45:00;Transmission (gearbox)
+2007;DNF;LMP2;29;JPN;T2M Motorsport;FRA|JPN|JPN;Robin Longechal|Yutaka Yamagishi|Yojiro Terada;Dome S101.5;Mader 3.4L V8;Michelin;56;763.224;06:30:00;Out of water
+2007;DNF;LMP1;9;GBR;Creation Autosportif Ltd.;GBR|JPN|CHE;Jamie Campbell-Walter|Shinji Nakano|Felipe Ortiz;Creation CA07;Judd GV5.5 S2 5.5L V10;Dunlop;55;749.595;09:15:00;Transmission (differential)
+2007;DNF;LMP1;3;DEU;Audi Sport Team Joest;DEU|DEU|FRA;Lucas Luhr|Mike Rockenfeller|Alexandre Prémat;Audi R10 TDI;Audi TDI 5.5L Turbo V12( Diesel);Michelin;23;313.467;02:49:00;Accident
+2007;DNF;GT1;64;USA;Corvette Racing;GBR|MCO|ITA;Oliver Gavin|Olivier Beretta|Max Papis;Chevrolet Corvette C6.R;Chevrolet LS7-R 7.0L V8;Michelin;22;299.838;02:45:00;Transmission
+2007;DNF;LMP2;21;GBR;Team Bruichladdich Radical;GBR|GBR|GBR;Tim Greaves|Stuart Moseley|Robin Liddell;Radical SR9;AER P07 2.0L Turbo I4;Dunlop;16;218.064;02:25:00;Accident (out of track)
+2007;DNF;GT1;53;JPN;JLOC Isao Noritake;JPN|JPN|ITA;Koji Yamanishi|Atsushi Yogo|Marco Apicella;Lamborghini Murciélago R-GT;Lamborghini L535 6.0L V12;Yokohama;1;13.629;01:56:00;Transmission
+2007;DNQ;LMP1;10;GBR;Arena Motorsports International;SWE|JPN|GBR;Stefan Johansson|Hayanari Shimoda|Tom Chilton;Zytek 07S;Zytek 2ZG408 4.0L V8;Michelin;0;0.0;;
+2007;DNS;LMP1;10;GBR;Arena International Motorsport;SWE|JPN|GBR;Stefan Johansson|Hayanari Shimoda|Tom Chilton;Zytek 07S/2;Zytek ZG348 3.4L V8;Michelin;0;0.0;;
+2007;DNA;LMP2;22;GBR;Rollcentre Racing;;;Radical SR9;Judd XV675 3.4L V8;Dunlop;0;0.0;;
+2007;DNA;GT2;77;AUT;Team Felbermayr-Proton;DEU|FRA;Marc Lieb|Xavier Pompidou;Porsche 997 GT3-RSR;Porsche 3.8L Flat-6;Michelin;0;0.0;;
+2007;DNA;GT2;84;USA;Chad Peninsula Panoz;;;Panoz Esperante GT-LM;Élan 5.0L V8;Michelin;0;0.0;;
+2007;DNA;GT2;86;FRA;IMSA Performance Matmut;FRA|BEL;Bruno Derlot|Vanina Ickx;Porsche 997 GT3-RSR;Porsche 3.8L Flat-6;Michelin;0;0.0;;
+2007;DNA;GT2;90;USA;Petersen Motorsports;DEU|USA;Tim Bergmeister|Memo Gidley;Ferrari F430 GT;Ferrari F136 4.0L V8;Michelin;0;0.0;;
+2007;DNA;GT2;92;FRA;Thierry Perrier;FRA;Thierry Perrier;Porsche 997 GT3-RSR;Porsche 3.8L Flat-6;Michelin;0;0.0;;
+2007;DNA;GT2;98;BEL;Ice Pol Racing Team;BEL|BEL;Christian Lefort|Yves Lambert;Ferrari F430 GT;Ferrari F136 4.0L V8;Pirelli;0;0.0;;
+2007;DNA;GT2;99;FRA;JMB Racing;GBR|GBR|GBR;Ben Aucott|Joe Macari|Adrian Newey;Ferrari F430 GT;Ferrari F136 4.0L V8;Pirelli;0;0.0;;
+2008;1;LMP1;2;DEU;Audi Sport North America;GBR|ITA|DNK;Allan McNish|Rinaldo Capello|Tom Kristensen;Audi R10 TDI;Audi TDI 5.5 L Turbo V12( Diesel);Michelin;381;5192.649;;
+2008;2;LMP1;7;FRA;Team Peugeot Total;FRA|ESP|CAN;Nicolas Minassian|Marc Gené|Jacques Villeneuve;Peugeot 908 HDi FAP;Peugeot HDi 5.5 L Turbo V12( Diesel);Michelin;381;5192.649;;
+2008;3;LMP1;9;FRA;Peugeot Sport Total;FRA|BRA|AUT;Franck Montagny|Ricardo Zonta|Christian Klien;Peugeot 908 HDi FAP;Peugeot HDi 5.5 L Turbo V12( Diesel);Michelin;379;5165.391;;
+2008;4;LMP1;3;DEU;Audi Sport Team Joest;DEU|DEU|FRA;Mike Rockenfeller|Lucas Luhr|Alexandre Prémat;Audi R10 TDI;Audi TDI 5.5 L Turbo V12( Diesel);Michelin;374;5097.246;;
+2008;5;LMP1;8;FRA;Team Peugeot Total;FRA|PRT|AUT;Stéphane Sarrazin|Pedro Lamy|Alexander Wurz;Peugeot 908 HDi FAP;Peugeot HDi 5.5 L Turbo V12( Diesel);Michelin;368;5015.472;;
+2008;6;LMP1;1;DEU;Audi Sport North America;DEU|DEU|ITA;Frank Biela|Marco Werner|Emanuele Pirro;Audi R10 TDI;Audi TDI 5.5 L Turbo V12( Diesel);Michelin;367;5001.843;;
+2008;7;LMP1;17;FRA;Pescarolo Sport;FRA|FRA|CHE;Christophe Tinseau|Benoît Tréluyer|Harold Primat;Pescarolo 01;Judd GV5.5 S2 5.5 L V10;Michelin;362;4933.698;;
+2008;8;LMP1;5;FRA;Team Oreca-Matmut;FRA|FRA|FRA;Soheil Ayari|Loïc Duval|Laurent Groppi;Courage- Oreca LC70;Judd GV5.5 S2 5.5 L V10;Michelin;357;4865.553;;
+2008;9;LMP1;10;CZE|GBR;Charouz Racing System|Aston Martin Racing;CZE|CZE|DEU;Jan Charouz|Tomáš Enge|Stefan Mücke;Lola B08/60;Aston Martin 6.0L V12;Michelin;354;4824.666;;
+2008;10;LMP2;34;NLD;Van Merksteijn Motorsport;NLD|NLD|NLD;Peter van Merksteijn|Jeroen Bleekemolen|Jos Verstappen;Porsche RS Spyder Evo;Porsche MR6 3.4 L V8;Michelin;354;4824.666;;
+2008;11;LMP1;18;GBR;Rollcentre Racing;PRT|FRA|BEL;João Barbosa|Stéphan Grégoire|Vanina Ickx;Pescarolo 01;Judd GV5.5 S2 5.5 L V10;Dunlop;352;4797.408;;
+2008;12;LMP2;31;DNK;Team Essex;DNK|DNK|DEU;Casper Elgaard|John Nielsen|Sascha Maassen;Porsche RS Spyder Evo;Porsche MR6 3.4 L V8;Dunlop;347;4729.263;;
+2008;13;GT1;9;GBR;Aston Martin Racing;AUS|ESP|GBR;David Brabham|Antonio García|Darren Turner;Aston Martin DBR9;Aston Martin 6.0 L V12;Michelin;344;4688.376;;
+2008;14;GT1;63;USA;Corvette Racing;USA|DNK|CAN;Johnny O'Connell|Jan Magnussen|Ron Fellows;Chevrolet Corvette C6.R;Chevrolet LS7.R 7.0 L V8;Michelin;344;4688.376;;
+2008;15;GT1;64;USA;Corvette Racing;GBR|MCO|ITA;Oliver Gavin|Olivier Beretta|Max Papis;Chevrolet Corvette C6.R;Chevrolet LS7.R 7.0 L V8;Michelin;341;4647.489;;
+2008;16;GT1;7;GBR;Aston Martin Racing;DEU|ITA|AUT;Heinz-Harald Frentzen|Andrea Piccini|Karl Wendlinger;Aston Martin DBR9;Aston Martin 6.0 L V12;Michelin;339;4620.231;;
+2008;17;GT1;72;FRA;Luc Alphand Aventures;FRA|FRA|FRA;Luc Alphand|Guillaume Moreau|Jérôme Policand;Chevrolet Corvette C6.R;Chevrolet LS7.R 7.0 L V8;Michelin;335;4565.715;;
+2008;18;LMP2;35;FRA;Saulnier Racing;FRA|FRA|CHN;Pierre Ragues|Matthieu Lahaye|Cheng Congfu;Pescarolo 01;Judd DB 3.4 L V8;Michelin;333;4538.457;;
+2008;19;GT2;82;USA;Risi Competizione;ITA|FIN|BRA;Gianmaria Bruni|Mika Salo|Jaime Melo;Ferrari F430 GT2;Ferrari 4.0 L V8;Michelin;326;4443.054;;
+2008;20;LMP2;40;PRT;Quifel ASM Team;PRT|FRA|GBR;Miguel Amaral|Olivier Pla|Guy Smith;Lola B05/40;AER P07 2.0 L Turbo I4;Dunlop;325;4429.425;;
+2008;21;GT1;73;FRA;Luc Alphand Aventures;FRA|FRA|FRA;Jean-Luc Blanchemain|Laurent Pasquali|Patrice Goueslard;Chevrolet Corvette C6.R;Chevrolet LS7.R 7.0 L V8;Michelin;325;4429.425;;
+2008;22;GT2;97;ITA;BMS Scuderia Italia;ITA|ITA|ITA;Matteo Malucelli|Paolo Ruberti|Fabio Babini;Ferrari F430 GT2;Ferrari 4.0 L V8;Pirelli;318;4334.022;;
+2008;23;GT2;90;DEU;Farnbacher Racing;DEU|DEU|DNK;Pierre Ehret|Pierre Kaffer|Lars-Erik Nielsen;Ferrari F430 GT2;Ferrari 4.0 L V8;Dunlop;317;4320.393;;
+2008;24;LMP1;14;GBR;Creation Autosportif;GBR|GBR|BEL;Stuart Hall|Johnny Mowlem|Marc Goossens;Creation CA07;AIM ( Judd) YS5.5 5.5 L V10;Dunlop;316;4306.764;;
+2008;25;GT2;99;MCO|GBR;JMB Racing|Aucott Racing;GBR|FRA|FRA;Ben Aucott|Alain Ferté|Stéphane Daoudi;Ferrari F430 GT2;Ferrari 4.0 L V8;Michelin;312;4252.248;;
+2008;26;LMP1;4;FRA;Saulnier Racing;FRA|MCO|MCO;Jacques Nicolet|Marc Faggionato|Richard Hein;Pescarolo 01;Judd GV5.5 S2 5.5 L V10;Michelin;311;4238.619;;
+2008;27;GT2;77;DEU;Team Felbermayr-Proton;AUT|AUS|DEU;Horst Felbermayr, Sr.|Alex Davison|Wolf Henzler;Porsche 997 GT3-RSR;Porsche 3.8 L Flat-6;Michelin;309;4211.361;;
+2008;28;GT1;50;FRA;Larbre Compétition;FRA|FRA|FRA;Christophe Bouchut|David Smet|Patrick Bornhauser;Saleen S7-R;Ford 7.0 L V8;Michelin;306;4170.474;;
+2008;29;LMP2;32;FRA;Barazi-Epsilon;NLD|DNK|GBR;Michael Vergers|Juan Barazi|Stuart Moseley;Zytek 07S/2;Zytek ZG348 3.4 L V8;Michelin;304;4143.216;;
+2008;30;GT1;59;GBR;Team Modena;USA|BRA|NLD;Terry Borcheller|Christian Fittipaldi|Jos Menten;Aston Martin DBR9;Aston Martin 6.0 L V12;Michelin;302;4115.958;;
+2008;31;LMP2;26;GBR;Team Bruichladdich Radical;FRA|USA|GBR;Marc Rostan|Gunnar Jeannette|Ben Devlin;Radical SR9;AER P07 2.0 L Turbo I4;Dunlop;297;4047.813;;
+2008;32;GT2;80;USA;Flying Lizard Motorsports;DEU|USA|USA;Jörg Bergmeister|Johannes van Overbeek|Seth Neiman;Porsche 997 GT3-RSR;Porsche 3.8 L Flat-6;Michelin;289;3938.781;;
+2008;33;LMP1;11;JPN;Dome Racing Team;JPN|JPN|JPN;Tatsuya Kataoka|Yuji Tachikawa|Daisuke Itō;Dome S102;Judd GV5.5 S2 5.5 L V10;Michelin;272;3707.088;;
+2008;NC;GT1;55;RUS|DEU;IPB Spartak Racing|Reiter Engineering;NLD|NLD|RUS;Peter Kox|Mike Hezemans|Roman Rusinov;Lamborghini Murciélago R-GT;Lamborghini L535 6.0 L V12;Michelin;266;3625.314;;Insufficient distance
+2008;NC;LMP1;24;JPN;Terramos;JPN|JPN|JPN;Yojiro Terada|Hiroki Katoh|Kazuho Takahashi;Courage LC70;Mugen MF408S 4.0 L V8;Michelin;224;3052.896;;Insufficient distance
+2008;DNF;GT2;96;GBR;Virgo Motorsport;GBR|GBR|GBR;Rob Bell|Tim Mullen|Tim Sugden;Ferrari F430 GT2;Ferrari 4.0 L V8;Dunlop;289;3938.781;20:42:00;Engine
+2008;DNF;LMP1;16;FRA;Pescarolo Sport;FRA|FRA|FRA;Emmanuel Collard|Jean-Christophe Boullion|Romain Dumas;Pescarolo 01;Judd GV5.5 S2 5.5 L V10;Michelin;238;3243.702;14:42:00;Engine
+2008;DNF;LMP1;23;USA|GBR;Autocon Motorsports|Creation Autosportif;USA|USA|USA;Bryan Willman|Michael Lewis|Chris McMurry;Creation CA07;Judd GV5 5.0 L V10;Dunlop;224;3052.896;19:17:00;Accident (out of track)
+2008;DNF;LMP2;45;GBR;Embassy Racing;GBR|GBR|GBR;Warren Hughes|Jonny Kane|Joey Foster;Embassy WF01;Zytek ZG348 3.4 L V8;Michelin;213;2902.977;15:49:00;Accident (out of track)
+2008;DNF;LMP2;33;CHE|GBR;Speedy Racing Team|Sebah Automotive;CHE|ITA|FRA;Steve Zacchia|Andrea Belicchi|Xavier Pompidou;Lola B08/80;Judd DB 3.4 L V8;Michelin;194;2644.026;12:40:00;Accident (out of track)
+2008;DNF;LMP1;20;ESP;Epsilon Euskadi;ESP|ESP|ESP;Ángel Burgueño|Miguel Ángel de Castro|Adrián Vallés;Epsilon Euskadi ee1;Judd GV5.5 S2 5.5 L V10;Michelin;189;2575.881;18:37:00;Transmission
+2008;DNF;LMP1;22;JPN|JPN;Tōkai University|YGK Power;JPN|JPN|JPN;Toshio Suzuki|Haruki Kurosawa|Masami Kageyama;Courage- Oreca LC70;YGK YR40T 4.0 L Turbo V8;Yokohama;185;2521.365;18:07:00;Transmission (gearbox)
+2008;DNF;LMP1;21;ESP;Epsilon Euskadi;JPN|SWE|FRA;Shinji Nakano|Stefan Johansson|Jean-Marc Gounon;Epsilon Euskadi ee1;Judd GV5.5 S2 5.5 L V10;Michelin;158;2153.382;17:54:00;Transmission
+2008;DNF;LMP1;6;FRA;Team Oreca-Matmut;CHE|FRA|FRA;Marcel Fässler|Olivier Panis|Simon Pagenaud;Courage- Oreca LC70;Judd GV5.5 S2 5.5 L V10;Michelin;147;2003.463;09:40:00;Accident (out of track)
+2008;DNF;LMP2;44;DEU;Kruse Schiller Motorsport;FRA|JPN|DNK;Jean de Pourtales|Hideki Noda|Allan Simonsen;Lola B05/40;Mazda MZR-R 2.0 L Turbo I4;Dunlop;147;2003.463;13:53:00;Engine
+2008;DNF;LMP1;12;CZE|USA;Charouz Racing System|Team Cytosport;USA|DEU|NLD;Greg Pickett|Klaus Graf|Jan Lammers;Lola B07/17;Judd GV5.5 S2 5.5 L V10;Michelin;146;1989.834;08:42:00;Engine
+2008;DNF;GT2;78;ITA;AF Corse;ITA|FIN|SMR;Thomas Biagi|Toni Vilander|Christian Montanari;Ferrari F430 GT2;Ferrari 4.0 L V8;Michelin;111;1512.819;;Transmission (driveshaft)
+2008;DNF;LMP2;25;GBR;Ray Mallock Ltd. (RML);GBR|GBR|BRA;Andy Wallace|Mike Newton|Thomas Erdos;MG-Lola EX265;MG ( AER) XP21 2.0 L Turbo I4;Michelin;100;1362.900;09:52:00;Accident (out of track)
+2008;DNF;LMP1;19;GBR;Chamberlain-Synergy Motorsport;GBR|GBR|GBR;Bob Berridge|Gareth Evans|Amanda Stretton;Lola B06/10;AER P32C 4.0 L Turbo V8;Dunlop;87;1185.723;15:53:00;Engine
+2008;DNF;GT1;53;DEU|GBR;Vitaphone Racing Team|Strakka Racing;GBR|GBR|BRA;Peter Hardman|Nick Leventis|Alexandre Negrão;Aston Martin DBR9;Aston Martin 6.0 L V12;Michelin;82;1117.578;06:15:00;Engine
+2008;DNF;GT2;94;CHE;Speedy Racing Team;CHE|CHE|CHE;Andrea Chiesa|Iradj Alexander|Benjamin Leuenberger;Spyker C8 Laviolette GT2-R;Audi 4.0 L V8;Michelin;72;981.288;05:46:00;Engine
+2008;DNF;GT2;85;NLD;Snoras Spyker Squadron;DEU|RUS|GBR;Ralf Kelleners|Alexey Vasilyev|Peter Dumbreck;Spyker C8 Laviolette GT2-R;Audi 4.0 L V8;Michelin;43;586.047;02:34:00;Engine
+2008;DNF;GT2;76;FRA;IMSA Performance Matmut;FRA|USA|AUT;Raymond Narac|Patrick Long|Richard Lietz;Porsche 997 GT3-RSR;Porsche 3.8 L Flat-6;Michelin;26;354.354;;Accident
+2008;DNF;LMP2;41;CHE;Trading Performance;SAU|FRA|GBR;Karim Ojjeh|Claude-Yves Gosselin|Adam Sharpe;Zytek 07S/2;Zytek ZG348 3.4 L V8;Michelin;22;299.838;01:32:00;Accident (out of track)
+2008;DNF;GT2;83;USA|USA;Risi Competizione|Krohn Racing;USA|SWE|BEL;Tracy Krohn|Niclas Jönsson|Eric van de Poele;Ferrari F430 GT2;Ferrari 4.0 L V8;Michelin;12;163.548;00:25:00;Accident (out of track)
+2008;DNS;LMP2;30;ITA;Racing Box Srl.;ITA|ITA|ITA;Andrea Ceccato|Filippo Francioni|Ferdinando Geri;Lucchini LMP2-08;Judd DB 3.4L V8;Dunlop;0;0.0;;
+2008;DNA;GT2;81;USA;Tafel Racing;;;Ferrari F430 GTC;Ferrari 4.0L V8;Michelin;0;0.0;;
+2009;1;LMP1;9;FRA;Peugeot Sport Total;AUS|ESP|AUT;David Brabham|Marc Gené|Alexander Wurz;Peugeot 908 HDi FAP;Peugeot HDi 5.5 L Turbo V12( Diesel);Michelin;382;5206.278;;
+2009;2;LMP1;8;FRA;Team Peugeot Total;FRA|FRA|FRA;Franck Montagny|Sébastien Bourdais|Stéphane Sarrazin;Peugeot 908 HDi FAP;Peugeot HDi 5.5 L Turbo V12( Diesel);Michelin;381;5192.649;;
+2009;3;LMP1;1;DEU;Audi Sport Team Joest;DNK|GBR|ITA;Tom Kristensen|Allan McNish|Rinaldo Capello;Audi R15 TDI;Audi TDI 5.5 L Turbo V10( Diesel);Michelin;376;5124.504;;
+2009;4;LMP1;7;CZE;AMR Eastern Europe;CZE|CZE|DEU;Jan Charouz|Tomáš Enge|Stefan Mücke;Lola-Aston Martin B09/60;Aston Martin 6.0 L V12;Michelin;373;5083.617;;
+2009;5;LMP1;11;FRA;Team Oreca Matmut AIM;FRA|FRA|FRA;Olivier Panis|Nicolas Lapierre|Soheil Ayari;Oreca 01;AIM YS5.5 5.5 L V10;Michelin;370;5042.730;;
+2009;6;LMP1;7;FRA;Team Peugeot Total;FRA|PRT|AUT;Nicolas Minassian|Pedro Lamy|Christian Klien;Peugeot 908 HDi FAP;Peugeot HDi 5.5 L Turbo V12( Diesel);Michelin;369;5029.101;;
+2009;7;LMP1;14;DEU;Kolles;NLD|IND|DEU;Charles Zwolsman, Jr.|Narain Karthikeyan|André Lotterer;Audi R10 TDI;Audi TDI 5.5 L Turbo V12( Diesel);Michelin;369;5029.101;;
+2009;8;LMP1;16;FRA;Pescarolo Sport;FRA|FRA|PRT;Christophe Tinseau|Bruce Jouanny|João Barbosa;Pescarolo 01;Judd GV5.5 S2 5.5 L V10;Michelin;368;5015.472;;
+2009;9;LMP1;15;DEU;Kolles;DNK|NLD|CHE;Christian Bakkerud|Christijan Albers|Giorgio Mondini;Audi R10 TDI;Audi TDI 5.5 L Turbo V12( Diesel);Michelin;360;4906.440;;
+2009;10;LMP2;31;DNK;Team Essex;DNK|DNK|FRA;Casper Elgaard|Kristian Poulsen|Emmanuel Collard;Porsche RS Spyder Evo;Porsche MR6 3.4 L V8;Michelin;357;4865.553;;
+2009;11;LMP1;12;FRA;Signature Plus;FRA|FRA|FRA;Pierre Ragues|Franck Mailleux|Didier André;Courage- Oreca LC70E;Judd GV5.5 S2 5.5 L V10;Michelin;344;4688.376;;
+2009;12;LMP2;33;CHE|GBR;Speedy Racing Team|Sebah Automotive;CHE|FRA|GBR;Benjamin Leuenberger|Xavier Pompidou|Jonny Kane;Lola B08/80;Judd DB 3.4 L V8;Michelin;343;4674.747;;
+2009;13;LMP1;8;GBR;Aston Martin Racing;GBR|GBR|NLD;Anthony Davidson|Darren Turner|Jos Verstappen;Lola-Aston Martin B09/60;Aston Martin 6.0 L V12;Michelin;342;4661.118;;
+2009;14;LMP1;13;CHE|GBR;Speedy Racing Team|Sebah Automotive;ITA|FRA|CHE;Andrea Belicchi|Nicolas Prost|Neel Jani;Lola B08/60;Aston Martin 6.0 L V12;Michelin;342;4661.118;;
+2009;15;GT1;63;USA;Corvette Racing;USA|DNK|ESP;Johnny O'Connell|Jan Magnussen|Antonio García;Chevrolet Corvette C6.R;Chevrolet LS7.R 7.0 L V8;Michelin;342;4661.118;;
+2009;16;GT1;73;FRA;Luc Alphand Aventures;NLD|FRA|FRA;Xavier Maassen|Yann Clairay|Julien Jousse;Chevrolet Corvette C6.R;Chevrolet LS7.R 7.0 L V8;Dunlop;336;4579.344;;
+2009;17;LMP1;3;DEU;Audi Sport Team Joest;DEU|FRA|FRA;Timo Bernhard|Romain Dumas|Alexandre Prémat;Audi R15 TDI;Audi TDI 5.5 L Turbo V10( Diesel);Michelin;333;4538.457;;
+2009;18;GT2;82;USA;Risi Competizione;BRA|DEU|FIN;Jaime Melo|Pierre Kaffer|Mika Salo;Ferrari F430 GT2;Ferrari 4.0 L V8;Michelin;329;4483.941;;
+2009;19;GT2;97;ITA;BMS Scuderia Italia;ITA|ITA|ITA;Fabio Babini|Matteo Malucelli|Paolo Ruberti;Ferrari F430 GT2;Ferrari 4.0 L V8;Pirelli;327;4456.683;;
+2009;20;LMP2;24;FRA|FRA;OAK Racing|Team Mazda France;FRA|MCO|FRA;Jacques Nicolet|Richard Hein|Jean-François Yvon;Pescarolo 01;Mazda MZR-R 2.0 L Turbo I4;Dunlop;325;4429.425;;
+2009;21;LMP1;23;GBR;Strakka Racing;GBR|GBR|GBR;Nick Leventis|Peter Hardman|Danny Watts;Ginetta- Zytek GZ09S;Zytek ZJ458 4.5 L V8;Michelin;325;4429.425;;
+2009;22;GT2;83;USA|USA;Risi Competizione|Krohn Racing;USA|BEL|SWE;Tracy Krohn|Eric van de Poele|Niclas Jönsson;Ferrari F430 GT2;Ferrari 4.0 L V8;Michelin;323;4402.167;;
+2009;23;GT2;92;GBR;JMW Motorsport;GBR|GBR|GBR;Rob Bell|Andrew Kirkaldy|Tim Sugden;Ferrari F430 GT2;Ferrari 4.0 L V8;Dunlop;320;4361.280;;
+2009;24;LMP1;4;USA;Creation Autosportif;GBR|BEL|FRA;Jamie Campbell-Walter|Vanina Ickx|Romain Iannetta;Creation CA07;Judd GV5.5 S2 5.5 L V10;Michelin;319;4347.651;;
+2009;25;GT2;85;NLD;Snoras Spyker Squadron;NLD|NLD|CZE;Tom Coronel|Jeroen Bleekemolen|Jaroslav Janiš;Spyker C8 Laviolette GT2-R;Audi 3.8 L V8;Michelin;319;4347.651;;
+2009;26;GT2;78;ITA;AF Corse;ITA|ARG|ARG;Gianmaria Bruni|Luis Pérez Companc|Matías Russo;Ferrari F430 GT2;Ferrari 4.0 L V8;Michelin;317;4320.393;;
+2009;27;GT2;84;GBR;Team Modena;GBR|DEU|RUS;Leo Mansell|Pierre Ehret|Roman Rusinov;Ferrari F430 GT2;Ferrari 4.0 L V8;Michelin;314;4279.506;;
+2009;28;LMP2;32;FRA;Barazi-Epsilon;DNK|GBR|GBR;Juan Barazi|Phil Bennett|Stuart Moseley;Zytek 07S/2;Zytek 2ZG348 3.4 L V8;Dunlop;306;4170.474;;
+2009;29;GT2;99;MCO;JMB Racing;FRA|FRA|FRA;Manuel Rodrigues|Yvan Lebon|Christophe Bouchut;Ferrari F430 GT2;Ferrari 4.0 L V8;Michelin;304;4143.216;;
+2009;30;GT2;81;ITA|USA;Advanced Engineering|Team Seattle;USA|USA|USA;Patrick Dempsey|Don Kitch, Jr.|Joe Foster;Ferrari F430 GT2;Ferrari 4.0 L V8;Michelin;301;4102.329;;
+2009;31;GT1;66;AUT;Jetalliance Racing;AUT|AUT|DEU;Lukas Lichtner-Hoyer|Thomas Gruber|Alex Müller;Aston Martin DBR9;Aston Martin 6.0 L V12;Michelin;294;4006.926;;
+2009;32;GT2;96;GBR;Virgo Motorsport;GBR|GBR|NLD;Sean McInerney|Michael McInerney|Michael Vergers;Ferrari F430 GT2;Ferrari 4.0 L V8;Dunlop;280;3816.120;;
+2009;NC;GT2;75;CHN|FRA;Endurance Asia Team|Perspective Racing;HKG|FRA|BGR;Darryl O'Young|Philippe Hesnault|Plamen Kralev;Porsche 997 GT3-RSR;Porsche 3.8 L Flat-6;Dunlop;186;2534.994;;Insufficient distance
+2009;DNF;LMP2;5;JPN;Navi Team Goh;JPN|JPN|DEU;Seiji Ara|Keisuke Kunimoto|Sascha Maassen;Porsche RS Spyder Evo;Porsche MR6 3.4 L V8;Michelin;339;4620.231;23:00:00;Accident
+2009;DNF;GT1;64;USA;Corvette Racing;GBR|MCO|CHE;Oliver Gavin|Olivier Beretta|Marcel Fässler;Chevrolet Corvette C6.R;Chevrolet LS7.R 7.0 L V8;Michelin;311;4238.619;22:46:00;Transmission (gearbox)
+2009;DNF;LMP2;25;GBR;RML;BRA|GBR|USA;Thomas Erdos|Mike Newton|Chris Dyson;Lola B08/86;Mazda MZR-R 2.0 L Turbo I4;Michelin;273;3720.717;19:33:00;Engine
+2009;DNF;GT2;87;GBR;Drayson Racing;GBR|GBR|GBR;Paul Drayson|Jonny Cocker|Marino Franchitti;Aston Martin V8 Vantage GT2;Aston Martin 4.5 L V8;Michelin;272;3707.088;;
+2009;DNF;GT2;76;FRA;IMSA Performance Matmut;FRA|FRA|USA;Patrick Pilet|Raymond Narac|Patrick Long;Porsche 997 GT3-RSR;Porsche 4.0 L Flat-6;Michelin;265;3611.685;;
+2009;DNF;LMP2;39;DEU;KSM;JPN|FRA|HKG;Hideki Noda|Jean de Pourtales|Matthew Marsh;Lola B07/46;Mazda MZR-R 2.0 L Turbo I4;Dunlop;261;3557.169;22:57:00;Out of oil, fire
+2009;DNF;LMP1;9;GBR;Aston Martin Racing;GBR|CHE|NLD;Stuart Hall|Harold Primat|Peter Kox;Lola-Aston Martin B09/60;Aston Martin 6.0 L V12;Michelin;252;3434.508;;Accident
+2009;DNF;LMP1;10;FRA;Team Oreca Matmut AIM;MCO|BRA|PRT;Stéphane Ortelli|Bruno Senna|Tiago Monteiro;Oreca 01;AIM YS5.5 5.5 L V10;Michelin;219;2984.751;;
+2009;DNF;LMP1;17;FRA;Pescarolo Sport;FRA|FRA|FRA;Simon Pagenaud|Jean-Christophe Boullion|Benoît Tréluyer;Peugeot 908 HDi FAP;Peugeot HDi 5.5 L Turbo V12( Diesel);Michelin;210;2862.090;;Accident
+2009;DNF;LMP2;35;FRA|FRA;OAK Racing|Team Mazda France;FRA|FRA|CHE;Matthieu Lahaye|Guillaume Moreau|Karim Ajlani;Pescarolo 01;Mazda MZR-R 2.0 L I4;Dunlop;208;2834.832;16:59:00;Engine
+2009;DNF;LMP2;30;ITA;Racing Box;ITA|ITA|ITA;Andrea Piccini|Thomas Biagi|Matteo Bobbi;Lola B08/80;Judd DB 3.4 L V8;Michelin;203;2766.687;;
+2009;DNF;GT2;80;USA;Flying Lizard Motorsports;DEU|USA|USA;Jörg Bergmeister|Darren Law|Seth Neiman;Porsche 997 GT3-RSR;Porsche 4.0 L Flat-6;Michelin;194;2644.026;;
+2009;DNF;GT2;89;DEU;Hankook Team Farnbacher;DEU|DNK|SMR;Dominik Farnbacher|Allan Simonsen|Christian Montanari;Ferrari F430 GT2;Ferrari 4.0 L V8;Hankook;183;2494.107;14:51:00;Overheating radiator
+2009;DNF;LMP1;6;GBR;Team LNT;GBR|GBR|GBR;Lawrence Tomlinson|Richard Dean|Nigel Moore;Ginetta- Zytek GZ09S;Zytek ZG408 4.0 L V8;Michelin;178;2425.962;12:43:00;Fire
+2009;DNF;LMP1;2;DEU;Audi Sport North America;DEU|DEU|DEU;Marco Werner|Lucas Luhr|Mike Rockenfeller;Audi R15 TDI;Audi TDI 5.5 L Turbo V10( Diesel);Michelin;104;1417.416;;
+2009;DNF;LMP2;41;CHE;GAC Racing Team;SAU|FRA|AUT;Karim Ojjeh|Claude-Yves Gosselin|Philipp Peter;Zytek 07S/2;Zytek ZG348 3.4 L V8;Michelin;102;1390.158;07:54:00;Engine
+2009;DNF;GT2;70;FRA|DEU;IMSA Performance Matmut|Team Felbermayr-Proton;FRA|AUT|AUT;Michel Lecourt|Horst Felbermayr, Sr.|Horst Felbermayr, Jr.;Porsche 997 GT3-RSR;Porsche 4.0 L Flat-6;Michelin;102;1390.158;08:32:00;Engine
+2009;DNF;GT1;72;FRA;Luc Alphand Aventures;FRA|FRA|FRA;Luc Alphand|Stéphan Grégoire|Patrice Goueslard;Chevrolet Corvette C6.R;Chevrolet LS7.R 7.0 L V8;Dunlop;99;1349.271;07:25:00;Accident (at Tetre Rouge)
+2009;DNF;LMP2;26;GBR;Bruichladdich-Bruneau Team;FRA|FRA|GBR;Pierre Bruneau|Marc Rostan|Tim Greaves;Radical SR9;AER P07 2.0 L Turbo I4;Dunlop;91;1240.239;;
+2009;DNF;LMP2;40;PRT;Quifel ASM Team;PRT|FRA|GBR;Miguel Amaral|Olivier Pla|Guy Smith;Ginetta- Zytek GZ09S/2;Zytek ZG348 3.4 L V8;Dunlop;46;626.934;;Brakes
+2009;DNF;GT2;77;DEU;Team Felbermayr-Proton;DEU|DEU|AUT;Marc Lieb|Wolf Henzler|Richard Lietz;Porsche 997 GT3-RSR;Porsche 4.0 L Flat-6;Michelin;24;327.096;02:32:00;Out of fuel
+2009;DNF;GT1;68;JPN;JLOC ( ja);JPN|JPN|ITA;Atsushi Yogo|Yutaka Yamagishi|Marco Apicella;Lamborghini Murciélago R-GT;Lamborghini 6.0 L V12;Yokohama;1;13.629;00:06:00;Engine
+2009;DNA;LMP1;20;ESP;Epsilon Euskadi;;;Euskadi ee2;Judd GV5.5 S2 5.5L V10;;0;0.0;;
+2009;DNA;LMP1;21;ESP;Epsilon Euskadi;;;Euskadi ee2;Judd GV5.5 S2 5.5L V10;;0;0.0;;
+2009;DNA;LMP2;29;ITA;Racing Box;;;Lola B08/80;Judd DB 3.4L V8;;0;0.0;;
+2009;DNA;LMP2;37;FRA;Gerard Welter;;;WR LMP2008;Zytek 2ZG348 3.4 L V8;;0;0.0;;
+2009;DNA;LMP2;49;DEU;Vitaphone Racing Team;;;Porsche RS Spyder;Porsche MR6 3.4L V8;;0;0.0;;
+2009;DNA;GT1;50;FRA;Larbre Compétition;;;Saleen S7-R;Ford 7.0L V8;;0;0.0;;
+2009;DNA;GT1;55;RUS;IPB Spartak Racing;;;Lamborghini Murciélago R-GT;Lamborghini 6.0L V12;;0;0.0;;
+2009;DNA;GT1;60;GBR;Gigawave Motorsport;;;Aston Martini DBR9;Aston Martin 6.0L V12;;0;0.0;;
+2009;DNA;GT2;86;NLD;Snoras Spyker Squadron;;;Spyker C8 Laviolette GT2-R;Audi 3.8L V8;;0;0.0;;
+2009;DNA;GT2;88;DEU;Team Felbermayr Proton;;;Porsche 997 GT3-RSR;Porsche 4.0L Flat-6;;0;0.0;;
+2010;1;LMP1;9;DEU;Audi Sport North America;DEU|DEU|FRA;Mike Rockenfeller|Timo Bernhard|Romain Dumas;Audi R15 TDI plus;Audi TDI 5.5 L Turbo V10(Diesel);Michelin;397;5410.713;;
+2010;2;LMP1;8;DEU;Audi Sport Team Joest;DEU|CHE|FRA;André Lotterer|Marcel Fässler|Benoît Tréluyer;Audi R15 TDI plus;Audi TDI 5.5 L Turbo V10(Diesel);Michelin;396;5397.084;;
+2010;3;LMP1;7;DEU;Audi Sport Team Joest;DNK|GBR|ITA;Tom Kristensen|Allan McNish|Rinaldo Capello;Audi R15 TDI plus;Audi TDI 5.5 L Turbo V10(Diesel);Michelin;394;5369.826;;
+2010;4;LMP1;6;FRA;AIM Team Oreca Matmut;FRA|FRA|GBR;Soheil Ayari|Didier André|Andy Meyrick;Oreca 01;AIM YS5.5 5.5 L V10;Dunlop;369;5029.101;;
+2010;5;LMP2;42;GBR;Strakka Racing;GBR|GBR|GBR;Nick Leventis|Danny Watts|Jonny Kane;HPD ARX-01C;HPD AL7R 3.4 L V8;Michelin;367;5001.843;;
+2010;6;LMP1;7;GBR;Aston Martin Racing;CHE|DEU|MEX;Harold Primat|Stefan Mücke|Adrián Fernández;Lola-Aston Martin B09/60;Aston Martin 6.0 L V12;Michelin;365;4974.585;;
+2010;7;LMP2;35;FRA;OAK Racing;FRA|FRA|CZE;Matthieu Lahaye|Guillaume Moreau|Jan Charouz;Pescarolo 01;Judd DB 3.4 L V8;Dunlop;361;4920.069;;
+2010;8;LMP2;25;GBR;RML;GBR|BRA|GBR;Mike Newton|Thomas Erdos|Andy Wallace;Lola B08/80;HPD AL7R 3.4 L V8;Dunlop;358;4879.182;;
+2010;9;LMP2;24;FRA;OAK Racing;FRA|MCO|FRA;Jacques Nicolet|Richard Hein|Jean-François Yvon;Pescarolo 01;Judd DB 3.4 L V8;Dunlop;341;4647.489;;
+2010;10;LMP2;41;GBR;Team Bruichladdich;GBR|SAU|FRA;Tim Greaves|Karim Ojjeh|Gary Chalandon;Ginetta- Zytek GZ09S/2;Zytek ZG348 3.4 L V8;Dunlop;341;4647.489;;
+2010;11;LMGT2;77;DEU;Team Felbermayr-Proton;DEU|AUT|DEU;Marc Lieb|Richard Lietz|Wolf Henzler;Porsche 997 GT3-RSR;Porsche 4.0 L Flat-6;Michelin;338;4606.602;;
+2010;12;LMGT2;89;DEU;Hankook Team Farnbacher;DEU|DNK|USA;Dominik Farnbacher|Allan Simonsen|Leh Keen;Ferrari F430 GT2;Ferrari 4.0 L V8;Hankook;336;4579.344;;
+2010;13;LMGT1;50;FRA;Larbre Compétition;FRA|FRA|CHE;Roland Berville|Julien Canal|Gabriele Gardel;Saleen S7-R;Ford 7.0 L V8;Michelin;331;4511.199;;
+2010;14;LMGT2;97;ITA;BMS Scuderia Italia SpA;DEU|GBR|DEU;Marco Holzer|Richard Westbrook|Timo Scheider;Porsche 997 GT3-RSR;Porsche 4.0 L Flat-6;Michelin;327;4456.683;;
+2010;15;LMGT1;72;FRA;Luc Alphand Aventures;FRA|FRA|NLD;Stéphane Grégoire|Jérôme Policand|David Hart;Chevrolet Corvette C6.R;Corvette LS7.R 7.0 L V8;Dunlop;327;4456.683;;
+2010;16;LMGT2;95;ITA;AF Corse SRL;ITA|FRA|FIN;Giancarlo Fisichella|Jean Alesi|Toni Vilander;Ferrari F430 GT2;Ferrari 4.0 L V8;Michelin;323;4402.167;;
+2010;17;LMGT2;76;FRA;IMSA Performance Matmut;FRA|FRA|USA;Raymond Narac|Patrick Pilet|Patrick Long;Porsche 997 GT3-RSR;Porsche 4.0 L Flat-6;Michelin;321;4374.909;;
+2010;18;LMP2;28;CHE;Race Performance AG;FRA|FRA|CHE;Pierre Bruneau|Marc Rostan|Ralph Meichtry;Radical SR9;Judd DB 3.4 L V8;Dunlop;321;4374.909;;
+2010;19;LMGT2;78;DEU;BMW Motorsport;DEU|BRA|DEU;Jörg Müller|Augusto Farfus|Uwe Alzen;BMW M3 GT2;BMW 4.0 L V8;Dunlop;320;4361.280;;
+2010;20;LMP2;40;PRT;Quifel ASM Team;PRT|FRA|GBR;Miguel Amaral|Olivier Pla|Warren Hughes;Ginetta- Zytek GZ09S/2;Zytek ZG348 3.4 L V8;Michelin;318;4334.022;;
+2010;21;LMGT2;75;BEL;Prospeed Competition;NLD|NLD|BEL;Paul van Splunteren|Niek Hommerson|Louis Machiels;Porsche 997 GT3-RSR;Porsche 4.0 L Flat-6;Michelin;317;4320.393;;
+2010;22;LMGT1;52;DEU;Young Driver AMR;CZE|DNK|NLD;Tomáš Enge|Christoffer Nygaard|Peter Kox;Aston Martin DBR9;Aston Martin 6.0 L V12;Michelin;311;4238.619;;
+2010;23;LMP2;37;FRA;Gerard Welter;FRA|FRA|FRA;Philippe Salini|Stéphane Salini|Tristan Gommendy;WR LMP2008;Zytek ZG348 3.4 L V8;Dunlop;308;4197.732;;
+2010;24;LMGT2;88;DEU;Team Felbermayr-Proton;AUT|AUT|SVK;Horst Felbermayr, Sr.|Horst Felbermayr, Jr.|Miro Konopka;Porsche 997 GT3-RSR;Porsche 4.0 L Flat-6;Michelin;304;4143.216;;
+2010;25;LMP2;26;USA;Highcroft Racing;AUS|GBR|DEU;David Brabham|Marino Franchitti|Marco Werner;HPD ARX-01C;HPD AL7R 3.4 L V8;Michelin;296;4034.184;;
+2010;26;LMP2;39;DEU;KSM;FRA|JPN|GBR;Jean de Pourtales|Hideki Noda|Jonathan Kennard;Lola B07/40;Judd DB 3.4 L V8;Dunlop;291;3966.039;;
+2010;27;LMGT2;85;NLD;Spyker Squadron;NLD|GBR|NLD;Tom Coronel|Peter Dumbreck|Jeroen Bleekemolen;Spyker C8 Laviolette GT2-R;Audi 4.0 L V8;Michelin;280;3816.120;;
+2010;NC;LMP1;11;GBR;Drayson Racing;GBR|GBR|ITA;Paul Drayson|Jonny Cocker|Emanuele Pirro;Lola B09/60;Judd GV5.5 S2 5.5 L V10;Michelin;254;3461.766;;Insufficient distance
+2010;DNF;LMP1;4;FRA;Team Oreca Matmut;FRA|FRA|FRA;Olivier Panis|Nicolas Lapierre|Loïc Duval;Peugeot 908 HDi FAP;Peugeot HDi 5.5 L Turbo V12(Diesel);Michelin;373;5083.617;;Engine, fire
+2010;DNF;LMP1;9;GBR;Aston Martin Racing;GBR|DNK|GBR;Darren Turner|Juan Barazi|Sam Hancock;Lola-Aston Martin B09/60;Aston Martin 6.0 L V12;Michelin;368;5015.472;;Engine
+2010;DNF;LMP1;1;FRA;Team Peugeot Total;AUT|ESP|GBR;Alexander Wurz|Marc Gené|Anthony Davidson;Peugeot 908 HDi FAP;Peugeot HDi 5.5 L Turbo V12(Diesel);Michelin;360;4906.440;;Engine
+2010;DNF;LMP1;15;DEU;Kolles;DNK|GBR|NLD;Christian Bakkerud|Oliver Jarvis|Christijan Albers;Audi R10 TDI;Audi TDI 5.5 L Turbo V12(Diesel);Michelin;331;4511.199;;Transmission (gearbox)
+2010;DNF;LMP1;8;FRA;Signature-Plus;FRA|FRA|BEL;Pierre Ragues|Franck Mailleux|Vanina Ickx;Lola-Aston Martin B09/60;Aston Martin 6.0 L V12;Dunlop;302;4115.958;;Accident
+2010;DNF;LMP1;2;FRA;Team Peugeot Total;FRA|FRA|FRA;Nicolas Minassian|Stéphane Sarrazin|Franck Montagny;Peugeot 908 HDi FAP;Peugeot HDi 5.5 L Turbo V12(Diesel);Michelin;264;3598.056;;Engine
+2010;DNF;LMGT2;64;USA;Corvette Racing;GBR|MCO|FRA;Oliver Gavin|Olivier Beretta|Emmanuel Collard;Chevrolet Corvette C6.R;Corvette 5.5 L V8;Michelin;255;3475.395;;Engine
+2010;DNF;LMGT1;73;FRA;Luc Alphand Aventures;FRA|NLD|FRA;Julien Jousse|Xavier Maassen|Patrice Goueslard;Chevrolet Corvette C6.R;Corvette LS7.R 7.0 L V8;Dunlop;238;3243.702;;Transmission
+2010;DNF;LMGT2;63;USA;Corvette Racing;USA|DNK|ESP;Johnny O'Connell|Jan Magnussen|Antonio García;Chevrolet Corvette C6.R;Corvette 5.5 L V8;Michelin;225;3066.525;;Engine
+2010;DNF;LMGT2;83;USA;Risi Competizione;USA|SWE|BEL;Tracy Krohn|Niclas Jönsson|Eric van de Poele;Ferrari F430 GT2;Ferrari 4.0 L V8;Michelin;197;2684.913;;Engine
+2010;DNF;LMP1;14;DEU;Kolles;USA|PRT|FRA;Scott Tucker|Manuel Rodrigues|Christophe Bouchut;Audi R10 TDI;Audi TDI 5.5 L Turbo V12(Diesel);Michelin;182;2480.478;;Accident
+2010;DNF;LMP1;12;CHE;Rebellion Racing;FRA|CHE|USA;Nicolas Prost|Neel Jani|Marco Andretti;Lola B10/60;Rebellion 5.5 L V10;Michelin;175;2385.075;;Transmission (gearbox)
+2010;DNF;LMGT1;60;CHE;Matech Competition;DEU|CHE|CHE;Thomas Mutsch|Romain Grosjean|Jonathan Hirschi;Ford GT1;Ford 5.3 L V8;Michelin;171;2330.559;;Engine
+2010;DNF;LMP1;13;CHE;Rebellion Racing;FRA|ITA|GBR;Jean-Christophe Boullion|Andrea Belicchi|Guy Smith;Lola B10/60;Rebellion 5.5 L V10;Michelin;143;1948.947;;
+2010;DNF;LMGT1;69;JPN;JLOC;JPN|JPN|JPN;Atsushi Yogo|Koji Yamanishi|Hiroyuki Iiri;Lamborghini Murciélago LP670 R-SV;Lamborghini 6.5 L V12;Yokohama;138;1880.802;;Transmission (gearbox)
+2010;DNF;LMGT2;82;USA;Risi Competizione;BRA|ITA|DEU;Jaime Melo|Gianmaria Bruni|Pierre Kaffer;Ferrari F430 GT2;Ferrari 4.0 L V8;Michelin;116;1580.964;;Transmission (gearbox)
+2010;DNF;LMGT2;92;GBR;JMW Motorsport;GBR|GBR|USA;Rob Bell|Tim Sugden|Bryce Miller;Aston Martin V8 Vantage GT2;Aston Martin 4.5 L V8;Dunlop;71;967.659;;Accident
+2010;DNF;LMGT2;80;USA;Flying Lizard Motorsports;USA|USA|DEU;Seth Neiman|Darren Law|Jörg Bergmeister;Porsche 997 GT3-RSR;Porsche 4.0 L Flat-6;Michelin;61;831.369;;Engine
+2010;DNF;LMGT1;61;CHE;Matech Competition;CHE|CHE|CHE;Natacha Gachnang|Cyndie Allemann|Rahel Frey;Ford GT1;Ford 5.3 L V8;Michelin;59;804.111;;Engine
+2010;DNF;LMP2;29;ITA;Racing Box SRL;ITA|ITA|ITA;Luca Pirri|Marco Cioci|Piergiuseppe Perazzini;Lola B08/80;Judd DB 3.4 L V8;Dunlop;57;776.853;;Suspension (front left)
+2010;DNF;LMGT2;79;DEU;BMW Motorsport;GBR|DEU|DEU;Andy Priaulx|Dirk Müller|Dirk Werner;BMW M3 GT2;BMW 4.0 L V8;Dunlop;53;722.337;;Out of fuel
+2010;DNF;LMP2;38;FRA;Pegasus Racing;FRA|FRA|FRA;Julien Schell|Frédéric da Rocha|David Zollinger;Norma M200P;Judd DB 3.4 L V8;Dunlop;40;545.160;;Transmission (gearbox)
+2010;DNF;LMP1;3;FRA;Peugeot Sport Total;FRA|PRT|FRA;Sébastien Bourdais|Pedro Lamy|Simon Pagenaud;Peugeot 908 HDi FAP;Peugeot HDi 5.5 L Turbo V12(Diesel);Michelin;38;517.902;;Suspension (front right)
+2010;DNF;LMGT1;70;BEL;Marc VDS Racing Team;BEL|BEL|FIN;Eric De Doncker|Bas Leinders|Markus Palttala;Ford GT1;Ford 5.0 L V8;Michelin;26;354.354;;Accident
+2010;DNF;LMP1;5;GBR;Beechdean Mansell;GBR|GBR|GBR;Nigel Mansell|Greg Mansell|Leo Mansell;Ginetta- Zytek GZ09S;Zytek ZJ458 4.5 L V8;Dunlop;4;54.516;;Accident
+2010;DNF;LMGT2;81;USA;Jaguar RSR;USA|GBR|BEL;Paul Gentilozzi|Ryan Dalziel|Marc Goossens;Jaguar XKR GT2;Jaguar 5.0 L V8;Yokohama;4;54.516;;Electrics
+2010;DNF;LMP1;19;USA;Michael Lewis/ Autocon;USA|USA|CAN;Michael Lewis|Bryan Willman|Tony Burgess;Lola B06/10;AER P32T 4.0 L Turbo V8;Dunlop;1;13.629;;Transmission (gearbox)
+2010;DNS;LMGT2;96;ITA;AF Corse SRL;ARG|ARG|FIN;Luís Pérez Companc|Matías Russo|Mika Salo;Ferrari F430 GT2;Ferrari 4.0 L V8;Michelin;0;0.0;;Accident in practice
+2011;1;LMP1;2;DEU;Audi Sport Team Joest;CHE|DEU|FRA;Marcel Fässler|André Lotterer|Benoît Tréluyer;Audi R18 TDI;Audi TDI 3.7 L Turbo V6(Diesel);Michelin;355;4838.300;;
+2011;2;LMP1;9;FRA;Team Peugeot Total;FRA|FRA|PRT;Sébastien Bourdais|Simon Pagenaud|Pedro Lamy;Peugeot 908;Peugeot HDi 3.7 L Turbo V8(Diesel);Michelin;355;4838.300;;
+2011;3;LMP1;8;FRA;Peugeot Sport Total;FRA|FRA|FRA;Stéphane Sarrazin|Franck Montagny|Nicolas Minassian;Peugeot 908;Peugeot HDi 3.7 L Turbo V8(Diesel);Michelin;353;4811.040;;
+2011;4;LMP1;7;FRA;Peugeot Sport Total;GBR|AUT|ESP;Anthony Davidson|Alexander Wurz|Marc Gené;Peugeot 908;Peugeot HDi 3.7 L Turbo V8(Diesel);Michelin;351;4783.780;;
+2011;5;LMP1;10;FRA;Team Oreca-Matmut;FRA|FRA|FRA;Nicolas Lapierre|Loïc Duval|Olivier Panis;Peugeot 908 HDi FAP;Peugeot HDi 5.5 L Turbo V12(Diesel);Michelin;339;4620.230;;
+2011;6;LMP1;12;CHE;Rebellion Racing;FRA|CHE|NLD;Nicolas Prost|Neel Jani|Jeroen Bleekemolen;Lola B10/60;Toyota RV8KLM 3.4 L V8;Michelin;338;4606.600;;
+2011;7;LMP1;22;BEL|BEL;Kronos Racing|Marc VDS Racing Team;BEL|BEL|BEL;Vanina Ickx|Bas Leinders|Maxime Martin;Lola-Aston Martin B09/60;Aston Martin 6.0 L V12;Michelin;328;4470.310;;
+2011;8;LMP2;41;GBR;Greaves Motorsport;SAU|FRA|GBR;Karim Ojjeh|Olivier Lombard|Tom Kimber-Smith;Zytek Z11SN;Nissan VK45DE 4.5 L V8;Dunlop;326;4443.050;;
+2011;9;LMP2;26;FRA;Signatech Nissan;FRA|FRA|ESP;Soheil Ayari|Franck Mailleux|Lucas Ordóñez;Oreca 03;Nissan VK45DE 4.5 L V8;Dunlop;320;4361.280;;
+2011;10;LMP2;33;USA;Level 5 Motorsports;USA|FRA|PRT;Scott Tucker|Christophe Bouchut|João Barbosa;Lola B08/80;HPD HR28TT 2.8 L Turbo V6;Michelin;319;4347.650;;
+2011;11;LMGTEPro;73;USA;Corvette Racing;MCO|USA|ESP;Olivier Beretta|Tommy Milner|Antonio García;Corvette C6.R;Corvette 5.5 L V8;Michelin;314;4279.510;;
+2011;12;LMP2;36;GBR;RML;GBR|GBR|BRA;Mike Newton|Ben Collins|Thomas Erdos;HPD ARX-01d;HPD HR28TT 2.8 L Turbo V6;Dunlop;314;4279.510;;
+2011;13;LMGTEPro;51;ITA;AF Corse SRL;ITA|ITA|FIN;Giancarlo Fisichella|Gianmaria Bruni|Toni Vilander;Ferrari 458 Italia GT2;Ferrari 4.5 L V8;Michelin;314;4279.510;;
+2011;14;LMP2;49;FRA;OAK Racing;JPN|BEL|CZE;Shinji Nakano|Nicolas de Crem|Jan Charouz;OAK Pescarolo 01;Judd- BMW HK 3.6 L V8;Dunlop;313;4265.880;;
+2011;15;LMGTEPro;56;DEU;BMW Motorsport;GBR|DEU|USA;Andy Priaulx|Dirk Müller|Joey Hand;BMW M3 GT2;BMW 4.0 L V8;Dunlop;313;4265.880;;
+2011;16;LMGTEPro;77;DEU;Team Felbermayr-Proton;DEU|DEU|AUT;Marc Lieb|Wolf Henzler|Richard Lietz;Porsche 997 GT3-RSR;Porsche 4.0 L Flat-6;Michelin;312;4252.250;;
+2011;17;LMGTEPro;76;FRA;IMSA Performance Matmut;FRA|FRA|FRA;Raymond Narac|Patrick Pilet|Nicolas Armindo;Porsche 997 GT3-RSR;Porsche 4.0 L Flat-6;Michelin;311;4238.620;;
+2011;18;LMGTEPro;80;USA;Flying Lizard Motorsports;DEU|DEU|USA;Jörg Bergmeister|Lucas Luhr|Patrick Long;Porsche 997 GT3-RSR;Porsche 4.0 L Flat-6;Michelin;310;4224.990;;
+2011;19;LMP2;40;CHE;Race Performance;CHE|CHE|FRA;Michel Frey|Ralph Meichtry|Marc Rostan;Oreca 03;Judd- BMW HK 3.6 L V8;Dunlop;304;4143.220;;
+2011;20;LMGTEAm;50;FRA;Larbre Compétition;FRA|FRA|CHE;Patrick Bornhauser|Julien Canal|Gabriele Gardel;Corvette C6.R;Corvette 5.5 L V8;Michelin;302;4115.960;;
+2011;21;LMGTEAm;70;FRA;Larbre Compétition;FRA|FRA|FRA;Christophe Bourret|Pascal Gibon|Jean-Philippe Belloc;Porsche 997 GT3-RSR;Porsche 4.0 L Flat-6;Michelin;301;4102.330;;
+2011;22;LMGTEPro;65;AUT;Lotus Jetalliance;CHE|GBR|GBR;Jonathan Hirschi|Johnny Mowlem|James Rossiter;Lotus Evora GTE;Toyota- Cosworth 4.0 L V6;Michelin;295;4020.560;;
+2011;23;LMGTEPro;75;BEL;Prospeed Competition;BEL|DEU|NLD;Marc Goossens|Marco Holzer|Jaap van Lagen;Porsche 997 GT3-RSR;Porsche 4.0 L Flat-6;Michelin;293;3993.300;;
+2011;24;LMGTEPro;66;GBR;JMW Motorsport;GBR|GBR|NLD;Rob Bell|Tim Sugden|Xavier Maassen;Ferrari 458 Italia GT2;Ferrari 4.5 L V8;Dunlop;290;3952.410;;
+2011;25;LMP2;35;FRA;OAK Racing;FRA|FRA|ITA;Frédéric Da Rocha|Patrice Lafargue|Andrea Barlesi;OAK Pescarolo 01;Judd- BMW HK 3.6 L V8;Dunlop;288;3925.150;;
+2011;26;LMGTEAm;68;USA;Robertson Racing LLC;USA|USA|USA;David Robertson|Andrea Robertson|David Murry;Ford GT-R Mk. VII;Ford 5.0 L V8;Michelin;285;3884.270;;
+2011;27;LMGTEAm;83;MCO;JMB Racing;FRA|FRA|FRA;Manuel Rodrigues|Jean-Marc Menahem|Nicolas Marroc;Ferrari F430 GTE;Ferrari 4.0 L V8;Dunlop;272;3707.090;;
+2011;NC;LMP2;44;FRA;Extrême Limite AM Paris;FRA|FRA|FRA;Fabien Rosier|Phillipe Haezebrouck|Jean-René De Fournoux;Norma MP200P;Judd- BMW HK 3.6 L V8;Dunlop;247;3366.363;;Insufficient distance
+2011;DNF;LMP1;16;FRA;Pescarolo Team;FRA|FRA|FRA;Emmanuel Collard|Christophe Tinseau|Julien Jousse;Pescarolo 01;Judd GV5 S2 5.0 L V10;Michelin;305;4156.845;22:06:00;Accident (out of track)
+2011;DNF;LMGTEPro;55;DEU;BMW Motorsport;BRA|DEU|DEU;Augusto Farfus|Jörg Müller|Dirk Werner;BMW M3 GT2;BMW 4.0 L V8;Dunlop;276;3761.604;21:27:00;Transmission (cardan)
+2011;DNF;LMGTEPro;74;USA;Corvette Racing;GBR|GBR|DNK;Oliver Gavin|Richard Westbrook|Jan Magnussen;Corvette C6.R;Corvette 5.5 L V8;Michelin;211;2875.719;16:55:00;Accident (out of track)
+2011;DNF;LMGTEAm;81;USA;Flying Lizard Motorsports;USA|USA|USA;Seth Neiman|Darren Law|Spencer Pumpelly;Porsche 997 GT3-RSR;Porsche 4.0 L Flat-6;Michelin;211;2875.719;17:28:00;Engine
+2011;DNF;LMP2;48;FRA;Team Oreca-Matmut;FRA|FRA|AUT;Alexandre Prémat|David Hallyday|Dominik Kraihamer;Oreca 03;Nissan VK45DE 4.5 L V8;Michelin;200;2725.800;15:20:00;Accident (out of track)
+2011;DNF;LMGTEAm;63;DEU;Proton Competition;AUT|AUT|DEU;Horst Felbermayr, Jr.|Horst Felbermayr, Sr.|Christian Ried;Porsche 997 GT3-RSR;Porsche 4.0 L Flat-6;Michelin;199;2712.171;16:46:00;Accident (out of track)
+2011;DNF;LMP1;13;CHE;Rebellion Racing;ITA|FRA|GBR;Andrea Belicchi|Jean-Christophe Boullion|Guy Smith;Lola B10/60;Toyota RV8KLM 3.4 L V8;Michelin;190;2589.510;14:08:00;Accident (out of track)
+2011;DNF;LMGTEAm;61;ITA;AF Corse SRL;ITA|ITA|IRL;Piergiuseppe Perazzini|Marco Cioci|Seán Paul Breslin;Ferrari F430 GTE;Ferrari 4.0 L V8;Michelin;188;2562.252;15:50:00;Accident (out of track)
+2011;DNF;LMGTEPro;59;FRA;Luxury Racing;MCO|FRA|BRA;Stéphane Ortelli|Frédéric Makowiecki|Jaime Melo;Ferrari 458 Italia GT2;Ferrari 4.5 L V8;Michelin;183;2494.107;15:25:00;Engine
+2011;DNF;LMGTEPro;71;ITA;AF Corse;USA|USA|PRT;Robert Kauffman|Michael Waltrip|Rui Águas;Ferrari 458 Italia GT2;Ferrari 4.5 L V8;Michelin;178;2425.962;15:57:00;Transmission (differential)
+2011;DNF;LMGTEPro;88;DEU;Team Felbermayr-Proton;GBR|SAU|USA;Nick Tandy|Abdulaziz Al-Faisal|Bryce Miller;Porsche 997 GT3-RSR;Porsche 4.0 L Flat-6;Michelin;169;2303.301;15:39:00;Accident (out of track)
+2011;DNF;LMP2;42;GBR;Strakka Racing;GBR|GBR|GBR;Nick Leventis|Danny Watts|Jonny Kane;HPD ARX-01d;HPD HR28TT 2.8 L Turbo V6;Michelin;144;1962.576;11:30:00;Engine
+2011;DNF;LMGTEAm;60;ARE;Gulf AMR Middle East;FRA|DEU|GBR;Fabien Giroix|Roald Goethe|Michael Wainright;Aston Martin Vantage GT2;Aston Martin 4.5 L V8;Dunlop;141;1921.689;13:00:00;Accident
+2011;DNF;LMP2;39;ARG;PeCom Racing;ARG|ARG|DEU;Luís Pérez Companc|Matías Russo|Pierre Kaffer;Lola B11/40;Judd- BMW HK 3.6 L V8;Michelin;139;1894.431;11:13:00;Accident
+2011;DNF;LMGTEPro;89;DEU;Hankook-Team Farnbacher;DEU|DNK|USA;Dominik Farnbacher|Allan Simonsen|Leh Keen;Ferrari 458 Italia GT2;Ferrari 4.5 L V8;Hankook;137;1867.173;13:22:00;Engine
+2011;DNF;LMGTEPro;58;FRA;Luxury Racing;FRA|FRA|FRA;Anthony Beltoise|François Jakubowski|Pierre Thiriet;Ferrari 458 Italia GT2;Ferrari 4.5 L V8;Michelin;136;1853.544;15:15:00;Accident (out of track)
+2011;DNF;LMGTEPro;64;AUT;Lotus Jetalliance;NLD|GBR|GBR;Oskar Slingerland|Martin Rich|John Hartshorne;Lotus Evora GTE;Toyota- Cosworth 4.0 L V6;Michelin;126;1717.254;13:00:00;Accident
+2011;DNF;LMGTEAm;57;USA;Krohn Racing;USA|SWE|ITA;Tracy Krohn|Niclas Jönsson|Michele Rugolo;Ferrari F430 GTE;Ferrari 4.0 L V8;Dunlop;123;1676.367;11:05:00;Mechanical problem
+2011;DNF;LMP1;24;FRA;OAK Racing;MCO|FRA|FRA;Richard Hein|Jacques Nicolet|Jean-François Yvon;OAK Pescarolo 01;Judd DB 3.4 L V8;Dunlop;119;1621.851;10:30:00;Engine (fire)
+2011;DNF;LMP1;1;DEU;Audi Sport Team Joest;DEU|FRA|DEU;Timo Bernhard|Romain Dumas|Mike Rockenfeller;Audi R18 TDI;Audi TDI 3.7 L Turbo V6(Diesel);Michelin;116;1580.964;07:50:00;Accident
+2011;DNF;LMP1;5;CHE;Hope Racing;CHE|NLD|DNK;Steve Zacchia|Jan Lammers|Casper Elgaard;Oreca 01;Swiss HyTech 2.0 L Hybrid Turbo I4;Michelin;115;1567.335;13:55:00;Fire
+2011;DNF;LMGTEAm;62;GBR;CRS Racing;DEU|GBR|NZL;Pierre Ehret|Shaun Lynn|Roger Wills;Ferrari F430 GTE;Ferrari 4.0 L V8;Michelin;84;1144.836;08:37:00;Accident
+2011;DNF;LMP1;15;FRA;OAK Racing;FRA|FRA|PRT;Guillaume Moreau|Pierre Ragues|Tiago Monteiro;OAK Pescarolo 01;Judd DB 3.4 L V8;Dunlop;80;1090.320;11:03:00;Steering failure
+2011;DNF;LMGTEPro;79;GBR;Jota;GBR|GBR|GBR;Sam Hancock|Simon Dolan|Chris Buncombe;Aston Martin Vantage GT2;Aston Martin 4.5 L V8;Dunlop;74;1008.546;06:19:00;Engine
+2011;DNF;LMP1;20;PRT;Quifel-ASM Team;PRT|FRA|GBR;Miguel Amaral|Olivier Pla|Warren Hughes;Zytek 09SC;Zytek ZG348 3.4 L V8;Dunlop;48;654.192;03:38:00;Engine
+2011;DNF;LMP1;3;DEU;Audi Sport North America;DNK|ITA|GBR;Tom Kristensen|Rinaldo Capello|Allan McNish;Audi R18 TDI;Audi TDI 3.7 L Turbo V6(Diesel);Michelin;14;190.806;00:51:00;Accident
+2011;DNF;LMP1;7;GBR;Aston Martin Racing;DEU|GBR|AUT;Stefan Mücke|Darren Turner|Christian Klien;Aston Martin AMR-One;Aston Martin 2.0 L Turbo I6;Michelin;4;54.516;04:10:00;Engine
+2011;DNF;LMP1;9;GBR;Aston Martin Racing;CHE|MEX|GBR;Harold Primat|Adrián Fernández|Andy Meyrick;Aston Martin AMR-One;Aston Martin 2.0 L Turbo I6;Michelin;2;27.258;00:25:00;Engine
+2012;1;LMP1;1;DEU;Audi Sport Team Joest;DEU|CHE|FRA;André Lotterer|Marcel Fässler|Benoît Tréluyer;Audi R18 e-tron quattro;Audi TDI 3.7 L Turbo V6( Hybrid Diesel);Michelin;378;5151.762;;
+2012;2;LMP1;2;DEU;Audi Sport Team Joest;GBR|ITA|DNK;Allan McNish|Rinaldo Capello|Tom Kristensen;Audi R18 e-tron quattro;Audi TDI 3.7 L Turbo V6( Hybrid Diesel);Michelin;377;5138.133;;
+2012;3;LMP1;4;DEU;Audi Sport North America;GBR|ITA|DEU;Oliver Jarvis|Marco Bonanomi|Mike Rockenfeller;Audi R18 ultra;Audi TDI 3.7 L Turbo V6( Diesel);Michelin;375;5110.875;;
+2012;4;LMP1;12;CHE;Rebellion Racing;FRA|DEU|CHE;Nicolas Prost|Nick Heidfeld|Neel Jani;Lola B12/60;Toyota RV8KLM 3.4 L V8;Michelin;367;5001.843;;
+2012;5;LMP1;3;DEU;Audi Sport Team Joest;ESP|FRA|FRA;Marc Gené|Romain Dumas|Loïc Duval;Audi R18 ultra;Audi TDI 3.7 L Turbo V6( Diesel);Michelin;366;4988.214;;
+2012;6;LMP1;22;GBR;JRM;AUS|GBR|IND;David Brabham|Peter Dumbreck|Karun Chandhok;HPD ARX-03a;Honda LM-V8 3.4 L V8;Michelin;357;4865.553;;
+2012;7;LMP2;44;USA;Starworks Motorsport;VEN|GBR|GBR;Enzo Potolicchio|Ryan Dalziel|Tom Kimber-Smith;HPD ARX-03b;Honda HR28TT 2.8 L Turbo V6;Dunlop;354;4824.666;;
+2012;8;LMP2;46;FRA;Thiriet by TDS Racing;FRA|CHE|FRA;Pierre Thiriet|Mathias Beche|Christophe Tinseau;Oreca 03;Nissan VK45DE 4.5 L V8;Dunlop;353;4811.037;;
+2012;9;LMP2;49;ARG;Pecom Racing;ARG|DEU|FRA;Luís Pérez Companc|Pierre Kaffer|Soheil Ayari;Oreca 03;Nissan VK45DE 4.5 L V8;Dunlop;352;4797.408;;
+2012;10;LMP2;26;FRA;Signatech-Nissan;FRA|FRA|RUS;Pierre Ragues|Nelson Panciatici|Roman Rusinov;Oreca 03;Nissan VK45DE 4.5 L V8;Dunlop;351;4783.779;;
+2012;11;LMP1;13;CHE;Rebellion Racing;ITA|NLD|CHE;Andrea Belicchi|Jeroen Bleekemolen|Harold Primat;Lola B12/60;Toyota RV8KLM 3.4 L V8;Michelin;350;4770.150;;
+2012;12;LMP2;41;GBR;Greaves Motorsport;DEU|ECU|MEX;Christian Zugel|Elton Julian|Ricardo González;Zytek Z11SN;Nissan VK45DE 4.5 L V8;Dunlop;348;4742.892;;
+2012;13;LMP2;25;GBR;ADR-Delta;AUS|THA|CZE;John Martin|Tor Graves|Jan Charouz;Oreca 03;Nissan VK45DE 4.5 L V8;Dunlop;346;4715.634;;
+2012;14;LMP2;35;FRA;OAK Racing;DNK|BEL|BEL;David Heinemeier Hansson|Bas Leinders|Maxime Martin;Morgan LMP2;Nissan VK45DE 4.5 L V8;Dunlop;341;4647.489;;
+2012;15;LMP2;42;GBR;Greaves Motorsport;GBR|GBR|ESP;Alex Brundle|Martin Brundle|Lucas Ordóñez;Zytek Z11SN;Nissan VK45DE 4.5 L V8;Dunlop;340;4633.860;;
+2012;16;LMP2;23;FRA;Signatech-Nissan;FRA|FRA|FRA;Jordan Tresson|Franck Mailleux|Olivier Lombard;Oreca 03;Nissan VK45DE 4.5 L V8;Dunlop;340;4633.860;;
+2012;17;LMGTEPro;51;ITA;AF Corse;ITA|ITA|FIN;Giancarlo Fisichella|Gianmaria Bruni|Toni Vilander;Ferrari 458 Italia GT2;Ferrari 4.5 L V8;Michelin;336;4579.344;;
+2012;18;LMGTEPro;59;FRA;Luxury Racing;FRA|BRA|DEU;Frédéric Makowiecki|Jaime Melo|Dominik Farnbacher;Ferrari 458 Italia GT2;Ferrari 4.5 L V8;Michelin;333;4538.457;;
+2012;19;LMGTEPro;97;GBR;Aston Martin Racing;DEU|MEX|GBR;Stefan Mücke|Adrián Fernández|Darren Turner;Aston Martin Vantage GTE;Aston Martin 4.5 L V8;Michelin;332;4524.828;;
+2012;20;LMGTEAm;50;FRA;Larbre Compétition;FRA|FRA|PRT;Patrick Bornhauser|Julien Canal|Pedro Lamy;Chevrolet Corvette C6.R;Chevrolet 5.5 L V8;Michelin;329;4483.941;;
+2012;21;LMGTEAm;67;FRA;IMSA Performance Matmut;FRA|FRA|FRA;Anthony Pons|Nicolas Armindo|Raymond Narac;Porsche 997 GT3-RSR;Porsche 4.0 L Flat-6;Michelin;328;4470.312;;
+2012;22;LMGTEPro;71;ITA;AF Corse;ITA|MCO|ITA;Andrea Bertolini|Olivier Beretta|Marco Cioci;Ferrari 458 Italia GT2;Ferrari 4.5 L V8;Michelin;326;4443.054;;
+2012;23;LMGTEPro;73;USA;Corvette Racing;ESP|DNK|USA;Antonio García|Jan Magnussen|Jordan Taylor;Chevrolet Corvette C6.R;Chevrolet 5.5 L V8;Michelin;326;4443.054;;
+2012;24;LMP2;45;BEL;Boutsen Ginion Racing;FRA|JPN|DEU;Bastien Brière|Shinji Nakano|Jens Petersen;Oreca 03;Nissan VK45DE 4.5 L V8;Dunlop;325;4429.425;;
+2012;25;LMGTEAm;57;USA;Krohn Racing;USA|SWE|ITA;Tracy Krohn|Niclas Jönsson|Michele Rugolo;Ferrari 458 Italia GT2;Ferrari 4.5 L V8;Dunlop;323;4402.167;;
+2012;26;LMP2;40;CHE;Race Performance;CHE|CHE|CHE;Michel Frey|Jonathan Hirschi|Ralph Meichtry;Oreca 03;Judd HK 3.6 L V8;Dunlop;320;4361.280;;
+2012;27;LMGTEAm;79;USA;Flying Lizard Motorsports;USA|USA|FRA;Seth Neiman|Spencer Pumpelly|Patrick Pilet;Porsche 997 GT3-RSR;Porsche 4.0 L Flat-6;Michelin;313;4265.877;;
+2012;28;LMGTEAm;70;FRA;Larbre Compétition;FRA|FRA|FRA;Christophe Bourret|Pascal Gibon|Jean-Philippe Belloc;Chevrolet Corvette C6.R;Chevrolet 5.5 L V8;Michelin;309;4211.361;;
+2012;29;LMP2;43;FRA;Extrême Limite ARIC;FRA|FRA|FRA;Fabien Rosier|Phillipe Haezebrouck|Philippe Thirion;Norma MP200P;Judd HK 3.6 L V8;Dunlop;308;4197.732;;
+2012;30;LMP1;21;GBR;Strakka Racing;GBR|GBR|GBR;Nick Leventis|Jonny Kane|Danny Watts;HPD ARX-03a;Honda LM-V8 3.4 L V8;Michelin;303;4129.587;;
+2012;31;LMGTEAm;61;ITA;AF Corse-Waltrip;USA|USA|PRT;Robert Kauffman|Brian Vickers|Rui Águas;Ferrari 458 Italia GT2;Ferrari 4.5 L V8;Michelin;294;4006.926;;
+2012;32;LMGTEAm;83;MCO;JMB Racing;PRT|FRA|FRA;Manuel Rodrigues|Philippe Illiano|Alain Ferté;Ferrari 458 Italia GT2;Ferrari 4.5 L V8;Michelin;292;3979.668;;
+2012;33;LMGTEAm;55;GBR;JWA-Avila;GBR|CHE|FIN;Paul Daniels|Joël Camathias|Markus Palttala;Porsche 997 GT3-RSR;Porsche 4.0 L Flat-6;Pirelli;290;3952.410;;
+2012;NC;LMGTEPro;74;USA;Corvette Racing;GBR|GBR|USA;Oliver Gavin|Richard Westbrook|Tommy Milner;Chevrolet Corvette C6.R;Chevrolet 5.5 L V8;Michelin;215;2930.235;;Insufficient distance
+2012;NC;LMP1;17;FRA;Pescarolo Team;FRA|FRA|JPN;Nicolas Minassian|Sébastien Bourdais|Seiji Ara;Dome S102.5;Judd DB 3.4 L V8;Michelin;203;2766.687;;Insufficient distance
+2012;DNF;LMP2;38;GBR;Jota;GBR|GBR|JPN;Sam Hancock|Simon Dolan|Haruki Kurosawa;Zytek Z11SN;Nissan VK45DE 4.5 L V8;Dunlop;271;3693.459;19:44:00;Accident
+2012;DNF;LMP2;33;USA;Level 5 Motorsports;USA|FRA|MEX;Scott Tucker|Christophe Bouchut|Luis Díaz;HPD ARX-03b;Honda HR28TT 2.8 L Turbo V6;Dunlop;240;3270.960;17:10:00;Fuel feed
+2012;DNF;LMP2;30;IRL;Status Grand Prix;GBR|NLD|FRA;Alexander Sims|Yelmer Buurman|Romain Iannetta;Lola B12/80;Judd HK 3.6 L V8;Dunlop;239;3257.331;18:35:00;Engine
+2012;DNF;LMGTEAm;88;DEU;Team Felbermayr-Proton;DEU|ITA|ITA;Christian Ried|Gianluca Roda|Paolo Ruberti;Porsche 997 GT3-RSR;Porsche 4.0 L Flat-6;Michelin;222;3025.638;16:59:00;Transmission (gearbox)
+2012;DNF;LMP1;15;FRA;OAK Racing;FRA|AUT|BEL;Franck Montagny|Dominik Kraihamer|Bertrand Baguette;OAK Pescarolo 01;Judd DB 3.4 L V8;Dunlop;219;2984.751;15:55:00;Engine
+2012;DNF;LMGTEPro;66;GBR;JMW Motorsport;GBR|GBR|NZL;Jonny Cocker|James Walker|Roger Wills;Ferrari 458 Italia GT2;Ferrari 4.5 L V8;Dunlop;204;2780.316;16:37:00;Transmission (gearbox)
+2012;DNF;LMP2;48;IRL;Murphy Prototypes;GBR|GBR|NZL;Jody Firth|Warren Hughes|Brendon Hartley;Oreca 03;Nissan VK45DE 4.5 L V8;Dunlop;196;2671.284;14:08:00;Suspension (rear)
+2012;DNF;LMGTEPro;77;DEU;Team Felbermayr-Proton;AUT|DEU|DEU;Richard Lietz|Marc Lieb|Wolf Henzler;Porsche 997 GT3-RSR;Porsche 4.0 L Flat-6;Michelin;185;2521.365;14:08:00;Transmission (gearbox)
+2012;DNF;LMGTEAm;75;BEL;Prospeed Competition;SAU|USA|GBR;Abdulaziz Al-Faisal|Bret Curtis|Sean Edwards;Porsche 997 GT3-RSR;Porsche 4.0 L Flat-6;Michelin;180;2453.220;14:29:00;Accident
+2012;DNF;LMP2;31;DEU;Lotus;DEU|DEU|ITA;Thomas Holzer|Mirco Schultis|Luca Moro;Lola B12/80;Lotus ( Judd) 3.6 L V8;Dunlop;155;2112.495;13:50:00;Transmission
+2012;DNF;LMGTEAm;58;FRA;Luxury Racing;DEU|USA|USA;Pierre Ehret|Gunnar Jeannette|Frankie Montecalvo;Ferrari 458 Italia GT2;Ferrari 4.5 L V8;Michelin;146;1989.834;11:14:00;Accident
+2012;DNF;LMP2;24;FRA;OAK Racing;FRA|FRA|FRA;Jacques Nicolet|Matthieu Lahaye|Olivier Pla;Morgan LMP2;Judd HK 3.6 L V8;Dunlop;139;1894.431;10:55:00;Oil pump
+2012;DNF;LMP1;7;JPN;Toyota Racing;AUT|JPN|FRA;Alexander Wurz|Kazuki Nakajima|Nicolas Lapierre;Toyota TS030 Hybrid;Toyota 3.4 L V8( Hybrid);Michelin;134;1826.286;10:37:00;Engine
+2012;DNF;LMGTEPro;80;USA;Flying Lizard Motorsports;DEU|DEU|USA;Jörg Bergmeister|Marco Holzer|Patrick Long;Porsche 997 GT3-RSR;Porsche 4.0 L Flat-6;Michelin;114;1553.706;09:40:00;Accident
+2012;DNF;LMP2;28;ARE;Gulf Racing Middle East;FRA|FRA|SWE;Fabien Giroix|Ludovic Badey|Stefan Johansson;Lola B12/80;Nissan VK45DE 4.5 L V8;Dunlop;92;1253.868;10:20:00;Accident
+2012;DNF;LMP1;8;JPN;Toyota Racing;GBR|CHE|FRA;Anthony Davidson|Sébastien Buemi|Stéphane Sarrazin;Toyota TS030 Hybrid;Toyota 3.4 L V8( Hybrid);Michelin;82;1117.578;05:25:00;Accident (with #81)
+2012;DNF;Innovation;0;USA;Highcroft Racing;GBR|DEU|JPN;Marino Franchitti|Michael Krumm|Satoshi Motoyama;DeltaWing;Nissan 1.6 L Turbo I4;Michelin;75;1022.175;07:55:00;Accident (out of track)
+2012;DNF;LMGTEAm;81;ITA;AF Corse;ITA|ITA|IRL;Piergiuseppe Perazzini|Niki Cadei|Matt Griffin;Ferrari 458 Italia GT2;Ferrari 4.5 L V8;Michelin;70;954.030;05:35:00;Accident (with #8)
+2012;DNF;LMGTEAm;99;GBR;Aston Martin Racing;DNK|DNK|DNK;Christoffer Nygaard|Kristian Poulsen|Allan Simonsen;Aston Martin Vantage GTE;Aston Martin 4.5 L V8;Michelin;31;422.499;07:04:00;Accident (out of track)
+2012;DNF;LMP1;16;FRA;Pescarolo Team;FRA|GBR;Emmanuel Collard|Stuart Hall;Pescarolo 03;Judd DB 3.4 L V8;Michelin;20;272.580;04:50:00;Steering column
+2012;DNF;LMP2;29;ARE;Gulf Racing Middle East;JPN|CHE|FRA;Keiko Ihara|Jean-Denis Délétraz|Marc Rostan;Lola B12/80;Nissan VK45DE 4.5 L V8;Dunlop;17;231.693;02:35:00;Accident (out of track)
