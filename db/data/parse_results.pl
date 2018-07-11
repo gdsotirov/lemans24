@@ -157,6 +157,7 @@ my %tyre_codes = (
   "E"  => "Englebert",
   "F"  => "Firestone",
   "G"  => "Goodyear",
+  "H"  => "Hankook",
   "I"  => "India",
   "K"  => "Klèber",
   "KH" => "Kumho",
