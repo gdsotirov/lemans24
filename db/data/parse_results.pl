@@ -310,6 +310,13 @@ foreach my $tab (@tables) {
               elsif ( $pos_str eq "DQ" ) {
                 $pos_str = "DSQ";
               }
+              elsif ( $pos_str eq "EX" ) {
+                $pos_str = "DSQ";
+              }
+              elsif ( $pos_str eq "WD" ) {
+                $pos_str = "DNS";
+                $outarr[$outarr_idx][$columns{'Reason'}] = "Withdrawn";
+              }
 
               if ( exists($pos_codes{$pos_str}) ) {
                 $txt = $pos_str;
