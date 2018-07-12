@@ -35,6 +35,7 @@ sub start {
            || $attr->{'id'} =~ /^Did_Not_Practise/i
            || $attr->{'id'} =~ /^Schlussklassement$/i
            || $attr->{'id'} =~ /^Nur_in_der_Meldeliste$/i
+           || $attr->{'id'} =~ /^Meldeliste$/i
           )
      )
   {
