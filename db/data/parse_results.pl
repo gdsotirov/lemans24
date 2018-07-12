@@ -372,6 +372,12 @@ foreach my $tab (@tables) {
               elsif ( $txt =~ "^Georgische" ) {
                 $txt = "Georgien";
               }
+              elsif ( $txt =~ "^Deutsches Reich" ) {
+                $txt = "Deutschland";
+              }
+              elsif ( $txt eq "Erste Hellenische Republik" ) {
+                $txt = "Griechenland";
+              }
   
               if ( exists($ctry_iso{uc($txt)}) ) {
                 $ctry_code = $ctry_iso{uc($txt)};
