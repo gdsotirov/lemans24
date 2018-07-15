@@ -360,19 +360,19 @@ foreach my $tab (@tables) {
               elsif ( $txt eq "The Bahamas" ) {
                 $txt = "Bahamas";
               }
-              elsif ( $txt =~ "^Vereinigtes Königreich" ) {
+              elsif ( $txt =~ /^Vereinigtes Königreich/ ) {
                 $txt = "Vereinigtes Königreich";
               }
-              elsif ( $txt =~ "^Königreich Italien" ) {
+              elsif ( $txt =~ /^Königreich Italien/ ) {
                 $txt = "Italien";
               }
-              elsif ( $txt eq "Dritte Französische Republik" ) {
+              elsif ( $txt =~ /Französische Republik$/ ) {
                 $txt = "Frankreich";
               }
-              elsif ( $txt =~ "^Georgische" ) {
+              elsif ( $txt =~ /^Georgische/ ) {
                 $txt = "Georgien";
               }
-              elsif ( $txt =~ "^Deutsches Reich" ) {
+              elsif ( $txt =~ /^Deutsches Reich/ || $txt eq "Bundesrepublik Deutschland" ) {
                 $txt = "Deutschland";
               }
               elsif ( $txt eq "Erste Hellenische Republik" ) {
