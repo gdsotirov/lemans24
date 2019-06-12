@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS tyres (
+  id    INT         NOT NULL AUTO_INCREMENT,
+  name  VARCHAR(16) NULL,
+
+  PRIMARY KEY (id)
+)
+ENGINE = InnoDB;
