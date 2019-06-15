@@ -18,10 +18,10 @@ BEGIN
     END IF;
   END IF;
 
-  IF NEW.tyre <> OLD.tyre THEN
+  IF NEW.car_tyres <> OLD.car_tyres THEN
     /* no tyre data -> NULL */
-    IF NEW.tyre = '' THEN
-      SET NEW.tyre = NULL;
+    IF NEW.car_tyres = '' THEN
+      SET NEW.car_tyres = NULL;
     END IF;
   END IF;
 

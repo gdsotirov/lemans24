@@ -1,8 +1,8 @@
 CREATE TABLE IF NOT EXISTS car_numbers (
   id      INT NOT NULL AUTO_INCREMENT,
   race_id INT NOT NULL,
-  car_id  INT NOT NULL,
-  nbr     INT NULL,
+  car_id  INT NULL,
+  nbr     INT NOT NULL,
 
   PRIMARY KEY (id),
 
@@ -20,4 +20,5 @@ CREATE TABLE IF NOT EXISTS car_numbers (
     ON DELETE RESTRICT
     ON UPDATE CASCADE
 )
-ENGINE = InnoDB;
+ENGINE = InnoDB
+COMMENT = 'Car number per race';

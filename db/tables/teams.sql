@@ -1,8 +1,9 @@
 CREATE TABLE IF NOT EXISTS teams (
   id      INT         NOT NULL AUTO_INCREMENT,
-  name    VARCHAR(32) NOT NULL,
-  country CHAR(3)     NOT NULL,
+  title   VARCHAR(64) NOT NULL,
+  country CHAR(3)     NULL,
 
   PRIMARY KEY (id)
 )
-ENGINE = InnoDB;
+ENGINE = InnoDB
+COMMENT = 'Teams register';

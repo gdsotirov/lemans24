@@ -15,8 +15,8 @@ BEGIN
   END IF;
 
   /* no tyre data -> NULL */
-  IF NEW.tyre = '' THEN
-    SET NEW.tyre = NULL;
+  IF NEW.car_tyres = '' THEN
+    SET NEW.car_tyres = NULL;
   END IF;
 
   /* no laps data -> NULL */

@@ -7,9 +7,7 @@ CREATE TABLE IF NOT EXISTS circuits (
   layout      LONGBLOB      NULL,
   changes     VARCHAR(128)  NULL,
 
-  PRIMARY KEY (id),
-
-  UNIQUE INDEX id_UNIQUE (id ASC)
+  PRIMARY KEY (id)
 )
 ENGINE = InnoDB
 COMMENT = 'Circutis register';

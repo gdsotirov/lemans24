@@ -3,11 +3,11 @@ CREATE TABLE IF NOT EXISTS drivers (
   fname   VARCHAR(32) NOT NULL,
   lname   VARCHAR(32) NOT NULL,
   born    DATE        NULL,
-  country CHAR(3)     NULL,
+  country CHAR(3)     NOT NULL,
 
   PRIMARY KEY (id),
 
-  UNIQUE INDEX id_UNIQUE (id ASC)
+  UNIQUE INDEX idx_driver_unq (fname ASC, lname ASC, country ASC)
 )
 ENGINE = InnoDB
 COMMENT = 'Drivers register';

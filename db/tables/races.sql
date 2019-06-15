@@ -13,7 +13,6 @@ CREATE TABLE IF NOT EXISTS races (
 
   PRIMARY KEY (id),
 
-  UNIQUE INDEX id_UNIQUE (id ASC),
   INDEX fk_race_circuit_idx (circuit_id ASC),
 
   CONSTRAINT fk_race_circuit

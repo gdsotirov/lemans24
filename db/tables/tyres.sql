@@ -1,7 +1,8 @@
 CREATE TABLE IF NOT EXISTS tyres (
-  id    INT         NOT NULL AUTO_INCREMENT,
-  name  VARCHAR(16) NULL,
+  id    CHAR(2)     NOT NULL,
+  brand VARCHAR(16) NOT NULL,
 
   PRIMARY KEY (id)
 )
-ENGINE = InnoDB;
+ENGINE = InnoDB
+COMMENT = 'Tyre brands register';

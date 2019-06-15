@@ -1,0 +1,17 @@
+INSERT INTO tyres (id, brand) VALUES ('A' , 'Avon');
+INSERT INTO tyres (id, brand) VALUES ('BF', 'BF Goodrich');
+INSERT INTO tyres (id, brand) VALUES ('Br', 'Barum');
+INSERT INTO tyres (id, brand) VALUES ('B' , 'Bridgestone');
+INSERT INTO tyres (id, brand) VALUES ('C' , 'Continental');
+INSERT INTO tyres (id, brand) VALUES ('D' , 'Dunlop');
+INSERT INTO tyres (id, brand) VALUES ('E' , 'Englebert');
+INSERT INTO tyres (id, brand) VALUES ('F' , 'Firestone');
+INSERT INTO tyres (id, brand) VALUES ('G' , 'Goodyear');
+INSERT INTO tyres (id, brand) VALUES ('H' , 'Hankook');
+INSERT INTO tyres (id, brand) VALUES ('I' , 'India');
+INSERT INTO tyres (id, brand) VALUES ('Kl', 'Klèber');
+INSERT INTO tyres (id, brand) VALUES ('Ku', 'Kumho');
+INSERT INTO tyres (id, brand) VALUES ('M' , 'Michelin');
+INSERT INTO tyres (id, brand) VALUES ('P' , 'Pirelli');
+INSERT INTO tyres (id, brand) VALUES ('R' , 'Rapson');
+INSERT INTO tyres (id, brand) VALUES ('Y' , 'Yokohama');
