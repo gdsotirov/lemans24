@@ -12,7 +12,7 @@ The database model is maintained with the help of [MySQL Workbench](https://www.
 * data access (through primary and foreign key, indexes);
 * ensuring data integrity and accuracy.
 
-The model is in [db/model/lemans24.mwb]() and it's graphically represented here below.
+The model is in file [lemans24.mwb](db/model/lemans24.mwb) and is graphically represented here below.
 
 ![LeMans24 Model](db/model/lemans24.png)
 
