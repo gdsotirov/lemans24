@@ -201,7 +201,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1927;DNS;1.1;18;FRA;Gendron-Michelot;FRA;Marcel Gendron;GM GC3 Sport;S.C.A.P. 1.1L I4;;0;0.0;;
 1927;DNS;1.1;19;FRA;SA des Automobiles Tracta;FRA|FRA;Pierre Fenaille|Etienne Boussod;Tracta Gephi;S.C.A.P. 1.1L I4;Dunlop;0;0.0;;Accident on arrival
 1928;1;5.0;4;GBR;Bentley Motors Limited;GBR|AUS;Woolf Barnato|Bernard Rubin;Bentley 4½ Litre;Bentley 4.4L I4;Dunlop;154;2669.272;;
-1928;2;5.0;1;FRA;Societe de Carrosserie Weymann;FRA|FRA;Éduoard Brisson|Robert Bloch;Stutz Model BB Blackhawk;Stutz 4.9L I8;;153;2656.594;;
+1928;2;5.0;1;FRA;Societe de Carrosserie Weymann;FRA|FRA;Édouard Brisson|Robert Bloch;Stutz Model BB Blackhawk;Stutz 4.9L I8;;153;2656.594;;
 1928;3;5.0;8;FRA;Grand Garage Saint-Didier Paris;FRA|FRA;Henri Stoffel|André Rossignol;Chrysler Six 72;Chrysler 4.1L I6;;144;2493.853;;
 1928;4;5.0;7;FRA;Grand Garage Saint-Didier Paris;ROU|ROU;Jean Cantacuzino|Gheorghe Cantacuzino;Chrysler Six 72;Chrysler 4.1L I6;;139;2412.187;;
 1928;5;5.0;3;GBR;Bentley Motors Limited;GBR|FRA;Sir Henry Birkin|Jean Chassagne;Bentley 4½ Litre;Bentley 4.4L I4;Dunlop;135;2335.351;;
@@ -249,7 +249,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1929;DNF;5.0;7;GBR;C.W. Fiennes;GBR|GBR;Owen Saunders-Davies|Cecil Wingfield Fiennes;Invicta LC 4½ Litre;Meadows 4.5L I6;;78;1276.080;;Engine (connecting rod)
 1929;DNF;2.0;19;FRA;Societe des Applications à Refroidisssements par Air;GBR|GBR;W.R. Hutchinson|R.F. Turner;S.A.R.A. SP7;S.A.R.A. 1.8L I4;;73;1194.280;;
 1929;DNF;1.1;25;FRA;SA des Automobiles Tracta;FRA|FRA;Lucien Lemesle|Maurice Benoist;Tracta Type A;S.C.A.P. 1.0L Supercharged I4;;70;1145.200;;Fuel pipe
-1929;DNF;8.0;4;FRA;Societe de Carrosserie Weymann;FRA|MCO;Éduoard Brisson|Louis Chiron;Stutz Model M Blackhawk;Stutz 5.3L Supercharged I8;;65;1063.400;;Fire, petrol hose, clutch
+1929;DNF;8.0;4;FRA;Societe de Carrosserie Weymann;FRA|MCO;Édouard Brisson|Louis Chiron;Stutz Model M Blackhawk;Stutz 5.3L Supercharged I8;;65;1063.400;;Fire, petrol hose, clutch
 1929;DNF;1.1;24;FRA;SA des Automobiles Tracta;FRA|FRA;Roger Bourcier|f.n.u. Tribaudot;Tracta Speciale;Cozette 1.0L Supercharged I4 (2-Stroke);;43;703.480;;Engine (broken petrol pipe)
 1929;DNF;2.0;16;GBR;PERR/Fox & Nicholl;GBR|GBR;Tim Rose-Richards|Brian Lewis;Lagonda 2 Litre Speed;Lagonda 2.0L I4;;29;1474.440;;Engine (head gasket), Fire
 1929;DNF;1.1;29;FRA;Bollack, Netter et Cie;FRA|FRA;Jean Lajeune|Maurice Faure;B.N.C. Type 527;B.N.C. 1.0L I4;;24;392.640;;Engine
@@ -274,7 +274,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1930;DNF;8.0;1;DEU;Rudolf Caracciola;DEU|DEU;Rudolf Caracciola|Christian Werner;Mercedes-Benz SSK;Mercedes-Benz 7.1L Supercharged I6;Dunlop;85;1357.800;;Flat battery
 1930;DNF;1.1;28;GBR;Huskinson & Fane Limited;GBR|GBR;Robert Murton-Neale|Jack Hicks;MG Midget M;MG 0.8L I4;Dunlop;82;1341.520;;Engine (crankshaft lubrication)
 1930;DNF;8.0;6;USA;Richard Averell Parke;FRA|FRA;Philippe de Rothschild|Edmond Bourlier;Stutz Model M Blackhawk;Stutz 5.4L I8;Dunlop;42;687.120;;Rear axle broken
-1930;DNF;8.0;5;FRA;Éduoard Brisson;FRA|FRA;Éduoard Brisson|Louis Rigal;Stutz Model M Blackhawk;Stutz 5.4L I8;Dunlop;34;556.240;;Fire (after escape damaged between Hippodrome and Mulsanne)
+1930;DNF;8.0;5;FRA;Éduoard Brisson;FRA|FRA;Édouard Brisson|Louis Rigal;Stutz Model M Blackhawk;Stutz 5.4L I8;Dunlop;34;556.240;;Fire (after escape damaged between Hippodrome and Mulsanne)
 1930;DNF;1.1;29;GBR;Sir Francis Samuelson;GBR|GBR;Francis Samuelson|Fred Kindell;MG Midget M;MG 0.8L I4;Dunlop;28;458.080;;Lubrication, oil filter
 1930;DNF;8.0;3;GBR;Bentley Motors Limited;GBR|GBR;Sammy Davis|Clive Dunfee;Bentley Speed Six;Bentley 6.6L I6;Dunlop;21;343.560;;Accident (at Pontelieue)
 1930;DNS;1.5;20;FRA;Bollack, Netter et Cie;FRA|FRA;Charles Charrier|f.n.u. Joucia;B.N.C. Vedette AER;B.N.C. 1.5L I4;Dunlop;0;0.0;;Car failed to start
@@ -302,7 +302,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1931;DNF;5.0;4;FRA;Equipe Bugatti;ITA|MCO;Achille Varzi|Louis Chiron;Bugatti Type 50S;Bugatti 5.0L Supercharged I8;Michelin;24;392.640;;Withdrawal after affident with car #7
 1931;DNF;3.0;19;FRA;Antoine Schumann;FRA|FRA;Pierre Louis-Dreyfus|Mariette Delangle;Bugatti Type 43;Bugatti 2.3L I8;;22;359.920;;Transmission
 1931;DNF;5.0;6;FRA;Equipe Bugatti;ITA|FRA;Count Caberto Conelli|Maurice Rost;Bugatti Type 50S;Bugatti 4.9L Supercharged I8;Michelin;20;327.200;;Accident (death of a spectator, injured driver and 4 other people)
-1931;DNF;8.0;3;FRA;Éduoard Brisson;FRA|ITA;Éduoard Brisson|Joseph Cattaneo;Stutz DV32;Stutz 5.3L Supercharged I8;;19;310.840;;Engine (connecting rod)
+1931;DNF;8.0;3;FRA;Éduoard Brisson;FRA|ITA;Édouard Brisson|Joseph Cattaneo;Stutz DV32;Stutz 5.3L Supercharged I8;;19;310.840;;Engine (connecting rod)
 1931;DNF;8.0;2;FRA;No Team Name;FRA|FRA;Henri De Costier|Raymond Lussan;Chrysler Imperial;Chrysler 6.3L I8;;18;294.480;;Punctured radiator
 1931;DNF;5.0;8;FRA;No Team Name;FRA|FRA;Raymond Sommer|Jean Delemer;Chrysler 80;Chrysler 4.6L I6;;14;229.040;;Punctured radiator
 1931;DNS;3.0;15;ITA;Soc. Anon. Alfa Romeo;ITA|ITA;Giuseppe Campari|Attilio Marinoni;Alfa Romeo 8C 2300;Alfa Romeo 2.3L I8;Dunlop;0;0.0;;Engine (in practice)
@@ -325,7 +325,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1932;DNF;3.0;15;FRA;Guy Bouriat;FRA|MCO;Guy Bouriat|Louis Chiron;Bugatti Type 55;Bugatti 2.3L I8;Dunlop;23;310.316;;Fuel tank
 1932;DNF;3.0;10;ITA;Soc. Anon. Alfa Romeo;ITA|ITA;Ferdinando Minoia|Carlo Canavesi;Alfa Romeo 8C 2300;Alfa Romeo 2.3L Supercharged I8;Dunlop;22;296.824;;Engine (piston)
 1932;DNF;8.0;1;FRA;Henri Stoffel;FRA|FRA;Marcel Foucret|Paul Foucret;Mercedes-Benz SSK;Mercedes-Benz 7.1L I6;Dunlop;22;296.824;;Accident (with #10)
-1932;DNF;8.0;3;FRA;E.H. Brisson;FRA|ITA;Éduoard Brisson|Joseph Cattaneo;Stutz DV32;Stutz 5.4L I8;Dunlop;19;256.348;;Accident
+1932;DNF;8.0;3;FRA;E.H. Brisson;FRA|ITA;Édouard Brisson|Joseph Cattaneo;Stutz DV32;Stutz 5.4L I8;Dunlop;19;256.348;;Accident
 1932;DNF;3.0;14;GEO;Prince Djordjadze;ITA|ITA;Attilio Marinoni|Angelo Guatta;Alfa Romeo 8C 2300;Alfa Romeo 2.3L Supercharged I8;Dunlop;14;188.888;;Accident
 1932;DNF;1.1;27;FRA;Roger Labric;FRA|FRA;Gustave Duverne|Georges Boréal;B.N.C.;B.N.C. 1.1L I4;Dunlop;9;121.428;;Engine (piston)
 1932;DNF;1.1;30;GBR;John Ludovic Ford;GBR|GBR;John Ludovic Ford|Maurice Baumer;Alta;Alta 1.1L I4;Dunlop;6;80.952;;Ignition
