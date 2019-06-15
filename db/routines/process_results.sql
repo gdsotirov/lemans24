@@ -30,14 +30,14 @@ BEGIN
   /* Team data */
   DECLARE new_team_id    INT(11);
   DECLARE new_team_name  VARCHAR(64);
-  DECLARE new_team_cntry CHAR(3);
+  DECLARE new_team_cntry CHAR(4);
 
   /* Driver data */
   DECLARE new_driver_id  INT(11);
   DECLARE new_drv_name   VARCHAR(64);
   DECLARE new_drv_fname  VARCHAR(32);
   DECLARE new_drv_lname  VARCHAR(32);
-  DECLARE new_drv_cntry  CHAR(3);
+  DECLARE new_drv_cntry  CHAR(4);
 
   /* Cursor and handling */
   DECLARE done INT DEFAULT FALSE;
@@ -59,8 +59,7 @@ BEGIN
            racing_time,
            reason
       FROM results_in
-     WHERE processed IS FALSE
-       AND race_yr <= 1939;
+     WHERE processed IS FALSE;
   DECLARE CONTINUE HANDLER FOR NOT FOUND SET done = TRUE;
 
   OPEN cur_results;

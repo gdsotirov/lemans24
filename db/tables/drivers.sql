@@ -3,7 +3,7 @@ CREATE TABLE IF NOT EXISTS drivers (
   fname   VARCHAR(32) NOT NULL,
   lname   VARCHAR(32) NOT NULL,
   born    DATE        NULL,
-  country CHAR(3)     NOT NULL,
+  country CHAR(4)     NOT NULL,
 
   PRIMARY KEY (id),
 
