@@ -65,8 +65,10 @@ BEGIN
   OPEN cur_results;
 
   res_loop: LOOP
-    SET new_car_id   = NULL;
-    SET new_carnb_id = NULL;
+    SET new_car_id    = NULL;
+    SET new_carnb_id  = NULL;
+    SET new_team_id   = NULL;
+    SET new_driver_id = NULL;
 
     FETCH cur_results
      INTO res_id,
