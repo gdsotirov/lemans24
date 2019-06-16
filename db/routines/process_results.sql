@@ -31,6 +31,7 @@ BEGIN
   DECLARE new_team_id    INT(11);
   DECLARE new_team_name  VARCHAR(64);
   DECLARE new_team_cntry CHAR(4);
+  DECLARE new_team_ord   INT(11);
 
   /* Driver data */
   DECLARE new_driver_id  INT(11);
@@ -38,6 +39,7 @@ BEGIN
   DECLARE new_drv_fname  VARCHAR(32);
   DECLARE new_drv_lname  VARCHAR(32);
   DECLARE new_drv_cntry  CHAR(4);
+  DECLARE new_drv_ord    INT(11);
 
   /* Cursor and handling */
   DECLARE done INT DEFAULT FALSE;
@@ -144,9 +146,11 @@ BEGIN
     SET new_res_id = LAST_INSERT_ID();
 
     /* Process team(s) */
+    SET new_team_ord = 0;
     WHILE res_team_name IS NOT NULL DO
       SET new_team_name  = SUBSTRING_INDEX(res_team_name, '|', 1);
       SET new_team_cntry = SUBSTRING_INDEX(res_team_cntry, '|', 1);
+      SET new_team_ord   = new_team_ord + 1;
 
       IF new_team_name != '' THEN
         BEGIN
@@ -170,8 +174,8 @@ BEGIN
           END IF;
         END;
 
-        INSERT INTO team_results (team_id, result_id)
-        VALUES (new_team_id, new_res_id);
+        INSERT INTO team_results (team_id, result_id, ord_num)
+        VALUES (new_team_id, new_res_id, new_team_ord);
       END IF;
 
       IF NOT INSTR(res_team_name, '|') THEN
@@ -182,9 +186,11 @@ BEGIN
     END WHILE; /* teams */
 
     /* Process driver(s) */
+    SET new_drv_ord = 0;
     WHILE res_drivers_name IS NOT NULL DO
       SET new_drv_name  = SUBSTRING_INDEX(res_drivers_name, '|', 1);
       SET new_drv_cntry = SUBSTRING_INDEX(res_drivers_cntry, '|', 1);
+      SET new_drv_ord   = new_drv_ord + 1;
 
       IF new_drv_name != '' OR new_drv_cntry != '' THEN
         /* Split driver name - first name to the first space */
@@ -218,8 +224,8 @@ BEGIN
       END IF;
 
       IF new_driver_id IS NOT NULL THEN
-        INSERT INTO driver_results (driver_id, result_id)
-        VALUES (new_driver_id, new_res_id);
+        INSERT INTO driver_results (driver_id, result_id, ord_num)
+        VALUES (new_driver_id, new_res_id, new_drv_ord);
       END IF;
 
       IF NOT INSTR(res_drivers_name, '|') THEN

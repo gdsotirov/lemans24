@@ -1,6 +1,7 @@
 CREATE TABLE IF NOT EXISTS driver_results (
   driver_id INT NOT NULL,
   result_id INT NOT NULL,
+  ord_num   INT NOT NULL  COMMENT 'Order number',
 
   PRIMARY KEY (driver_id, result_id),
 

@@ -1,17 +1,20 @@
 CREATE OR REPLACE VIEW Results AS
-SELECT R.id          Race,
-       RES.pos       Pos,
-       C.car_class   Class,
-       CN.nbr        "CarNb",
-       GROUP_CONCAT(TM.country SEPARATOR '|') "TCountry",
-       GROUP_CONCAT(DISTINCT TM.title SEPARATOR '|') "Team",
-       GROUP_CONCAT(D.country  SEPARATOR '|') "DCountry",
-       GROUP_CONCAT(CONCAT(IFNULL(D.fname, 'f.n.u.'), ' ', D.lname) SEPARATOR '|') "Drivers",
-       C.car_chassis Chassis,
-       C.car_engine  "Engine",
+SELECT R.id            Race,
+       RES.pos         Pos,
+       C.car_class     Class,
+       CN.nbr          "CarNb",
+       GROUP_CONCAT(TM.country        ORDER BY TMR.ord_num ASC SEPARATOR '|') "TCountry",
+       GROUP_CONCAT(DISTINCT TM.title ORDER BY TMR.ord_num ASC SEPARATOR '|') "Team",
+       GROUP_CONCAT(D.country         ORDER BY DR.ord_num  ASC SEPARATOR '|') "DCountry",
+       GROUP_CONCAT(CONCAT(IFNULL(D.fname, 'f.n.u.'), ' ', D.lname)
+                                      ORDER BY DR.ord_num  ASC SEPARATOR '|') "Drivers",
+       C.car_chassis   Chassis,
+       C.car_engine    "Engine",
        GROUP_CONCAT(DISTINCT T.brand SEPARATOR '|') "Tyre",
-       RES.laps      "Laps",
-       RES.distance  "Distance"
+       RES.laps        "Laps",
+       RES.distance    "Distance",
+       RES.racing_time "Racing Time",
+       RES.reason      "Reason"
   FROM results        RES
        INNER JOIN races           R   ON RES.race_id    = R.id
        INNER JOIN car_numbers     CN  ON RES.car_id     = CN.id
@@ -30,7 +33,9 @@ SELECT R.id          Race,
           C.car_chassis,
           C.car_engine,
           RES.laps,
-          RES.distance
+          RES.distance,
+          RES.racing_time,
+          RES.reason
  ORDER BY R.id ASC,
           CASE
             WHEN RES.pos RLIKE '^[1-9][0-9]*$'

@@ -1,6 +1,7 @@
 CREATE TABLE IF NOT EXISTS team_results (
   team_id   INT NOT NULL,
   result_id INT NOT NULL,
+  ord_num   INT NOT NULL  COMMENT 'Order number',
 
   PRIMARY KEY (team_id, result_id),
 
