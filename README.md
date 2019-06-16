@@ -43,11 +43,16 @@ The model is in file [lemans24.mwb](db/model/lemans24.mwb) and is graphically re
 ## Views
 
 * `Circuits`             - List circuits length and changes per years
+* `MostWinsByDriver`     - Most wins by driver
+* `MostWinsByTeam`       - Most wins by team
+* `MostWinsByTeamWAppr`  - Most wins by team with approximations (group similar team names)
 * `RaceAvgSpdKmhRecords` - Average speed in km/h records
 * `RaceDistKmRecords`    - Distance in km records
 * `RaceLapsRecords`      - Total number of laps records
 * `Races`                - List races with distance in km and mi, laps, average speed in km/h and mi/h
 * `Results`              - Reconstruct results from different tables (used for verification of processing)
+* `Winners`              - Winners per race
+* `WinningCarNumbers`    - Winning car numbers
 
 # Routines
 
