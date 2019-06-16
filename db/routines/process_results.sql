@@ -179,9 +179,11 @@ BEGIN
       END IF;
 
       IF NOT INSTR(res_team_name, '|') THEN
-        SET res_team_name = NULL;
+        SET res_team_name  = NULL;
+        SET res_team_cntry = NULL;
       ELSE
-        SET res_team_name = SUBSTR(res_team_name, INSTR(res_team_name, '|') + 1);
+        SET res_team_name  = SUBSTR(res_team_name , INSTR(res_team_name , '|') + 1);
+        SET res_team_cntry = SUBSTR(res_team_cntry, INSTR(res_team_cntry, '|') + 1);
       END IF;
     END WHILE; /* teams */
 
@@ -229,9 +231,11 @@ BEGIN
       END IF;
 
       IF NOT INSTR(res_drivers_name, '|') THEN
-        SET res_drivers_name = NULL;
+        SET res_drivers_name  = NULL;
+        SET res_drivers_cntry = NULL;
       ELSE
-        SET res_drivers_name = SUBSTR(res_drivers_name, INSTR(res_drivers_name, '|') + 1);
+        SET res_drivers_name  = SUBSTR(res_drivers_name , INSTR(res_drivers_name , '|') + 1);
+        SET res_drivers_cntry = SUBSTR(res_drivers_cntry, INSTR(res_drivers_cntry, '|') + 1);
       END IF;
     END WHILE; /* drivers */
 
