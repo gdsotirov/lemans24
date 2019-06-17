@@ -1,4 +1,5 @@
 CREATE TABLE results_in (
+  id            INT           NOT NULL  AUTO_INCREMENT, 
   race_yr       INT           NOT NULL  COMMENT 'Race year',
   pos           VARCHAR(3)    NOT NULL  COMMENT 'Position - either number or NC (not classified), DNF (do not finish) or DSQ (disqualified)',
   car_class     VARCHAR(12)   NOT NULL  COMMENT 'Car class (litres or named)',
@@ -14,7 +15,9 @@ CREATE TABLE results_in (
   distance      DECIMAL(8,3)  NULL      COMMENT 'Distance passed',
   racing_time   TIME          NULL      COMMENT 'Time',
   reason        VARCHAR(128)  NULL      COMMENT 'Reason for NC, DNF, DSQ',
-  processed     TINYINT       NOT NULL  DEFAULT 0 COMMENT 'Record processed or not'
+  processed     TINYINT       NOT NULL  DEFAULT 0 COMMENT 'Record processed or not',
+
+    PRIMARY KEY (id)
 )
 ENGINE = InnoDB
 COMMENT = 'Table for results input';
