@@ -38,6 +38,7 @@ BEGIN
   DECLARE new_drv_name   VARCHAR(64);
   DECLARE new_drv_fname  VARCHAR(32);
   DECLARE new_drv_lname  VARCHAR(32);
+  DECLARE new_drv_sex    CHAR(1);
   DECLARE new_drv_cntry  CHAR(4);
   DECLARE new_drv_ord    INT(11);
 
@@ -192,13 +193,27 @@ BEGIN
     WHILE res_drivers_name IS NOT NULL DO
       SET new_drv_name  = SUBSTRING_INDEX(res_drivers_name, '|', 1);
       SET new_drv_cntry = SUBSTRING_INDEX(res_drivers_cntry, '|', 1);
+      SET new_drv_sex   = 'M';
       SET new_drv_ord   = new_drv_ord + 1;
+
+      /* Detect females */
+      IF new_drv_name LIKE 'Mme%'  OR
+         new_drv_name LIKE 'Miss%' OR
+         new_drv_name LIKE 'Mrs.%'
+      THEN
+        SET new_drv_sex  = 'F';
+        SET new_drv_name = SUBSTR(new_drv_name, INSTR(new_drv_name, ' ') + 1);
+      END IF;
 
       IF new_drv_name != '' OR new_drv_cntry != '' THEN
         /* Split driver name - first name to the first space */
         SET new_drv_fname = SUBSTRING_INDEX(new_drv_name, ' ', 1);
         /* last name everything else */
         SET new_drv_lname = SUBSTR(new_drv_name, INSTR(new_drv_name, ' ') + 1);
+
+        IF new_drv_fname = new_drv_lname THEN
+          SET new_drv_fname = NULL;
+        END IF;
 
         IF new_drv_fname = 'f.n.u.' OR new_drv_fname = '' THEN /* first name unknown */
           SET new_drv_fname = NULL;
@@ -214,11 +229,12 @@ BEGIN
                   OR fname = new_drv_fname
                  )
              AND lname   = new_drv_lname
+             AND sex     = new_drv_sex
              AND country = new_drv_cntry;
 
           IF new_driver_id IS NULL THEN
-            INSERT INTO drivers (fname, lname, country)
-            VALUES (new_drv_fname, new_drv_lname, new_drv_cntry);
+            INSERT INTO drivers (fname, lname, sex, country)
+            VALUES (new_drv_fname, new_drv_lname, new_drv_sex, new_drv_cntry);
 
             SET new_driver_id = LAST_INSERT_ID();
           END IF;

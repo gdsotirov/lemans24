@@ -1,9 +1,11 @@
 CREATE TABLE IF NOT EXISTS drivers (
-  id      INT         NOT NULL AUTO_INCREMENT,
-  fname   VARCHAR(32) NOT NULL,
-  lname   VARCHAR(32) NOT NULL,
-  born    DATE        NULL,
-  country CHAR(4)     NOT NULL,
+  id        INT             NOT NULL AUTO_INCREMENT,
+  fname     VARCHAR(32)     NULL,
+  lname     VARCHAR(32)     NOT NULL,
+  nickname  VARCHAR(32)     NULL,
+  sex       ENUM('M', 'F')  NULL,
+  born      DATE            NULL,
+  country   CHAR(4)         NOT NULL,
 
   PRIMARY KEY (id),
 
