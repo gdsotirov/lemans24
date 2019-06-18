@@ -10,8 +10,9 @@ CREATE TABLE IF NOT EXISTS results (
 
   PRIMARY KEY (id),
 
-  INDEX fk_result_race_idx    (race_id    ASC),
-  INDEX fk_results_car_idx    (car_id     ASC),
+  INDEX fk_result_race_idx    (race_id ASC),
+  INDEX fk_results_car_idx    (car_id  ASC),
+  INDEX idx_results_pos       (pos     ASC),
 
   CONSTRAINT fk_results_race
     FOREIGN KEY (race_id)
