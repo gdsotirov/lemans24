@@ -36,17 +36,6 @@ SELECT R.id            Race,
           RES.distance,
           RES.racing_time,
           RES.reason
- ORDER BY R.id ASC,
-          CASE
-            WHEN RES.pos RLIKE '^[1-9][0-9]*$'
-              THEN CAST(RES.pos AS UNSIGNED)
-            WHEN RES.pos = 'NC'  THEN 93
-            WHEN RES.pos = 'DNF' THEN 94
-            WHEN RES.pos = 'DSQ' THEN 94
-            WHEN RES.pos = 'DNS' THEN 95
-            WHEN RES.pos = 'DNQ' THEN 96
-            WHEN RES.pos = 'DNP' THEN 97
-            WHEN RES.pos = 'DNA' THEN 98
-            WHEN RES.pos = 'RES' THEN 99
-          END ASC,
-          RES.distance DESC;
+ ORDER BY R.id                ASC,
+          pos_to_num(RES.pos) ASC,
+          RES.distance        DESC;
