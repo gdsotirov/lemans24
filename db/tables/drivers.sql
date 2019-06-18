@@ -9,7 +9,8 @@ CREATE TABLE IF NOT EXISTS drivers (
 
   PRIMARY KEY (id),
 
-  UNIQUE INDEX idx_driver_unq (fname ASC, lname ASC, country ASC)
+  UNIQUE INDEX idx_driver_unq (fname ASC, lname ASC, country ASC),
+  INDEX idx_driver_sex (sex ASC)
 )
 ENGINE = InnoDB
 COMMENT = 'Drivers register';
