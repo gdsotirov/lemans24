@@ -42,7 +42,10 @@ The model is in file [lemans24.mwb](db/model/lemans24.mwb) and is graphically re
 
 ## Views
 
+* `AllWomenTeams`        - List all women teams with their results
 * `Circuits`             - List circuits length and changes per years
+* `FemaleDrivers`        - List all female drivers with years and achievements
+* `FemaleDriversByCntry` - Female drivers by country
 * `MostPodiumsByDriver`  - Most podiums by driver
 * `MostWinsByDriver`     - Most wins by driver
 * `MostWinsByTeam`       - Most wins by team
@@ -60,6 +63,8 @@ The model is in file [lemans24.mwb](db/model/lemans24.mwb) and is graphically re
 
 * `check_position`  - Checks position for number, NC, DNF, DNS, DSQ values
 * `cleanup`         - Cleans up tables `driver_results`, `team_results`, `results`, `car_tyres`, `car_numbers`, `cars`, `drivers`, `teams`, resets `AUTO_INCREMENT` and marks all records in table `results_in` as not processed
+* `num_to_pos`      - Convert number to alphanumeric position (including NC, DNF, DNS, etc.)
+* `pos_to_num`      - Convert alphanumeric position to number (with weights for NC, DNF, DNS, etc.)
 * `process_results` - Processes results from `results_in` into tables `cars`, `car_numbers`, `car_tyres`, `results`, `teams`, `team_results`, `drivers` and `driver_results`. Sets the record in `results_in` as processed
 
 # TODO
