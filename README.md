@@ -71,6 +71,14 @@ The model is in file [lemans24.mwb](db/model/lemans24.mwb) and is graphically re
 
 Add statistics over the new result tables.
 
+# Requirements
+
+The project has the following requirements:
+
+* **MySQL** 5.7.6 or later (for generated columns support. MySQL 8 features are not yet used, because host server not yet upgraded);
+* **Perl** 5.22 or later (modules Encode, HTML::Parser and HTML::TreeBuilder);
+* **Shell** (any version of Bash or sh).
+
 # Licenses
 
 This code and data model in this sample project is available under GPL v2 license.
