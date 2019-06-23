@@ -440,7 +440,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1934;DNF;1.5;21;GBR;Aston Martin Ltd.;GBR|GBR;A C Bertelli|Clifton Penn-Hughes;Aston Martin 1½ Le Mans;Aston Martin 1.5L S4;;59;796.028;12:00:00;Insufficient distance
 1934;DNF;2.0;16;FRA;Louis Villeneuve (private entrant);FRA|FRA;Louis Villeneuve|Géo Ham;Derby L8;Derby 2.0L V8;;44;593.648;;Gearbox
 1934;DNF;3.0;5;GBR;Tim Rose-Richards;GBR|GBR;Freddy Clifford|Owen Saunders-Davies;Alfa Romeo 8C 2300;Alfa Romeo 2.4L S8;;40;539.680;;Broken valve
-1934;DNF;1.1;46;FRA;Raymond Gaillard;FRA|FRA;Raymond Gaillard|Paul Vallée;Rally;Rally 1.0L S4;;38;512.696;;Accident (out of track)
+1934;DNF;1.1;46;FRA;Raymond Gaillard (private entrant);FRA|FRA;Raymond Gaillard|Paul Vallée;Rally;Rally 1.0L S4;;38;512.696;;Accident (out of track)
 1934;DNF;750;53;FRA;Philippe Maillard-Brune;FRA|FRA;Philippe Maillard-Brune|Charles Druck;MG J-type Midget;MG 0.7L S4;;30;404.760;;Engine
 1934;DNF;1.1;43;FRA;J.A. Grégoire;FRA|FRA;Pierre Padrault|f.n.u. Charlault;Tracta;Tracta 1.0L S4;;23;310.316;;Ignition
 1934;DNF;2.0;18;GBR;Mrs. Gwenda Stewart;GBR|GBR;Mrs. Gwenda Stewart|Louis Bonne;Derby L8;Derby 2.0L V8;;16;215.872;;
@@ -469,8 +469,8 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1935;19;1.1;48;GBR;Gordon Hendy;GBR|GBR;Gordon Hendy|James Boulton;Singer Nine Sports;Singer 1.0L S4;;171;2312.151;;
 1935;20;1.1;54;GBR;A. R. Marsh;GBR|GBR;Anthony R. Marsh|H.B. Guest;Singer Nine Le Mans Replica;Singer 1.0L S4;;160;2164.372;;
 1935;21;1.1;46;FRA;Gaston Duval;FRA|FRA;Gaston Duval|Jean Treunet;B.N.C.;B.N.C. 1.0L S4;;160;2159.598;;
-1935;22;1.1;52;FRA;Raymond Gaillard;FRA|FRA;Raymond Gaillard|Maurice Aimé;Singer Nine Le Mans Replica;Singer 1.0L S4;;159;2157.414;;
-1935;23;1.1;53;FRA;Guy Lapchin;FRA|FRA;Guy Lapchin|Jacques Savoye;Singer Nine Le Mans;Singer 1.0L S4;;155;2100.154;;
+1935;22;1.1;52;FRA;Raymond Gaillard (private entrant);FRA|FRA;Raymond Gaillard|Maurice Aimé;Singer Nine Le Mans Replica;Singer 1.0L S4;;159;2157.414;;
+1935;23;1.1;53;FRA;Guy Lapchin (private entrant);FRA|FRA;Guy Lapchin|Jacques Savoye;Singer Nine Le Mans;Singer 1.0L S4;;155;2100.154;;
 1935;24;1.1;56;GBR;Capt. G.E.T. Eyston;AUS|GBR;Miss Joan Richmond|Miss Eveline Gordon-Simpson;MG PA Midget;MG 0.8L S4;;153;2077.734;;
 1935;25;1.1;55;GBR;Capt. G.E.T. Eyston;GBR|GBR;Miss Doreen Evans|Miss Barbara Skinner;MG PA Midget;MG 0.8L S4;;153;2068.376;;
 1935;26;1.1;57;GBR;Capt. G.E.T. Eyston;GBR|GBR;Miss Margaret Allen|Miss Colleen Eaton;MG PA Midget;MG 0.8L S4;;152;2054.850;;
@@ -559,7 +559,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1936;DNA;1.1;49;GBR;Roy Eccles;GBR;Roy Eccles;Singer Le Mans Replica;Singer 1.0L S4;;0;0.0;;Race cancelled
 1936;DNA;1.1;50;GBR;F. S. Barnes;GBR|GBR;Norman Black|Tommy Wisdom;Singer Le Mans Replica;Singer 1.0L S4;;0;0.0;;Race cancelled
 1936;DNA;1.1;51;GBR;A. R. Marsh;GBR;Anthony R. Marsh;Singer Le Mans Replica;Singer 1.0L S4;;0;0.0;;Race cancelled
-1936;DNA;1.1;52;FRA;Raymond Gaillard;FRA;Raymond Gaillard;Singer Le Mans Replica;Singer 1.0L S4;;0;0.0;;Race cancelled
+1936;DNA;1.1;52;FRA;Raymond Gaillard (private entrant);FRA;Raymond Gaillard;Singer Le Mans Replica;Singer 1.0L S4;;0;0.0;;Race cancelled
 1936;DNA;5.0;53;FRA;Talbot;FRA;René Dreyfus;Talbot T150C;Talbot 4.0L S6;;0;0.0;;Race cancelled
 1936;DNA;5.0;54;FRA;Talbot;FRA|GBR;André Morel|Jim Bradley;Talbot T150C;Talbot 4.0L S6;;0;0.0;;Race cancelled
 1936;DNA;5.0;55;GRC;Nicholas S. Embiricos;;;Talbot T150C;Talbot 4.0L S6;;0;0.0;;Race cancelled
@@ -699,7 +699,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1939;DNF;5.0;19;FRA;Ecurie Francia;FRA|FRA;Eugène Chaboud|Yves Giraud-Cabantous;Delahaye 135CS;Delahaye 3.6L S6;;99;1335.708;;Valves
 1939;DNF;5.0;8;GBR;T.A.S.O. Mathieson;FRA|FRA;Philippe de Massa|Norbert Jean Mahé;Talbot 150SS Figoni;Talbot 4.0L S6;;88;1187.296;;Mechanical problem
 1939;DNF;5.0;7;ITA;Luigi Chinetti;FRA|GBR;André Morel|Jim Bradley;Talbot T26;Talbot 4.5L S6;;88;1187.296;;Mechanical problem
-1939;DNF;5.0;10;FRA;Jean Trémoulet;FRA|FRA;Jean Trémoulet|Raoul Forestier;Talbot-Lago SS;Talbot 4.0L S6;;65;876.980;;Punctured tank
+1939;DNF;5.0;10;FRA;Jean Trémoulet (private entrant);FRA|FRA;Jean Trémoulet|Raoul Forestier;Talbot-Lago SS;Talbot 4.0L S6;;65;876.980;;Punctured tank
 1939;DNF;1.1;36;USA;Miles Collier;USA|GBR;Miles Collier|Lewis Welch;MG PA Midget;MG 0.8L S4;;63;849.996;;Punctured tank
 1939;DNF;5.0;16;FRA;Ecurie Francia;FRA|FRA;Joseph Paul|Jean Trévoux;Delahaye 135CS;Delahaye 3.6L S6;;62;836.504;;Mechanical problem
 1939;DNF;5.0;11;FRA;André Bellecroix;FRA|FRA;André Bellecroix|Gaston Serraud;Delahaye 135CS;Delahaye 3.6L S6;;50;674.600;;Accident
@@ -848,7 +848,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1951;21;S1.5;66;FRA;Marcel Becquart (private entrant);FRA|GBR;Marcel Becquart|Gordon Wilkins;Jowett Jupiter;Jowett 1486cc Flat-4;Dunlop;203;2748.090;;
 1951;22;S750;50;FRA;Régie Renault;FRA|FRA;François Landon|André Briat;Renault 4CV-1063;Renault 747cc S4;Michelin;197;2668.755;;
 1951;23;S750;60;FRA;Établissements Monopole;FRA|FRA;Jean de Montrémy|Jean Hémard;Monopole X84;Panhard 614cc FLat-2;Dunlop;194;2629.116;;
-1951;24;S750;61;FRA;R. Gaillard (private entrant);FRA|FRA;Raymond Gaillard|Pierre Chancel;Panhard Dyna X84;Panhard 611cc Flat-2;Dunlop;190;2576.610;;
+1951;24;S750;61;FRA;Raymond Gaillard (private entrant);FRA|FRA;Raymond Gaillard|Pierre Chancel;Panhard Dyna X84;Panhard 611cc Flat-2;Dunlop;190;2576.610;;
 1951;25;S750;54;FRA;Régie Renault;FRA|FRA;Jacques Lecat|Henri Senftleben;Renault 4CV-1063;Renault 747cc S4;Dunlop;184;2492.270;;
 1951;26;S750;58;FRA;Auguste Lachaize (private entrant);FRA|FRA;Jean-Paul Colas|Robert Schollmann;Callista RAN D120;Panhard 611cc Flat-2;Dunlop;183;2473.880;;
 1951;27;S750;53;FRA;Régie Renault;FRA|FRA;Just-Émile Vernet|Jean Pairard;Renault 4CV-1063;Renault 747cc S4;Dunlop;181;2447.337;;
@@ -1052,7 +1052,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1954;DNF;S3.0;27;FRA;Jean-Paul Colas (private entrant);FRA|BRA;Jean-Paul Colas|Hermano da Silva Ramos;Aston Martin DB2/4 'Vignale';Aston Martin 2.9L S6;;121;1632.532;13:00:00;Transmission
 1954;DNF;S5.0;6;USA;Briggs Cunningham (private entrant);USA|USA;Phil Walters|John Fitch;Ferrari 375MM;Ferrari 4.5L V12;Firestone;120;1619.040;12:00:00;Transmission
 1954;DNF;S2.0;28;ITA;Officine Alfieri Maserati;ESP|ITA;Marquis Alfonso de Portago|Carlo Tomasi;Maserati A6GCS/53;Maserati 1986cc S6;Pirelli;116;1565.072;10:30:00;Engine (oil presure)
-1954;DSQ;S2.0;38;GBR|SWE;Automobiles Frazer Nash Ltd.|Sture Nottorp;SWE|SWE;Sture Nottorp|Ivar Andersson;Frazer Nash Le Mans Coupé;Bristol 1979cc S6;;109;1470.628;10:00:00;Refuelling too early
+1954;DSQ;S2.0;38;GBR|SWE;Automobiles Frazer Nash Ltd.|Sture Nottorp (private entrant);SWE|SWE;Sture Nottorp|Ivar Andersson;Frazer Nash Le Mans Coupé;Bristol 1979cc S6;;109;1470.628;10:00:00;Refuelling too early
 1954;DNF;S750;52;FRA;Ecurie Jeudy-Bonnet;FRA|FRA;Marc Azéma|Alphonse de Burnay;DB HDR-MC;Renault 747cc S4;;102;1376.184;12:00:00;Wheels
 1954;DNF;S2.0;44;FRA;Alexis Constantin (private entrant);FRA|FRA;Alexis Constantin|Edmond Mouche;Constantin-Peugeot 203C Spyder;Peugeot 1425cc S4 Supercharged;Dunlop;95;1281.740;12:00:00;Gearbox
 1954;DNF;S5.0;12;GBR;Jaguar Cars Ltd.;GBR|GBR;Stirling Moss|Peter Walker;Jaguar D-Type;Jaguar 3.4L S6;;92;1241.264;11:00:00;Brakes
@@ -1569,7 +1569,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1962;DNS;E1.0;47;GBR;Team Lotus;GBR|GBR;Jim Clark|Trevor Taylor;Lotus 23;Ford 1.0L I4;;0;0.0;;Failed scrutineering
 1962;DNS;E850;48;GBR;UDT Laystall Racing Team;GBR|NZL;Les Leston|Tony Shelly;Lotus 23;Coventry Climax 0.7L I4;;0;0.0;;Failed scrutineering
 1962;DNS;E850;49;FRA;Automobiles René Bonnet;FRA|FRA;Robert Bouharde|Jean Vinatier;Bonnet Djet;Renault 706cc S4;;0;0.0;;Accident in practice
-1962;DNA;GT1.6;63;NLD;Carel Godin de Beaufort;NLD;Carel Godin de Beaufort;Porsche 356B Carrera Abarth GTL;Porsche 1.6L Flat-4;;0;0.0;;
+1962;DNA;GT1.6;63;NLD;Carel Godin de Beaufort (private entrant);NLD;Carel Godin de Beaufort;Porsche 356B Carrera Abarth GTL;Porsche 1.6L Flat-4;;0;0.0;;
 1962;RES;GT1.6;64;GBR;Sunbeam Talbot;GBR|GBR;Keith Ballisat|Ian Lewis;Sunbeam Alpine;Sunbeam 1590cc S4;Dunlop;0;0.0;;
 1962;RES;E2.0;65;GBR;TVR Cars;NLD|GBR;Rob Slotemaker|Ted Lund;TVR Grantura Mk3;MG 1623cc S4;Dunlop;0;0.0;;
 1962;DNA;GT1.3;66;GBR;Lotus Engineering;GBR|GBR;Clive Hunt|Pat Fergusson;Lotus Elite;Climax 1.2L L4;;0;0.0;;
@@ -2032,7 +2032,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1970;DNF;S5.0;5;ITA;SpA Ferrari SEFAC;BEL|CHE;Jacky Ickx|Peter Schetty;Ferrari 512S;Ferrari 5.0L V12;Firestone;142;1912.598;10:00:00;Accident
 1970;DNF;GT2.5;63;CHE;Rey Racing (private entrant);CHE|CHE;Jacques Rey|Bernard Chenevière;Porsche 911S;Porsche 2247cc F6;Dunlop;132;1777.908;12:00:00;Accident
 1970;DNF;S5.0;9;ESP;Escuderia Montjuich;ESP|ESP;José Juncadella|Juan Fernandez;Ferrari 512S Spyder;Ferrari 5.0L V12;Firestone;130;1750.970;11:00:00;Accident, transmission
-1970;DNF;P2.0;60;FRA;G. Verrier (private entrant);FRA|CHE;Daniel Rouveyran|Willy Meier;Porsche 910;Porsche 1991cc F6;;128;1724.032;14:00:00;Brakes
+1970;DNF;P2.0;60;FRA;Guy Verrier (private entrant);FRA|CHE;Daniel Rouveyran|Willy Meier;Porsche 910;Porsche 1991cc F6;;128;1724.032;14:00:00;Brakes
 1970;DNF;GT2.5;65;CHE|CHE;Hart Ski Racing|Claude Haldi (private entrant);CHE|CHE;Claude Haldi|Arthur Blank;Porsche 911S;Porsche 2247cc F6;Dunlop;124;1670.156;18:00:00;Transmission
 1970;DNF;S2.0;46;FRA;Christian Poirot (private entrant);FRA|DEU;Christian Poirot|Ernst Kraus;Porsche 910;Porsche 1991cc F6;Dunlop;120;1616.280;13:00:00;Engine
 1970;DNF;S5.0;18;GBR|FIN;David Piper Autorace|AAW Racing Team;GBR|NLD;David Piper|Gijs van Lennep;Porsche 917K;Porsche 4.5L F12;Goodyear;112;1508.528;10:00:00;Accident (at Mulsanne)
@@ -2212,7 +2212,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1973;20;GT5.0;34;BEL;Ecurie Francorchamps;FRA|GBR;Jean-Claude Andruet|Richard Bond;Ferrari 365 GTB/4;Ferrari 4.4L V12;Michelin;270;3693.048;;
 1973;21;S3.0;52;CHE;Wicky Racing Team;CHE|MAR|CHE;André Wicky|Max Cohen-Olivar|Philippe Carron;Porsche 908/2;Porsche 3.0L Flat-8;Firestone;270;3688.720;;
 1973;DNF;S3.0;15;ITA;SpA Ferrari SEFAC;BEL|GBR;Jacky Ickx|Brian Redman;Ferrari 312PB;Ferrari 3.0L Flat-12;Goodyear;332;4528.480;22:00:00;Engine (valves)
-1973;DNF;S2.0;25;CHE;Michel Dupont;CHE|CHE;Michel Dupont|Paul Blancpain;Chevron B23;Ford Cosworth FVC 1.8L I4;Firestone;229;3123.560;21:00:00;Transmission (gearbox)
+1973;DNF;S2.0;25;CHE;Michel Dupont (private entrant);CHE|CHE;Michel Dupont|Paul Blancpain;Chevron B23;Ford Cosworth FVC 1.8L I4;Firestone;229;3123.560;21:00:00;Transmission (gearbox)
 1973;DNF;GT5.0;6;USA;North American Racing Team;USA|USA;Sam Posey|Milt Minter;Ferrari 365 GTB/4;Ferrari 4.4L V12;Goodyear;254;3464.560;20:00:00;Engine (piston)
 1973;DNF;T3.0;55;DEU;Ford Motorwerke;DEU|GBR|DEU;Dieter Glemser|John Fitzpatrick|Hans Heyer;Ford Capri RS;Ford 3.0L V6;Dunlop;239;3259.960;19:00:00;Engine (connecting rod, oil pressure)
 1973;DNF;S3.0;7;FRA;Équipe Gitanes Cigarettes France;FRA|SWE|BEL;Jean-Louis Lafosse|Reine Wisell|Hughes de Fierlandt;Lola T282;Ford Cosworth DFV 3.0L V8;Goodyear;164;2236.960;19:00:00;Clutch, oil pump
@@ -2231,7 +2231,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1973;DNF;S3.0;10;FRA;Equipe Matra-Simca Shell;FRA|FRA;François Cevert|Jean-Pierre Beltoise;Matra-Simca MS670B;Matra 3.0L V12;Goodyear;157;2141.480;11:00:00;Broken hub carrier after burst tyre
 1973;DNF;S2.5;26;JPN;Sigma Automotive;JPN|JPN|FRA;Tetsu Ikuzawa|Hiroshi Fushida|Patrick Dal Bo;Sigma MC73;Mazda 12A 2.3L 2-Rotor;Bridgestone;79;1077.560;11:00:00;Clutch
 1973;DNF;GT3.0;44;CHE;Porsche Club Romand;FRA|CHE;Jean-François Piot|Peter Zbinden;Porsche 911 Carrera RSR;Porsche 2.8L Flat-6;Dunlop;110;1500.400;9:00:00;Transmission (gearbox)
-1973;DNF;GT3.0;78;FRA;Jean Sage;FRA|FRA;Hervé Bayard|René Ligonnet;Porsche 911 Carrera RSR;Porsche 2.8L Flat-6;Firestone;95;1295.800;9:00:00;Engine (head gasket)
+1973;DNF;GT3.0;78;FRA;Jean Sage (private entrant);FRA|FRA;Hervé Bayard|René Ligonnet;Porsche 911 Carrera RSR;Porsche 2.8L Flat-6;Firestone;95;1295.800;9:00:00;Engine (head gasket)
 1973;DNF;GT3.0;43;DEU;Max Moritz Racing Team;DEU|DEU|DEU;Gerd Quist|Manfred Laub|Jürgen Zink;Porsche 911 Carrera RSR;Porsche 2.8L Flat-6;Goodyear;103;1404.920;9:00:00;Accident (at Arnage)
 1973;DNF;S3.0;9;GBR;Gulf Research Racing;GBR|GBR|AUS;Mike Hailwood|John Watson|Vern Schuppan;Mirage M6;Ford Cosworth DFV 3.0L V8;Firestone;112;1527.680;9:00:00;Accident
 1973;DNF;S2.0;21;FRA;Pierre Maublanc;FRA|FRA;Pierre Maublanc|Robert Mieusset;Chevron B23;BMW 2.0L I4;Firestone;90;1227.600;7:00:00;Engine
@@ -2263,7 +2263,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1974;10;GT;70;FRA;ASA Cachia;FRA|FRA|FRA;Raymound Touroul|Henri Cachia|Dennis Rua;Porsche 911 Carrera RSR;Porsche 3.0L Flat-6;Dunlop;288;3934.404;;
 1974;11;GT;56;USA;North American Racing Team;FRA|FRA;Christian Ethuin|Lucien Guitteny;Ferrari 365 GTB/4;Ferrari 4.4L V12;Goodyear;285;3891.532;;
 1974;12;GT;69;FRA;Lucien Negeotte;FRA|FRA;Lucien Negeotte|Jean-Pierre Laffeach;Porsche 911 Carrera RSR;Porsche 3.0L Flat-6;Dunlop;276;3776.175;;
-1974;13;GT;59;FRA;Pierre Mauroy;FRA|FRA|FRA;Mme Anne-Charlotte Verney|Pierre Mauroy|Mme Martine Rénier;Porsche 911 Carrera RSR;Porsche 3.0L Flat-6;Dunlop;276;3773.331;;
+1974;13;GT;59;FRA;Pierre Mauroy (private entrant);FRA|FRA|FRA;Mme Anne-Charlotte Verney|Pierre Mauroy|Mme Martine Rénier;Porsche 911 Carrera RSR;Porsche 3.0L Flat-6;Dunlop;276;3773.331;;
 1974;14;GT;63;FRA;Jean-Claude Lagniez;FRA|FRA;Jean-Claude Lagniez|Gérard Meo;Porsche 911 Carrera RSR;Porsche 3.0L Flat-6;Dunlop;274;3742.720;;
 1974;15;T;86;FRA;Jean-Claude Aubriet;FRA|FRA;"Jean-Claude Aubriet|Jean-Claude Depince ""Depnic""";BMW 3.0CSL;BMW 3.5L I6;Michelin;269;3677.931;;
 1974;16;GT;57;FRA;Marcel Mignot;FRA|USA;Marcel Mignot|Harry Jones;Ferrari 365 GTB/4;Ferrari 4.4L V12;Michelin;266;3638.968;;
@@ -2342,7 +2342,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1975;DNF;T;98;FRA;Auto Mazda Claude Bouchet;FRA|FRA;Claude Bouchet|Jean Rondeau;Mazda RX-3;Mazda 12A 1.2L 2-Rotor;Dunlop;78;1063.920;12:00:00;Engine (segmentation)
 1975;DNF;GT;57;USA;Ganto Racing;USA|USA|FRA;John Rulon-Miller|Tom Waugh|Serge Godard;Porsche 911 Carrera RSR;Porsche 3.0L Flat-6;Dunlop;16;218.240;9:00:00;Oil pipeline
 1975;DNF;GT;60;DEU;Gelo Racing Team;NLD|LIE;Toine Hezemans|Manfred Schurti;Porsche 911 Carrera RSR;Porsche 3.0L Flat-6;Goodyear;41;559.240;9:00:00;Accident
-1975;DNF;GT;68;FRA;Guy Verrier;FRA|CHE|CHE;Guy Verrier|Florian Vetsch|Jean-Robert Corthay;Porsche 911 Carrera RS;Porsche 3.0L Flat-6;Dunlop;91;1241.240;9:00:00;Split cylinder head
+1975;DNF;GT;68;FRA;Guy Verrier (private entrant);FRA|CHE|CHE;Guy Verrier|Florian Vetsch|Jean-Robert Corthay;Porsche 911 Carrera RS;Porsche 3.0L Flat-6;Dunlop;91;1241.240;9:00:00;Split cylinder head
 1975;DNF;GT;7;BEL;Beurlys International Auto;FRA|ITA;"Pietro Polese|""Willer""";De Tomaso Pantera;Ford 5.8L V8;Michelin;22;300.080;8:00:00;Engine (head gasket)
 1975;DNF;T;93;FRA;Hervé Poulain;FRA|USA|FRA;Hervé Poulain|Sam Posey|Jean Guichet;BMW 3.0CSL;BMW 3.5L I6;Dunlop;73;995.720;8:00:00;Transmission (cardan)
 1975;DNF;S2.0;26;CHE;Elf Switzerland;FRA|ITA;Mme Marie-Claude Beaumont|Mme Lella Lombardi;Renault-Alpine A441;Renault 2.0L V6;Michelin;20;272.800;7:00:00;Alimentation
