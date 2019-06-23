@@ -31,6 +31,7 @@ BEGIN
   DECLARE new_team_id    INT(11);
   DECLARE new_team_name  VARCHAR(64);
   DECLARE new_team_cntry CHAR(4);
+  DECLARE new_team_priv  TINYINT;
   DECLARE new_team_ord   INT(11);
 
   /* Driver data */
@@ -156,7 +157,14 @@ BEGIN
     WHILE res_team_name IS NOT NULL DO
       SET new_team_name  = SUBSTRING_INDEX(res_team_name, '|', 1);
       SET new_team_cntry = SUBSTRING_INDEX(res_team_cntry, '|', 1);
+      SET new_team_priv = FALSE;
       SET new_team_ord   = new_team_ord + 1;
+
+      /* Detect private entrants */
+      IF new_team_name LIKE '% (private entrant)' THEN
+        SET new_team_priv = TRUE;
+        SET new_team_name = REPLACE(new_team_name, ' (private entrant)', '');
+      END IF;
 
       IF new_team_name != '' THEN
         BEGIN
@@ -170,11 +178,12 @@ BEGIN
            WHERE title   = new_team_name
              AND (   (country IS NULL AND new_team_cntry IS NULL)
                   OR country = new_team_cntry
-                 );
+                 )
+             AND private_entrant = new_team_priv;
 
           IF new_team_id IS NULL THEN
-            INSERT INTO teams (title, country)
-            VALUES (new_team_name, new_team_cntry);
+            INSERT INTO teams (title, country, private_entrant)
+            VALUES (new_team_name, new_team_cntry, new_team_priv);
 
             SET new_team_id = LAST_INSERT_ID();
           END IF;
