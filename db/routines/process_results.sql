@@ -146,6 +146,11 @@ BEGIN
 
     SET new_res_id = LAST_INSERT_ID();
 
+    /* Strip double quotes */
+    IF res_team_name LIKE '%"' THEN
+      SET res_team_name = REPLACE(SUBSTR(res_team_name, 1, CHAR_LENGTH(res_team_name) - 1), '""', '"');
+    END IF;
+
     /* Process team(s) */
     SET new_team_ord = 0;
     WHILE res_team_name IS NOT NULL DO
@@ -187,6 +192,11 @@ BEGIN
         SET res_team_cntry = SUBSTR(res_team_cntry, INSTR(res_team_cntry, '|') + 1);
       END IF;
     END WHILE; /* teams */
+
+    /* Strip double quotes */
+    IF res_drivers_name LIKE '%"' THEN
+      SET res_drivers_name = REPLACE(SUBSTR(res_drivers_name, 1, CHAR_LENGTH(res_drivers_name) - 1), '""', '"');
+    END IF;
 
     /* Process driver(s) */
     SET new_drv_ord = 0;
