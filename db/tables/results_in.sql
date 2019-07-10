@@ -11,9 +11,9 @@ CREATE TABLE results_in (
   car_chassis   VARCHAR(64)   NOT NULL  COMMENT 'Chassis name',
   car_engine    VARCHAR(64)   NOT NULL  COMMENT 'Engine name',
   car_tyres     VARCHAR(16)   NULL      COMMENT 'Tyres manufacturer',
-  laps          INT           NULL      COMMENT 'Laps driven',
-  distance      DECIMAL(8,3)  NULL      COMMENT 'Distance passed',
-  racing_time   TIME          NULL      COMMENT 'Time',
+  laps          INT           NULL      COMMENT 'Laps completed',
+  distance      DECIMAL(8,3)  NULL      COMMENT 'Distance covered',
+  racing_time   TIME(3)       NULL      COMMENT 'Racing time',
   reason        VARCHAR(128)  NULL      COMMENT 'Reason for NC, DNF, DSQ',
   processed     TINYINT       NOT NULL  DEFAULT 0 COMMENT 'Record processed or not',
 

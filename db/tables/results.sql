@@ -5,7 +5,7 @@ CREATE TABLE IF NOT EXISTS results (
   pos         VARCHAR(3)    NOT NULL,
   laps        INT           NULL,
   distance    DECIMAL(8,3)  NULL,
-  racing_time TIME          NULL,
+  racing_time TIME(3)       NULL,
   reason      VARCHAR(128)  NULL,
 
   PRIMARY KEY (id),
