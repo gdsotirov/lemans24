@@ -1,6 +1,6 @@
 CREATE TABLE IF NOT EXISTS drivers (
   id        INT             NOT NULL AUTO_INCREMENT,
-  title     VARCHAR(8)      NULL COMMENT 'Royal, military or university title',
+  title     VARCHAR(16)     NULL COMMENT 'Royal, military or academic title',
   fname     VARCHAR(32)     NULL,
   lname     VARCHAR(32)     NOT NULL,
   nickname  VARCHAR(32)     NULL,
