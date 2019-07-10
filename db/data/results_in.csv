@@ -494,7 +494,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1935;DNF;1.1;43;FRA|FRA;Ecurie de L'Ours|G. Boursin;FRA|FRA;Marcel Horvilleur|Gaston Serff;"Amilcar CG ""Spéciale Martin""";Amilcar 1.1L S4;;91;1227.772;;Engine
 1935;DNF;750;61;GBR;Austin;GBR|GBR;Charles Goodacre|R.F. Turner;Austin 7;Austin 0.7L S4;;89;1200.788;;Accident, gearbox
 1935;DNF;2.0;19;GBR;Derby;GBR|GBR;Mrs. Gwenda Stewart|Charles Worth;Derby;Derby 2.0L S4;;87;1173.804;;Wheel bearings
-1935;DNF;1.5;23;GBR;M.T.U. Collier;GBR|GBR;Michael Collier|Peter Mitchell-Thomson;Frazer Nash TT Replica;Gough 1.5L S4;;77;1038.884;;Lack of oil
+1935;DNF;1.5;23;GBR;M.T.U. Collier;GBR|GBR;Michael Collier|Peter Mitchell-Thomson, Lord Selsdon;Frazer Nash TT Replica;Gough 1.5L S4;;77;1038.884;;Lack of oil
 1935;DNF;2.0;20;FRA;Ecurie Argo;FRA|FRA;Paul Vallée|Albert Blondeau;Bugatti Type 35;Bugatti 2.0L Supercharged S8;;74;998.408;;Supercharger
 1935;DNF;3.0;15;FRA;Raymond Sommer;FRA|FRA;Raymond Sommer|Raymond de Saugé Desttrez;Alfa Romeo 8C 2300;Alfa Romeo 2.3L Supercharged S8;;69;930.948;;Dirt in fuel
 1935;DNF;3.0;9;FRA;M. Rekip;FRA|FRA;René Kippeurt|Edmont Nebout;Bugatti Type 44;Bugatti 3.0L S8;;64;863.488;;Oil pipe
@@ -671,7 +671,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1939;1;8.0;1;FRA;Jean-Pierre Wimille;FRA|FRA;Jean-Pierre Wimille|Pierre Veyron;Bugatti Type 57C Tank;Bugatti 3.3L Supercharged S8;Dunlop;249;3354.760;;
 1939;2;3.0;21;GBR;Ecurie Walter Watney;FRA|FRA;Louis Gérard|Georges Monneret;Delage D6-3L;Delage 3.0L S6;Dunlop;245;3312.222;;
 1939;3;5.0;5;GBR;Lagonda Ltd.;GBR|GBR;Arthur Dobson|Charles Brackenbury;Lagonda V12;Lagonda 4.5L V12;Dunlop;239;3229.451;;
-1939;4;5.0;6;GBR;Lord Selsdon;GBR|GBR;Peter Mitchell-Thomson, Lord Selsdon|Lord William Waleran;Lagonda V12;Lagonda 4.5L V12;;239;3219.481;;
+1939;4;5.0;6;GBR;Lord Selsdon (private entrant);GBR|GBR;Peter Mitchell-Thomson, Lord Selsdon|Lord William Waleran;Lagonda V12;Lagonda 4.5L V12;;239;3219.481;;
 1939;5;2.0;26;DEU;BMW;DEU|DEU;Max zu Schaumburg-Lippe|Fritz Hans Wenscher;BMW 328 Touring Coupe;BMW 2.0L S6;Dunlop;236;3188.450;;
 1939;6;5.0;12;FRA;Louis Villeneuve (private entrant);FRA|FRA;Louis Villeneuve|René Biolay;Delahaye 135CS;Delahaye 3.6L S6;;235;3180.287;;
 1939;7;2.0;27;DEU;BMW;DEU|DEU;Ralph Röese|Paul Heinemann;BMW 328;BMW 2.0L S6;;230;3106.969;;
@@ -712,7 +712,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1939;DNF;1.1;46;FRA;Jacques Savoye (private entrant);FRA|FRA;Jacques Savoye|Pierre Savoye;"Singer Nine Le Mans Replica ""Savoye Special""";Singer 1.0L S4;;4;53.968;;Engine (piston)
 1939;DNS;1.5;24;DEU;Adler;DEU|DEU;Fritz Huschke von Hanstein|f.n.u. Karkmann;Adler Trumpf;Adler 1.5L S4;;0;0.0;;
 1939;DNS;1.5;33;FRA;No Team Name;FRA|FRA;Jacques Sayler|Georges Brunot;Riley TT Sprite;Riley 1.5L S4;;0;0.0;;
-1949;1;S2.0;22;GBR;Peter Mitchell-Thomson, Lord Selsdon (private entrant);USA|GBR;Luigi Chinetti|Peter Mitchell-Thomson, Lord Selsdon;Ferrari 166 MM;Ferrari 2.0L V12;Englebert;235;3178.299;;
+1949;1;S2.0;22;GBR;Lord Selsdon (private entrant);USA|GBR;Luigi Chinetti|Peter Mitchell-Thomson, Lord Selsdon;Ferrari 166 MM;Ferrari 2.0L V12;Englebert;235;3178.299;;
 1949;2;S3.0;15;FRA;Henri Louveau (private entrant);FRA|ESP;Henri Louveau|Juan Jover;Delage D6S-3L;Delage 3.0L S6;;234;3162.576;;
 1949;3;S2.0;26;GBR;Mrs. P. Trevelyan (private entrant);GBR|GBR;Harold John Aldington|Norman Culpan;Frazer Nash High Speed Le Mans Replica;Bristol 2.0L S6;;224;3033.420;;
 1949;4;S3.0;14;GBR;W.S. Watney (private entrant);FRA|ESP;Louis Gérard|Francisco Godia-Sales;Delage D6S-3L;Delage 3.0L S6;;212;2871.737;;
@@ -796,7 +796,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1950;29;S750;57;BEL;Louis Eggen (private entrant);BEL|BEL;Louis Eggen|Escale;Panhard Dyna X84;Panhard 611cc Flat-2;Englebert;151;2039.940;;
 1950;DNF;S5.0;17;GBR;Leslie Johnson (private entrant);GBR|GBR;Leslie Johnson|Bert Hadley;Jaguar XK120S;Jaguar 3.4L S6;Dunlop;220;2968.240;;Engine
 1950;DSQ;S5.0;8;FRA;Ecurie Lutetia;FRA|FRA;Charles Pozzi|Pierre Flahaut;Delahaye 175S;Delahaye 4.5L S6;Dunlop;165;2226.180;;Absence of seals on the radiator
-1950;DNF;S2.0;28;GBR;Peter Mitchell-Thomson, Lord Selsdon (private entrant);GBR|FRA;Peter Mitchell-Thomson|Peter Mitchell-Thomson, Lord Selsdon|Jean Lucas;Ferrari 166MM;Ferrari 2.0L V12;Englebert;164;2212.688;;Accident
+1950;DNF;S2.0;28;GBR;Lord Selsdon (private entrant);GBR|FRA;Peter Mitchell-Thomson, Lord Selsdon|Jean Lucas;Ferrari 166MM;Ferrari 2.0L V12;Englebert;164;2212.688;;Accident
 1950;DNF;S1.1;43;FRA;Automobiles Gordini;FRA|FRA;Georges Blondel|Raoul Martin;Gordini T15S;Simca 1090cc S4;Dunlop;157;2118.244;;Engine
 1950;DNF;S1.1;41;FRA;Mmes Rouault et Gordine (private entrant);FRA|FRA;Mme Germaine Rouault|Mme Reginé Gordine;Gordini T11 MM;Simca 1090cc S4;Dunlop;143;1929.356;;Accident
 1950;DNF;S750;49;FRA;Jacques Poch (private entrant);FRA|FRA;Jacques Poch|Edmond Mouche;Aero Minor;Aero 744cc Flat-2 (2-Stroke);Englebert;139;1875.388;;Bearing front right
