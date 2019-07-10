@@ -37,6 +37,7 @@ BEGIN
   /* Driver data */
   DECLARE new_driver_id  INT(11);
   DECLARE new_drv_name   VARCHAR(64);
+  DECLARE new_drv_title  VARCHAR(16);
   DECLARE new_drv_fname  VARCHAR(32);
   DECLARE new_drv_lname  VARCHAR(32);
   DECLARE new_drv_sex    CHAR(1);
@@ -210,6 +211,7 @@ BEGIN
     /* Process driver(s) */
     SET new_drv_ord = 0;
     WHILE res_drivers_name IS NOT NULL DO
+      SET new_drv_title = NULL;
       SET new_drv_name  = SUBSTRING_INDEX(res_drivers_name, '|', 1);
       SET new_drv_cntry = SUBSTRING_INDEX(res_drivers_cntry, '|', 1);
       SET new_drv_sex   = 'M';
@@ -222,6 +224,40 @@ BEGIN
       THEN
         SET new_drv_sex  = 'F';
         SET new_drv_name = SUBSTR(new_drv_name, INSTR(new_drv_name, ' ') + 1);
+      END IF;
+
+      /* Detect titles in front of name */
+      IF new_drv_name LIKE 'Baron %'   OR /* Royal titles */
+         new_drv_name LIKE 'Prince %'  OR
+         new_drv_name LIKE 'Lord %'    OR
+         new_drv_name LIKE 'Marquis %' OR
+         new_drv_name LIKE 'Sir %'     OR
+        (new_drv_name LIKE 'Earl %'
+         AND new_drv_name <> 'Earl Bamber') /* except Earl Bamber */
+                                       OR
+         new_drv_name LIKE 'Graf %'    OR
+         new_drv_name LIKE 'Capt.%'    OR /* Military titles, Captain */
+         new_drv_name LIKE 'Colonel %' OR
+         new_drv_name LIKE 'Maj %'     OR /* Major */
+         new_drv_name LIKE 'Lt. %'     OR /* Lieutenant */
+         new_drv_name LIKE 'Dr.%'         /* Academic titles, Doctor */
+      THEN
+        IF new_drv_name LIKE 'Lt. Cdr.%' THEN /* Lieutenant commander */
+          SET new_drv_title = SUBSTR(new_drv_name, 1, 8);
+          SET new_drv_name = SUBSTR(new_drv_name, 10);
+        ELSE
+          SET new_drv_title = SUBSTR(new_drv_name, 1, INSTR(new_drv_name, ' ') - 1);
+          SET new_drv_name = SUBSTR(new_drv_name, INSTR(new_drv_name, ' ') + 1);
+	    END IF;
+      END IF;
+
+      /* Detect titles after name */
+      IF new_drv_name LIKE '%, Baron%' OR
+         new_drv_name LIKE '%, Lord%'  OR
+         new_drv_name LIKE '%, Earl%'
+      THEN
+        SET new_drv_title = SUBSTR(new_drv_name, INSTR(new_drv_name, ',') + 2);
+        SET new_drv_name = SUBSTR(new_drv_name, 1, INSTR(new_drv_name, ',') - 1);
       END IF;
 
       IF new_drv_name != '' OR new_drv_cntry != '' THEN
@@ -244,7 +280,10 @@ BEGIN
           SELECT id
             INTO new_driver_id
             FROM drivers
-           WHERE (   (fname IS NULL AND new_drv_fname IS NULL) /* if fname unknown */
+           WHERE (   (title IS NULL AND new_drv_title IS NULL) /* no title */
+                  OR title = new_drv_title
+                 )
+             AND (   (fname IS NULL AND new_drv_fname IS NULL) /* if fname unknown */
                   OR fname = new_drv_fname
                  )
              AND lname   = new_drv_lname
@@ -252,8 +291,8 @@ BEGIN
              AND country = new_drv_cntry;
 
           IF new_driver_id IS NULL THEN
-            INSERT INTO drivers (fname, lname, sex, country)
-            VALUES (new_drv_fname, new_drv_lname, new_drv_sex, new_drv_cntry);
+            INSERT INTO drivers (title, fname, lname, sex, country)
+            VALUES (new_drv_title, new_drv_fname, new_drv_lname, new_drv_sex, new_drv_cntry);
 
             SET new_driver_id = LAST_INSERT_ID();
           END IF;
