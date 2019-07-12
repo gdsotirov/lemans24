@@ -40,6 +40,7 @@ BEGIN
   DECLARE new_drv_title  VARCHAR(16);
   DECLARE new_drv_fname  VARCHAR(32);
   DECLARE new_drv_lname  VARCHAR(32);
+  DECLARE new_drv_nm_sfx VARCHAR(4);
   DECLARE new_drv_sex    CHAR(1);
   DECLARE new_drv_cntry  CHAR(4);
   DECLARE new_drv_ord    INT(11);
@@ -213,6 +214,7 @@ BEGIN
     WHILE res_drivers_name IS NOT NULL DO
       SET new_drv_title = NULL;
       SET new_drv_name  = SUBSTRING_INDEX(res_drivers_name, '|', 1);
+      SET new_drv_nm_sfx = NULL;
       SET new_drv_cntry = SUBSTRING_INDEX(res_drivers_cntry, '|', 1);
       SET new_drv_sex   = 'M';
       SET new_drv_ord   = new_drv_ord + 1;
@@ -260,6 +262,15 @@ BEGIN
         SET new_drv_name = SUBSTR(new_drv_name, 1, INSTR(new_drv_name, ',') - 1);
       END IF;
 
+      /* Detect name suffixes */
+      IF new_drv_name LIKE '% Jr.' OR
+         new_drv_name LIKE '% Sr.' OR
+         new_drv_name LIKE '% III' /* third */
+      THEN
+        SET new_drv_nm_sfx = SUBSTRING_INDEX(new_drv_name, ' ', -1);
+        SET new_drv_name = SUBSTR(new_drv_name, 1, LENGTH(new_drv_name) - 4);
+      END IF;
+
       IF new_drv_name != '' OR new_drv_cntry != '' THEN
         /* Split driver name - first name to the first space */
         SET new_drv_fname = SUBSTRING_INDEX(new_drv_name, ' ', 1);
@@ -277,22 +288,34 @@ BEGIN
         BEGIN
           DECLARE CONTINUE HANDLER FOR NOT FOUND SET new_driver_id = NULL;
 
+          /* Query shoud be unique or non-unique index lookup on idx_driver_unq */
           SELECT id
             INTO new_driver_id
             FROM drivers
            WHERE (   (title IS NULL AND new_drv_title IS NULL) /* no title */
                   OR title = new_drv_title
                  )
-             AND (   (fname IS NULL AND new_drv_fname IS NULL) /* if fname unknown */
+                 /* if first name unknown */
+             AND (   (fname IS NULL AND new_drv_fname IS NULL)
                   OR fname = new_drv_fname
                  )
              AND lname   = new_drv_lname
+                 /* if no name suffix */
+             AND (   (nm_suffix IS NULL AND new_drv_nm_sfx IS NULL )
+                  OR nm_suffix = new_drv_nm_sfx
+                 )
              AND sex     = new_drv_sex
              AND country = new_drv_cntry;
 
           IF new_driver_id IS NULL THEN
-            INSERT INTO drivers (title, fname, lname, sex, country)
-            VALUES (new_drv_title, new_drv_fname, new_drv_lname, new_drv_sex, new_drv_cntry);
+            INSERT INTO drivers
+              (title,
+               fname, lname, nm_suffix,
+               sex, country)
+            VALUES
+              (new_drv_title,
+               new_drv_fname, new_drv_lname, new_drv_nm_sfx,
+               new_drv_sex, new_drv_cntry);
 
             SET new_driver_id = LAST_INSERT_ID();
           END IF;
