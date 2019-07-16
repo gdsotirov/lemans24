@@ -1,4 +1,4 @@
-Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distance;Time;Reason
+﻿Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distance;Time;Reason
 1923;1;3.0;9;FRA;Chenard-Walcker;FRA|FRA;André Lagache|René Léonard;Chenard et Walcker Type U 15CV Sport;Chenard et Walcker 3.0L S4;Michelin;128;2209.536;;
 1923;2;3.0;10;FRA;Chenard-Walcker;FRA|FRA;Raoul Bachmann|Christian Dauvergne;Chenard et Walcker Type U 15CV Sport;Chenard et Walcker 3.0L S4;Michelin;124;2140.488;;
 1923;3;2.0;23;FRA;Établissements industriels Jacques Bignan;FRA|BEL;Paul Gros|Raymond de Tornaco;Bignan 11CV Desmo Sport;Bignan 2.0L S4;Englebert;120;2071.440;;
@@ -344,7 +344,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1932;7;1.5;21;GBR;Aston Martin Ltd.;GBR|GBR;A C Bertelli|Pat Driscoll;Aston Martin 1½ Le Mans;Aston Martin 1.5L S4;Dunlop;168;2268.067;;
 1932;8;1.1;29;FRA;Ecurie de l'Ours;FRA|FRA;Charles Auguste Martin|Auguste Bodoignet;Amilcar CO;Amilcar 1.1L S6;Englebert;151;2043.077;;
 1932;9;1.1;26;FRA;Roger Labric;FRA|FRA;Roger Labric|Yves Giraud-Cabantous;Caban Spéciale;Ruby 1.1L S4;Dunlop;146;1961.262;;
-1932;DNF;3.0;16;POL;Count Stanislaus Czaykowski;POL|FRA;Stanisław Czaykowski|Ernest Friederich;Bugatti Type 55;Bugatti 2.3L S8;Dunlop;180;2428.560;;Engine (perforated piston, oil pipe)
+1932;DNF;3.0;16;POL;Count Stanislaus Czaykowski;POL|FRA;Count Stanisław Czaykowski|Ernest Friederich;Bugatti Type 55;Bugatti 2.3L S8;Dunlop;180;2428.560;;Engine (perforated piston, oil pipe)
 1932;DNF;1.1;28;FRA;Just-Émile Vernet (private entrant);FRA|FRA;Just-Émile Vernet|Fernand Vallon;Salmson GS;Salmson 1.1L S4;Dunlop;111;1497.612;;Clutch
 1932;DNF;3.0;9;GBR;Lord Howe (private entrant);GBR|GBR;"Francis Curzon, Earl Howe|Sir Henry ""Tim"" Birkin";Alfa Romeo 8C 2300LM;Alfa Romeo 2.3L Supercharged S8;Dunlop;110;1484.120;;Engine (head gasket)
 1932;DNF;1.5;24;FRA;Charles Druck;FRA|FRA;Charles Druck|Lucien Virlouvet;Bugatti Type 40;Bugatti 1.5L S4;Dunlop;98;1322.216;;Accident
@@ -386,7 +386,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1933;DNF;1.5;26;GBR;Aston Martin Ltd.;GBR|GBR;Mortimer Morris-Goodall|Mrs. Elsie Wisdom;Aston Martin 1½ Le Mans;Aston Martin 1.5L S4;;84;1133.328;;Engine
 1933;DNF;750;42;GBR;H.Bridgman Metchim;GBR|GBR;H. Bridgman Metchim|C.H. Masters;Austin 7;Austin Motor Company 0.7L S4;;78;1052.376;;Clutch
 1933;DNF;3.0;10;FRA;Mme. Heldé;FRA|FRA;Guy Moll|Guy Cloitre;Alfa Romeo 8C 2300;Alfa Romeo 2.3L Supercharged S8;;77;1038.884;;Lightning system
-1933;DNF;1.5;23;POL;Count Stanislaus Czaykowski;POL|FRA;Stanisław Czaykowski|Jean Gaupillat;Bugatti Type 51A;Bugatti 1.5L Supercharged S8;;52;701.584;;Electrics (battery)
+1933;DNF;1.5;23;POL;Count Stanislaus Czaykowski;POL|FRA;Count Stanisław Czaykowski|Jean Gaupillat;Bugatti Type 51A;Bugatti 1.5L Supercharged S8;;52;701.584;;Electrics (battery)
 1933;DNF;1.5;27;FRA;Salmson;FRA|FRA;Charles Duruy|Jean Danne;Rally NCP;Rally 1.3L Supercharged S4;;39;526.188;;Accident, radiator
 1933;DNF;5.0;5;FRA|FRA;Louis Gas|Jean Trévoux;FRA|FRA;Louis Gas|Jean Trévoux;Bentley Blower C;Bentley 4.4L Supercharged S6;;25;337.300;;Accident (at Mulsanne)
 1933;DNF;1.1;31;FRA;Jean Sébilleau;FRA|FRA;Jean Sébilleau|Georges Delaroche;Riley Nine Brooklands;Riley 1.1L S4;;20;269.840;;Engine
@@ -482,7 +482,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1935;DNF;1.1;44;FRA;Amédée Gordini;FRA|ITA;Amédée Gordini|Carlo Nazarro;Fiat 508S Balilla Sport Coppa D'Oro;Fiat 1.0L S4;;129;1740.468;;Alimentation
 1935;DNF;5.0;6;FRA;Bernard de Souza Dantas;FRA|FRA;Bernard de Souza Dantas|Roger Teillac;Bugatti Type 57;Bugatti 3.3L S8;;129;1740.468;;Gearbox
 1935;DNF;3.0;10;GBR;Lord Howe (private entrant);GBR|GBR;Francis Curzon, Earl Howe|Brian Lewis, Baron Essendon;Alfa Romeo 8C 2300;Alfa Romeo 2.3L Supercharged S8;;129;1740.468;;Engine (Piston)
-1935;DNF;3.0;18;FRA;Comte Georges d'Arnoux;FRA|FRA;Georges d'Arnoux|Pierre Merlin;Bugatti Type 55;Bugatti 2.3L S6;;128;1726.976;;
+1935;DNF;3.0;18;FRA;Comte Georges d'Arnoux;FRA|FRA;Comte Georges d'Arnoux|Comte Pierre Merlin;Bugatti Type 55;Bugatti 2.3L S6;;128;1726.976;;
 1935;DNF;3.0;11;ITA;Luigi Chinetti;ITA|MCO;Luigi Chinetti|Jacques Gastaud;Alfa Romeo 8C 2300;Alfa Romeo 2.3L Supercharged S8;;116;1565.072;;Broken spring shackle
 1935;DNF;5.0;2;FRA;Roger Labric;FRA|FRA;Roger Labric|Pierre Veyron;Bugatti Type 50S;Bugatti 5.0L S8;;116;1565.072;;Broken spring shackle
 1935;DNF;1.1;50;GBR;J.R.H. Baker;GBR|GBR;J.R.H. Baker|Norman Black;Singer Nine Le Mans Replica;Singer 1.0L S4;;107;1443.644;;Starter
@@ -513,7 +513,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1936;DNA;2.0;3;DEU;Adler;DEU|DEU;Prince Paul von Schaumberg-Lippe|Edouard Legré;Adler Super Trumpf Rennlimousine;Adler 1.7L S4;;0;0.0;;Race cancelled
 1936;DNA;2.0;4;DEU;Adler;DEU|DEU;Paul von Guilleaume|Otto Löhr;Adler Super Trumpf Rennlimousine;Adler 1.7L S4;;0;0.0;;Race cancelled
 1936;DNA;3.0;5;ITA;Luigi Chinetti;ITA|FRA;Luigi Chinetti|Raymond Sommer;Alfa Romeo 8C 2300;Alfa Romeo 2.3L S8;;0;0.0;;Race cancelled
-1936;DNA;3.0;6;ITA;Viscount Pierre Merlin;ITA;Pierre Merlin;Alfa Romeo 8C 2300;Alfa Romeo 2.3L S8;;0;0.0;;Race cancelled
+1936;DNA;3.0;6;ITA;Comte Pierre Merlin;ITA;Comte Pierre Merlin;Alfa Romeo 8C 2300;Alfa Romeo 2.3L S8;;0;0.0;;Race cancelled
 1936;DNA;2.0;7;GBR;Aston Martin;GBR;Beris Harcourt Wood;Aston Martin Speed Model;Aston Martin 2.0L S4;;0;0.0;;Race cancelled
 1936;DNA;2.0;8;GBR;Aston Martin;GBR|GBR;Dr. Dudley Benjafield|John Elwes;Aston Martin Speed Model;Aston Martin 2.0L S4;;0;0.0;;Race cancelled
 1936;DNA;2.0;9;GBR;Aston Martin;GBR|GBR;Sammy Davis|W. G. Everitt;Aston Martin Speed Mode;Aston Martin 2.0L S4;;0;0.0;;Race cancelled
@@ -836,7 +836,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1951;9;S3.0;29;FRA;Norbert Jean Mahé (private entrant);FRA|FRA;Norbert Jean Mahé|Jacques Péron;Ferrari 212 Export Coupé;Ferrari 2.6L V12;Dunlop;244;3297.420;;
 1951;10;S3.0;28;GBR;Nigel Mann (private entrant);GBR|GBR;Nigel Mann|Mortimer Morris-Goodall;Aston Martin DB2;Aston Martin 2.6L S6;Dunlop;236;3196.340;;
 1951;11;S3.0;21;GBR;Robert Lawrie (private entrant);GBR|GBR;Robert Lawrie|Ivan Waller;Jaguar XK-120S;Jaguar 3.4L S6;Dunlop;236;3187.210;;
-1951;12;S2.0;33;ITA;Scuderia Ambrosiana;ITA|ITA;Comte Giovanni Lurani|Giovanni Bracco;Lancia Aurelia B20 GT;Lancia 2.0L V6;Michelin;235;3172.380;;
+1951;12;S2.0;33;ITA;Scuderia Ambrosiana;ITA|ITA;Comte Giovanni 'Johnny' Lurani|Giovanni Bracco;Lancia Aurelia B20 GT;Lancia 2.0L V6;Michelin;235;3172.380;;
 1951;13;S3.0;27;GBR;P.T.C. Clark (private entrant);GBR|GBR;Peter Clark|James Scott-Douglas;Aston Martin DB2;Aston Martin 2.6L S6;Dunlop;233;3152.030;;
 1951;14;S2.0;35;GBR;Automobiles Frazer Nash Ltd.;GBR|GBR;Eric Winterbottom|John Marshall;Frazer Nash Le Mans Replica;Bristol 2.0L S6;Dunlop;232;3137.340;;
 1951;15;S2.0;32;USA;Luigi Chinetti;FRA|GBR;Mme Yvonne Simon|Miss Betty Haig;Ferrari 166MM Berlinetta;Ferrari 2.0L V12;Dunlop;231;3124.690;;
@@ -1005,7 +1005,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1953;DSQ;S5.0;14;ITA;Scuderia Ferrari;ITA|GBR;Giuseppe Farina|Mike Hawthorn;Ferrari 340MM;Ferrari 4.1L V12;Pirelli;12;161.900;1:00:00;Brake fluid too soon
 1953;DNF;S5.0;10;GBR;Nash-Healey Inc.;FRA|FRA;Yves Giraud-Cabantous|Pierre Veyron;Nash-Healey Sports;Nash 4.1L S6;;9;121.428;1:00:00;Oil pressure
 1953;DNF;S750;59;FRA;Établissements Monopole;FRA|FRA;Eugène Dussous|Pierre Flahaut;Monopole X84;Panhard 612cc F2;;9;121.428;7:00:00;Engine
-1953;DNF;S2.0;62;FRA;Établissements Fiat Dagrada;FRA|ITA;Norbert Jean Mahé|ComteGiovanni 'Johnny' Lurani;Fiat 8V;Fiat 1996cc V8;;8;107.936;1:00:00;Engine (pushrod)
+1953;DNF;S2.0;62;FRA;Établissements Fiat Dagrada;FRA|ITA;Norbert Jean Mahé|Comte Giovanni 'Johnny' Lurani;Fiat 8V;Fiat 1996cc V8;;8;107.936;1:00:00;Engine (pushrod)
 1953;DNF;S8.0;4;GBR;Allard Motor Company;GBR|GBR;Sydney Allard|Philip Fotheringham-Parker;Allard J2R;Cadillac 5.4L V8;;4;53.968;1:00:00;Brakes, cracked drum
 1953;DNS;S3.0;24;FRA;Automobiles Gordini;FRA|FRA;Jean Behra|Jean Lucas;Gordini T24S;Gordini 2.3L I6;;0;0.0;;
 1953;DNS;S3.0;28;ESP;Empresa Nacional de Autocamiones S.A.;ESP|DEU;Juan Jover|Paul Metternich;Pegaso Z-102 Spyder;Pegaso 2.8L V8 Supercharged;;0;0.0;;Accident in training

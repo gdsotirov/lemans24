@@ -230,18 +230,19 @@ BEGIN
 
       /* Detect titles in front of name */
       IF new_drv_name LIKE 'Baron %'   OR /* Royal titles */
-         new_drv_name LIKE 'Prince %'  OR
+         new_drv_name LIKE 'Comte %'   OR /* Comte = Count */
+         new_drv_name LIKE 'Count %'   OR
+        (new_drv_name LIKE 'Earl %'
+         AND new_drv_name <> 'Earl Bamber') OR /* except Earl Bamber */
+         new_drv_name LIKE 'Graf %'    OR
          new_drv_name LIKE 'Lord %'    OR
          new_drv_name LIKE 'Marquis %' OR
+         new_drv_name LIKE 'Prince %'  OR
          new_drv_name LIKE 'Sir %'     OR
-        (new_drv_name LIKE 'Earl %'
-         AND new_drv_name <> 'Earl Bamber') /* except Earl Bamber */
-                                       OR
-         new_drv_name LIKE 'Graf %'    OR
          new_drv_name LIKE 'Capt.%'    OR /* Military titles, Captain */
          new_drv_name LIKE 'Colonel %' OR
-         new_drv_name LIKE 'Maj %'     OR /* Major */
          new_drv_name LIKE 'Lt. %'     OR /* Lieutenant */
+         new_drv_name LIKE 'Maj %'     OR /* Major */
          new_drv_name LIKE 'Dr.%'         /* Academic titles, Doctor */
       THEN
         IF new_drv_name LIKE 'Lt. Cdr.%' THEN /* Lieutenant commander */
