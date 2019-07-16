@@ -40,6 +40,7 @@ BEGIN
   DECLARE new_drv_title  VARCHAR(16);
   DECLARE new_drv_fname  VARCHAR(32);
   DECLARE new_drv_lname  VARCHAR(32);
+  DECLARE new_drv_nick   VARCHAR(32);
   DECLARE new_drv_nm_sfx VARCHAR(4);
   DECLARE new_drv_sex    CHAR(1);
   DECLARE new_drv_cntry  CHAR(4);
@@ -214,6 +215,7 @@ BEGIN
     WHILE res_drivers_name IS NOT NULL DO
       SET new_drv_title = NULL;
       SET new_drv_name  = SUBSTRING_INDEX(res_drivers_name, '|', 1);
+      SET new_drv_nick  = NULL;
       SET new_drv_nm_sfx = NULL;
       SET new_drv_cntry = SUBSTRING_INDEX(res_drivers_cntry, '|', 1);
       SET new_drv_sex   = 'M';
@@ -272,7 +274,38 @@ BEGIN
         SET new_drv_name = SUBSTR(new_drv_name, 1, LENGTH(new_drv_name) - 4);
       END IF;
 
-      IF new_drv_name != '' OR new_drv_cntry != '' THEN
+      IF new_drv_name != '' AND new_drv_cntry != '' THEN
+      BEGIN
+        DECLARE tmp_drv_name   VARCHAR(64) DEFAULT new_drv_name;
+
+        /* Extract nickname */
+        IF new_drv_name LIKE '%"%"%' THEN   /* name with two double quotes */
+          BEGIN
+            DECLARE fst_qt_idx INTEGER DEFAULT INSTR(new_drv_name, '"');
+            DECLARE snd_qt_idx INTEGER DEFAULT LOCATE('"', new_drv_name, fst_qt_idx + 1);
+
+            SET tmp_drv_name = SUBSTRING(new_drv_name, 1, fst_qt_idx - 1);
+            SET tmp_drv_name = CONCAT(tmp_drv_name, TRIM(SUBSTRING(new_drv_name, snd_qt_idx + 1)));
+            SET new_drv_nick = SUBSTRING(new_drv_name, fst_qt_idx + 1, snd_qt_idx - fst_qt_idx - 1);
+          END;
+        END IF;
+
+        IF new_drv_name LIKE '%''%''%' THEN /* name with two single quotes */
+          BEGIN
+            DECLARE fst_qt_idx INTEGER DEFAULT INSTR(new_drv_name, '''');
+            DECLARE snd_qt_idx INTEGER DEFAULT LOCATE('''', new_drv_name, fst_qt_idx + 1);
+
+            SET tmp_drv_name = SUBSTRING(new_drv_name, 1, fst_qt_idx - 1);
+            SET tmp_drv_name = CONCAT(tmp_drv_name, TRIM(SUBSTRING(new_drv_name, snd_qt_idx + 1)));
+            SET new_drv_nick = SUBSTRING(new_drv_name, fst_qt_idx + 1, snd_qt_idx - fst_qt_idx - 1);
+          END;
+        END IF;
+
+        /* clean braces in name and trim */
+        SET new_drv_name = REPLACE(tmp_drv_name, '(', '');
+        SET new_drv_name = REPLACE(new_drv_name, ')', '');
+        SET new_drv_name = TRIM(new_drv_name);
+
         /* Split driver name - first name to the first space */
         SET new_drv_fname = SUBSTRING_INDEX(new_drv_name, ' ', 1);
         /* last name everything else */
@@ -301,6 +334,10 @@ BEGIN
                   OR fname = new_drv_fname
                  )
              AND lname   = new_drv_lname
+                 /* if no nickname */
+             AND (   (nickname IS NULL AND new_drv_nick IS NULL )
+                  OR nickname = new_drv_nick
+                 )
                  /* if no name suffix */
              AND (   (nm_suffix IS NULL AND new_drv_nm_sfx IS NULL )
                   OR nm_suffix = new_drv_nm_sfx
@@ -311,16 +348,17 @@ BEGIN
           IF new_driver_id IS NULL THEN
             INSERT INTO drivers
               (title,
-               fname, lname, nm_suffix,
+               fname, lname, nm_suffix, nickname,
                sex, country)
             VALUES
               (new_drv_title,
-               new_drv_fname, new_drv_lname, new_drv_nm_sfx,
+               new_drv_fname, new_drv_lname, new_drv_nm_sfx, new_drv_nick,
                new_drv_sex, new_drv_cntry);
 
             SET new_driver_id = LAST_INSERT_ID();
           END IF;
         END;
+      END;
       END IF;
 
       IF new_driver_id IS NOT NULL THEN
