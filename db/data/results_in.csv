@@ -1514,7 +1514,7 @@
 1962;3;GT3.0;22;BEL;Equipe Nationale Belge;BEL|BEL;"""Eldé"" (Léon Dernier)|""Beurlys"" (Jean Blaton)";Ferrari 250 GTO;Ferrari 3.0L V12;Dunlop;314;4213.875;;
 1962;4;GT+3.0;10;USA;Briggs Cunningham (private entrant);USA|GBR;Briggs Cunningham|Roy Salvadori;Jaguar E-Type Coupé;Jaguar 3.8L S6;Dunlop;310;4166.617;;
 1962;5;GT+3.0;9;GBR;P.J. Sargent (private entrant);GBR|GBR;Peter Sargent|Peter Lumsden;Jaguar E-Type Coupé;Jaguar 3.8L S6;Dunlop;310;4163.417;;
-1962;6;E3.0;17;USA;North American Racing Team;USA|USA;Bob Grossman|Glenn 'Fireball' Roberts;Ferrari 250 GT/TR;Ferrari 3.0L V12;Goodyear;297;3997.810;;
+1962;6;E3.0;17;USA;North American Racing Team;USA|USA;Bob Grossman|Glenn 'Fireball' Roberts;Ferrari 250 GTO;Ferrari 3.0L V12;Goodyear;297;3997.810;;
 1962;7;GT1.6;34;DEU;Porsche System Engineering;DEU|DEU;Edgar Barth|Hans Herrmann;Porsche 356 GS Abarth;Porsche 1588cc F4;Dunlop;287;3858.532;;
 1962;8;GT1.3;44;GBR;Team Lotus Engineering;GBR|AUS;David Hobbs|Frank Gardner;Lotus Elite Mk14;Coventry Climax 1216cc S4;Dunlop;286;3847.066;;
 1962;9;GT3.0;21;ITA;SEFAC Ferrari;USA|USA;Ed Hugus|George Reed;Ferrari 250 GT SWB Bertone;Ferrari 3.0L V12;Dunlop;281;3779.317;;
@@ -1527,14 +1527,14 @@
 1962;16;E850;53;FRA;Panhard & Levassor;FRA|FRA;André Guilhaudin|Alain Bertaut;CD Dyna Coupé;Panhard 702cc F2;Michelin;255;3427.026;;
 1962;17;E1.15;46;FRA;Automobiles René Bonnet;FRA|FRA;Bernard Consten|José Rosinski;Bonnet Djet;Renault 996cc S4;Dunlop;255;3421.551;;
 1962;18;E850;50;FRA;Automobiles René Bonnet;FRA|FRA;Paul Armagnac|Gérard Laureau;Bonnet Djet 2 Spider;Renault 706cc S4;Dunlop;253;3396.906;;
-1962;DNF;E3.0;27;ITA;SEFAC Ferrari;ITA|ITA;Giancarlo Baghetti|Ludovico Scarfiotti;Ferrari 268 SP Dino;Ferrari 2.6L V8;Dunlop;230;3096.030;17:00:00;Clutch
+1962;DNF;E3.0;27;ITA;SEFAC Ferrari;ITA|ITA;Giancarlo Baghetti|Ludovico Scarfiotti;Ferrari 268 SP;Ferrari 2.6L V8;Dunlop;230;3096.030;17:00:00;Clutch
 1962;DNF;E1.6;37;ITA;Automobili O.S.C.A.;USA|FRA;George Arents|José Behra;O.S.C.A. 1600 GT Zagato;O.S.C.A. 1569cc S4;Pirelli;227;3055.647;22:00:00;Transmission (gearbox)
 1962;DNF;GT1.3;40;ITA;Scuderia St. Ambroeus;CHE|ITA;Karl Foitek|Riccardo Ricci;Alfa Romeo Giulietta Sport Zagato;Alfa Romeo 1290cc S4;Pirelli;225;3028.725;22:00:00;Clutch
 1962;DNF;GT3.0;24;GBR;Ecurie Chiltern;GBR|ZAF;Sir John Whitmore|Bob Olthoff;Austin-Healey 3000;BMC 2.9L S6;Dunlop;212;2853.732;18:00:00;Engine (piston), distribution
 1962;DNF;GT3.0;23;FRA;Fernand Tavano (private entrant);FRA|FRA;Fernand Tavano|André Simon;Ferrari 250 GTO;Ferrari 3.0L V12;Dunlop;202;2719.122;15:30:00;Transmission (differential), overheating
 1962;DNF;GT1.6;33;GBR;Sunbeam Talbot;GBR|GBR;Paddy Hopkirk|Peter Jopp;Sunbeam Alpine;Sunbeam 1590cc S4;Dunlop;187;2517.207;15:00:00;Engine (piston)
 1962;DNF;E+3.0;2;USA;Briggs Cunningham (private entrant);NZL|USA;Bruce McLaren|Walt Hansgen;Maserati Tipo 151 Coupé;Maserati 3.9L V8;Dunlop;177;2382.597;12:00:00;Transmission
-1962;DNF;E3.0;28;ITA;SEFAC Ferrari;MEX|MEX;Ricardo Rodríguez|Pedro Rodriguez;Ferrari 246 SP Dino;Ferrari 2.4L V6;Dunlop;174;2342.214;12:45:00;Transmission
+1962;DNF;E3.0;28;ITA;SEFAC Ferrari;MEX|MEX;Ricardo Rodríguez|Pedro Rodriguez;Ferrari 246 SP;Ferrari 2.4L V6;Dunlop;174;2342.214;12:45:00;Transmission
 1962;DNF;GT3.0;58;ITA;Scuderia SSS Republica di Venezia;ITA|ITA;Nino Vaccarella|Giorgio Scarlatti;Ferrari 250 GTO;Ferrari 3.0L V12;Dunlop;172;2315.292;14:00:00;Engine
 1962;DNF;E850;56;FRA;Roger Masson (private entrant);FRA|ITA;Roger Masson|Teodore Zeccoli;Abarth 700S;Fiat 701cc S4;Michelin;171;2301.831;16:00:00;Engine (piston)
 1962;DNF;GT3.0;20;GBR;UDT Laystall Racing Team;GBR|USA;Innes Ireland|Masten Gregory;Ferrari 250 GTO;Ferrari 3.0L V12;Dunlop;165;2221.065;14:00:00;Electrics (alternator)
@@ -1551,12 +1551,12 @@
 1962;DNF;E850;54;FRA;Panhard & Levassor;FRA|FRA;Pierre Lelong|Jean-Pierre Hanrioud;CD Dyna Coupé;Panhard 702cc F2;Michelin;73;982.653;8:00:00;Accident
 1962;DNF;E+3.0;3;USA;Briggs Cunningham (private entrant);USA|USA;Bill Kimberley|Dick Thompson;Maserati Tipo 151 Coupé;Maserati 3.9L V8;Dunlop;62;834.582;5:00:00;Accident
 1962;DNF;E1.3;41;ITA;Abarth Corse & Cie;FRA|FRA;Roger Delageneste|Jean Rolland;Abarth 1300;Simca 1288cc S4;;60;807.660;6:00:00;Engine (piston, valves)
-1962;DNF;E+3.0;7;ITA;SEFAC Ferrari;GBR|ITA;Mike Parkes|Lorenzo Bandini;Ferrari 330 GTO LM;Ferrari 4.0L V12;Dunlop;56;753.816;6:00:00;Cooling (radiator), sand trapped, overheat
+1962;DNF;E+3.0;7;ITA;SEFAC Ferrari;GBR|ITA;Mike Parkes|Lorenzo Bandini;Ferrari 330 LMB;Ferrari 4.0L V12;Dunlop;56;753.816;6:00:00;Cooling (radiator), sand trapped, overheat
 1962;DNF;GT+3.0;8;GBR;Maurice Charles (private entrant);GBR|GBR;Maurice Charles|John Coundley;Jaguar E-Type Coupé;Jaguar 3.8L S6;Dunlop;53;713.433;3:00:00;Engine (lack of oil)
 1962;DNF;GT2.0;60;FRA;A. Chardonnet (private entrant);FRA|FRA;Jean-Claude Magne|Maurice Martin;AC Ace;Bristol 1971cc S6;Michelin;49;659.589;4:00:00;Clutch
 1962;DNF;GT1.6;30;DEU;Porsche System Engineering;NLD|NLD;Carel Godin de Beaufort|Ben Pon;Porsche 356 GS Abarth;Porsche 1588cc F4;Dunlop;35;471.135;3:00:00;Ignition, transmission
 1962;DNF;E3.0;59;BEL;Equipe Nationale Belge;BEL|BEL;Georges Berger|Robert Darville;Ferrari 250 GT SWB;Ferrari 3.0L V12;Dunlop;35;471.135;3:00:00;Accident
-1962;DNF;E3.0;15;ITA;Scuderia SSS Republica di Venezia;SWE|USA;Joakim 'Jo' Bonnier|Dan Gurney;Ferrari 250 TRI/61;Ferrari 3.0L V12;Dunlop;30;403.830;3:00:00;Transmission (gearbox)
+1962;DNF;E3.0;15;ITA;Scuderia SSS Republica di Venezia;SWE|USA;Joakim 'Jo' Bonnier|Dan Gurney;Ferrari 250 GTO;Ferrari 3.0L V12;Dunlop;30;403.830;3:00:00;Transmission (gearbox)
 1962;DNF;E3.0;16;ITA;Scuderia SSS Republica di Venezia;ITA|GBR;Carlo Maria Abate|Colin Davis;Ferrari 250 GT Drogo;Ferrari 3.0L V12;Dunlop;30;403.830;3:00:00;Transmission (gearbox)
 1962;DNF;E1.3;62;ITA;Abarth Corse & Cie;ITA|AUT;Gianni Balzarini|Franz Albert;Abarth 1300;Simca 1288cc S4;Pirelli;30;403.830;3:00:00;Suspension
 1962;DNF;E1.3;42;ITA;Abarth Corse & Cie;FRA|CHE;Henri Oreiller|Tom Spychinger;Abarth 1300;Simca 1288cc S4;Pirelli;21;282.681;3:00:00;Transmission (gearbox)
