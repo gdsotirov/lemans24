@@ -1,4 +1,4 @@
-﻿Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distance;Time;Reason
+Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distance;Time;Reason
 1923;1;3.0;9;FRA;Chenard-Walcker;FRA|FRA;André Lagache|René Léonard;Chenard et Walcker Type U 15CV Sport;Chenard et Walcker 3.0L S4;Michelin;128;2209.536;;
 1923;2;3.0;10;FRA;Chenard-Walcker;FRA|FRA;Raoul Bachmann|Christian Dauvergne;Chenard et Walcker Type U 15CV Sport;Chenard et Walcker 3.0L S4;Michelin;124;2140.488;;
 1923;3;2.0;23;FRA;Établissements industriels Jacques Bignan;FRA|BEL;Paul Gros|Raymond de Tornaco;Bignan 11CV Desmo Sport;Bignan 2.0L S4;Englebert;120;2071.440;;
@@ -382,7 +382,7 @@
 1933;DNF;750;38;GBR;Norman Black;GBR|GBR;Norman Black|Ron Gibson;MG J-type 4 Midget;MG 0.7L Supercharged S4;;125;1686.500;;Out of water
 1933;DNF;2.0;20;FRA;Mme. Odette Siko;FRA|FRA;Mme Odette Siko|Louis Charaval;Alfa Romeo 6C 1750;Alfa Romeo 1.9L Supercharged S6;;120;1619.040;;Accident
 1933;DNF;5.0;3;FRA;Guy Bouriat;FRA|FRA;Mme Marie Desprez|Pierre Brussienne;Bugatti Type 50S;Bugatti 5.0L Supercharged S8;;119;1605.548;;Radiator
-1933;DNF;5.0;6;FRA;Roger Labric;FRA|FRA;Roger Labric|Guy Daniel;La Lorraine B3-6;La Lorraine 3.4L S6;;105;1416.660;;Clutch
+1933;DNF;5.0;6;FRA;Roger Labric;FRA|FRA;Roger Labric|Guy Daniel;Lorraine-Dietrich B3-6;Lorraine-Dietrich 3.4L S6;;105;1416.660;;Clutch
 1933;DNF;1.5;26;GBR;Aston Martin Ltd.;GBR|GBR;Mortimer Morris-Goodall|Mrs. Elsie Wisdom;Aston Martin 1½ Le Mans;Aston Martin 1.5L S4;;84;1133.328;;Engine
 1933;DNF;750;42;GBR;H.Bridgman Metchim;GBR|GBR;H. Bridgman Metchim|C.H. Masters;Austin 7;Austin Motor Company 0.7L S4;;78;1052.376;;Clutch
 1933;DNF;3.0;10;FRA;Mme. Heldé;FRA|FRA;Guy Moll|Guy Cloitre;Alfa Romeo 8C 2300;Alfa Romeo 2.3L Supercharged S8;;77;1038.884;;Lightning system
@@ -425,9 +425,9 @@
 1934;20;1.1;42;FRA;Charles Auguste Martin;FRA|FRA;Charles Auguste Martin|Fernand Pousse;"Amilcar CG ""Spéciale Martin""";Amilcar 1.1L S4;;155;2094.952;;
 1934;21;1.1;45;FRA;Alin Fréres;FRA|FRA;Adrien Alin|Albert Alin;B.N.C.;B.N.C. 1.0L S4;;150;2027.786;;
 1934;22;1.1;31;FRA;Ecurie de l'Ours;FRA|FRA;Camille Poiré|Gaston Robail;Amilcar C6;Amilcar 1.1L S6;;148;2008.228;;
-1934;23;1.1;50;GBR;R.P. Gardner;GBR|GBR;R.P. Gardner|A.C. Beloë;Singer Nine Le Mans;Singer 1.0L S4;;143;1939.012;;
+1934;23;1.1;50;GBR;R.P. Gardner;GBR|GBR;Goldie Gardner|A.C. Beloë;Singer Nine Le Mans;Singer 1.0L S4;;143;1939.012;;
 1934;DNF;1.5;23;GBR;Aston Martin Ltd.;GBR|GBR;Mortimer Morris-Goodall|Jim Elwes;Aston Martin 1½ Le Mans;Aston Martin 1.5L S4;;155;2091.260;;Engine (crankshaft)
-1934;DNF;1.5;22;GBR;Aston Martin Ltd.;GBR|GBR;Thomas Fothringham-Parker|John Appleton;Aston Martin 1½ Le Mans;Aston Martin 1.5L S4;;142;1910.864;;Electrics (magneto)
+1934;DNF;1.5;22;GBR;Aston Martin Ltd.;GBR|GBR;Thomas Fotheringham-Parker|John Appleton;Aston Martin 1½ Le Mans;Aston Martin 1.5L S4;;142;1910.864;;Electrics (magneto)
 1934;DNF;5.0;3;FRA;Just-Émile Vernet (private entrant);FRA|FRA;Just-Émile Vernet|Daniel Porthault;Lorraine-Dietrich B3-6;Lorraine-Dietrich 3.5L S6;;133;1794.436;;Engine (piston)
 1934;DNF;750;54;GBR;H. Bridgman Metchim;GBR|GBR;H. Bridgman Metchim|C.H. Masters;Austin 7;Austin 0.7L S4;;95;1281.740;;
 1934;DNF;1.5;29;FRA;Auguste Bodoignet;FRA|FRA;Auguste Bodoignte|Fernand Vallon;Bugatti;Bugatti 1.4L S6;;90;1214.280;;
@@ -462,7 +462,7 @@
 1935;12;1.5;27;GBR;John Cecil Noël;GBR|GBR;Jim Elwes|Mortimer Morris-Goodall;Aston Martin 1½;Aston Martin 1.5L S4;;196;2655.332;;
 1935;13;5.0;14;GBR;Arthur W. Fox & Charles Nichol;GBR|GBR;Dr. Dudley Benjafield|Sir Roland Gunter;Lagonda M45R Rapide;Meadows 4.5L S6;Dunlop;196;2649.918;;
 1935;14;1.5;26;FRA;Louis Villeneuve (private entrant);FRA|FRA;Louis Villeneuve|André Vagniez;Bugatti Type 51A;Bugatti 1.5L Supercharged S8;;195;2632.656;;
-1935;15;1.5;30;GBR;R.P. Gardner;GBR|GBR;R.P. Gardner|A.C. Beloë;Aston Martin 1½ Ulster;Aston Martin 1.5L S4;;190;2574.264;;
+1935;15;1.5;30;GBR;R.P. Gardner;GBR|GBR;Goldie Gardner|A.C. Beloë;Aston Martin 1½ Ulster;Aston Martin 1.5L S4;;190;2574.264;;
 1935;16;1.1;51;GBR;F.S. Barnes;GBR|GBR;Frank Stanley Barnes|Alf Langley;Singer Nine Le Mans Replica;Singer 1.0L S4;;183;2478.599;;
 1935;17;1.5;34;FRA;André Hénon;FRA|FRA;André Hénon|Roger Rès;Singer 1½ Litre Le Mans;Singer 1.5L S4;;177;2395.660;;
 1935;18;1.1;45;FRA;Mme Anne-Cécile Rose-Itier;FRA|FRA;Mme Anne-Cécile Rose-Itier|Rober Jacob;Fiat 508S Balilla Sport;Fiat 1.0L S4;;172;2327.169;;
@@ -496,15 +496,15 @@
 1935;DNF;2.0;19;GBR;Derby;GBR|GBR;Mrs. Gwenda Stewart|Charles Worth;Derby;Derby 2.0L S4;;87;1173.804;;Wheel bearings
 1935;DNF;1.5;23;GBR;M.T.U. Collier;GBR|GBR;Michael Collier|Peter Mitchell-Thomson, Lord Selsdon;Frazer Nash TT Replica;Gough 1.5L S4;;77;1038.884;;Lack of oil
 1935;DNF;2.0;20;FRA;Ecurie Argo;FRA|FRA;Paul Vallée|Albert Blondeau;Bugatti Type 35;Bugatti 2.0L Supercharged S8;;74;998.408;;Supercharger
-1935;DNF;3.0;15;FRA;Raymond Sommer;FRA|FRA;Raymond Sommer|Raymond de Saugé Desttrez;Alfa Romeo 8C 2300;Alfa Romeo 2.3L Supercharged S8;;69;930.948;;Dirt in fuel
+1935;DNF;3.0;15;FRA;Raymond Sommer;FRA|FRA;Raymond Sommer|Raymond de Saugé Destrez;Alfa Romeo 8C 2300;Alfa Romeo 2.3L Supercharged S8;;69;930.948;;Dirt in fuel
 1935;DNF;3.0;9;FRA;M. Rekip;FRA|FRA;René Kippeurt|Edmont Nebout;Bugatti Type 44;Bugatti 3.0L S8;;64;863.488;;Oil pipe
 1935;DNF;1.1;49;GBR;Singer Ltd.;GBR|GBR;John Donald Barnes|Tommy Wisdom;Singer Nine Le Mans Replica;Singer 1.0L S4;;57;769.044;;Starter
-1935;DNF;5.0;5;FRA;Daniel Porthault;FRA|FRA;Daniel Porthault|Just-Émile Vernet;La Lorraine B3-6;La Lorraine 3.5L S6;;52;701.584;;Fuel feed
+1935;DNF;5.0;5;FRA;Daniel Porthault;FRA|FRA;Daniel Porthault|Just-Émile Vernet;Lorraine-Dietrich B3-6;Lorraine-Dietrich 3.5L S6;;52;701.584;;Fuel feed
 1935;DSQ;1.5;37;GBR;Riley Motor Company Ltd.;GBR|GBR;Percy Maclure|Sammy Newsome;Riley Nine MPH Six Racing;Riley 1.5L S4;;47;634.124;;Accident, Outside help
 1935;DNF;1.5;28;GBR;R.E. Tongue;GBR|GBR;Clifton Penn-Hughes|Thomas Fotheringham-Parker;Aston Martin 1½;Aston Martin 1.5L S4;;45;607.140;;Accident (at Maison Blanche)
 1935;DNF;1.5;25;GBR;Riley Motor Company Ltd.;GBR|CAN;Mrs. Elsie Wisdom|Mrs. Kay Petre;Riley Nine MPH Six Racing;Riley 1.5L S4;;38;512.696;;Engine
 1935;DNF;8.0;1;ROU;Prince Nicholas of Romania;ROU|FRA;Prince Nicholas of Romania|Emile Beghin;Duesenberg Model J;Duesenberg 6.9L Supercharged S8;;38;512.696;;Ignition, oil leak
-1935;DNF;3.0;16;FRA;Ecurie Argo;FRA|FRA;Bernard Chaudé|Max Foury;Bugatti Type 55;Bugatti 2.3L S6;;26;350.792;;Ignition
+1935;DNF;3.0;16;FRA;Ecurie Argo;FRA|FRA;Bernard Chaudé|Gilbert Foury;Bugatti Type 55;Bugatti 2.3L S6;;26;350.792;;Ignition
 1935;DNF;1.1;47;GBR;Ian Connell;GBR|GBR;Ian Connell|Nevil Lloyd;Singer Nine Le Mans Replica;Singer 1.0L S4;;17;229.864;;Clutch
 1935;DNS;5.0;3;FRA;No Team Name;FRA|FRA;Jacques de Vallence de Minardiere|Charles Delavau;Bugatti Type 50;Bugatti 5.0L S8;;0;0.0;;Accident in practice
 1935;DNA;1.1;40;GBR;Capt. G.E.T. Eyston;;;MG Magnette K3;Talbot 3.0L S6;;0;0.0;;
