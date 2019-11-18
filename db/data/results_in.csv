@@ -801,7 +801,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1950;DNF;S1.1;41;FRA;Mmes Rouault et Gordine (private entrant);FRA|FRA;Mme Germaine Rouault|Mme Reginé Gordine;Gordini T11 MM;Simca 1090cc S4;Dunlop;143;1929.356;;Accident
 1950;DNF;S750;49;FRA;Jacques Poch (private entrant);FRA|FRA;Jacques Poch|Edmond Mouche;Aero Minor;Aero 744cc Flat-2 (2-Stroke);Englebert;139;1875.388;;Bearing front right
 1950;DNF;S1.1;40;FRA;Norbert Jean Mahé (private entrant);FRA|FRA;Norbert Jean Mahé|Sacha Gordine;Simca Huit;Simca 1090cc S4;Dunlop;126;1699.992;;Engine (head gasket)
-1950;DNF;S3.0;24;USA;Luigi Chinetti;USA|FRA;"Luigi Chinetti|Pierre Louis-Dreyfus (""Heldé"")";Ferrari 195S Spyder;Ferrari 2.4L V12;Englebert;121;1632.532;;Transmission
+1950;DNF;S3.0;24;USA;Luigi Chinetti;USA|FRA;"Luigi Chinetti|Pierre Louis-Dreyfus (""Heldé"")";Ferrari 195 S Barchetta;Ferrari 2.3L V12;Englebert;121;1632.532;;Transmission
 1950;DNF;S5.0;10;FRA;Établissements Delettrez;FRA|FRA;Jean Delettrez|Jacques Delettrez;Delettrez Diesel;Delettrez 4.4L S6 (Diesel);Dunlop;120;1619.040;;Engine (head gasket, starter)
 1950;DNF;S1.1;44;CSHH;A.Z.N.P.;CSHH|CSHH;Václav Bobek|Jaroslav Netušil;Škoda 1101 Spyder;Škoda 1089cc S4;Barum;120;1619.040;;Engine (casting rod)
 1950;DNF;S750;54;FRA;Guy Lapchin (private entrant);FRA|FRA;Guy Lapchin|Charles Plantivaux;Panhard Dyna X84 Sport;Panhard 611cc Flat-2;Englebert;115;1551.580;;Distribution, broken valve
@@ -809,7 +809,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1950;DNF;S1.1;47;FRA;Ets. Savin & Leroy (private entrant);FRA|FRA;Fernand Leroy|Marcel Joseph;Renault 4CV;Renault 760cc S4;Dunlop;92;1241.264;;Accident (with #6)
 1950;DNF;S750;53;FRA;Jacques Savoye (private entrant);FRA|FRA;Jacques Savoye|Eugène Dussous;Monopole X84;Panhard 611cc Flat-2;Dunlop;89;1200.788;;Abnormal consumption of oil
 1950;DNF;S750;50;FRA;Sté. Pierre Ferry (private entrant);FRA|FRA;Pierre Ferry|André-Georges Claude;Ferry Sport;Renault 747cc S4;Englebert;86;1160.312;;Engine
-1950;DNF;S3.0;25;USA;Luigi Chinetti;FRA|ITA;Raymond Sommer|Dorino Serafini;Ferrari 195S Coupé;Ferrari 2.4L V12;Englebert;82;1106.344;;Electrics
+1950;DNF;S3.0;25;USA;Luigi Chinetti;FRA|ITA;Raymond Sommer|Dorino Serafini;Ferrari 195 S Berlinetta;Ferrari 2.3L V12;Englebert;82;1106.344;;Electrics
 1950;DNF;S1.1;42;FRA;Automobiles Gordini;FRA|FRA;José Scaron|Robert Pascal;Gordini T15S;Simca 1090cc S4;Dunlop;77;1038.884;;Engine
 1950;DNF;S1.5;37;FRA;Jean Brault (private entrant);FRA|FRA;Jean Brault|Louis Paimpol;Fiat 1500 Spéciale;Fiat 1.5L S4;Dunlop;75;1011.900;;Gearbox
 1950;DNF;S1.5;35;FRA;Automobiles Gordini;FRA|FRA;Roger Loyer|Jean Behra;Gordini T15S;Simca 1491cc S4;Dunlop;50;674.600;;Valves
