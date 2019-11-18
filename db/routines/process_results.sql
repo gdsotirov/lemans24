@@ -3,11 +3,11 @@ DELIMITER //
 CREATE PROCEDURE process_results()
 BEGIN
   /* Input results - table results_in */
-  DECLARE res_id            INT(11);
-  DECLARE res_race_yr       INT(11);
+  DECLARE res_id            INT;
+  DECLARE res_race_yr       INT;
   DECLARE res_pos           VARCHAR(3);
   DECLARE res_car_class     VARCHAR(12);
-  DECLARE res_car_nbr       INT(11);
+  DECLARE res_car_nbr       INT;
   DECLARE res_team_cntry    VARCHAR(16);
   DECLARE res_team_name     VARCHAR(128);
   DECLARE res_drivers_cntry VARCHAR(32);
@@ -15,27 +15,27 @@ BEGIN
   DECLARE res_car_chassis   VARCHAR(64);
   DECLARE res_car_engine    VARCHAR(64);
   DECLARE res_car_tyres     VARCHAR(16);
-  DECLARE res_laps          INT(11);
+  DECLARE res_laps          INT;
   DECLARE res_distance      DECIMAL(8,3);
   DECLARE res_racing_time   TIME;
   DECLARE res_reason        VARCHAR(128);
 
   /* Car data */
-  DECLARE new_car_id   INT(11);
-  DECLARE new_carnb_id INT(11);
+  DECLARE new_car_id   INT;
+  DECLARE new_carnb_id INT;
 
   /* Result */
-  DECLARE new_res_id INT(11);
+  DECLARE new_res_id INT;
 
   /* Team data */
-  DECLARE new_team_id    INT(11);
+  DECLARE new_team_id    INT;
   DECLARE new_team_name  VARCHAR(64);
   DECLARE new_team_cntry CHAR(4);
   DECLARE new_team_priv  TINYINT;
-  DECLARE new_team_ord   INT(11);
+  DECLARE new_team_ord   INT;
 
   /* Driver data */
-  DECLARE new_driver_id  INT(11);
+  DECLARE new_driver_id  INT;
   DECLARE new_drv_name   VARCHAR(64);
   DECLARE new_drv_title  VARCHAR(16);
   DECLARE new_drv_fname  VARCHAR(32);
@@ -44,7 +44,7 @@ BEGIN
   DECLARE new_drv_nm_sfx VARCHAR(4);
   DECLARE new_drv_sex    CHAR(1);
   DECLARE new_drv_cntry  CHAR(4);
-  DECLARE new_drv_ord    INT(11);
+  DECLARE new_drv_ord    INT;
 
   /* Cursor and handling */
   DECLARE done INT DEFAULT FALSE;
