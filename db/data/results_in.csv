@@ -574,10 +574,10 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1937;4;3.0;19;FRA;Société R.V.;FRA|FRA;Jacques de Valence de Minardiere|Louis Gérard;Delage D6-70;Delage 3.0L S6;;215;2907.590;;
 1937;5;1.5;37;GBR;J.M. Skeffington;GBR|GBR;J.M. Skeffington|R.C. Murton-Neale;Aston Martin 1½ Ulster;Aston Martin 1.5L S4;;205;2768.686;;
 1937;6;2.0;33;DEU;Adler;DEU|DEU;Peter Graff Orssich|Rudolf Sauerwein;Adler Super Trumpf Rennlimousine;Adler 1.7L S4;;205;2766.894;;
-1937;7;2.0;26;FRA;Emile Darl'Mat;FRA|FRA;Jean Pujol|Marcel Contet;Darl'Mat DS;Peugeot 2.0L S4;;203;2739.634;;
-1937;8;2.0;25;FRA;Emile Darl'Mat;FRA|FRA;Charles de Cortanze|Maurice Serre;Darl'Mat DS;Peugeot 2.0L S4;;203;2739.576;;
+1937;7;2.0;26;FRA;Emile Darl'Mat;FRA|FRA;Jean Pujol|Marcel Contet;Darl'mat DS;Peugeot 2.0L S4;;203;2739.634;;
+1937;8;2.0;25;FRA;Emile Darl'Mat;FRA|FRA;Charles de Cortanze|Maurice Serre;Darl'mat DS;Peugeot 2.0L S4;;203;2739.576;;
 1937;9;2.0;34;DEU;Adler;DEU|DEU;Otto Löhr|Paul von Guilleaume;Adler Super Trumpf Rennlimousine;Adler 1.7L S4;;202;2730.806;;
-1937;10;2.0;27;FRA;Emile Darl'Mat;FRA|FRA;Daniel Porthault|Louis Rigal;Darl'Mat DS;Peugeot 2.0L S4;;197;2668.060;;
+1937;10;2.0;27;FRA;Emile Darl'Mat;FRA|FRA;Daniel Porthault|Louis Rigal;Darl'mat DS;Peugeot 2.0L S4;;197;2668.060;;
 1937;11;2.0;31;GBR;C.T. Thomas;GBR|GBR;Mortimer Morris-Goodall|Robert P. Hichens;Aston Martin Speed Model;Aston Martin 2.0L S4;;193;2613.884;;
 1937;12;1.1;48;FRA;Just-Émile Vernet (private entrant);FRA|FRA;Just-Émile Vernet|Mme Suzanne Largeot;Simca;Fiat 1.0L S4;;171;2308.906;;
 1937;13;1.5;36;GBR;A.C. Scott;GBR|GBR;Archie Scott|Ted Halford;HRG 1500 Le Mans;Meadows 1.5L S4;;163;2212.364;;
@@ -628,13 +628,13 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1938;2;5.0;14;FRA;Gaston Serraud;FRA|FRA;Gaston Serraud|Yves Giraud-Cabantous;Delahaye 135CS;Delahaye 3.6L S6;;233;3153.873;;
 1938;3;5.0;5;FRA;Jean Prenant;FRA|FRA;Jean Prenant|André Morel;Talbot T150SS Coupe;Talbot 4.0L S6;;219;2959.697;;
 1938;4;5.0;10;FRA;Louis Villeneuve (private entrant);FRA|FRA;Louis Villeneuve|René Biolay;Delahaye 135CS;Delahaye 3.6L S6;;218;2945.791;;
-1938;5;2.0;24;FRA;Emile Darl'Mat;FRA|FRA;Charles de Cortanze|Marcel Contet;Darl'Mat DS;Peugeot 2.0L S4;;214;2896.981;;
+1938;5;2.0;24;FRA;Emile Darl'Mat;FRA|FRA;Charles de Cortanze|Marcel Contet;Darl'mat DS;Peugeot 2.0L S4;;214;2896.981;;
 1938;6;2.0;28;DEU;Adler;DEU|DEU;Peter Graff Orssich|Rudolf Sauerwein;Adler Super Trumpf Rennlimousine;Adler 1.7L S4;;211;2856.382;;
 1938;7;1.5;33;DEU;Adler;DEU|DEU;Otto Löhr|Paul von Guillaume;Adler Trumpf Rennlimousine;Adler 1.5L S4;;204;2765.037;;
 1938;8;1.1;46;FRA;Jacques Savoye (private entrant);FRA|FRA;Jacques Savoye|Pierre Savoye;"Singer Nine Le Mans Replica ""Savoye Special""";Singer 1.0L S4;;174;2350.982;;
 1938;9;1.1;42;FRA;Just-Émile Vernet (private entrant);FRA|FRA;Albert Debille|Guy Lapchin;Simca Huit;Fiat 1.1L S4;;172;2329.556;;
 1938;10;1.5;31;GBR;Ecurie Lapin Blanc;GBR|GBR;Peter Clark|Marcus Chambers;HRG Le Mans;Singer 1.5L S4;;170;2303.287;;
-1938;11;1.1;48;FRA;Victor Camerano;FRA|FRA;Victor Camerano|R. Robert;Simca Huit;Fiat 1.1L S4;;166;2249.211;;
+1938;11;1.1;48;FRA;Victor Camerano;FRA|FRA;Victor Camerano|Robert Klempeneré (R. Robert);Simca Huit;Fiat 1.1L S4;;166;2249.211;;
 1938;12;1.1;49;FRA;Claude Bonneau;FRA|FRA;Claude Bonneau|Mme Anne-Cécile Rose-Itier;MG PA Midget Special;MG 1.0L S4;;165;2227.548;;
 1938;13;1.1;40;GBR;Miss P.M. Fawcett;GBR|GBR;Miss Marjorie Fawcett|Geoffrey White;Morgan 4/4;Coventry Climax 1.1L S4;;163;2209.385;;
 1938;14;750;51;FRA;Amédée Gordini;FRA|FRA;Maurice Aimé|Charles Plantivoux;Simca Cinq;Fiat 0.6L S4;;151;2042.759;;
@@ -662,9 +662,9 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1938;DNF;1.1;39;FRA;Just-Émile Vernet (private entrant);FRA|FRA;Angelo Molinari|Georges Sarret;Fiat 508S Balilla;Fiat 508S Balilla;;40;539.680;;Oil pipe
 1938;DNF;1.5;29;FRA;Raoul Forestier;FRA|CHE;Raoul Forestier|Roger Charon;Riley Sprite TT;Riley Sprite TT;;30;404.760;;Gearbox
 1938;DNF;5.0;1;FRA;Ecurie Bleue;FRA|MCO;René Dreyfus|Louis Chiron;Delahaye 145;Delahaye 145;;23;310.316;;Oil pressure, cooling
-1938;DNF;2.0;25;FRA;Emile Darl'Mat;FRA|FRA;Jean Pujol|Louis Rigal;Darl'Mat DS;Darl'Mat DS;;18;242.856;;Engine
+1938;DNF;2.0;25;FRA;Emile Darl'Mat;FRA|FRA;Jean Pujol|Louis Rigal;Darl'mat DS;Darl'Mat DS;;18;242.856;;Engine
 1938;DNF;5.0;2;FRA;Ecurie Bleue;ITA|FRA;Gianfranco Comotti|Albert Divo;Delahaye 145;Delahaye 145;;7;94.444;;Gearbox
-1938;DNF;2.0;26;FRA;Emile Darl'Mat;FRA|FRA;Maurice Serre|Daniel Porthault;Darl'Mat DS;Darl'Mat DS;;6;80.952;;Gearbox
+1938;DNF;2.0;26;FRA;Emile Darl'Mat;FRA|FRA;Maurice Serre|Daniel Porthault;Darl'mat DS;Darl'Mat DS;;6;80.952;;Gearbox
 1938;DNF;1.5;35;GBR;Charles Morrison;GBR|GBR;Charles Morrison|Neil Watson;Atalanta;Atalanta;;4;53.968;;Front hub, bearing
 1938;DNA;5.0;9;FRA;Norbert Jean Mahé (private entrant);FRA|FRA;Norbert Jean Mahé|Heonnet;Talbot T150C;Talbot 4.0L S6;;0;0.0;;
 1938;DNA;3.0;20;CHE;Hans Ruesch;;;Alfa Romeo;;;0;0.0;;
@@ -690,7 +690,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1939;20;750;49;FRA;Gordini;FRA|FRA;Maurice Aimé|Albert Leduc;Simca Cinq;Fiat 0.6L S4;;147;1987.249;;
 1939;DNF;3.0;25;FRA;Raymond Sommer;FRA|THA;"Raymond Sommer|Prince Birabongse Bhanubandh (""Bira"")";Alfa Romeo 6C 2500SS;Alfa Romeo 2.4L S6;;173;2334.116;;Engine
 1939;DNF;5.0;18;FRA;Ecuria Francia;FRA|FRA;Marcel Contet|Robert Brunet;Delahaye 135CS;Delahaye 3.6L S6;;171;2307.132;;Suspension
-1939;DNF;1.5;31;FRA;Victor Polledry;FRA|FRA;Victor Polledry|R. Robert;Aston Martin 1½ Ulster;Aston Martin 1.5L S4;;155;2091.260;;
+1939;DNF;1.5;31;FRA;Victor Polledry;FRA|FRA;Victor Polledry|Robert Klempeneré (R. Robert);Aston Martin 1½ Ulster;Aston Martin 1.5L S4;;155;2091.260;;
 1939;DNF;5.0;3;ITA;Luigi Chinetti;ITA|GBR;Luigi Chinetti|Donald Mathieson;Talbot T26;Talbot 4.5L S6;;154;2077.768;;Accident
 1939;DNF;3.0;22;GBR;Ecurie Walter Watney;CHE|FRA;Armand Hug|Roger Loyer;Delage D6-3L;Delage 3.0L S6;;153;2064.276;;Accident
 1939;DNF;5.0;15;FRA;Robert Mazaud;FRA|FRA;Robert Mazaud|Marcel Mongin;Delahaye 135CS;Delahaye 3.6L S6;;115;1551.580;;Fire
