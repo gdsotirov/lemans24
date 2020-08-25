@@ -3408,7 +3408,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1992;DNA;C4;63;GBR;Don Farthing Racing;;;ProSport 3000;Cosworth 3.0L V8;;0;0.0;;
 1992;DNA;C4;64;GBR;Chris Taylor;GBR|GBR|GBR;Ian Ashley|John Morrison|Tony Trimmer;ProSport 3000;Cosworth 3.0L V8;;0;0.0;;
 1992;DNA;C4;65;GBR;Chris Taylor;GBR|GBR|GBR;Rob Murrells|Nick Adams|John Sheldon;ProSport 3000;Cosworth 3.0L V8;;0;0.0;;
-1993;1;C1;3;FRA;Peugeot Talbot Sport;FRA|FRA|AUS;Éric Hélary|Christophe Bouchut|Geoff Brabham;Peugeot 905 Evo 1B;Peugeot SA35 3.5 L V10;Michelin;375;5100.000;;
+1993;1;C1;3;FRA;Peugeot Talbot Sport;FRA|FRA|AUS;Éric Hélary|Christophe Bouchut|Geoff Brabham;Peugeot 905 Evo 1B;Peugeot SA35 3.5 L V10;Michelin;375;5100.000;23:54:12.590;
 1993;2;C1;1;FRA;Peugeot Talbot Sport;BEL|FRA|ITA;Thierry Boutsen|Yannick Dalmas|Teo Fabi;Peugeot 905 Evo 1B;Peugeot SA35 3.5L V10;Michelin;374;5086.400;;
 1993;3;C1;2;FRA;Peugeot Talbot Sport;FRA|ITA|FRA;Philippe Alliot|Mauro Baldi|Jean-Pierre Jabouille;Peugeot 905 Evo 1B;Peugeot SA35 3.5L V10;Michelin;367;4991.200;;
 1993;4;C1;36;JPN;Toyota Team Tom's;GBR|JPN|JPN;Eddie Irvine|Toshio Suzuki|Masanori Sekiya;Toyota TS010;Toyota RV10 3.5 L V10;Michelin;364;4950.400;;
@@ -3447,7 +3447,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1993;DNF;C2;28;FRA;Roland Bassaler;FRA|FRA|FRA;Roland Bassaler|Patrick Bourdais|Jean-Louis Capette;Sauber SHS C6;BMW M88 3.5 L I6;Goodyear;166;2257.600;16:00:00;Accident
 1993;DNF;GT;44;GBR|GBR;Lotus Sport|Chamberlain Engineering;GBR|FRA|FRA;Richard Piper|Olindo Iacobelli|Ferdinand de Lesseps;Lotus Esprit S300;Lotus 2.2 L Turbo I4;Dunlop;162;2203.200;15:20:00;Engine (head gasket)
 1993;DNF;C2;27;GBR;Chamberlain Engineering;USA|GBR|BEL;Andy Petery|Nick Adams|Hervé Regout;Spice SE89C;Ford Cosworth DFZ 3.5 L V8;Goodyear;137;1863.200;16:25:00;Engine
-1993;DNF;C2;12;FRA;Courage Compétition;JPN|SLV|ITA;Miss Tomiko Yoshikawa|Carlos Moran|Alessandro Gini;Courage C30LM;Porsche Type-935 3.0 L Turbo Flat-6;Goodyear;108;1468.800;9:20:00;Wheel
+1993;DNF;C2;12;FRA;Courage Compétition;JPN|SLV|ITA;Miss Tomiko Yoshikawa|Carlos Moran|Alessandro Gini;Courage C30LM;Porsche Type-935 3.0 L Turbo Flat-6;Goodyear;108;1468.800;9:20:00;Accident (puncture)
 1993;DNF;GT;45;GBR|GBR;Lotus Sport|Chamberlain Engineering;JPN|GBR|DNK;Yojiro Terada|Peter Hardman|Thorkild Thyrring;Lotus Esprit S300;Lotus 2.2L Turbo I4;Dunlop;92;1251.200;9:20:00;Engine
 1993;DNF;GT;56;FRA;Stéphane Ratel;GRC|USA|FRA;Costas Los|Johannes Bardutt|Claude Brana;Venturi 500LM;Renault PRV 3.0 L Turbo V6;Dunlop;80;1088.000;9:05:00;Accident
 1993;DNF;GT;46;DEU;Le Mans Porsche Team;DEU|DEU|USA;Walter Röhrl|Hans-Joachim Stuck|Hurley Haywood;Porsche 911 Turbo S LM-GT;Porsche 3.2 L Turbo Flat-6;Goodyear;79;1074.400;7:20:00;Accident (with #34 at Toyota curve)
@@ -3455,8 +3455,8 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1993;DNF;GT;48;BEL;Team Paduwa;DEU|BEL|BEL;Harald Grohs|Jean-Paul Libert|Didier Theys;Porsche 911 Carrera 2 Cup;Porsche 3.6 L Flat-6;Dunlop;8;108.800;1:00:00;Overheat
 1993;DNF;GT;51;GBR;TWR Jaguar Racing;DEU|GBR|GBR;Armin Hahne|Win Percy|David Leslie;Jaguar XJ220;Jaguar JV6 3.5 L Turbo V6;Dunlop;6;81.600;1:35:00;Overheat
 1993;DSQ;GT;50;GBR;TWR Jaguar Racing;DNK|AUS|GBR;John Nielsen|David Brabham|David Coulthard;Jaguar XJ220;Jaguar JV6 3.5 L Turbo V6;Dunlop;306;4161.600;;Illegal exhaust (catalytic converter not approved)
-1993;DNS;GT;72;GBR;Simpson Engineering;GBR|ITA|JPN;Robin Smith|Stefano Sebastiani|Tetsuya Ota;Ferrari 348 LM;Ferrari 3.4 L V8;Pirelli;0;0.0;;
-1993;DNA;GT;41;DEU;Obermaier Racing GmbH;ITA|ITA|ITA;Ruggero Grassi|Sergio Brambilla|Renato Mastropietro;Porsche 911 Carrera Cup 2;Porsche 3.8L Flat-6;;0;0.0;;
+1993;DNS;GT;72;GBR;Simpson Engineering;GBR|ITA|JPN;Robin Smith|Stefano Sebastiani|Tetsuya Ota;Ferrari 348 LM;Ferrari 3.4 L V8;Pirelli;0;0.0;;Accident in warm-up
+1993;DNS;GT;41;DEU;Obermaier Racing GmbH;ITA|ITA|ITA;Ruggero Grassi|Sergio Brambilla|Renato Mastropietro;Porsche 911 Carrera Cup 2;Porsche 3.8L Flat-6;Pirelli;0;0.0;;Accident in practice
 1993;DNA;GT;99;GEO;Georgia Automotive Mig Tako;USA|ITA|FRA;Pierre Honegger|Giampiero Consonni|Philippe Renault;MIG M100;Motori Moderni 3.5L V12;Pirelli;0;0.0;;
 1993;DNA;C1;7;FRA;Jean-Louis Ricci;GBR|FRA|FRA|FRA;Robs Lamplough|Olivier Leclére|Jean-Louis Ricci|Jean-Francois Véroux;Allard J2X-C;Cosworth DFL 3.3L V8;;0;0.0;;
 1993;DNA;C2;26;GBR;GP Motorsport;;;Spice SE90C;Cosworth DFL 3.0L V8;;0;0.0;;
