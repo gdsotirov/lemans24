@@ -1,10 +1,6 @@
 CREATE OR REPLACE VIEW Winners AS
-SELECT CASE
-         WHEN R.id <= 1935 THEN R.id - 1922
-         WHEN R.id >= 1937 AND R.id <= 1939 THEN R.id - 1922 - 1
-         WHEN R.id >= 1949 THEN R.id - 1922 - 10
-       END  "Number",
-       R.id  "Year",
+SELECT ROW_NUMBER() OVER()  "Number",
+       R.id                 "Year",
        GROUP_CONCAT(DISTINCT TM.title ORDER BY TMR.ord_num ASC SEPARATOR ' / ') "Team",
        GROUP_CONCAT(CONCAT(IFNULL(D.fname, 'f.n.u.'), ' ', D.lname)
                                       ORDER BY DR.ord_num  ASC SEPARATOR ' / ') "Drivers"
