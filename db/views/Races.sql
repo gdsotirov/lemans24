@@ -1,5 +1,6 @@
 CREATE OR REPLACE VIEW Races AS
-SELECT CONCAT(YEAR(R.event_date), ' ', '24 Hours of Le Mans') 'Race',
+SELECT ROW_NUMBER() OVER() 'Number',
+       CONCAT(YEAR(R.event_date), ' ', '24 Hours of Le Mans') 'Race',
        CONCAT(DATE_FORMAT(R.event_date, '%Y-%m-%d'), '..', DAY(R.event_date)+1) 'Dates',
        C.length_km      'Circuit lenght (km)',
        R.laps           'Laps',
