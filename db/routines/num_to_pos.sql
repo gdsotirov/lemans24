@@ -1,3 +1,5 @@
+DELIMITER //
+
 CREATE FUNCTION num_to_pos(num INT)
   RETURNS VARCHAR(3)
   DETERMINISTIC
@@ -14,4 +16,7 @@ BEGIN
            WHEN num = 98 THEN 'RES'
            WHEN num = 99 THEN 'DNA'
          END;
-END
+END //
+
+DELIMITER ;
+
