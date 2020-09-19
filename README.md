@@ -44,6 +44,7 @@ The model is in file [lemans24.mwb](db/model/lemans24.mwb) and is graphically re
 
 * `AllWomenTeams`        - List all women teams with their results
 * `Circuits`             - List circuits length and changes per years
+* `DriversWithNickname`  - List of drivers having a nickname
 * `FemaleDrivers`        - List all female drivers with years and achievements
 * `FemaleDriversByCntry` - Female drivers by country
 * `MostPodiumsByDriver`  - Most podiums by driver
