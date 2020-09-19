@@ -75,7 +75,8 @@ Add statistics over the new result tables.
 
 The project has the following requirements:
 
-* **MySQL** 5.7.6 or later (for generated columns support. MySQL 8 features are not yet used, because host server not yet upgraded);
+* **MySQL** 5.7.6 or later (for generated columns support). MySQL 8 (for window
+  functions used in views);
 * **Perl** 5.22 or later (modules Encode, HTML::Parser and HTML::TreeBuilder);
 * **Shell** (any version of Bash or sh).
 
