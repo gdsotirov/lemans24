@@ -5004,65 +5004,65 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 2018;DNF;LMP1;4;AUT;ByKolles Racing Team;GBR|FRA|AUT;Oliver Webb|Tom Dillmann|Dominik Kraihamer;ENSO CLM P1/01;Nismo VRX30A 3.0 L Turbo V6;Michelin;65;885.720;4:12:59.555;Accident (with #80)
 2018;DSQ;LMP2;26;RUS;G-Drive Racing;RUS|FRA|FRA;Roman Rusinov|Andrea Pizzitola|Jean-Éric Vergne;Oreca 07;Gibson GK428 4.2 L V8;Dunlop;369;5027.490;24:01:07.299;Had illegally modified their refueling equipment in order to fuel both cars quicker than regulations allowed
 2018;DSQ;LMP2;28;FRA;TDS Racing;FRA|FRA|FRA;François Perrodo|Loïc Duval|Matthieu Vaxivière;Oreca 07;Gibson GK428 4.2 L V8;Dunlop;365;4986.590;24:03:07.473;Had illegally modified their refueling equipment in order to fuel both cars quicker than regulations allowed
-2019;1;LMP1;8;JPN;Toyota Gazoo Racing;CHE|JPN|ESP;Sébastien Buemi|Kazuki Nakajima|Fernando Alonso;Toyota TS050 Hybrid;Toyota 2.4 L Turbo V6;Michelin;385;5246.010;24:00:10.574;
-2019;2;LMP1;7;JPN;Toyota Gazoo Racing;GBR|JPN|ARG;Mike Conway|Kamui Kobayashi|José María López;Toyota TS050 Hybrid;Toyota 2.4 L Turbo V6;Michelin;385;5246.010;24:00:27.546;
-2019;3;LMP1;11;RUS;SMP Racing;RUS|RUS|BEL;Mikhail Aleshin|Vitaly Petrov|Stoffel Vandoorne;BR Engineering BR1;AER P60B 2.4 L Turbo V6;Michelin;379;5164.254;24:00:47.948;
-2019;4;LMP1;1;CHE;Rebellion Racing;BRA|DEU|CHE;Bruno Senna|André Lotterer|Neel Jani;Rebellion R13;Gibson GL458 4.5 L V8;Michelin;376;5123.376;24:01:52.069;
-2019;5;LMP1;3;CHE;Rebellion Racing;FRA|USA|FRA;Thomas Laurent|Gustavo Menezes|Nathanaël Berthon;Rebellion R13;Gibson GL458 4.5 L V8;Michelin;370;5041.620;24:01:23.474;
-2019;6;LMP2;36;FRA;Signatech Alpine Matmut;FRA|FRA|BRA;Nicolas Lapierre|Pierre Thiriet|André Negrão;Alpine A470;Gibson GK428 4.2 L V8;Dunlop;368;5014.368;24:02:30.436;
-2019;7;LMP2;38;CHN;Jackie Chan DC Racing;CHN|FRA|MCO;Ho-Pin Tung|Gabriel Aubry|Stéphane Richelmi;Oreca 07;Gibson GK428 4.2 L V8;Dunlop;367;5000.742;24:01:11.901;
-2019;8;LMP2;28;FRA;TDS Racing;FRA|FRA|FRA;François Perrodo|Loïc Duval|Matthieu Vaxivière;Oreca 07;Gibson GK428 4.2 L V8;Dunlop;366;4987.116;24:00:40.659;
-2019;9;LMP2;22;USA;United Autosports;GBR|GBR|PRT;Philip Hanson|Paul di Resta|Filipe Albuquerque;Ligier JS P217;Gibson GK428 4.2 L V8;Michelin;365;4973.490;24:00:53.907;
-2019;10;LMP2;48;FRA;IDEC Sport;FRA|FRA|MEX;Paul Lafargue|Paul-Loup Chatin|Memo Rojas;Oreca 07;Gibson GK428 4.2 L V8;Michelin;364;4959.864;24:00:35.435;
-2019;11;LMP2;26;RUS;G-Drive Racing;RUS|NLD|FRA;Roman Rusinov|Job van Uitert|Jean-Éric Vergne;Aurus 01;Gibson GK428 4.2 L V8;Dunlop;364;4959.864;24:01:00.288;
-2019;12;LMP2;30;FRA;Duqueine Engineering;FRA|FRA|FRA;Romain Dumas|Pierre Ragues|Nico Jamin;Oreca 07;Gibson GK428 4.2 L V8;Michelin;363;4946.238;24:00:28.815;
-2019;13;LMP2;23;FRA;Panis Barthez Competition;AUT|GBR|FRA;René Binder|Will Stevens|Julien Canal;Ligier JS P217;Gibson GK428 4.2 L V8;Dunlop;362;4932.612;24:00:19.203;
-2019;14;LMP2;39;FRA;Graff;FRA|FRA|CHE;Tristan Gommendy|Vincent Capillaire|Jonathan Hirschi;Oreca 07;Gibson GK428 4.2 L V8;Michelin;362;4932.612;24:00:20.133;
-2019;15;LMP2;25;PRT;Algarve Pro Racing;USA|FRA|FRA;John Falb|Andrea Pizzitola|David Zollinger;Oreca 07;Gibson GK428 4.2 L V8;Dunlop;357;4864.482;24:03:32.245;
-2019;16;LMP2;20;DNK;High Class Racing;DNK|DNK|CHE;Dennis Andersen|Anders Fjordbach|Mathias Beche;Oreca 07;Gibson GK428 4.2 L V8;Dunlop;356;4850.856;24:02:59.659;
-2019;17;LMP2;50;FRA;Larbre Compétition;FRA|FRA|USA;Erwin Creed|Romano Ricci|Nicholas Boulle;Ligier JS P217;Gibson GK428 4.2 L V8;Michelin;355;4837.230;24:01:24.643;
-2019;18;LMP2;47;ITA;Cetilar Racing Villorba Corse;ITA|ITA|ITA;Roberto Lacorte|Andrea Belicchi|Giorgio Sernagiotto;Dallara P217;Gibson GK428 4.2 L V8;Dunlop;352;4796.352;24:02:34.882;
-2019;19;LMP2;32;USA;United Autosports;IRL|GBR|GBR;Ryan Cullen|Alex Brundle|Will Owen;Ligier JS P217;Gibson GK428 4.2 L V8;Michelin;348;4741.848;24:00:23.515;
-2019;20;LMGTEPro;51;ITA;AF Corse;GBR|ITA|BRA;James Calado|Alessandro Pier Guidi|Daniel Serra;Ferrari 488 GTE Evo;Ferrari F154CB 3.9 L Turbo V8;Michelin;342;4660.092;24:00:29.469;
-2019;21;LMGTEPro;91;DEU;Porsche GT Team;AUT|ITA|FRA;Richard Lietz|Gianmaria Bruni|Frédéric Makowiecki;Porsche 911 RSR;Porsche 4.0 L Flat-6;Michelin;342;4660.092;24:01:18.662;
-2019;22;LMGTEPro;93;USA;Porsche GT Team;GBR|NZL|FRA;Nick Tandy|Earl Bamber|Patrick Pilet;Porsche 911 RSR;Porsche 4.0 L Flat-6;Michelin;342;4660.092;24:01:36.626;
-2019;23;LMGTEPro;67;USA;Ford Chip Ganassi Team UK;GBR|GBR|USA;Harry Tincknell|Andy Priaulx|Jonathan Bomarito;Ford GT;Ford EcoBoost 3.5 L Turbo V6;Michelin;342;4660.092;24:03:52.597;
-2019;24;LMGTEPro;69;USA;Ford Chip Ganassi Team USA;AUS|NZL|GBR;Ryan Briscoe|Scott Dixon|Richard Westbrook;Ford GT;Ford EcoBoost 3.5 L Turbo V6;Michelin;341;4646.466;24:02:12.468;
-2019;25;LMGTEPro;66;USA;Ford Chip Ganassi Team UK;DEU|FRA|USA;Stefan Mücke|Olivier Pla|Billy Johnson;Ford GT;Ford EcoBoost 3.5 L Turbo V6;Michelin;340;4632.840;24:00:51.196;
-2019;26;LMP2;29;NLD;Racing Team Nederland;NLD|NLD|NLD;Giedo van der Garde|Nyck de Vries|Frits van Eerd;Dallara P217;Gibson GK428 4.2 L V8;Michelin;340;4632.840;24:02:48.518;
-2019;27;LMGTEPro;94;USA;Porsche GT Team;DEU|FRA|NOR;Sven Müller|Mathieu Jaminet|Dennis Olsen;Porsche 911 RSR;Porsche 4.0 L Flat-6;Michelin;339;4619.214;24:00:34.560;
-2019;28;LMGTEPro;63;USA;Corvette Racing;DNK|ESP|DEU;Jan Magnussen|Antonio García|Mike Rockenfeller;Chevrolet Corvette C7.R;Chevrolet LT5.5 5.5 L V8;Michelin;337;4591.962;24:01:57.941;
-2019;29;LMGTEPro;92;DEU;Porsche GT Team;DNK|FRA|BEL;Michael Christensen|Kévin Estre|Laurens Vanthoor;Porsche 911 RSR;Porsche 4.0 L Flat-6;Michelin;337;4591.962;24:03:55.044;
-2019;30;LMGTEPro;82;DEU;BMW Team MTEK;BRA|FIN|PRT;Augusto Farfus|Jesse Krohn|Antonio Felix da Costa;BMW M8 GTE;BMW S63 4.0 L Turbo V6;Michelin;335;4564.710;24:00:26.780;
-2019;31;LMGTEAm;56;DEU;Team Project 1;DEU|USA|NOR;Jörg Bergmeister|Patrick Lindsey|Egidio Perfetti;Porsche 911 RSR;Porsche 4.0 L Flat-6;Michelin;334;4551.084;24:03:05.045;
-2019;32;LMGTEAm;84;GBR;JMW Motorsport;USA|BRA|CAN;Jeff Segal|Rodrigo Baptista|Wei Lu;Ferrari 488 GTE;Ferrari F154CB 3.9 L Turbo V8;Michelin;334;4551.084;24:03:49.229;
-2019;33;LMGTEAm;62;USA;WeatherTech Racing;USA|GBR|FIN;Cooper MacNeil|Robert Smith|Toni Vilander;Ferrari 488 GTE;Ferrari F154CB 3.9 L Turbo V8;Michelin;333;4537.458;24:03:05.409;
-2019;34;LMGTEAm;77;DEU;Dempsey-Proton Racing;AUS|FRA|DEU;Matt Campbell|Julien Andlauer|Christian Ried;Porsche 911 RSR;Porsche 4.0 L Flat-6;Michelin;332;4523.832;24:00:11.757;
-2019;35;LMGTEAm;57;JPN;Car Guy Racing;JPN|ITA|FRA;Takeshi Kimura|Kei Cozzolino|Côme Ledogar;Ferrari 488 GTE;Ferrari F154CB 3.9 L Turbo V8;Michelin;332;4523.832;24:02:13.057;
-2019;36;LMGTEAm;78;DEU;Proton Competition;MCO|MCO|MCO;Louis Prette|Philippe Prette|Vincent Abril;Porsche 911 RSR;Porsche 4.0 L Flat-6;Michelin;332;4523.832;24:03:01.454;
-2019;37;LMGTEAm;61;SGP;Clearwater Racing;IRL|ITA|ARG;Matt Griffin|Matteo Cressoni|Luís Pérez Companc;Ferrari 488 GTE;Ferrari F154CB 3.9 L Turbo V8;Michelin;331;4510.206;24:01:48.090;
-2019;38;LMGTEAm;86;GBR;Gulf Racing;GBR|GBR|AUT;Mike Wainwright|Ben Barker|Thomas Preining;Porsche 911 RSR;Porsche 4.0 L Flat-6;Michelin;331;4510.206;24:02:53.948;
-2019;39;LMGTEAm;83;CHE;Kessel Racing;CHE|DNK|ITA;Miss Rahel Frey|Miss Michelle Gatting|Miss Manuela Gostner;Ferrari 488 GTE;Ferrari F154CB 3.9 L Turbo V8;Michelin;330;4496.580;24:04:05.792;
-2019;40;LMGTEPro;89;USA;Risi Competizione;GBR|FRA|BRA;Oliver Jarvis|Jules Gounon|Pipo Derani;Ferrari 488 GTE Evo;Ferrari F154CB 3.9 L Turbo V8;Michelin;329;4482.954;24:02:43.517;
-2019;41;LMGTEAm;70;JPN;MR Racing;MCO|ITA|JPN;Olivier Beretta|Eddie Cheever III|Motoaki Ishikawa;Ferrari 488 GTE;Ferrari F154CB 3.9 L Turbo V8;Michelin;328;4469.328;24:03:51.293;
-2019;42;LMGTEAm;90;GBR;TF Sport;IRL|TUR|GBR;Charlie Eastwood|Salih Yoluç|Euan Hankey;Aston Martin Vantage GTE;Aston Martin 4.5 L V8;Michelin;327;4455.702;24:02:36.061;
-2019;43;LMGTEAm;54;CHE;Spirit of Race;CHE|ITA|ITA;Thomas Flohr|Francesco Castellacci|Giancarlo Fisichella;Ferrari 488 GTE;Ferrari F154CB 3.9 L Turbo V8;Michelin;327;4455.702;24:04:58.415;
-2019;44;LMGTEPro;97;GBR;Aston Martin Racing;GBR|GBR|BEL;Alex Lynn|Jonathan Adam|Maxime Martin;Aston Martin Vantage GTE;Aston Martin 4.0 L Turbo V8;Michelin;325;4428.450;24:00:42.319;
-2019;45;LMP2;34;POL;Inter Europol Competition;POL|GBR|GBR;Jakub Smiechowski|James Winslow|Nigel Moore;Ligier JS P217;Gibson GK428 4.2 L V8;Michelin;325;4428.450;24:02:12.317;
-2019;46;LMGTEAm;60;CHE;Kessel Racing;ITA|ITA|ITA;Claudio Schiavoni|Sergio Pianezzola|Andrea Piccini;Ferrari 488 GTE;Ferrari F154CB 3.9 L Turbo V8;Michelin;324;4414.824;24:04:05.536;
-2019;47;LMGTEPro;81;DEU;BMW Team MTEK;NLD|AUT|DEU;Nick Catsburg|Philipp Eng|Martin Tomczyk;BMW M8 GTE;BMW S63 4.0 L Turbo V6;Michelin;309;4210.434;24:00:26.754;
-2019;NC;LMP2;43;GBR;RLR M Sport/Tower Events;CAN|IND|FRA;John Farano|Arjun Maini|Norman Nato;Oreca 07;Gibson GK428 4.2 L V8;Dunlop;295;4019.670;20:09:42.073;Mechanical
-2019;DNF;LMP2;31;USA;DragonSpeed;MEX|VEN|GBR;Roberto González|Pastor Maldonado|Anthony Davidson;Oreca 07;Gibson GK428 4.2 L V8;Michelin;245;3338.370;16:09:29.728;Crash
-2019;DNF;LMP2;37;CHN;Jackie Chan DC Racing;DNK|GBR|USA;David Heinemeier Hansson|Jordan King|Ricky Taylor;Oreca 07;Gibson GK428 4.2 L V8;Dunlop;199;2711.574;13:17:51.879;Gearbox
-2019;DNF;LMP1;17;RUS;SMP Racing;FRA|RUS|RUS;Stéphane Sarrazin|Egor Orudzhev|Sergey Sirotkin;BR Engineering BR1;AER P60B 2.4 L Turbo V6;Michelin;163;2221.038;10:18:13.785;Crash
-2019;DNF;LMP1;4;AUT;ByKolles Racing Team;FRA|GBR|ITA;Tom Dillmann|Oliver Webb|Paolo Ruberti;ENSO CLM P1/01;Gibson GL458 4.5 L V8;Michelin;163;2221.038;12:53:14.155;Mechanical
-2019;DNF;LMP2;49;SVK;ARC Bratislava;SVK|RUS|SWE;Miro Konôpka|Konstantin Tereshchenko|Henning Enqvist;Ligier JS P217;Gibson GK428 4.2 L V8;Dunlop;160;2180.160;13:32:48.155;Crash damage
-2019;DNF;LMGTEPro;71;ITA;AF Corse;ITA|GBR|ESP;Davide Rigon|Sam Bird|Miguel Molina;Ferrari 488 GTE Evo;Ferrari F154CB 3.9 L Turbo V8;Michelin;140;1907.640;9:54:48.259;Engine
-2019;DNF;LMGTEPro;95;GBR;Aston Martin Racing;DNK|DNK|GBR;Nicki Thiim|Marco Sørensen|Darren Turner;Aston Martin Vantage GTE;Aston Martin 4.0 L Turbo V8;Michelin;132;1798.632;9:18:25.054;Crash damage
-2019;DNF;LMGTEAm;98;GBR;Aston Martin Racing;CAN|AUT|PRT;Paul Dalla Lana|Mathias Lauda|Pedro Lamy;Aston Martin Vantage GTE;Aston Martin 4.5 L V8;Michelin;87;1185.462;7:01:33.766;Crash
-2019;DNF;LMGTEPro;64;USA;Corvette Racing;GBR|USA|CHE;Oliver Gavin|Tommy Milner|Marcel Fässler;Chevrolet Corvette C7.R;Chevrolet LT5.5 5.5 L V8;Michelin;82;1117.332;5:36:00.286;Contact
-2019;DNF;LMGTEAm;88;DEU;Dempsey-Proton Racing;ITA|ITA|JPN;Matteo Cairoli|Giorgio Roda|Satoshi Hoshino;Porsche 911 RSR;Porsche 4.0 L Flat-6;Michelin;79;1076.454;6:28:27.584;Retired
-2019;DNF;LMP1;10;USA;DragonSpeed;GBR|NLD|SWE;Ben Hanley|Renger van der Zande|Henrik Hedman;BR Engineering BR1;Gibson GL458 4.5 L V8;Michelin;76;1035.576;8:30:14.175;Gearbox 
-2019;DSQ;LMGTEPro;68;USA;Ford Chip Ganassi Team USA;FRA|USA|DEU;Sébastien Bourdais|Joey Hand|Dirk Müller;Ford GT;Ford EcoBoost 3.5 L Turbo V6;Michelin;342;4660.092;24:02:41.630;
-2019;DSQ;LMGTEAm;85;USA;Keating Motorsports;USA|NLD|BRA;Ben Keating|Jeroen Bleekemolen|Felipe Fraga;Ford GT;Ford EcoBoost 3.5 L Turbo V6;Michelin;334;4551.084;24:02:20.102;
+2019;1;LMP1;8;JPN;Toyota Gazoo Racing;CHE|JPN|ESP;Sébastien Buemi|Kazuki Nakajima|Fernando Alonso;Toyota TS050 Hybrid;Toyota 2.4 L Turbo V6;Michelin;385;5245.250;24:00:10.574;
+2019;2;LMP1;7;JPN;Toyota Gazoo Racing;GBR|JPN|ARG;Mike Conway|Kamui Kobayashi|José María López;Toyota TS050 Hybrid;Toyota 2.4 L Turbo V6;Michelin;385;5245.190;24:00:27.546;
+2019;3;LMP1;11;RUS;SMP Racing;RUS|RUS|BEL;Mikhail Aleshin|Vitaly Petrov|Stoffel Vandoorne;BR Engineering BR1;AER P60B 2.4 L Turbo V6;Michelin;379;5163.400;24:00:47.948;
+2019;4;LMP1;1;CHE;Rebellion Racing;BRA|DEU|CHE;Bruno Senna|André Lotterer|Neel Jani;Rebellion R13;Gibson GL458 4.5 L V8;Michelin;376;5122.520;24:01:52.069;
+2019;5;LMP1;3;CHE;Rebellion Racing;FRA|USA|FRA;Thomas Laurent|Gustavo Menezes|Nathanaël Berthon;Rebellion R13;Gibson GL458 4.5 L V8;Michelin;370;5040.710;24:01:23.474;
+2019;6;LMP2;36;FRA;Signatech Alpine Matmut;FRA|FRA|BRA;Nicolas Lapierre|Pierre Thiriet|André Negrão;Alpine A470;Gibson GK428 4.2 L V8;Dunlop;368;5013.550;24:02:30.436;
+2019;7;LMP2;38;CHN;Jackie Chan DC Racing;CHN|FRA|MCO;Ho-Pin Tung|Gabriel Aubry|Stéphane Richelmi;Oreca 07;Gibson GK428 4.2 L V8;Dunlop;367;4999.940;24:01:11.901;
+2019;8;LMP2;28;FRA;TDS Racing;FRA|FRA|FRA;François Perrodo|Loïc Duval|Matthieu Vaxivière;Oreca 07;Gibson GK428 4.2 L V8;Dunlop;366;4986.300;24:00:40.659;
+2019;9;LMP2;22;USA;United Autosports;GBR|GBR|PRT;Philip Hanson|Paul di Resta|Filipe Albuquerque;Ligier JS P217;Gibson GK428 4.2 L V8;Michelin;365;4972.670;24:00:53.907;
+2019;10;LMP2;48;FRA;IDEC Sport;FRA|FRA|MEX;Paul Lafargue|Paul-Loup Chatin|Memo Rojas;Oreca 07;Gibson GK428 4.2 L V8;Michelin;364;4959.050;24:00:35.435;
+2019;11;LMP2;26;RUS;G-Drive Racing;RUS|NLD|FRA;Roman Rusinov|Job van Uitert|Jean-Éric Vergne;Aurus 01;Gibson GK428 4.2 L V8;Dunlop;364;4959.070;24:01:00.288;
+2019;12;LMP2;30;FRA;Duqueine Engineering;FRA|FRA|FRA;Romain Dumas|Pierre Ragues|Nico Jamin;Oreca 07;Gibson GK428 4.2 L V8;Michelin;363;4945.440;24:00:28.815;
+2019;13;LMP2;23;FRA;Panis Barthez Competition;AUT|GBR|FRA;René Binder|Will Stevens|Julien Canal;Ligier JS P217;Gibson GK428 4.2 L V8;Dunlop;362;4931.800;24:00:19.203;
+2019;14;LMP2;39;FRA;Graff;FRA|FRA|CHE;Tristan Gommendy|Vincent Capillaire|Jonathan Hirschi;Oreca 07;Gibson GK428 4.2 L V8;Michelin;362;4931.780;24:00:20.133;
+2019;15;LMP2;25;PRT;Algarve Pro Racing;USA|FRA|FRA;John Falb|Andrea Pizzitola|David Zollinger;Oreca 07;Gibson GK428 4.2 L V8;Dunlop;357;4863.630;24:03:32.245;
+2019;16;LMP2;20;DNK;High Class Racing;DNK|DNK|CHE;Dennis Andersen|Anders Fjordbach|Mathias Beche;Oreca 07;Gibson GK428 4.2 L V8;Dunlop;356;4850.000;24:02:59.659;
+2019;17;LMP2;50;FRA;Larbre Compétition;FRA|FRA|USA;Erwin Creed|Romano Ricci|Nicholas Boulle;Ligier JS P217;Gibson GK428 4.2 L V8;Michelin;355;4836.400;24:01:24.643;
+2019;18;LMP2;47;ITA;Cetilar Racing Villorba Corse;ITA|ITA|ITA;Roberto Lacorte|Andrea Belicchi|Giorgio Sernagiotto;Dallara P217;Gibson GK428 4.2 L V8;Dunlop;352;4795.500;24:02:34.882;
+2019;19;LMP2;32;USA;United Autosports;IRL|GBR|GBR;Ryan Cullen|Alex Brundle|Will Owen;Ligier JS P217;Gibson GK428 4.2 L V8;Michelin;348;4741.030;24:00:23.515;
+2019;20;LMGTEPro;51;ITA;AF Corse;GBR|ITA|BRA;James Calado|Alessandro Pier Guidi|Daniel Serra;Ferrari 488 GTE Evo;Ferrari F154CB 3.9 L Turbo V8;Michelin;342;4659.490;24:00:29.469;
+2019;21;LMGTEPro;91;DEU;Porsche GT Team;AUT|ITA|FRA;Richard Lietz|Gianmaria Bruni|Frédéric Makowiecki;Porsche 911 RSR;Porsche 4.0 L Flat-6;Michelin;342;4659.530;24:01:18.662;
+2019;22;LMGTEPro;93;USA;Porsche GT Team;GBR|NZL|FRA;Nick Tandy|Earl Bamber|Patrick Pilet;Porsche 911 RSR;Porsche 4.0 L Flat-6;Michelin;342;4659.530;24:01:36.626;
+2019;23;LMGTEPro;67;USA;Ford Chip Ganassi Team UK;GBR|GBR|USA;Harry Tincknell|Andy Priaulx|Jonathan Bomarito;Ford GT;Ford EcoBoost 3.5 L Turbo V6;Michelin;342;4659.510;24:03:52.597;
+2019;24;LMGTEPro;69;USA;Ford Chip Ganassi Team USA;AUS|NZL|GBR;Ryan Briscoe|Scott Dixon|Richard Westbrook;Ford GT;Ford EcoBoost 3.5 L Turbo V6;Michelin;341;4645.850;24:02:12.468;
+2019;25;LMGTEPro;66;USA;Ford Chip Ganassi Team UK;DEU|FRA|USA;Stefan Mücke|Olivier Pla|Billy Johnson;Ford GT;Ford EcoBoost 3.5 L Turbo V6;Michelin;340;4632.260;24:00:51.196;
+2019;26;LMP2;29;NLD;Racing Team Nederland;NLD|NLD|NLD;Giedo van der Garde|Nyck de Vries|Frits van Eerd;Dallara P217;Gibson GK428 4.2 L V8;Michelin;340;4632.040;24:02:48.518;
+2019;27;LMGTEPro;94;USA;Porsche GT Team;DEU|FRA|NOR;Sven Müller|Mathieu Jaminet|Dennis Olsen;Porsche 911 RSR;Porsche 4.0 L Flat-6;Michelin;339;4618.630;24:00:34.560;
+2019;28;LMGTEPro;63;USA;Corvette Racing;DNK|ESP|DEU;Jan Magnussen|Antonio García|Mike Rockenfeller;Chevrolet Corvette C7.R;Chevrolet LT5.5 5.5 L V8;Michelin;337;4591.360;24:01:57.941;
+2019;29;LMGTEPro;92;DEU;Porsche GT Team;DNK|FRA|BEL;Michael Christensen|Kévin Estre|Laurens Vanthoor;Porsche 911 RSR;Porsche 4.0 L Flat-6;Michelin;337;4591.380;24:03:55.044;
+2019;30;LMGTEPro;82;DEU;BMW Team MTEK;BRA|FIN|PRT;Augusto Farfus|Jesse Krohn|Antonio Felix da Costa;BMW M8 GTE;BMW S63 4.0 L Turbo V6;Michelin;335;4564.110;24:00:26.780;
+2019;31;LMGTEAm;56;DEU;Team Project 1;DEU|USA|NOR;Jörg Bergmeister|Patrick Lindsey|Egidio Perfetti;Porsche 911 RSR;Porsche 4.0 L Flat-6;Michelin;334;4550.520;24:03:05.045;
+2019;32;LMGTEAm;84;GBR;JMW Motorsport;USA|BRA|CAN;Jeff Segal|Rodrigo Baptista|Wei Lu;Ferrari 488 GTE;Ferrari F154CB 3.9 L Turbo V8;Michelin;334;4550.520;24:03:49.229;
+2019;33;LMGTEAm;62;USA;WeatherTech Racing;USA|GBR|FIN;Cooper MacNeil|Robert Smith|Toni Vilander;Ferrari 488 GTE;Ferrari F154CB 3.9 L Turbo V8;Michelin;333;4536.860;24:03:05.409;
+2019;34;LMGTEAm;77;DEU;Dempsey-Proton Racing;AUS|FRA|DEU;Matt Campbell|Julien Andlauer|Christian Ried;Porsche 911 RSR;Porsche 4.0 L Flat-6;Michelin;332;4523.230;24:00:11.757;
+2019;35;LMGTEAm;57;JPN;Car Guy Racing;JPN|ITA|FRA;Takeshi Kimura|Kei Cozzolino|Côme Ledogar;Ferrari 488 GTE;Ferrari F154CB 3.9 L Turbo V8;Michelin;332;4523.230;24:02:13.057;
+2019;36;LMGTEAm;78;DEU;Proton Competition;MCO|MCO|MCO;Louis Prette|Philippe Prette|Vincent Abril;Porsche 911 RSR;Porsche 4.0 L Flat-6;Michelin;332;4523.250;24:03:01.454;
+2019;37;LMGTEAm;61;SGP;Clearwater Racing;IRL|ITA|ARG;Matt Griffin|Matteo Cressoni|Luís Pérez Companc;Ferrari 488 GTE;Ferrari F154CB 3.9 L Turbo V8;Michelin;331;4509.620;24:01:48.090;
+2019;38;LMGTEAm;86;GBR;Gulf Racing;GBR|GBR|AUT;Mike Wainwright|Ben Barker|Thomas Preining;Porsche 911 RSR;Porsche 4.0 L Flat-6;Michelin;331;4509.550;24:02:53.948;
+2019;39;LMGTEAm;83;CHE;Kessel Racing;CHE|DNK|ITA;Miss Rahel Frey|Miss Michelle Gatting|Miss Manuela Gostner;Ferrari 488 GTE;Ferrari F154CB 3.9 L Turbo V8;Michelin;330;4495.980;24:04:05.792;
+2019;40;LMGTEPro;89;USA;Risi Competizione;GBR|FRA|BRA;Oliver Jarvis|Jules Gounon|Pipo Derani;Ferrari 488 GTE Evo;Ferrari F154CB 3.9 L Turbo V8;Michelin;329;4482.350;24:02:43.517;
+2019;41;LMGTEAm;70;JPN;MR Racing;MCO|ITA|JPN;Olivier Beretta|Eddie Cheever III|Motoaki Ishikawa;Ferrari 488 GTE;Ferrari F154CB 3.9 L Turbo V8;Michelin;328;4468.670;24:03:51.293;
+2019;42;LMGTEAm;90;GBR;TF Sport;IRL|TUR|GBR;Charlie Eastwood|Salih Yoluç|Euan Hankey;Aston Martin Vantage GTE;Aston Martin 4.5 L V8;Michelin;327;4455.100;24:02:36.061;
+2019;43;LMGTEAm;54;CHE;Spirit of Race;CHE|ITA|ITA;Thomas Flohr|Francesco Castellacci|Giancarlo Fisichella;Ferrari 488 GTE;Ferrari F154CB 3.9 L Turbo V8;Michelin;327;4455.120;24:04:58.415;
+2019;44;LMGTEPro;97;GBR;Aston Martin Racing;GBR|GBR|BEL;Alex Lynn|Jonathan Adam|Maxime Martin;Aston Martin Vantage GTE;Aston Martin 4.0 L Turbo V8;Michelin;325;4427.850;24:00:42.319;
+2019;45;LMP2;34;POL;Inter Europol Competition;POL|GBR|GBR;Jakub Smiechowski|James Winslow|Nigel Moore;Ligier JS P217;Gibson GK428 4.2 L V8;Michelin;325;4427.630;24:02:12.317;
+2019;46;LMGTEAm;60;CHE;Kessel Racing;ITA|ITA|ITA;Claudio Schiavoni|Sergio Pianezzola|Andrea Piccini;Ferrari 488 GTE;Ferrari F154CB 3.9 L Turbo V8;Michelin;324;4414.220;24:04:05.536;
+2019;47;LMGTEPro;81;DEU;BMW Team MTEK;NLD|AUT|DEU;Nick Catsburg|Philipp Eng|Martin Tomczyk;BMW M8 GTE;BMW S63 4.0 L Turbo V6;Michelin;309;4209.850;24:00:26.754;
+2019;NC;LMP2;43;GBR;RLR M Sport/Tower Events;CAN|IND|FRA;John Farano|Arjun Maini|Norman Nato;Oreca 07;Gibson GK428 4.2 L V8;Dunlop;295;4018.940;20:09:42.073;Mechanical
+2019;DNF;LMP2;31;USA;DragonSpeed;MEX|VEN|GBR;Roberto González|Pastor Maldonado|Anthony Davidson;Oreca 07;Gibson GK428 4.2 L V8;Michelin;245;3337.790;16:09:29.728;Crash
+2019;DNF;LMP2;37;CHN;Jackie Chan DC Racing;DNK|GBR|USA;David Heinemeier Hansson|Jordan King|Ricky Taylor;Oreca 07;Gibson GK428 4.2 L V8;Dunlop;199;2711.050;13:17:51.879;Gearbox
+2019;DNF;LMP1;17;RUS;SMP Racing;FRA|RUS|RUS;Stéphane Sarrazin|Egor Orudzhev|Sergey Sirotkin;BR Engineering BR1;AER P60B 2.4 L Turbo V6;Michelin;163;2220.600;10:18:13.785;Crash
+2019;DNF;LMP1;4;AUT;ByKolles Racing Team;FRA|GBR|ITA;Tom Dillmann|Oliver Webb|Paolo Ruberti;ENSO CLM P1/01;Gibson GL458 4.5 L V8;Michelin;163;2220.490;12:53:14.155;Mechanical
+2019;DNF;LMP2;49;SVK;ARC Bratislava;SVK|RUS|SWE;Miro Konôpka|Konstantin Tereshchenko|Henning Enqvist;Ligier JS P217;Gibson GK428 4.2 L V8;Dunlop;160;2179.670;13:32:48.155;Crash damage
+2019;DNF;LMGTEPro;71;ITA;AF Corse;ITA|GBR|ESP;Davide Rigon|Sam Bird|Miguel Molina;Ferrari 488 GTE Evo;Ferrari F154CB 3.9 L Turbo V8;Michelin;140;1907.290;9:54:48.259;Engine
+2019;DNF;LMGTEPro;95;GBR;Aston Martin Racing;DNK|DNK|GBR;Nicki Thiim|Marco Sørensen|Darren Turner;Aston Martin Vantage GTE;Aston Martin 4.0 L Turbo V8;Michelin;132;1798.320;9:18:25.054;Crash damage
+2019;DNF;LMGTEAm;98;GBR;Aston Martin Racing;CAN|AUT|PRT;Paul Dalla Lana|Mathias Lauda|Pedro Lamy;Aston Martin Vantage GTE;Aston Martin 4.5 L V8;Michelin;87;1185.190;7:01:33.766;Crash
+2019;DNF;LMGTEPro;64;USA;Corvette Racing;GBR|USA|CHE;Oliver Gavin|Tommy Milner|Marcel Fässler;Chevrolet Corvette C7.R;Chevrolet LT5.5 5.5 L V8;Michelin;82;1117.090;5:36:00.286;Contact
+2019;DNF;LMGTEAm;88;DEU;Dempsey-Proton Racing;ITA|ITA|JPN;Matteo Cairoli|Giorgio Roda|Satoshi Hoshino;Porsche 911 RSR;Porsche 4.0 L Flat-6;Michelin;79;1076.140;6:28:27.584;Retired
+2019;DNF;LMP1;10;USA;DragonSpeed;GBR|NLD|SWE;Ben Hanley|Renger van der Zande|Henrik Hedman;BR Engineering BR1;Gibson GL458 4.5 L V8;Michelin;76;1035.170;8:30:14.175;Gearbox
+2019;DSQ;LMGTEPro;68;USA;Ford Chip Ganassi Team USA;FRA|USA|DEU;Sébastien Bourdais|Joey Hand|Dirk Müller;Ford GT;Ford EcoBoost 3.5 L Turbo V6;Michelin;342;4659.530;24:02:41.630;
+2019;DSQ;LMGTEAm;85;USA;Keating Motorsports;USA|NLD|BRA;Ben Keating|Jeroen Bleekemolen|Felipe Fraga;Ford GT;Ford EcoBoost 3.5 L Turbo V6;Michelin;334;4550.500;24:02:20.102;
 2019;DNS;LMGTEAm;99;DEU;Dempsey-Proton Racing;USA|USA|SWE;Patrick Long|Tracy Krohn|Niclas Jönsson;Porsche 911 RSR;Porsche 4.0 L Flat-6;Michelin;0;0.0;;Withdrawn
