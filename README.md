@@ -42,10 +42,11 @@ The model is in file [lemans24.mwb](db/model/lemans24.mwb) and is graphically re
 
 ## Views
 
+* `AllDriversResults`    - List of all drivers with active years and achievements
 * `AllWomenTeams`        - List all women teams with their results
 * `Circuits`             - List circuits length and changes per years
 * `DriversWithNickname`  - List of drivers having a nickname
-* `FemaleDrivers`        - List all female drivers with years and achievements
+* `FemaleDrivers`        - List all female drivers with active years and achievements
 * `FemaleDriversByCntry` - Female drivers by country
 * `MostPodiumsByDriver`  - Most podiums by driver
 * `MostWinsByDriver`     - Most wins by driver
@@ -64,6 +65,7 @@ The model is in file [lemans24.mwb](db/model/lemans24.mwb) and is graphically re
 
 * `check_position`  - Checks position for number, NC, DNF, DNS, DSQ values
 * `cleanup`         - Cleans up tables `driver_results`, `team_results`, `results`, `car_tyres`, `car_numbers`, `cars`, `drivers`, `teams`, resets `AUTO_INCREMENT` and marks all records in table `results_in` as not processed
+* `drv_full_name`   - Builds the full name of driver including titles, nickname and suffix if any
 * `num_to_pos`      - Convert number to alphanumeric position (including NC, DNF, DNS, etc.)
 * `pos_to_num`      - Convert alphanumeric position to number (with weights for NC, DNF, DNS, etc.)
 * `process_results` - Processes results from `results_in` into tables `cars`, `car_numbers`, `car_tyres`, `results`, `teams`, `team_results`, `drivers` and `driver_results`. Sets the record in `results_in` as processed
@@ -76,12 +78,12 @@ Add statistics over the new result tables.
 
 The project has the following requirements:
 
-* **MySQL** 5.7.6 or later (for generated columns support). MySQL 8 (for window
-  functions used in views);
+* **MySQL** 5.7.6 or later (for generated columns support). Version 8.0.2 (for
+  window functions used in views);
 * **Perl** 5.22 or later (modules Encode, HTML::Parser and HTML::TreeBuilder);
 * **Shell** (any version of Bash or sh).
 
 # Licenses
 
-This code and data model in this sample project is available under GPL v2 license.
-Data source is Wikipedia, so data is under CC BY-SA 3.0 license.
+This code and data model in this sample project is available under GPL v2
+license. Data source is Wikipedia, so data is under CC BY-SA 3.0 license.
