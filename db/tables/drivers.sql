@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS drivers (
   nickname  VARCHAR(32)     NULL,
   nm_suffix VARCHAR(4)      NULL COMMENT 'Name suffix (e.g. Jr., Sr., III)',
   full_name VARCHAR(128)    GENERATED ALWAYS AS (
+                              /* TODO: Call drv_full_name here when possible */
                               CONCAT(CASE WHEN title NOT LIKE 'Baron %' AND
                                                title NOT LIKE 'Earl %'  AND
                                                title NOT LIKE 'Lord %'
@@ -37,3 +38,4 @@ CREATE TABLE IF NOT EXISTS drivers (
 )
 ENGINE = InnoDB
 COMMENT = 'Drivers register';
+
