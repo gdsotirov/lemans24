@@ -28,6 +28,7 @@ sub start {
        && (   $attr->{'id'} =~ /^Official_results/i
            || $attr->{'id'} =~ /^Results$/i
            || $attr->{'id'} =~ /^Race_results?$/i
+           || $attr->{'id'} =~ /^Race_classification/i
            || $attr->{'id'} =~ /^Disqualified$/i
            || $attr->{'id'} =~ /^Not_classified/i
            || $attr->{'id'} =~ /^Did_Not_Finish/i
