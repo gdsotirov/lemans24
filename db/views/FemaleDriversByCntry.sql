@@ -59,4 +59,5 @@ SELECT D.country                                       "Country",
    AND D.sex        = 'F'
    AND RES.pos NOT IN ('DNA', 'DNP', 'DNQ', 'DNS', 'RES')
  GROUP BY D.country
- ORDER BY COUNT(DISTINCT D.id) DESC, "First";
+ ORDER BY COUNT(DISTINCT D.id) DESC, `First`;
+

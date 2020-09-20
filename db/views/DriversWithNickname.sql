@@ -20,4 +20,5 @@ SELECT CONCAT('"', D.nickname, '"',
    AND RES.race_id  = R.id
    AND D.nickname IS NOT NULL
  GROUP BY D.id, D.country
- ORDER BY MIN(R.id) ASC, "Name";
+ ORDER BY MIN(R.id) ASC, `Name`;
+
