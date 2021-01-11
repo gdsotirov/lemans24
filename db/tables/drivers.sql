@@ -5,7 +5,7 @@ CREATE TABLE IF NOT EXISTS drivers (
   lname     VARCHAR(32)     NOT NULL,
   nickname  VARCHAR(32)     NULL,
   nm_suffix VARCHAR(4)      NULL COMMENT 'Name suffix (e.g. Jr., Sr., III)',
-  full_name VARCHAR(128)    GENERATED ALWAYS AS (
+  full_name VARCHAR(64)     GENERATED ALWAYS AS (
                               /* TODO: Call drv_full_name here when possible */
                               CONCAT(CASE WHEN title NOT LIKE 'Baron %' AND
                                                title NOT LIKE 'Earl %'  AND
