@@ -506,7 +506,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1935;DNF;8.0;1;ROU;Prince Nicholas of Romania;ROU|FRA;Prince Nicholas of Romania|Emile Beghin;Duesenberg Model J;Duesenberg 6.9L Supercharged S8;;38;512.696;;Ignition, oil leak
 1935;DNF;3.0;16;FRA;Ecurie Argo;FRA|FRA;Bernard Chaudé|Gilbert Foury;Bugatti Type 55;Bugatti 2.3L S6;;26;350.792;;Ignition
 1935;DNF;1.1;47;GBR;Ian Connell;GBR|GBR;Ian Connell|Nevil Lloyd;Singer Nine Le Mans Replica;Singer 1.0L S4;;17;229.864;;Clutch
-1935;DNS;5.0;3;FRA;No Team Name;FRA|FRA;Jacques de Vallence de Minardiere|Charles Delavau;Bugatti Type 50;Bugatti 5.0L S8;;0;0.0;;Accident in practice
+1935;DNS;5.0;3;FRA;No Team Name;FRA|FRA;Jacques de Valence de Minardière|Charles Delavau;Bugatti Type 50;Bugatti 5.0L S8;;0;0.0;;Accident in practice
 1935;DNA;1.1;40;GBR;Capt. G.E.T. Eyston;;;MG Magnette K3;Talbot 3.0L S6;;0;0.0;;
 1936;DNA;2.0;1;FRA;Mme Anne-Cécile Rose-Itier;FRA;Mme Anne-Cécile Rose-Itier;Adler Super Trumpf Rennlimousine;Adler 1.7L S4;;0;0.0;;Race cancelled
 1936;DNA;2.0;2;DEU;Adler;DEU|DEU;Peter Orssich|Rudolph Sauerwein;Adler Super Trumpf Rennlimousine;Adler 1.7L S4;;0;0.0;;Race cancelled
@@ -571,7 +571,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1937;1;5.0;2;FRA;Roger Labric;FRA|FRA;Jean-Pierre Wimille|Robert Benoist;Bugatti Type 57G Tank;Bugatti 3.3L S8;Dunlop;243;3287.938;;
 1937;2;5.0;14;FRA;Joseph Paul;FRA|FRA;Joseph Paul|Marcel Mongin;Delahaye 135CS;Delahaye 3.6L S6;;236;3185.443;;
 1937;3;5.0;10;FRA;Ecurie Bleue;FRA|FRA;René Dreyfus|Henri Stoffel;Delahaye 135CS;Delahaye 3.6L S6;;231;3125.428;;
-1937;4;3.0;19;FRA;Société R.V.;FRA|FRA;Jacques de Valence de Minardiere|Louis Gérard;Delage D6-70;Delage 3.0L S6;;215;2907.590;;
+1937;4;3.0;19;FRA;Société R.V.;FRA|FRA;Jacques de Valence de Minardière|Louis Gérard;Delage D6-70;Delage 3.0L S6;;215;2907.590;;
 1937;5;1.5;37;GBR;J.M. Skeffington;GBR|GBR;J.M. Skeffington|R.C. Murton-Neale;Aston Martin 1½ Ulster;Aston Martin 1.5L S4;;205;2768.686;;
 1937;6;2.0;33;DEU;Adler;DEU|DEU;Peter Graff Orssich|Rudolf Sauerwein;Adler Super Trumpf Rennlimousine;Adler 1.7L S4;;205;2766.894;;
 1937;7;2.0;26;FRA;Emile Darl'Mat;FRA|FRA;Jean Pujol|Marcel Contet;Darl'mat DS;Peugeot 2.0L S4;;203;2739.634;;
@@ -654,7 +654,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1938;DNF;1.1;47;GBR;Team Autosports;GBR|GBR;John Donald Barnes|Tommy Wisdom;Singer Nine Le Mans Replica;Singer Nine Le Mans Replica;;74;998.408;;Engine (crankshaft, support)
 1938;DNF;1.1;45;FRA;Just-Émile Vernet (private entrant);FRA|FRA;Gaston Tramar|Paul Samuel;Simca 1000;Simca 1000;;69;930.948;;Engine
 1938;DNF;5.0;3;ITA;Luigi Chinetti;FRA|ITA;Philippe Etancelin|Luigi Chinetti;Talbot T26;Talbot T26;;66;890.472;;Engine, valves
-1938;DNF;3.0;22;FRA;Société R.V.;FRA|FRA;Louis Gérard|Jacques de Velance de Minardiere;Delage D6-70;Delage D6-70;;58;782.536;;Engine
+1938;DNF;3.0;22;FRA;Société R.V.;FRA|FRA;Louis Gérard|Jacques de Valence de Minardière;Delage D6-70;Delage D6-70;;58;782.536;;Engine
 1938;DNF;1.1;41;FRA;Just-Émile Vernet (private entrant);FRA|FRA;Just-Émile Vernet|Mme Suzanne Largeot;Simca Huit;Simca Huit;;55;748.060;;Oil pipe
 1938;DNF;5.0;21;FRA;Marcel Horvilleur;FRA|FRA;Marcel Horvilleur|Yves Matra;Alfa Romeo 2300 Monza;Alfa Romeo 2300 Monza;;53;715.076;;Engine
 1938;DNF;5.0;11;FRA;Joseph Paul;FRA|FRA;Marcel Mongin|Robert Mazaud;Delahaye 135CS;Delahaye 135CS;;50;674.600;;Fire
@@ -1008,7 +1008,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1953;DNF;S2.0;62;FRA;Établissements Fiat Dagrada;FRA|ITA;Norbert Jean Mahé|Comte Giovanni 'Johnny' Lurani;Fiat 8V;Fiat 1996cc V8;;8;107.936;1:00:00;Engine (pushrod)
 1953;DNF;S8.0;4;GBR;Allard Motor Company;GBR|GBR;Sydney Allard|Philip Fotheringham-Parker;Allard J2R;Cadillac 5.4L V8;;4;53.968;1:00:00;Brakes, cracked drum
 1953;DNS;S3.0;24;FRA;Automobiles Gordini;FRA|FRA;Jean Behra|Jean Lucas;Gordini T24S;Gordini 2.3L I6;;0;0.0;;
-1953;DNS;S3.0;28;ESP;Empresa Nacional de Autocamiones S.A.;ESP|DEU;Juan Jover|Paul Metternich;Pegaso Z-102 Spyder;Pegaso 2.8L V8 Supercharged;;0;0.0;;Accident in training
+1953;DNS;S3.0;28;ESP;Empresa Nacional de Autocamiones S.A.;ESP|DEU;Juan Jover|Fürst Paul von Metternich-Winneburg;Pegaso Z-102 Spyder;Pegaso 2.8L V8 Supercharged;;0;0.0;;Accident in training
 1953;DNS;S3.0;29;ESP;Empresa Nacional de Autocamiones S.A.;ESP|ESP;Joaquin Palacio Pover|Pablo Julio Reh Cardrona;Pegaso Z-102 Spyder;Pegaso 2.8L V8 Supercharged;;0;0.0;;Accident in training
 1953;DNS;S1.5;43;DEU;Borgward GmbH;DEU|DEU;Karl-Heinz Schaufele|Adolf Brudes;Borgward-Hansa 1500 'Rennsport';Borgward 1498cc S4;Continental;0;0.0;;Accident in training
 1953;DNS;S5.0;64;FRA;Automobiles Talbot-Darraq SA;FRA;Jean Blanc;Talbot-Lago T26GS;Talbot-Lago 4.5L I6;;0;0.0;;Withdrawn
@@ -1185,7 +1185,7 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 1956;DNF;S750;48;ITA;Moretti Automobili;FRA|FRA;Marcel Lauga|Jean-Michel Durif;Moretti 750 Gran Sport;Moretti 747cc S4;Pirelli;62;834.582;9:00:00;Engine (piston)
 1956;DNF;S2.0;21;FRA;Pierre Meyrat (private entrant);FRA|FRA;Pierre Meyrat|Fernand Tavano;Ferrari 500 TR;Ferrari 1985cc S4;Dunlop;61;821.121;5:45:00;Accident (with #26 at Maison Blanche)
 1956;DNF;S1.5;26;DEU;Porsche KG;DEU|DEU;Max Nathan|Helmut 'Helm' Glöckler;Porsche 356 Carrera;Porsche 1498cc F4;Continental;61;821.121;5:45:00;Accident (with #21 at Maison Blanche)
-1956;DNF;S3.0;7;DEU;P. Metternich;DEU|DEU;Fürst Paul von Metternich- Winneburg|Wittigo von Einsiedel;Mercedes-Benz 300SL;Mercedes-Benz 3.0L S6;Continental;58;780.736;7:00:00;Engine
+1956;DNF;S3.0;7;DEU;P. Metternich;DEU|DEU;Fürst Paul von Metternich-Winneburg|Wittigo von Einsiedel;Mercedes-Benz 300SL;Mercedes-Benz 3.0L S6;Continental;58;780.736;7:00:00;Engine
 1956;DNF;S750;49;FRA;Automobiles Panhard;FRA|FRA;Jean Hémard|Pierre Flahaut;Panhard-Monopole X89;Panhard 745cc F2;Dunlop;50;673.050;6:00:00;Engine
 1956;DNF;S1.5;27;DEU;Wolfgang Seidel (private entrant);NLD|NLD;Carel Godin de Beaufort|Mathieu Hezemans;Porsche 550 RS Spyder;Porsche 1498cc F4;Continental;48;646.128;7:00:00;Transmission, suspension
 1956;DNF;S750;50;FRA;Automobiles Panhard;FRA|FRA;Pierre Chancel|André Beaulieux;Panhard-Monopole X88;Panhard 745cc F2;Dunlop;46;619.206;5:00:00;Accident
