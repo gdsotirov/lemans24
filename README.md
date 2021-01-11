@@ -3,6 +3,34 @@
 A schema with 24 Hours of Le Mans endurance race results including all races,
 drivers, teams and cars to be used for statistics.
 
+## How to use
+
+In order to use the project you need to do the following:
+
+1. Create database structure:
+  * Open `db/model/lemans24.mwb` in MySQL Workbench;
+  * From the _Database_ menu choose _Forward Engineer..._;
+  * Follow the wizard and generate the database on your MySQL instance.
+
+_Note_: You could also use _File_ -> _Export_ -> _Forward Engineer SQL CREATE_
+_Script_ to generate file for use on command line.
+
+2. Import data:
+  * In MySQL Workbench's Navigator select table `circuits`;
+  * Right click and select _Table Data Import Wizard_;
+  * Select file `db/data/circuits.csv` and click _Next_;
+  * You have to adjust column names and skip colum `id`;
+  * Then, repeat the same for files `db/data/races.csv` and
+  `db/data/results_in.csv` for the respective tables;
+  * Finally, execute script `db/data/tyres.sql`.
+3. Load data:
+  * To get structured data populated in the database tables execute procedure
+  `process_results` with `call process_results();`.
+
+_Remark_: For faster performance disable
+[autocommit](https://dev.mysql.com/doc/refman/8.0/en/innodb-autocommit-commit-rollback.html)
+for the execution of the procedure.
+
 # Contents
 
 ## Model
@@ -91,7 +119,9 @@ graphically represented here below.
 
 # TODO
 
-Add more statistics over the results tables.
+* Add more statistics over the results tables.
+* Provide easier way for others to use the project (i.e. create database and
+load data - see [issue #1](https://github.com/gdsotirov/lemans24/issues/1)).
 
 # Requirements
 
