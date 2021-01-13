@@ -8,12 +8,21 @@ drivers, teams and cars to be used for statistics.
 In order to use the project you need to do the following:
 
 1. Create database structure:
-  * Open `db/model/lemans24.mwb` in MySQL Workbench;
-  * From the _Database_ menu choose _Forward Engineer..._;
-  * Follow the wizard and generate the database on your MySQL instance.
+  * Option 1:
+    - Open [lemans24.mwb](db/model/lemans24.mwb) in MySQL Workbench;
+    - From the _Database_ menu choose
+    [Forward Engineer](https://dev.mysql.com/doc/workbench/en/wb-forward-engineering-live-server.html);
+    - Follow the wizard and generate the database on your MySQL instance.
 
-_Note_: You could also use _File_ -> _Export_ -> _Forward Engineer SQL CREATE_
-_Script_ to generate file for use on command line.
+_Note_: You could also use
+[Forward Engineer SQL CREATE Script](https://dev.mysql.com/doc/workbench/en/wb-forward-engineering-sql-scripts.html)
+to generate SQL script for use on the command line.
+
+  * Option 2:
+    - Get the schema creation script [lemans24.sql](db/model/lemans24.sql);
+    - Import it with either `mysql` command-line client (see
+    [Executing SQL Statements from a Text File](https://dev.mysql.com/doc/refman/8.0/en/mysql-batch-commands.html))
+    or with [MySQL Shell](https://dev.mysql.com/doc/mysql-shell/8.0/en/).
 
 2. Import data:
   * In MySQL Workbench's Navigator select table `circuits`;
@@ -127,9 +136,15 @@ load data - see [issue #1](https://github.com/gdsotirov/lemans24/issues/1)).
 
 The project has the following requirements:
 
-* **MySQL** 5.7.6 or later (for generated columns support). Version 8.0.2 (for
-  window functions used in views);
-* **Perl** 5.22 or later (modules Encode, HTML::Parser and HTML::TreeBuilder);
+* **MySQL** 8.0.2 (for
+[window functions](https://dev.mysql.com/doc/refman/8.0/en/window-functions.html)
+used in views). Everything else could be run also on 5.7.6 or later (for
+[generated columns](https://dev.mysql.com/doc/refman/5.7/en/create-table-generated-columns.html)
+support).
+* **Perl** 5.22 or later (with modules
+[Encode](https://metacpan.org/pod/Encode),
+[HTML::Parser](https://metacpan.org/pod/HTML::Parser) and
+[HTML::TreeBuilder](https://metacpan.org/pod/HTML::TreeBuilder));
 * **Shell** (any version of Bash or sh).
 
 # Licenses
