@@ -1,21 +1,21 @@
 CREATE OR REPLACE VIEW AllDriversResults AS
-SELECT D.full_name                                     "Name",
+SELECT D.full_name                                     AS `Name`,
        CASE D.sex
          WHEN 'F' THEN 'Female'
          ELSE 'Male'
-       END                                             "Sex",
-       D.country                                       "Country",
-       GROUP_CONCAT(R.id ORDER BY R.id SEPARATOR ', ') Years,
-       COUNT(*)                                        "Starts",
-       num_to_pos(MIN(pos_to_num(RES.pos)))            "BestFinish",
-       SUM(CASE WHEN RES.pos = 1 THEN 1 ELSE 0 END)    "Ov Wins",
+       END                                             AS Sex,
+       D.country                                       AS Country,
+       GROUP_CONCAT(R.id ORDER BY R.id SEPARATOR ', ') AS Years,
+       COUNT(*)                                        AS `Starts`,
+       num_to_pos(MIN(pos_to_num(RES.pos)))            AS BestFinish,
+       SUM(CASE WHEN RES.pos = 1 THEN 1 ELSE 0 END)    AS OvWins,
        SUM(CASE WHEN RES.pos BETWEEN 1 AND 10
-                THEN 1 ELSE 0 END)                     "Ov Top 10",
+                THEN 1 ELSE 0 END)                     AS OvTop10,
        GROUP_CONCAT(CASE WHEN RES.pos BETWEEN 1 AND 10
                          THEN CONCAT(R.id, ' (', RES.pos, ')')
                          ELSE NULL
                     END
-                    ORDER BY R.id SEPARATOR ', ')      "Ov Top 10 Years",
+                    ORDER BY R.id SEPARATOR ', ')      AS OvTop10Years,
        SUM(CASE
              WHEN RES.pos =
                (SELECT MIN(pos_to_num(IR.pos)) /* best class position */
@@ -31,7 +31,7 @@ SELECT D.full_name                                     "Name",
              THEN 1
              ELSE 0
            END
-          )                                           "Class Wins",
+          )                                           AS ClassWins,
        GROUP_CONCAT(
            CASE
              WHEN RES.pos =
@@ -48,7 +48,7 @@ SELECT D.full_name                                     "Name",
              THEN CONCAT(R.id, ' (', C.car_class, ')')
              ELSE NULL
            END
-           ORDER BY R.id SEPARATOR ', ')              "Class Win Years"
+           ORDER BY R.id SEPARATOR ', ')              AS ClassWinYears
   FROM drivers        D,
        driver_results DR,
        races          R,

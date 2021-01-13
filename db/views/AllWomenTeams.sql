@@ -1,14 +1,14 @@
 CREATE OR REPLACE VIEW AllWomenTeams AS
-SELECT R.id                                       "Year",
+SELECT R.id                                       AS `Year`,
        GROUP_CONCAT(DISTINCT TM.title
                     ORDER BY TR.ord_num
-                    SEPARATOR ', ')               "Team",
+                    SEPARATOR ', ')               AS Team,
        GROUP_CONCAT(CONCAT(D.fname, ' ', D.lname)
                     ORDER BY DR.ord_num
-                    SEPARATOR ', ')               "Drivers",
-       C.car_chassis                              "Car",
-       RES.pos                                    "Finish",
-       NULL                                       "In class"
+                    SEPARATOR ', ')               AS Drivers,
+       C.car_chassis                              AS Car,
+       RES.pos                                    AS Finish,
+       NULL                                       AS Inclass
   FROM drivers        D,
        driver_results DR,
        races          R,
@@ -38,3 +38,4 @@ SELECT R.id                                       "Year",
  ORDER BY R.id                ASC,
           RES.distance        DESC,
           pos_to_num(RES.pos) ASC;
+

@@ -1,21 +1,26 @@
 CREATE OR REPLACE VIEW Results AS
-SELECT R.id            Race,
-       RES.pos         Pos,
-       C.car_class     Class,
-       CN.nbr          "CarNb",
-       GROUP_CONCAT(TM.country        ORDER BY TMR.ord_num ASC SEPARATOR '|') "TCountry",
-       GROUP_CONCAT(DISTINCT TM.title ORDER BY TMR.ord_num ASC SEPARATOR '|') "Team",
-       GROUP_CONCAT(D.country         ORDER BY DR.ord_num  ASC SEPARATOR '|') "DCountry",
+SELECT R.id             AS Race,
+       RES.pos          AS Pos,
+       C.car_class      AS Class,
+       CN.nbr           AS CarNb,
+       GROUP_CONCAT(TM.country        ORDER BY TMR.ord_num ASC SEPARATOR '|')
+                        AS TCountry,
+       GROUP_CONCAT(DISTINCT TM.title ORDER BY TMR.ord_num ASC SEPARATOR '|')
+                        AS Team,
+       GROUP_CONCAT(D.country         ORDER BY DR.ord_num  ASC SEPARATOR '|')
+                        AS DCountry,
        GROUP_CONCAT(CONCAT(IFNULL(D.fname, 'f.n.u.'), ' ', D.lname)
-                                      ORDER BY DR.ord_num  ASC SEPARATOR '|') "Drivers",
-       C.car_chassis   Chassis,
-       C.car_engine    "Engine",
-       GROUP_CONCAT(DISTINCT T.brand SEPARATOR '|') "Tyre",
-       RES.laps        "Laps",
-       RES.distance    "Distance",
-       RES.racing_time "Racing Time",
-       RES.reason      "Reason"
-  FROM results        RES
+                                      ORDER BY DR.ord_num  ASC SEPARATOR '|')
+                        AS Drivers,
+       C.car_chassis    AS Chassis,
+       C.car_engine     AS `Engine`,
+       GROUP_CONCAT(DISTINCT T.brand SEPARATOR '|')
+                        AS Tyre,
+       RES.laps         AS Laps,
+       RES.distance     AS Distance,
+       RES.racing_time  AS RacingTime,
+       RES.reason       AS Reason
+  FROM results RES
        INNER JOIN races           R   ON RES.race_id    = R.id
        INNER JOIN car_numbers     CN  ON RES.car_id     = CN.id
                                      AND CN.race_id     = R.id
@@ -39,3 +44,4 @@ SELECT R.id            Race,
  ORDER BY R.id                ASC,
           pos_to_num(RES.pos) ASC,
           RES.distance        DESC;
+

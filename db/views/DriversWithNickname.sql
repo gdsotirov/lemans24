@@ -2,15 +2,15 @@ CREATE OR REPLACE VIEW DriversWithNickname AS
 SELECT CONCAT('"', D.nickname, '"',
               CASE WHEN IFNULL(D.fname, '') = '' AND IFNULL(D.lname, '') = '' THEN ''
               ELSE CONCAT(' (', IFNULL(D.fname, ''), ' ', IFNULL(D.lname, ''), ')')
-              END)                                     "Name",
+              END)                                     AS `Name`,
        CASE D.sex
          WHEN 'F' THEN 'Female'
          ELSE 'Male'
-       END                                             "Sex",
-       D.country                                       "Country",
-       GROUP_CONCAT(R.id ORDER BY R.id SEPARATOR ', ') Years,
-       COUNT(*)                                        "Starts",
-       num_to_pos(MIN(pos_to_num(RES.pos)))            "BestFinish"
+       END                                             AS Sex,
+       D.country                                       AS Country,
+       GROUP_CONCAT(R.id ORDER BY R.id SEPARATOR ', ') AS Years,
+       COUNT(*)                                        AS `Starts`,
+       num_to_pos(MIN(pos_to_num(RES.pos)))            AS BestFinish
   FROM drivers        D,
        driver_results DR,
        races          R,

@@ -1,9 +1,11 @@
 CREATE OR REPLACE VIEW Winners AS
-SELECT ROW_NUMBER() OVER()  "Number",
-       R.id                 "Year",
-       GROUP_CONCAT(DISTINCT TM.title ORDER BY TMR.ord_num ASC SEPARATOR ' / ') "Team",
+SELECT ROW_NUMBER() OVER()  AS `Number`,
+       R.id                 AS `Year`,
+       GROUP_CONCAT(DISTINCT TM.title ORDER BY TMR.ord_num ASC SEPARATOR ' / ')
+                            AS Team,
        GROUP_CONCAT(CONCAT(IFNULL(D.fname, 'f.n.u.'), ' ', D.lname)
-                                      ORDER BY DR.ord_num  ASC SEPARATOR ' / ') "Drivers"
+                                      ORDER BY DR.ord_num  ASC SEPARATOR ' / ')
+                            AS Drivers
   FROM races          R,
        results        RES,
        team_results   TMR,
@@ -19,3 +21,4 @@ SELECT ROW_NUMBER() OVER()  "Number",
    AND RES.pos        = 1 /* winners */
  GROUP BY R.id
  ORDER BY R.id;
+

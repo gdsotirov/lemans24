@@ -1,16 +1,16 @@
 CREATE OR REPLACE VIEW FemaleDriversByCntry AS
-SELECT D.country                                       "Country",
-       MIN(R.id)                                       "First",
-       COUNT(DISTINCT D.id)                            "Drivers",
-       COUNT(*)                                        "Starts",
+SELECT D.country                                       AS Country,
+       MIN(R.id)                                       AS `First`,
+       COUNT(DISTINCT D.id)                            AS Drivers,
+       COUNT(*)                                        AS `Starts`,
        SUM(CASE WHEN RES.pos BETWEEN 1 AND 10
-                THEN 1 ELSE 0 END)                     "Top 10",
+                THEN 1 ELSE 0 END)                     AS Top10,
        GROUP_CONCAT(DISTINCT
                     CASE WHEN RES.pos BETWEEN 1 AND 10
                          THEN CONCAT(R.id, ' (', RES.pos, ')')
                          ELSE NULL
                     END
-                    ORDER BY R.id SEPARATOR ', ')      "Top 10 Years",
+                    ORDER BY R.id SEPARATOR ', ')      AS Top10Years,
        SUM(CASE
              WHEN RES.pos =
                (SELECT MIN(pos_to_num(IR.pos)) /* best class position */
@@ -26,7 +26,7 @@ SELECT D.country                                       "Country",
              THEN 1
              ELSE 0
            END
-          )                                           "Class Wins",
+          )                                           AS ClassWins,
        GROUP_CONCAT(
            DISTINCT
            CASE
@@ -44,7 +44,7 @@ SELECT D.country                                       "Country",
              THEN CONCAT(R.id, ' (', C.car_class, ')')
              ELSE NULL
            END
-           ORDER BY R.id SEPARATOR ', ')              "Class Win Years"
+           ORDER BY R.id SEPARATOR ', ')              AS ClassWinYears
   FROM drivers        D,
        driver_results DR,
        races          R,
@@ -59,5 +59,6 @@ SELECT D.country                                       "Country",
    AND D.sex        = 'F'
    AND RES.pos NOT IN ('DNA', 'DNP', 'DNQ', 'DNS', 'RES')
  GROUP BY D.country
- ORDER BY COUNT(DISTINCT D.id) DESC, `First`;
+ ORDER BY COUNT(DISTINCT D.id)  DESC,
+          `First`               ASC;
 
