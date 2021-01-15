@@ -5,40 +5,44 @@ drivers, teams and cars to be used for statistics.
 
 ## How to use
 
-In order to use the project you need to do the following:
+In order to use the project you need to do either of the following:
+
+### Option 1 - Using [MySQL Workbench](https://www.mysql.com/products/workbench/):
 
 1. Create database structure:
-  * Option 1:
-    - Open [lemans24.mwb](db/model/lemans24.mwb) in MySQL Workbench;
-    - From the _Database_ menu choose
-    [Forward Engineer](https://dev.mysql.com/doc/workbench/en/wb-forward-engineering-live-server.html);
-    - Follow the wizard and generate the database on your MySQL instance.
+  - Open [lemans24.mwb](db/model/lemans24.mwb) in MySQL Workbench;
+  - From the _Database_ menu choose
+  [Forward Engineer](https://dev.mysql.com/doc/workbench/en/wb-forward-engineering-live-server.html);
+  - Follow the wizard and generate the database on your MySQL instance.
 
 _Note_: You could also use
 [Forward Engineer SQL CREATE Script](https://dev.mysql.com/doc/workbench/en/wb-forward-engineering-sql-scripts.html)
-to generate SQL script for use on the command line.
-
-  * Option 2:
-    - Get the schema creation script [lemans24.sql](db/model/lemans24.sql);
-    - Import it with either `mysql` command-line client (see
-    [Executing SQL Statements from a Text File](https://dev.mysql.com/doc/refman/8.0/en/mysql-batch-commands.html))
-    or with [MySQL Shell](https://dev.mysql.com/doc/mysql-shell/8.0/en/).
+to generate SQL script.
 
 2. Import data:
-  * In MySQL Workbench's Navigator select table `circuits`;
-  * Right click and select _Table Data Import Wizard_;
-  * Select file `db/data/circuits.csv` and click _Next_;
-  * You have to adjust column names and skip colum `id`;
-  * Then, repeat the same for files `db/data/races.csv` and
+  - In MySQL Workbench's Navigator select table `circuits`;
+  - Right click and select _Table Data Import Wizard_;
+  - Select file `db/data/circuits.csv` and click _Next_;
+  - You have to adjust column names and skip colum `id`;
+  - Then, repeat the same for files `db/data/races.csv` and
   `db/data/results_in.csv` for the respective tables;
-  * Finally, execute script `db/data/tyres.sql`.
+  - Finally, execute script `db/data/tyres.sql`.
 3. Load data:
-  * To get structured data populated in the database tables execute procedure
+  - To get structured data populated in the database tables execute procedure
   `process_results` with `call process_results();`.
 
 _Remark_: For faster performance disable
 [autocommit](https://dev.mysql.com/doc/refman/8.0/en/innodb-autocommit-commit-rollback.html)
 for the execution of the procedure.
+
+### Option 2 - Using pre-generated SQL scripts:
+
+1. Get the schema creation script [lemans24.sql](db/model/lemans24.sql);
+2. Get the data dump [lemans24-data.sql](db/data/lemans24-data.sql);
+3. Import the two scripts in the same order with either `mysql` command-line
+  client (see
+  [Executing SQL Statements from a Text File](https://dev.mysql.com/doc/refman/8.0/en/mysql-batch-commands.html))
+  or with [MySQL Shell](https://dev.mysql.com/doc/mysql-shell/8.0/en/).
 
 # Contents
 
