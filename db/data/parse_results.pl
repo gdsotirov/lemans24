@@ -228,6 +228,7 @@ foreach my $tab (@tables) {
     my @rows = $tab->content_list();
     my %headers = ();
     my $row_idx = 1;
+    my $class_header = "";
     foreach my $row (@rows) {
       my @cells = $row->content_list();
       my $col_idx = 1;
@@ -237,6 +238,13 @@ foreach my $tab (@tables) {
            $cells[0]->attr('colspan') >= 8
          )
       {
+        if ( trimboth($cells[0]->as_text()) =~ /([^\()]+)\s\(\d+\sentr(y|ies)\)/ )
+        {
+          $class_header = $1;
+          if ( $class_header eq "Innovative car" ) {
+            $class_header = "Innovation";
+          }
+        }
         next;
       }
 
@@ -264,13 +272,13 @@ foreach my $tab (@tables) {
           elsif ( $title =~ /No\.?/ || $title =~ /Nr\.?/ ) {
             $headers{'No'} = $col_idx;
           }
-          elsif ( $title eq "Team" ) {
+          elsif ( $title eq "Team" || $title eq "Entrant" ) {
             $headers{'Team'} = $col_idx;
           }
           elsif ( $title eq "Drivers" || $title eq "Fahrer" ) {
             $headers{'Drivers'} = $col_idx;
           }
-          elsif ( $title eq "Chassis" ) {
+          elsif ( $title eq "Chassis" || $title eq "Car") {
             $headers{'Chassis'} = $col_idx;
           }
           elsif ( $title eq "Engine" || $title eq "Motor" ) {
@@ -294,6 +302,10 @@ foreach my $tab (@tables) {
 
           $col_idx++;
           next;
+        }
+
+        if ( $class_header ne "" ) {
+          $outarr[$outarr_idx][$columns{'Class'}] = $class_header;
         }
 
         # If rows are spanned process odd rows first
