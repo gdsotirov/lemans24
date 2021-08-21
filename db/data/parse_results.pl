@@ -88,6 +88,7 @@ my %ctry_iso = (
   "REPUBLIC OF IRELAND" => "IRL",
   "ROMANIA"             => "ROU",
   "RUSSIA"              => "RUS",
+  "RAF"                 => "RAF",
   "SAUDI ARABIA"        => "SAU",
   "SAN MARINO"          => "SMR",
   "SCOTLAND"            => "SCO",
@@ -366,6 +367,9 @@ foreach my $tab (@tables) {
               elsif ( $txt eq "Canadian Red Ensign (1921–1957).svg" ) {
                 $txt = "Canada";
               }
+              elsif ( $txt eq "Chinese Taipei" ) {
+                $txt = "Taiwan"
+              }
               elsif ( $txt eq "Federation of Rhodesia and Nyasaland" ) {
                 $txt = "Southern Rhodesia";
               }
@@ -390,7 +394,11 @@ foreach my $tab (@tables) {
               elsif ( $txt eq "Erste Hellenische Republik" ) {
                 $txt = "Griechenland";
               }
-  
+
+              if ( $img->attr('src') =~ /Russian_Automobile_Federation_flag/ ) {
+                $txt = "RAF";
+              }
+
               if ( exists($ctry_iso{uc($txt)}) ) {
                 $ctry_code = $ctry_iso{uc($txt)};
               }

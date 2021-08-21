@@ -50,7 +50,7 @@ sub start {
   }
   if ( $fgResults && $tag =~ /^img$/ )
   {
-    print "<img alt=\"".$attr->{'alt'}."\" />";
+    print "<img alt=\"".$attr->{'alt'}."\" src=\"".$attr->{'src'}."\" />";
   }
   if ( $fgResults && $tag =~ /^br$/ )
   {
