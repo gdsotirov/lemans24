@@ -38,6 +38,7 @@ sub start {
            || $attr->{'id'} =~ /^Nur_in_der_Meldeliste$/i
            || $attr->{'id'} =~ /^Meldeliste$/i
            || $attr->{'id'} =~ /^Entry_list$/i
+           || $attr->{'id'} =~ /^Reserve_entries$/i
           )
      )
   {
