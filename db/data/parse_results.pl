@@ -67,6 +67,7 @@ my %ctry_iso = (
   "GUATEMALA"           => "GTM",
   "HONG KONG"           => "HKG",
   "INDIA"               => "IND",
+  "INDONESIA"           => "IDN",
   "IRELAND"             => "IRL",
   "ITALY"               => "ITA",
   "JAPAN"               => "JPN",
@@ -85,12 +86,12 @@ my %ctry_iso = (
   "POLAND"              => "POL",
   "PORTUGAL"            => "PRT",
   "PUERTO RICO"         => "PRI",
+  "RAF"                 => "RAF",
   "REPUBLIC OF IRELAND" => "IRL",
   "ROMANIA"             => "ROU",
   "RUSSIA"              => "RUS",
-  "RAF"                 => "RAF",
-  "SAUDI ARABIA"        => "SAU",
   "SAN MARINO"          => "SMR",
+  "SAUDI ARABIA"        => "SAU",
   "SCOTLAND"            => "SCO",
   "SINGAPORE"           => "SGP",
   "SLOVAKIA"            => "SVK",
@@ -364,9 +365,6 @@ foreach my $tab (@tables) {
                   || $col_idx == $headers{'Driver3'}
                 )
           {
-            if ( $col_idx == $headers{'Driver#'} ) {
-              print "Driver $col_idx: ";
-            }
             my @imgs = $cell->find_by_tag_name('img'); 
             my $ctries = "";
             foreach my $img (@imgs) { # build countries list
@@ -420,7 +418,7 @@ foreach my $tab (@tables) {
               else {
                 $ctry_code = "???"; # unknown
               }
-              print "ctry=$ctry_code\n";
+
               if ( $ctries ne "" ) {
                 $ctries .= "|".$ctry_code;
               }
