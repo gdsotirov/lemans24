@@ -279,6 +279,9 @@ foreach my $tab (@tables) {
           elsif ( $title eq "Drivers" || $title eq "Fahrer" ) {
             $headers{'Drivers'} = $col_idx;
           }
+          elsif ( $title =~ /^(Driver)\s(\d)$/ ) {
+            $headers{"$1$2"} = $col_idx;
+          }
           elsif ( $title eq "Chassis" || $title eq "Car") {
             $headers{'Chassis'} = $col_idx;
           }
@@ -354,7 +357,16 @@ foreach my $tab (@tables) {
             $outarr[$outarr_idx][$columns{'No'}] = $txt;
           }
           # extract team and driver countries into separate columns
-          elsif ( $col_idx == $headers{'Team'} || $col_idx == $headers{'Drivers'} ) {
+          elsif (    $col_idx == $headers{'Team'}
+                  || $col_idx == $headers{'Drivers'}
+                  || $col_idx == $headers{'Driver1'}
+                  || $col_idx == $headers{'Driver2'}
+                  || $col_idx == $headers{'Driver3'}
+                )
+          {
+            if ( $col_idx == $headers{'Driver#'} ) {
+              print "Driver $col_idx: ";
+            }
             my @imgs = $cell->find_by_tag_name('img'); 
             my $ctries = "";
             foreach my $img (@imgs) { # build countries list
@@ -408,9 +420,9 @@ foreach my $tab (@tables) {
               else {
                 $ctry_code = "???"; # unknown
               }
-  
+              print "ctry=$ctry_code\n";
               if ( $ctries ne "" ) {
-               $ctries .= "|".$ctry_code;
+                $ctries .= "|".$ctry_code;
               }
               else {
                 $ctries = $ctry_code;
@@ -419,8 +431,16 @@ foreach my $tab (@tables) {
             if ( $col_idx == $headers{'Team'} ) {
               $outarr[$outarr_idx][$columns{'TeamCtry'}] = $ctries;
             }
-            else {
+            elsif ( $col_idx == $headers{'Drivers'} ) {
               $outarr[$outarr_idx][$columns{'DrCtry'}] = $ctries;
+            }
+            else {
+              if ( $outarr[$outarr_idx][$columns{'DrCtry'}] ne "" ) {
+                $outarr[$outarr_idx][$columns{'DrCtry'}] .= "|".$ctries;
+              }
+              else {
+                $outarr[$outarr_idx][$columns{'DrCtry'}] = $ctries;
+              }
             }
   
             if ( $ctries =~ /\|/ ) {
@@ -440,8 +460,16 @@ foreach my $tab (@tables) {
               $txt =~ s/\-\s/-/g;
               $outarr[$outarr_idx][$columns{'Team'}] = $txt;
             }
-            else {
+            elsif ( $col_idx == $headers{'Drivers'} ) {
               $outarr[$outarr_idx][$columns{'Drivers'}] = $txt;
+            }
+            else {
+              if ( $outarr[$outarr_idx][$columns{'Drivers'}] ne "" ) {
+                $outarr[$outarr_idx][$columns{'Drivers'}] .= "|".$txt;
+              }
+              else {
+                $outarr[$outarr_idx][$columns{'Drivers'}] = $txt;
+              }
             }
           }
           elsif ( $col_idx == $headers{'Chassis'} ) {
