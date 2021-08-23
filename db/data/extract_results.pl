@@ -63,7 +63,7 @@ sub start {
     {
       print $origtext;
     }
-    if ( $tag eq "sup" )
+    if ( $tag eq "caption" || $tag eq "sup" )
     {
       $fgPrint = 0;
     }
@@ -101,7 +101,7 @@ sub end {
     {
       print $origtext;
     }
-    if ( $tag eq "sup" )
+    if ( $tag eq "caption" || $tag eq "sup" )
     {
       $fgPrint = 1;
     }
