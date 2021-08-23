@@ -6,7 +6,7 @@ LOAD DATA INFILE '/var/mysql/files/results_in.csv'
   (race_yr, pos, car_class, car_nbr,
    team_cntry, team_name,
    drivers_cntry, drivers_name,
-   chassis, `engine`, tyre,
+   car_chassis, car_engine, car_tyres,
    laps, distance,
    racing_time, reason);
 
