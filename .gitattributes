@@ -1,2 +1,3 @@
 *.sql linguist-language=SQL linguist-detectable=true
 db/model/lemans24.sql linguist-generated
+db/model/lemans24-data.sql linguist-generated
