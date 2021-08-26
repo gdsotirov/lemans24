@@ -9,7 +9,7 @@ SELECT R.id             AS Race,
                         AS Team,
        GROUP_CONCAT(D.country         ORDER BY DR.ord_num  ASC SEPARATOR '|')
                         AS DCountry,
-       GROUP_CONCAT(CONCAT(IFNULL(D.fname, 'f.n.u.'), ' ', D.lname)
+       GROUP_CONCAT(DISTINCT CONCAT(IFNULL(D.fname, 'f.n.u.'), ' ', D.lname)
                                       ORDER BY DR.ord_num  ASC SEPARATOR '|')
                         AS Drivers,
        C.car_chassis    AS Chassis,
