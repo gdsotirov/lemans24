@@ -88,32 +88,32 @@ graphically represented here below.
 
 ## Views
 
-* `AllDriversResults`    - List of all drivers with active years
+* `AllDriversResults`     - List of all drivers with active years
   and achievements;
-* `AllWomenTeams`        - List all women teams with their results;
-* `Circuits`             - List circuits length and changes per years;
-* `DriversWithNickname`  - List of drivers having a nickname;
-* `FemaleDrivers`        - List all female drivers with active years
+* `AllWomenTeams`         - List all women teams with their results;
+* `Circuits`              - List circuits length and changes per years;
+* `DriversWithNickname`   - List of drivers having a nickname;
+* `FemaleDrivers`         - List all female drivers with active years
   and achievements;
-* `FemaleDriversByCntry` - Female drivers by country;
-* `MostPodiumsByDriver`  - Most podiums by driver;
+* `FemaleDriversByCntry`  - Female drivers by country;
+* `MostPodiumsByDriver`   - Most podiums by driver;
 * `MostWinsByCar`         - Most wins by cars;
 * `MostWinsByConstructor` - Most wins by engine constructor;
-* `MostWinsByDriver`     - Most wins by driver;
-* `MostWinsByTeam`       - Most wins by team;
-* `MostWinsByTeamWAppr`  - Most wins by team with approximations (group
+* `MostWinsByDriver`      - Most wins by driver;
+* `MostWinsByTeam`        - Most wins by team;
+* `MostWinsByTeamWAppr`   - Most wins by team with approximations (group
   similar team names);
-* `RaceAvgSpdKmhRecords` - Average speed in km/h records;
-* `RaceDistKmRecords`    - Distance in km records;
-* `RaceLapsRecords`      - Total number of laps records;
-* `Races`                - List races with distance in km and mi, laps,
+* `RaceAvgSpdKmhRecords`  - Average speed in km/h records;
+* `RaceDistKmRecords`     - Distance in km records;
+* `RaceLapsRecords`       - Total number of laps records;
+* `Races`                 - List races with distance in km and mi, laps,
   average speed in km/h and mi/h;
-* `Results`              - Reconstruct results from different tables (used
+* `Results`               - Reconstruct results from different tables (used
   for verification of processing);
-* `TotalStartsByDriver`  - Total starts by driver (including only positions,
+* `TotalStartsByDriver`   - Total starts by driver (including only positions,
   NC, DNF and DSQ);
-* `Winners`              - Winners per race;
-* `WinningCarNumbers`    - Winning car numbers.
+* `Winners`               - Winners per race;
+* `WinningCarNumbers`     - Winning car numbers.
 
 # Routines
 
@@ -135,8 +135,6 @@ graphically represented here below.
 # TODO
 
 * Add more statistics over the results tables.
-* Provide easier way for others to use the project (i.e. create database and
-load data - see [issue #1](https://github.com/gdsotirov/lemans24/issues/1)).
 
 # Requirements
 
