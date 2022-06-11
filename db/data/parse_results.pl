@@ -59,6 +59,7 @@ my %ctry_iso = (
   "EAST GERMANY"        => "DDDE",
   "ECUADOR"             => "ECU",
   "EL SALVADOR"         => "SLV",
+  "ESTONIA"             => "EST",
   "FINLAND"             => "FIN",
   "FRANCE"              => "FRA",
   "GEORGIA"             => "GEO",
