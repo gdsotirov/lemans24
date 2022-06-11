@@ -1,7 +1,9 @@
 CREATE OR REPLACE VIEW MostWinsByTeam AS
-SELECT TM.title                                        AS Team,
-       COUNT(*)                                        AS Wins,
-       GROUP_CONCAT(R.id ORDER BY R.id SEPARATOR ', ') AS Years
+SELECT TM.title                                         AS Team,
+       COUNT(*)                                         AS Wins,
+       MIN(R.id)                                        AS FirstWin,
+       MAX(R.id)                                        AS LastWin,
+       GROUP_CONCAT(R.id ORDER BY R.id SEPARATOR ', ')  AS Years
   FROM races        R,
        results      RES,
        team_results TMR,

@@ -1,7 +1,9 @@
 CREATE OR REPLACE VIEW MostWinsByDriver AS
-SELECT CONCAT(IFNULL(D.fname, 'f.n.u.'), ' ', D.lname) AS Driver,
-       COUNT(*)                                        AS Wins,
-       GROUP_CONCAT(R.id ORDER BY R.id SEPARATOR ', ') AS Years
+SELECT CONCAT(IFNULL(D.fname, 'f.n.u.'), ' ', D.lname)  AS Driver,
+       COUNT(*)                                         AS Wins,
+       MIN(R.id)                                        AS FirstWin,
+       MAX(R.id)                                        AS LastWin,
+       GROUP_CONCAT(R.id ORDER BY R.id SEPARATOR ', ')  AS Years
   FROM races          R,
        results        RES,
        driver_results DR,

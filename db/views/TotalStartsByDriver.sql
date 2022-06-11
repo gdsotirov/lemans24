@@ -2,6 +2,8 @@ CREATE OR REPLACE VIEW TotalStartsByDriver AS
 SELECT CONCAT(IFNULL(D.fname, 'f.n.u.'), ' ', D.lname)  AS Driver,
        D.country                                        AS DCountry,
        COUNT(*)                                         AS `Starts`,
+       MIN(R.id)                                        AS FirstStart,
+       MAX(R.id)                                        AS LastStart,
        GROUP_CONCAT(R.id ORDER BY R.id SEPARATOR ', ')  AS Years
   FROM races          R,
        results        RES,
