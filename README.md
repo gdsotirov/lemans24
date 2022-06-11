@@ -97,6 +97,8 @@ graphically represented here below.
   and achievements;
 * `FemaleDriversByCntry` - Female drivers by country;
 * `MostPodiumsByDriver`  - Most podiums by driver;
+* `MostWinsByCar`         - Most wins by cars;
+* `MostWinsByConstructor` - Most wins by engine constructor;
 * `MostWinsByDriver`     - Most wins by driver;
 * `MostWinsByTeam`       - Most wins by team;
 * `MostWinsByTeamWAppr`  - Most wins by team with approximations (group
