@@ -315,7 +315,8 @@ foreach my $tab (@tables) {
 
         # If rows are spanned process odd rows first
         if ( $rowspan == 0 || ( $rowspan == 2 && ($row_idx % 2) == 1 ) ) {
-          if ( $col_idx == $headers{'Pos'} ) { # parse position
+          # parse position if column exists (e.g. not Entry list)
+          if ( exists($headers{'Pos'}) && $col_idx == $headers{'Pos'} ) {
             my $pos = trimboth($cell->as_text());
             my $pos_str = $pos;
             $pos_str =~ s/[^a-zA-Z]//g;
@@ -346,7 +347,7 @@ foreach my $tab (@tables) {
             $outarr[$outarr_idx][$columns{'Pos'}] = $txt;
           }
           # do not split class
-          elsif ( $col_idx == $headers{'Class'} ) {
+          elsif ( exists($headers{'Class'}) && $col_idx == $headers{'Class'} ) {
             my @lns = split(/[\|\s]/, $cell->as_text());
             $txt = join("", @lns);
             $outarr[$outarr_idx][$columns{'Class'}] = $txt;
@@ -359,10 +360,10 @@ foreach my $tab (@tables) {
           }
           # extract team and driver countries into separate columns
           elsif (    $col_idx == $headers{'Team'}
-                  || $col_idx == $headers{'Drivers'}
-                  || $col_idx == $headers{'Driver1'}
-                  || $col_idx == $headers{'Driver2'}
-                  || $col_idx == $headers{'Driver3'}
+                  || ( exists($headers{'Drivers'}) && $col_idx == $headers{'Drivers'} )
+                  || ( exists($headers{'Driver1'}) && $col_idx == $headers{'Driver1'} )
+                  || ( exists($headers{'Driver2'}) && $col_idx == $headers{'Driver2'} )
+                  || ( exists($headers{'Driver3'}) && $col_idx == $headers{'Driver3'} )
                 )
           {
             my @imgs = $cell->find_by_tag_name('img'); 
@@ -429,7 +430,7 @@ foreach my $tab (@tables) {
             if ( $col_idx == $headers{'Team'} ) {
               $outarr[$outarr_idx][$columns{'TeamCtry'}] = $ctries;
             }
-            elsif ( $col_idx == $headers{'Drivers'} ) {
+            elsif ( exists($headers{'Drivers'}) && $col_idx == $headers{'Drivers'} ) {
               $outarr[$outarr_idx][$columns{'DrCtry'}] = $ctries;
             }
             else {
@@ -458,7 +459,7 @@ foreach my $tab (@tables) {
               $txt =~ s/\-\s/-/g;
               $outarr[$outarr_idx][$columns{'Team'}] = $txt;
             }
-            elsif ( $col_idx == $headers{'Drivers'} ) {
+            elsif ( exists($headers{'Drivers'}) && $col_idx == $headers{'Drivers'} ) {
               $outarr[$outarr_idx][$columns{'Drivers'}] = $txt;
             }
             else {
@@ -475,7 +476,7 @@ foreach my $tab (@tables) {
             $txt =~ s/\|//g;
             $outarr[$outarr_idx][$columns{'Chassis'}] = $txt;
           }
-          elsif ( $col_idx == $headers{'Engine'} ) {
+          elsif ( exists($headers{'Engine'}) && $col_idx == $headers{'Engine'} ) {
             $txt = trimboth($cell->as_text());
             $txt =~ s/\|//g;
             $outarr[$outarr_idx][$columns{'Engine'}] = $txt;
