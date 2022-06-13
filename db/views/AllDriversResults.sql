@@ -16,9 +16,9 @@ SELECT D.full_name                                     AS `Name`,
                          ELSE NULL
                     END
                     ORDER BY R.id SEPARATOR ', ')      AS OvTop10Years,
-       SUM(CASE
+       /*SUM(CASE
              WHEN RES.pos =
-               (SELECT MIN(pos_to_num(IR.pos)) /* best class position */
+               (SELECT MIN(pos_to_num(IR.pos)) /* best class position *
                   FROM results     IR,
                        car_numbers ICN,
                        cars        IC
@@ -31,11 +31,11 @@ SELECT D.full_name                                     AS `Name`,
              THEN 1
              ELSE 0
            END
-          )                                           AS ClassWins,
-       GROUP_CONCAT(
+          )*/ NULL                                     AS ClassWins,
+       /*GROUP_CONCAT(
            CASE
              WHEN RES.pos =
-               (SELECT MIN(pos_to_num(IR.pos)) /* best class position */
+               (SELECT MIN(pos_to_num(IR.pos)) /* best class position *
                   FROM results     IR,
                        car_numbers ICN,
                        cars        IC
@@ -48,7 +48,7 @@ SELECT D.full_name                                     AS `Name`,
              THEN CONCAT(R.id, ' (', C.car_class, ')')
              ELSE NULL
            END
-           ORDER BY R.id SEPARATOR ', ')              AS ClassWinYears
+           ORDER BY R.id SEPARATOR ', ')*/ NULL        AS ClassWinYears
   FROM drivers        D,
        driver_results DR,
        races          R,
@@ -60,6 +60,7 @@ SELECT D.full_name                                     AS `Name`,
    AND RES.race_id  = R.id
    AND RES.car_id   = CN.id
    AND CN.car_id    = C.id
+   AND CN.race_id   = R.id
    AND RES.pos NOT IN ('DNA', 'DNP', 'DNQ', 'DNS', 'RES')
  GROUP BY D.id, D.country
  ORDER BY `Name`;
