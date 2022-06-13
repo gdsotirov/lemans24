@@ -17,7 +17,9 @@ CREATE TABLE results_in (
   reason        VARCHAR(128)  NULL      COMMENT 'Reason for NC, DNF, DSQ',
   processed     TINYINT       NOT NULL  DEFAULT 0 COMMENT 'Record processed or not',
 
-    PRIMARY KEY (id)
+  PRIMARY KEY (id),
+
+  INDEX idx_processed (processed ASC)
 )
 ENGINE = InnoDB
 COMMENT = 'Table for results input';
