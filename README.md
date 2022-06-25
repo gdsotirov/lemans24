@@ -142,7 +142,7 @@ The project has the following requirements:
 
 * **MySQL** 8.0.2 (for
 [window functions](https://dev.mysql.com/doc/refman/8.0/en/window-functions.html)
-used in views). Everything else could be run also on 5.7.6 or later (for
+used in views). Everything else would run also on 5.7.6 or later (for
 [generated columns](https://dev.mysql.com/doc/refman/5.7/en/create-table-generated-columns.html)
 support).
 * **Perl** 5.22 or later (with modules
