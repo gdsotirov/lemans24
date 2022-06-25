@@ -14,6 +14,11 @@ BEGIN
     SIGNAL SQLSTATE '10102' SET MESSAGE_TEXT = @errmsg;
   END IF;
 
+  IF NOT check_car_number(NEW.car_nbr) THEN
+    SET @errmsg = 'Car numbers are positive integers (0-999), possibly starting with two zeroes!';
+    SIGNAL SQLSTATE '10103' SET MESSAGE_TEXT = @errmsg;
+  END IF;
+
   /* no tyre data -> NULL */
   IF NEW.car_tyres = '' THEN
     SET NEW.car_tyres = NULL;

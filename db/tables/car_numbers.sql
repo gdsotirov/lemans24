@@ -1,8 +1,8 @@
 CREATE TABLE IF NOT EXISTS car_numbers (
-  id      INT NOT NULL AUTO_INCREMENT,
-  race_id INT NOT NULL,
-  car_id  INT NULL,
-  nbr     INT NOT NULL,
+  id      INT                               NOT NULL AUTO_INCREMENT,
+  race_id INT                               NOT NULL,
+  car_id  INT                               NULL,
+  nbr     VARCHAR(3)  CHARACTER SET 'ascii' NOT NULL,
 
   PRIMARY KEY (id),
 

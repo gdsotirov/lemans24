@@ -7,7 +7,7 @@ BEGIN
   DECLARE res_race_yr       INT;
   DECLARE res_pos           VARCHAR(3);
   DECLARE res_car_class     VARCHAR(12);
-  DECLARE res_car_nbr       INT;
+  DECLARE res_car_nbr       VARCHAR(3);
   DECLARE res_team_cntry    VARCHAR(16);
   DECLARE res_team_name     VARCHAR(128);
   DECLARE res_drivers_cntry VARCHAR(32);
