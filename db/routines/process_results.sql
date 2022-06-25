@@ -17,7 +17,7 @@ BEGIN
   DECLARE res_car_tyres     VARCHAR(16);
   DECLARE res_laps          INT;
   DECLARE res_distance      DECIMAL(8,3);
-  DECLARE res_racing_time   TIME;
+  DECLARE res_racing_time   TIME(3);
   DECLARE res_reason        VARCHAR(128);
 
   /* Car data */
