@@ -113,6 +113,7 @@ graphically represented here below.
 * `TotalStartsByDriver`   - Total starts by driver (including only positions,
   NC, DNF and DSQ);
 * `Winners`               - Winners per race;
+* `WinnersByClass`        - Winners by car class per race;
 * `WinningCarNumbers`     - Winning car numbers.
 
 # Routines
@@ -141,10 +142,12 @@ graphically represented here below.
 The project has the following requirements:
 
 * **MySQL** 8.0.2 (for
+[common table expressions](https://dev.mysql.com/doc/refman/8.0/en/with.html)
+and
 [window functions](https://dev.mysql.com/doc/refman/8.0/en/window-functions.html)
 used in views). Everything else would run also on 5.7.6 or later (for
 [generated columns](https://dev.mysql.com/doc/refman/5.7/en/create-table-generated-columns.html)
-support).
+support), but it is not recommended.
 * **Perl** 5.22 or later (with modules
 [Encode](https://metacpan.org/pod/Encode),
 [HTML::Parser](https://metacpan.org/pod/HTML::Parser) and
