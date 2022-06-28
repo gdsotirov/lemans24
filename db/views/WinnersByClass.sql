@@ -6,6 +6,7 @@ SELECT R.id                 AS `Year`,
                             AS InClass,
        pos_to_num(RES.pos)  AS Overall,
        C.car_class          AS Class,
+       CN.nbr               AS CarNbr,
        GROUP_CONCAT(DISTINCT TM.title ORDER BY TMR.ord_num ASC SEPARATOR ' / ')
                             AS Team,
        GROUP_CONCAT(CONCAT(IFNULL(D.fname, 'f.n.u.'), ' ', D.lname)
@@ -36,9 +37,9 @@ SELECT R.id                 AS `Year`,
    AND CT.tyre_id     = T.id
    AND R.cancelled    = 0 /* not cancelled */
    AND RES.pos NOT IN ('DNA', 'DNF', 'DNP', 'DNQ', 'DNS', 'NC', 'RES')
- GROUP BY R.id, C.car_class
+ GROUP BY RES.id
 )
-SELECT `Year`, Overall, Class, Team, Drivers, Car, Tyres
+SELECT `Year`, Overall, Class, CarNbr, Team, Drivers, Car, Tyres
   FROM ClassWinners
  WHERE InClass = 1
  ORDER BY `Year`, Overall;
