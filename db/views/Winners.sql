@@ -1,6 +1,7 @@
 CREATE OR REPLACE VIEW Winners AS
-SELECT ROW_NUMBER() OVER()  AS `Number`,
+SELECT ROW_NUMBER() OVER()  AS `Edition`,
        R.id                 AS `Year`,
+       CN.nbr               AS CarNbr,
        GROUP_CONCAT(DISTINCT TM.title ORDER BY TMR.ord_num ASC SEPARATOR ' / ')
                             AS Team,
        GROUP_CONCAT(CONCAT(IFNULL(D.fname, 'f.n.u.'), ' ', D.lname)
