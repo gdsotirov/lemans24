@@ -3193,7 +3193,7 @@
 1988;DNA;C1;74;FRA;Primagaz Compétition;BEL|FRA;Hervé Regout|Thierry Lecerf;Cougar C20;Porsche Type-935 2.6L Turbo Flat-6;;0;0.0;;
 1988;DNA;C2;101;ITA;Dollop Racing;CHE|ITA;Jean-Pierre Frey|Nicola Marozzo;Argo JM19B;Motori Moderni 2.0L V6;;0;0.0;;
 1988;DNA;C2;106;ITA;Kelmar Racing;ITA|ITA|ITA;Pasquale Barberio|Vito Veninata|Ranieri Randaccio;Tiga GC288;Cosworth DFL 3.0L V8;;0;0.0;;
-1988;DNA;C2;114;FRA;José Thibault;FRA|FRA;"José Thibault|""Berdal""";TJ 01;ROC Talbot Tagora;Avon|Michelin;0;0.0;;
+1988;DNA;C2;114;FRA;José Thibault;FRA|FRA;"José Thibault|""Berdal"" (Bernard Dallet)";TJ 01;ROC Talbot Tagora;Avon|Michelin;0;0.0;;
 1988;DNA;C2;134;USA;American Alloy Engines;SWE;Slim Borgudd;Tiga GC286;Cosworth GA 3.4L V6;;0;0.0;;
 1988;DNA;C2;140;GBR;Dune Motorsport;GBR|GBR|ITA|FRA;Duncan Bain|John Sheldon|Massimo Sigala|Pierre Pagani;Tiga GC287;Cosworth DFL 3.0L V8;;0;0.0;;
 1988;DNA;C2;171;JPN;Jiro Motorracing;JPN|JPN;Jiro Yoneyama|Hideo Fukuyama;JTK 63C;Cosworth DFL 3.3L V8;Dunlop;0;0.0;;
@@ -5286,7 +5286,7 @@
 2023;27;Hypercar;94;FRA;Peugeot TotalEnergies;FRA|USA|CHE;Loïc Duval|Gustavo Menezes|Nico Müller;Peugeot 9X8;Peugeot 2.6 L Turbo V6;Michelin;312;4250.62;24:00:24.883;
 2023;28;LMGTEAm;25;OMN;ORT by TF;OMN|USA|IRL;Ahmad Al Harthy|Michael Dinan|Charlie Eastwood;Aston Martin Vantage AMR;Aston Martin 4.0 L Turbo V8;Michelin;312;4250.71;24:00:49.023;
 2023;29;LMGTEAm;86;GBR;GR Racing;GBR|ITA|GBR;Ben Barker|Riccardo Pera|Michael Wainwright;Porsche 911 RSR-19;Porsche 4.2 L Flat-6;Michelin;312;4250.71;24:01:46.477;
-2023;30;LMGTEAm;85;ITA;Iron Dames;BEL|CHE|DNK;Sarah Bovy|Rahel Frey|Michelle Gatting;Porsche 911 RSR-19;Porsche 4.2 L Flat-6;Michelin;312;4250.77;24:01:51.789;
+2023;30;LMGTEAm;85;ITA;Iron Dames;BEL|CHE|DNK;Miss Sarah Bovy|Miss Rahel Frey|Miss Michelle Gatting;Porsche 911 RSR-19;Porsche 4.2 L Flat-6;Michelin;312;4250.77;24:01:51.789;
 2023;31;LMGTEAm;54;ITA;AF Corse;ITA|CHE|ITA;Francesco Castellacci|Thomas Flohr|Davide Rigon;Ferrari 488 GTE Evo;Ferrari F154CB 3.9 L Turbo V8;Michelin;312;4250.73;24:03:25.620;
 2023;32;LMP2(Pro-Am);43;LUD;DKR Engineering;BEL|BEL|BEL;Maxime Martin|Tom van Rompuy|Ugo de Wilde;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;311;4236.94;24:03:24.032;
 2023;33;LMGTEAm;98;CAN;Northwest AMR;GBR|ITA|ESP;Ian James|Daniel Mancinelli|Alex Riberas;Aston Martin Vantage AMR;Aston Martin 4.0 L Turbo V8;Michelin;310;4223.50;24:00:35.192;
@@ -5312,7 +5312,7 @@
 2023;DNF;LMP2(Pro-Am);923;TUR;Racing Team Turkey;GBR|BEL|TUR;Tom Gamble|Dries Vanthoor|Salih Yoluç;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;87;1185.13;7:50:02.331;Suspension
 2023;DNF;Hypercar;75;DEU;Porsche Penske Motorsport;FRA|BRA|GBR;Mathieu Jaminet|Felipe Nasr|Nick Tandy;Porsche 963;Porsche 9RD 4.6 L Turbo V8;Michelin;84;1144.31;6:44:44.339;Fuel pressure
 2023;DNF;LMGTEAm;72;GBR;TF Sport;FRA|FRA|FRA;Valentin Hasse-Clot|Arnold Robin|Maxime Robin;Aston Martin Vantage AMR;Aston Martin 4.0 L Turbo V8;Michelin;58;790.07;5:15:31.186;Accident
-2023;DNF;LMGTEAm;83;ITA;Richard Mille AF Corse;ARG|ITA|FRA;Luis Pérez Companc|Alessio Rovera|Lilou Wadoux;Ferrari 488 GTE Evo;Ferrari F154CB 3.9 L Turbo V8;Michelin;33;449.45;2:46:32.766;Accident
+2023;DNF;LMGTEAm;83;ITA;Richard Mille AF Corse;ARG|ITA|FRA;Luis Pérez Companc|Alessio Rovera|Miss Lilou Wadoux;Ferrari 488 GTE Evo;Ferrari F154CB 3.9 L Turbo V8;Michelin;33;449.45;2:46:32.766;Accident
 2023;DNF;LMGTEAm;60;ITA;Iron Lynx;ITA|BEL|ITA;Matteo Cressoni|Alessio Picariello|Claudio Schiavoni;Porsche 911 RSR-19;Porsche 4.2 L Flat-6;Michelin;28;381.34;2:20:55.129;Collision
 2023;DNF;LMGTEAm;16;DEU;Proton Competition;USA|BEL|CAN;Ryan Hardwick|Jan Heylen|Zacharie Robichon;Porsche 911 RSR-19;Porsche 4.2 L Flat-6;Michelin;28;381.34;2:20:56.968;Collision
 2023;DNF;LMGTEAm;55;DNK;GMB Motorsport;DNK|DNK|DNK;Gustav Birch|Jens Reno Møller|Marco Sørensen;Aston Martin Vantage AMR;Aston Martin 4.0 L Turbo V8;Michelin;21;285.96;1:45:27.414;Collision
