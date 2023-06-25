@@ -111,7 +111,8 @@ my %ctry_iso = (
   "UNITED KINGDOM"      => "GBR",
   "UNITED STATES"       => "USA",
   "VENEZUELA"           => "VEN",
-  "WEST GERMANY"        => "DEU");
+  "WEST GERMANY"        => "DEU",
+  "WFS"                 => "WFS"); # White flag of surrender
 my %ctry_iso_de = (
   "ARGENTINIEN"             => "ARG",
   "AUSTRALIEN"              => "AUS",
@@ -410,6 +411,9 @@ foreach my $tab (@tables) {
 
               if ( $img->attr('src') =~ /Russian_Automobile_Federation_flag/ ) {
                 $txt = "RAF";
+              }
+              elsif ( $img->attr('src') =~ /White_flag_of_surrender/ ) {
+                $txt = "WFS";
               }
 
               if ( exists($ctry_iso{uc($txt)}) ) {
