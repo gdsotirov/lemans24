@@ -1,4 +1,4 @@
-Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distance;Time;Reason
+﻿Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distance;Time;Reason
 1923;1;3.0;9;FRA;Chenard-Walcker SA;FRA|FRA;André Lagache|René Léonard;Chenard et Walcker Type U 15CV Sport;Chenard et Walcker 3.0L S4;Michelin;128;2209.536;;
 1923;2;3.0;10;FRA;Chenard-Walcker SA;FRA|FRA;Raoul Bachmann|Christian Dauvergne;Chenard et Walcker Type U 15CV Sport;Chenard et Walcker 3.0L S4;Michelin;124;2140.488;;
 1923;3;2.0;23;FRA;Établissements industriels Jacques Bignan;FRA|BEL;Paul Gros|Raymond de Tornaco;Bignan 11CV Desmo Sport;Bignan 2.0L S4;Englebert;120;2071.440;;
@@ -5257,3 +5257,73 @@ Year;Pos;Class;No;TeamCtry;Team;DrCtry;Drivers;Chassis;Engine;Tyres;Laps;Distanc
 2022;RES;LMP2;49;DNK;High Class Racing;DNK|DNK|USA;Jan Magnussen|Kevin Magnussen|Mark Patterson;Oreca 07 - Gibson;Gibson GK428 4.2 L V8;Goodyear;0;0.0;;
 2022;RES;GTEAm;488;DEU;Rinaldi Racing;DEU;Pierre Ehret;Ferrari 488 GTE Evo;Ferrari F154CB 3.9 L Turbo V8;Michelin;0;0.0;;
 2022;RES;GTEAm;95;GBR;TF Sport;GBR;John Hartshorne;Aston Martin Vantage AMR;Aston Martin 4.0 L Turbo V8;Michelin;0;0.0;;
+2023;1;Hypercar;51;ITA;Ferrari - AF Corse;GBR|ITA|ITA;James Calado|Antonio Giovinazzi|Alessandro Pier Guidi;Ferrari 499P;Ferrari 3.0 L Turbo V6;Michelin;342;4659.400;24:00:18.099;
+2023;2;Hypercar;8;JPN;Toyota Gazoo Racing;CHE|NZL|JPN;Sébastien Buemi|Brendon Hartley|Ryō Hirakawa;Toyota GR010 Hybrid;Toyota H8909 3.5 L Turbo V6;Michelin;342;4659.380;24:01:39.892;
+2023;3;Hypercar;2;USA;Cadillac Racing;NZL|GBR|GBR;Earl Bamber|Alex Lynn|Richard Westbrook;Cadillac V-Series.R;Cadillac LMC55R 5.5 L V8;Michelin;341;4645.790;24:02:37.016;
+2023;4;Hypercar;3;USA;Cadillac Racing;FRA|NZL|NLD;Sébastien Bourdais|Scott Dixon|Renger van der Zande;Cadillac V-Series.R;Cadillac LMC55R 5.5 L V8;Michelin;340;4632.150;24:02:37.292;
+2023;5;Hypercar;50;ITA;Ferrari - AF Corse;ITA|ESP|DNK;Antonio Fuoco|Miguel Molina|Nicklas Nielsen;Ferrari 499P;Ferrari 3.0 L Turbo V6;Michelin;337;4591.250;24:01:31.657;
+2023;6;Hypercar;708;USA;Glickenhaus Racing;AUS|FRA|FRA;Ryan Briscoe|Romain Dumas|Olivier Pla;Glickenhaus 007 LMH;Glickenhaus P21 3.5 L Turbo V8;Michelin;335;4564.020;24:02:47.956;
+2023;7;Hypercar;709;USA;Glickenhaus Racing;FRA|MEX|FRA;Nathanaël Berthon|Esteban Gutiérrez|Franck Mailleux;Glickenhaus 007 LMH;Glickenhaus P21 3.5 L Turbo V8;Michelin;333;4536.71;24:01:11.563;
+2023;8;Hypercar;93;FRA;Peugeot TotalEnergies;GBR|DNK|FRA;Paul di Resta|Mikkel Jensen|Jean-Éric Vergne;Peugeot 9X8;Peugeot 2.6 L Turbo V6;Michelin;330;4495.87;24:00:24.895;
+2023;9;LMP2;34;POL;Inter Europol Competition;ESP|CHE|POL;Albert Costa|Fabio Scherer|Jakub Śmiechowski;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;328;4482.25;24:05:15.061;
+2023;10;LMP2;41;BEL;Team WRT;AGO|CHE|POL;Rui Andrade|Louis Delétraz|Robert Kubica;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;328;4468.57;24:00:50.903;
+2023;11;LMP2;30;FRA;Duqueine Team;AUT|CHE|GBR;René Binder|Neel Jani|Nico Pino;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;327;4468.62;24:01:11.918;
+2023;12;LMP2;36;FRA;Alpine Elf Team;FRA|FRA|FRA;Julien Canal|Charles Milesi|Matthieu Vaxivière;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;327;4454.92;24:01:36.133;
+2023;13;LMP2;31;BEL;Team WRT;NLD|IDN|AUT;Robin Frijns|Sean Gelael|Ferdinand Habsburg;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;327;4454.94;24:02:54.479;
+2023;14;LMP2;48;FRA;IDEC Sport;FRA|DEU|FRA;Paul-Loup Chatin|Laurents Hörr|Paul Lafargue;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;327;4454.98;24:03:09.957;
+2023;15;LMP2;10;GBR;Vector Sport;FRA|IRL|LIE;Gabriel Aubry|Ryan Cullen|Matthias Kaiser;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;325;4454.98;24:03:35.890;
+2023;16;Hypercar;5;DEU;Porsche Penske Motorsport;USA|DNK|FRA;Dane Cameron|Michael Christensen|Frédéric Makowiecki;Porsche 963;Porsche 9RD 4.6 L Turbo V8;Michelin;325;4427.74;24:03:06.939;
+2023;17;Hypercar;311;USA;Action Express Racing;GBR|BRA|GBR;Jack Aitken|Pipo Derani|Alexander Sims;Cadillac V-Series.R;Cadillac LMC55R 5.5 L V8;Michelin;324;4414.15;24:02:37.519;
+2023;18;LMP2;23;GBR;United Autosports;GBR|GBR|USA;Tom Blomqvist|Oliver Jarvis|Josh Pierson;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;323;4400.45;24:01:35.109;
+2023;19;LMP2;35;FRA;Alpine Elf Team;GBR|BRA|MEX;Olli Caldwell|André Negrão|Memo Rojas;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;322;4386.85;24:00:42.622;
+2023;20;LMP2(Pro-Am);45;PRT;Algarve Pro Racing;AUS|USA|USA;James Allen|Colin Braun|George Kurtz;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;322;4386.86;24:03:21.775;
+2023;21;LMP2;22;GBR;United Autosports;PRT|GBR|GBR;Filipe Albuquerque|Philip Hanson|Frederick Lubin;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;321;4373.18;24:03:00.196;
+2023;22;Hypercar;6;DEU;Porsche Penske Motorsport;FRA|DEU|BEL;Kévin Estre|André Lotterer|Laurens Vanthoor;Porsche 963;Porsche 9RD 4.6 L Turbo V8;Michelin;320;4359.67;24:00:46.345;
+2023;23;LMP2(Pro-Am);37;CHE;COOL Racing;CHE|DNK|FRA;Alexandre Coigny|Malthe Jakobsen|Nicolas Lapierre;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;317;4318.66;24:02:44.458;
+2023;24;LMP2;28;GBR;Jota;BRA|DNK|DNK;Pietro Fittipaldi|David Heinemeier Hansson|Oliver Rasmussen;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;316;4305.14;24:02:10.556;
+2023;25;LMP2;65;FRA;Panis Racing;NLD|VEN|NLD;Tijmen van der Helm|Manuel Maldonado|Job van Uitert;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;316;4305.13;24:02:57.177;
+2023;26;LMGTEAm;33;USA;Corvette Racing;NLD|USA|ARG;Nicky Catsburg|Ben Keating|Nicolás Varrone;Chevrolet Corvette C8.R;Chevrolet LT6 5.5 L V8;Michelin;313;4264.36;24:02:46.635;
+2023;27;Hypercar;94;FRA;Peugeot TotalEnergies;FRA|USA|CHE;Loïc Duval|Gustavo Menezes|Nico Müller;Peugeot 9X8;Peugeot 2.6 L Turbo V6;Michelin;312;4250.62;24:00:24.883;
+2023;28;LMGTEAm;25;OMN;ORT by TF;OMN|USA|IRL;Ahmad Al Harthy|Michael Dinan|Charlie Eastwood;Aston Martin Vantage AMR;Aston Martin 4.0 L Turbo V8;Michelin;312;4250.71;24:00:49.023;
+2023;29;LMGTEAm;86;GBR;GR Racing;GBR|ITA|GBR;Ben Barker|Riccardo Pera|Michael Wainwright;Porsche 911 RSR-19;Porsche 4.2 L Flat-6;Michelin;312;4250.71;24:01:46.477;
+2023;30;LMGTEAm;85;ITA;Iron Dames;BEL|CHE|DNK;Sarah Bovy|Rahel Frey|Michelle Gatting;Porsche 911 RSR-19;Porsche 4.2 L Flat-6;Michelin;312;4250.77;24:01:51.789;
+2023;31;LMGTEAm;54;ITA;AF Corse;ITA|CHE|ITA;Francesco Castellacci|Thomas Flohr|Davide Rigon;Ferrari 488 GTE Evo;Ferrari F154CB 3.9 L Turbo V8;Michelin;312;4250.73;24:03:25.620;
+2023;32;LMP2(Pro-Am);43;LUD;DKR Engineering;BEL|BEL|BEL;Maxime Martin|Tom van Rompuy|Ugo de Wilde;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;311;4236.94;24:03:24.032;
+2023;33;LMGTEAm;98;CAN;Northwest AMR;GBR|ITA|ESP;Ian James|Daniel Mancinelli|Alex Riberas;Aston Martin Vantage AMR;Aston Martin 4.0 L Turbo V8;Michelin;310;4223.50;24:00:35.192;
+2023;34;LMP2;9;ITA;Prema Racing;USA|ROU|NLD;Juan Manuel Correa|Filip Ugran|Bent Viscaal;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;310;4223.35;24:02:56.677;
+2023;35;LMGTEAm;56;DEU;Project 1 -AO;ITA|USA|USA;Matteo Cairoli|P. J. Hyett|Gunnar Jeannette;Porsche 911 RSR-19;Porsche 4.2 L Flat-6;Michelin;309;4209.83;24:00:23.755;
+2023;36;LMGTEAm;100;DEU;Walkenhorst Motorsport;IDN|USA|USA;Andrew Haryanto|Chandler Hull|Jeff Segal;Ferrari 488 GTE Evo;Ferrari F154CB 3.9 L Turbo V8;Michelin;307;4182.62;24:00:18.540;
+2023;37;LMP2(Pro-Am);39;FRA;Graff Racing;NLD|ITA|FRA;Giedo van der Garde|Roberto Lacorte|Patrick Pilet;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;303;4127.97;24:01:39.143;
+2023;38;LMGTEAm;74;CHE;Kessel Racing;JPN|JPN|JPN;Kei Cozzolino|Yorikatsu Tsujiko|Naoki Yokomizo;Ferrari 488 GTE Evo;Ferrari F154CB 3.9 L Turbo V8;Michelin;303;4128.08;24:03:20.586;
+2023;39;Innovative;24;USA;Hendrick Motorsports;GBR|USA|DEU;Jenson Button|Jimmie Johnson|Mike Rockenfeller;Chevrolet Camaro ZL1;Chevrolet R07.2 5.9 L V8;Goodyear;285;3882.79;24:02:14.466;
+2023;40;Hypercar;38;GBR;Hertz Team Jota;PRT|GBR|CHN;António Félix da Costa|Will Stevens|Ye Yifei;Porsche 963;Porsche 9RD 4.6 L Turbo V8;Michelin;244;3324.13;24:01:06.637;
+2023;DNF;LMGTEAm;57;CHE;Kessel Racing;USA|JPN|BRA;Scott Huffaker|Takeshi Kimura|Daniel Serra;Ferrari 488 GTE Evo;Ferrari F154CB 3.9 L Turbo V8;Michelin;254;3460.48;20:08:23.674;Accident
+2023;DNF;LMGTEAm;911;DEU;Proton Competition;IRL|AUT|EST;Michael Fassbender|Richard Lietz|Martin Rump;Porsche 911 RSR-19;Porsche 4.2 L Flat-6;Michelin;246;3351.49;19:37:05.142;Accident damage
+2023;DNF;LMP2(Pro-Am);80;ITA;AF Corse;GBR|FRA|FRA;Ben Barnicoat|Norman Nato|François Perrodo;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;183;2493.08;14:31:45.292;Accident
+2023;DNF;LMGTEAm;88;DEU;Proton Competition;DEU|GBR|USA;Jonas Ried|Harry Tincknell|Don Yount;Porsche 911 RSR-19;Porsche 4.2 L Flat-6;Michelin;170;2316.04;13:57:04.547;Accident
+2023;DNF;Hypercar;4;AUT;Floyd Vanwall Racing Team;FRA|ARG|FRA;Tom Dillmann|Esteban Guerrieri|Tristan Vautier;Vanwall Vandervell 680;Gibson GL458 4.5 L V8;Michelin;165;2247.80;15:11:45.309;Engine
+2023;DNF;LMGTEAm;777;JPN;D'Station Racing;JPN|JPN|GBR;Tomonobu Fujii|Satoshi Hoshino|Casper Stevenson;Aston Martin Vantage AMR;Aston Martin 4.0 L Turbo V8;Michelin;163;2220.64;13:41:58.671;Electrical
+2023;DNF;LMP2;47;CHE;COOL Racing;FRA|WFS|FRA;Reshad de Gerus|Vladislav Lomko|Simon Pagenaud;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;158;2152.47;12:41:03.838;Accident
+2023;DNF;LMGTEAm;77;DEU;Dempsey -Proton Racing;FRA|DEU|DNK;Julien Andlauer|Christian Ried|Mikkel O. Pedersen;Porsche 911 RSR-19;Porsche 4.2 L Flat-6;Michelin;118;1607.47;10:31:03.703;Accident damage
+2023;DNF;LMP2(Pro-Am);32;POL;Inter Europol Competition;DNK|USA|DNK;Anders Fjordbach|Mark Kvamme|Jan Magnussen;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;117;1593.82;11:07:55.755;Suspension
+2023;DNF;LMP2;63;ITA;Prema Racing;ITA|WFS|FRA;Mirko Bortolotti|Daniil Kvyat|Doriane Pin;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;113;1539.39;9:35:28.976;Accident
+2023;DNF;Hypercar;7;JPN;Toyota Gazoo Racing;GBR|JPN|ARG;Mike Conway|Kamui Kobayashi|José María López;Toyota GR010 Hybrid;Toyota H8909 3.5 L Turbo V6;Michelin;103;1403.15;7:58:44.496;Collision
+2023;DNF;LMGTEAm;66;GBR;JMW Motorsport;FRA|ITA|MCO;Thomas Neubauer|Giacomo Petrobelli|Louis Prette;Ferrari 488 GTE Evo;Ferrari F154CB 3.9 L Turbo V8;Michelin;89;1212.42;7:58:43.009;Collision
+2023;DNF;LMP2(Pro-Am);923;TUR;Racing Team Turkey;GBR|BEL|TUR;Tom Gamble|Dries Vanthoor|Salih Yoluç;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;87;1185.13;7:50:02.331;Suspension
+2023;DNF;Hypercar;75;DEU;Porsche Penske Motorsport;FRA|BRA|GBR;Mathieu Jaminet|Felipe Nasr|Nick Tandy;Porsche 963;Porsche 9RD 4.6 L Turbo V8;Michelin;84;1144.31;6:44:44.339;Fuel pressure
+2023;DNF;LMGTEAm;72;GBR;TF Sport;FRA|FRA|FRA;Valentin Hasse-Clot|Arnold Robin|Maxime Robin;Aston Martin Vantage AMR;Aston Martin 4.0 L Turbo V8;Michelin;58;790.07;5:15:31.186;Accident
+2023;DNF;LMGTEAm;83;ITA;Richard Mille AF Corse;ARG|ITA|FRA;Luis Pérez Companc|Alessio Rovera|Lilou Wadoux;Ferrari 488 GTE Evo;Ferrari F154CB 3.9 L Turbo V8;Michelin;33;449.45;2:46:32.766;Accident
+2023;DNF;LMGTEAm;60;ITA;Iron Lynx;ITA|BEL|ITA;Matteo Cressoni|Alessio Picariello|Claudio Schiavoni;Porsche 911 RSR-19;Porsche 4.2 L Flat-6;Michelin;28;381.34;2:20:55.129;Collision
+2023;DNF;LMGTEAm;16;DEU;Proton Competition;USA|BEL|CAN;Ryan Hardwick|Jan Heylen|Zacharie Robichon;Porsche 911 RSR-19;Porsche 4.2 L Flat-6;Michelin;28;381.34;2:20:56.968;Collision
+2023;DNF;LMGTEAm;55;DNK;GMB Motorsport;DNK|DNK|DNK;Gustav Birch|Jens Reno Møller|Marco Sørensen;Aston Martin Vantage AMR;Aston Martin 4.0 L Turbo V8;Michelin;21;285.96;1:45:27.414;Collision
+2023;DNF;LMGTEAm;21;ITA;AF Corse;GBR|BEL|FRA;Simon Mann|Ulysse de Pauw|Julien Piguet;Ferrari 488 GTE Evo;Ferrari F154CB 3.9 L Turbo V8;Michelin;21;285.96;1:45:27.935;Collision
+2023;DNF;LMP2(Pro-Am);13;CAN;Tower Motorsports;DEU|USA|USA;René Rast|Ricky Taylor|Steven Thomas;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;19;258.69;1:34:25.191;Accident
+2023;DNF;LMP2(Pro-Am);14;GBR;Nielsen Racing;CHE|GBR|USA;Mathias Beche|Ben Hanley|Rodrigo Sales;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;18;245.08;1:27:23.328;Accident
+2023;RES;LMGTEAm;555;CHE;Spirit of Race;GBR|IRL|ZAF;Duncan Cameron|Matt Griffin|David Perel;Ferrari 488 GTE Evo;Ferrari F154CB 3.9 L Turbo V8;Michelin;0;0.0;;
+2023;RES;LMP2;81;USA;DragonSpeed USA;SWE|COL|COL;Henrik Hedman|Juan Pablo Montoya|Sebastián Montoya;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;0;0.0;;
+2023;RES;LMP2;15;GBR;Nielsen Racing;GBR|GBR;Matt Bell|Tony Wells;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;0;0.0;;
+2023;RES;LMGTEAm;46;DEU;Team Project 1;DEU;Timo Glock;Porsche 911 RSR-19;Porsche 4.2 L Flat-6;Michelin;0;0.0;;
+2023;RES;LMP2;44;SVK;ARC Bratislava;SVK;Miro Konôpka;Oreca 07;Gibson GK428 4.2 L V8;Goodyear;0;0.0;;
+2023;RES;LMGTEAm;52;DNK;Formula Racing;DNK|DNK;Conrad Laursen|Johnny Laursen;Ferrari 488 GTE Evo;Ferrari F154CB 3.9 L Turbo V8;Michelin;0;0.0;;
+2023;RES;LMGTEAm;95;GBR;TF Sport;GBR|GBR;Jonathan Adam|John Hartshorne ;Aston Martin Vantage AMR;Aston Martin 4.0 L Turbo V8;Michelin;0;0.0;;
+2023;RES;LMGTEAm;59;GBR;Garage 59 ;SWE;Alexander West ;Ferrari 488 GTE Evo;Ferrari F154CB 3.9 L Turbo V8;Michelin;0;0.0;;
