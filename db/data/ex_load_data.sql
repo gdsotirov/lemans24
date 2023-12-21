@@ -1,3 +1,9 @@
+/* Sample script loading data */
+
+START TRANSACTION;
+
+DELETE FROM results_in WHERE 1=1;
+
 LOAD DATA INFILE '/var/mysql/files/results_in.csv'
   INTO TABLE results_in
   FIELDS TERMINATED BY ';'
@@ -15,3 +21,7 @@ LOAD DATA INFILE '/var/mysql/files/results_in.csv'
     racing_time = CASE @racing_time WHEN '' THEN NULL ELSE @racing_time END,
     reason      = CASE @reason      WHEN '' THEN NULL ELSE @reason      END;
 
+CALL lemans24.cleanup();
+CALL lemans24.process_results();
+
+COMMIT;
