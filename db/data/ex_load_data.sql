@@ -6,6 +6,7 @@ DELETE FROM results_in WHERE 1=1;
 
 LOAD DATA INFILE '/var/mysql/files/results_in.csv'
   INTO TABLE results_in
+  CHARACTER SET utf8mb4
   FIELDS TERMINATED BY ';'
     OPTIONALLY ENCLOSED BY '"'
   LINES TERMINATED BY '\r\n'
@@ -22,6 +23,9 @@ LOAD DATA INFILE '/var/mysql/files/results_in.csv'
     reason      = CASE @reason      WHEN '' THEN NULL ELSE @reason      END;
 
 CALL lemans24.cleanup();
+/* This procedure executes a lot of DML, so it definitely _must_ be ran
+ * into a transaction for finishing in reasonable time. In MySQL Workbench
+ * be sure to toggle autocommit mode. */
 CALL lemans24.process_results();
 
 COMMIT;
