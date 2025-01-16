@@ -17,4 +17,5 @@ CREATE TABLE IF NOT EXISTS car_tyres (
     ON DELETE RESTRICT
     ON UPDATE CASCADE
 )
-ENGINE = InnoDB;
+ENGINE = InnoDB
+COMMENT = 'Defines the tyres of each car';
