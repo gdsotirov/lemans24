@@ -23,7 +23,7 @@ sub text {
 sub start {
   my ($self, $tag, $attr, $attrseq, $origtext) = @_;
 
-  if ( $tag =~ /^span$/
+  if ( $tag =~ /^h[2-3]$/
        && defined $attr->{'id'}
        && (   $attr->{'id'} =~ /^Official_results/i
            || $attr->{'id'} =~ /^Results$/i
