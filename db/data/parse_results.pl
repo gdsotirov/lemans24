@@ -5,8 +5,9 @@ use strict;
 use warnings;
 use utf8;
 use open ( ":encoding(UTF-8)", ":std" );
-use HTML::TreeBuilder 3;  # make sure our version isn't ancient
 use Encode qw/encode decode/;
+use HTML::TreeBuilder 3;  # make sure our version isn't ancient
+use IO::HTML;
 
 # Column names and indexes
 my %columns = (
@@ -196,7 +197,6 @@ if ( scalar @ARGV < 1 )
   die "Usage: $0 <file_name|year>\n";
 }
 
-my $fh;
 my $race_yr;
 my $root = HTML::TreeBuilder->new();
 
@@ -212,9 +212,7 @@ elsif ( -e $ARGV[0] ) {
   $race_yr = $ARGV[0];
   $race_yr =~ s/[^0-9]//g;
 
-  open($fh, '<:encoding(UTF-8)', $ARGV[0]) or die "Error: Could not open file '".$ARGV[0]."' $!";
-  $root->parse_file($fh);
-  close($fh);
+  $root->parse_file(html_file($ARGV[0]));
 }
 else {
   die "Error: File '".$ARGV[0]."' not found!\n";
