@@ -44,7 +44,7 @@ sub start {
   {
     $fgResults = 1;
   }
-  if ( $fgResults && $tag =~ /^table$/ )
+  if ( $fgResults && $tag =~ /^table$/ && defined $attr->{'class'} && $attr->{'class'} =~ /^wikitable/ )
   {
     $fgTable = 1;
     print $origtext;
@@ -63,7 +63,7 @@ sub start {
     {
       print $origtext;
     }
-    if ( $tag eq "caption" || $tag eq "sup" )
+    if ( $tag eq "caption" || $tag eq "style" || $tag eq "sup" )
     {
       $fgPrint = 0;
     }
@@ -101,7 +101,7 @@ sub end {
     {
       print $origtext;
     }
-    if ( $tag eq "caption" || $tag eq "sup" )
+    if ( $tag eq "caption" || $tag eq "style" || $tag eq "sup" )
     {
       $fgPrint = 1;
     }
