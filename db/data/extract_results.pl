@@ -9,12 +9,20 @@ use base "HTML::Parser";
 my $fgResults = 0;
 my $fgTable = 0;
 my $fgPrint = 1;
+my $fgTitle = 0;
 my $fgBridgestone = 0;
 my $fgKumho = 0;
 
+my @tagsCopy = qw( body head html meta title );
+my @tagsTablePrint = qw( td th tr );
+my @tagsTableSkip = qw( caption style sup );
+my %tagsCopy = map { $_ => 1 } @tagsCopy;
+my %tagsTablePrint = map { $_ => 1 } @tagsTablePrint;
+my %tagsTableSkip = map { $_ => 1 } @tagsTableSkip;
+
 sub text {
   my ($self, $text) = @_;
-  if ( $fgTable && $fgPrint && $text ne "" && $text ne " " )
+  if ( $fgTitle || ( $fgTable && $fgPrint && $text ne "" && $text ne " " ) )
   {
     print $text;
   }
@@ -23,6 +31,18 @@ sub text {
 sub start {
   my ($self, $tag, $attr, $attrseq, $origtext) = @_;
 
+  if ( $tag eq "title" ) {
+    $fgTitle = 1;
+  }
+  if ( exists($tagsCopy{$tag}) )
+  {
+    my $nl = "";
+    if ( $origtext !~ /\n$/ && $tag ne "title" )
+    {
+      $nl = "\n";
+    }
+    print($origtext.$nl);
+  }
   if ( $tag =~ /^h[2-3]$/
        && defined $attr->{'id'}
        && (   $attr->{'id'} =~ /^Official_results/i
@@ -59,11 +79,11 @@ sub start {
   }
   if ( $fgTable )
   {
-    if ( $tag eq "tr" || $tag eq "th" || $tag eq "td" ) 
+    if ( exists($tagsTablePrint{$tag}) )
     {
       print $origtext;
     }
-    if ( $tag eq "caption" || $tag eq "style" || $tag eq "sup" )
+    if ( exists($tagsTableSkip{$tag}) )
     {
       $fgPrint = 0;
     }
@@ -89,19 +109,31 @@ sub start {
 sub end {
   my ($self, $tag, $origtext) = @_;
 
+  if ( $tag eq "title" ) {
+    $fgTitle = 0;
+  }
+  if ( exists($tagsCopy{$tag}) )
+  {
+    my $nl = "";
+    if ( $origtext !~ /\n$/ )
+    {
+      $nl = "\n";
+    }
+    print($origtext.$nl);
+  }
   if ( $fgTable )
   {
     if ( $tag =~ /^table$/ )
     {
       print $origtext."\n";
       $fgTable = 0;
-      $fgResults = 0;
+#     $fgResults = 0;
     }
-    if ( $tag eq "tr" || $tag eq "th" || $tag eq "td" )
+    if ( exists($tagsTablePrint{$tag}) )
     {
       print $origtext;
     }
-    if ( $tag eq "caption" || $tag eq "style" || $tag eq "sup" )
+    if ( exists($tagsTableSkip{$tag}) )
     {
       $fgPrint = 1;
     }
