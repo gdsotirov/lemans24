@@ -196,6 +196,7 @@ if ( scalar @ARGV < 1 )
   die "Usage: $0 <file_name|year>\n";
 }
 
+my $fh;
 my $race_yr;
 my $root = HTML::TreeBuilder->new();
 
@@ -211,7 +212,9 @@ elsif ( -e $ARGV[0] ) {
   $race_yr = $ARGV[0];
   $race_yr =~ s/[^0-9]//g;
 
-  $root->parse_file($ARGV[0]);
+  open($fh, '<:encoding(UTF-8)', $ARGV[0]) or die "Error: Could not open file '".$ARGV[0]."' $!";
+  $root->parse_file($fh);
+  close($fh);
 }
 else {
   die "Error: File '".$ARGV[0]."' not found!\n";
