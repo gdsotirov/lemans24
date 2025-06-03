@@ -75,6 +75,7 @@ my %ctry_iso = (
   "JAPAN"               => "JPN",
   "LATVIA"              => "LVA",
   "LIECHTENSTEIN"       => "LIE",
+  "LITHUANIA"           => "LTU",
   "LUXEMBOURG"          => "LUD",
   "MALAYSIA"            => "MYS",
   "MEXICO"              => "MEX",
