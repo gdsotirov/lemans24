@@ -271,6 +271,9 @@ foreach my $tab (@tables) {
           if ( $title =~ /^Pos\.?/ ) {
             $headers{'Pos'} = $col_idx;
           }
+          elsif ( $title eq "Reserve" ) {
+            $headers{'Reserve'} = $col_idx;
+          }
           elsif ( $title eq "Class" || $title eq "Klasse" ) {
             $headers{'Class'} = $col_idx;
           }
@@ -348,6 +351,9 @@ foreach my $tab (@tables) {
               $txt = $1;
             }
             $outarr[$outarr_idx][$columns{'Pos'}] = $txt;
+          }
+          elsif ( exists($headers{'Reserve'}) && $col_idx == $headers{'Reserve'} ) {
+            $outarr[$outarr_idx][$columns{'Pos'}] = "RES";
           }
           # do not split class
           elsif ( exists($headers{'Class'}) && $col_idx == $headers{'Class'} ) {
