@@ -94,6 +94,7 @@ my %ctry_iso = (
   "REPUBLIC OF IRELAND" => "IRL",
   "ROMANIA"             => "ROU",
   "RUSSIA"              => "RUS",
+  "SAINT KITTS AND NEVIS"=> "KNA",
   "SAN MARINO"          => "SMR",
   "SAUDI ARABIA"        => "SAU",
   "SCOTLAND"            => "SCO",
