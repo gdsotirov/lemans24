@@ -137,10 +137,10 @@ sub end {
     {
       $fgPrint = 1;
     }
-    if ( $tag eq "span" && $fgPrint == 0 )
-    {
-      $fgPrint = 1;
-    }
+#   if ( $tag eq "span" && $fgPrint == 0 )
+#   {
+#     $fgPrint = 1;
+#   }
     if ( $fgBridgestone && $tag eq "span" )
     {
       print "R";
