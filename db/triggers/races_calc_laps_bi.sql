@@ -9,7 +9,9 @@ BEGIN
     FROM circuits
    WHERE id = NEW.circuit_id;
 
-  SET NEW.laps = NEW.distance_km / cir_length_km;
+  IF NEW.laps IS NULL AND NEW.distance_km IS NOT NULL THEN
+    SET NEW.laps = ROUND(NEW.distance_km / cir_length_km, 0);
+  END IF;
 END //
 
 DELIMITER ;
