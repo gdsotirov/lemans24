@@ -1,5 +1,9 @@
 CREATE OR REPLACE VIEW TotalStartsByDriver AS
 SELECT D.full_name                                              AS Driver,
+       CASE D.sex
+         WHEN 'F' THEN 'Female'
+         ELSE 'Male'
+       END                                                      AS Sex,
        D.country                                                AS DCountry,
        COUNT(DISTINCT R.id)                                     AS `Starts`,
        MIN(R.id)                                                AS FirstStart,

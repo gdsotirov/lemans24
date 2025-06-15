@@ -1,5 +1,9 @@
 CREATE OR REPLACE VIEW MostWinsByDriver AS
 SELECT D.full_name                                      AS Driver,
+       CASE D.sex
+         WHEN 'F' THEN 'Female'
+         ELSE 'Male'
+       END                                              AS Sex,
        COUNT(*)                                         AS Wins,
        MIN(R.id)                                        AS FirstWin,
        MAX(R.id)                                        AS LastWin,

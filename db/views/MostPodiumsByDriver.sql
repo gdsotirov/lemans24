@@ -1,5 +1,9 @@
 CREATE OR REPLACE VIEW MostPodiumsByDriver AS
 SELECT D.full_name                                      AS Driver,
+       CASE D.sex
+         WHEN 'F' THEN 'Female'
+         ELSE 'Male'
+       END                                              AS Sex,
        SUM(CASE WHEN RES.pos = 1 THEN 1 ELSE 0 END)     AS FstPlace,
        SUM(CASE WHEN RES.pos = 2 THEN 1 ELSE 0 END)     AS SndPlace,
        SUM(CASE WHEN RES.pos = 3 THEN 1 ELSE 0 END)     AS TrdPlace,
