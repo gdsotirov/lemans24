@@ -35,7 +35,7 @@ SELECT R.id                 AS `Year`,
    AND CT.car_id      = CN.id
    AND CT.tyre_id     = T.id
    AND R.cancelled    = 0 /* not cancelled */
-   AND RES.pos NOT IN ('DNA', 'DNF', 'DNP', 'DNQ', 'DNS', 'NC', 'RES')
+   AND RES.pos NOT IN ('DNA', 'DNF', 'DNP', 'DNQ', 'DNS', 'DSQ', 'NC', 'RES')
  GROUP BY RES.id
 )
 SELECT `Year`, Overall, Class, CarNbr, Team, Drivers, Car, Tyres
