@@ -3,14 +3,13 @@ SELECT R.id             AS Race,
        RES.pos          AS Pos,
        C.car_class      AS Class,
        CN.nbr           AS CarNb,
-       GROUP_CONCAT(TM.country        ORDER BY TMR.ord_num ASC SEPARATOR '|')
+       GROUP_CONCAT(TM.country            ORDER BY TMR.ord_num ASC SEPARATOR '|')
                         AS TCountry,
-       GROUP_CONCAT(DISTINCT TM.title ORDER BY TMR.ord_num ASC SEPARATOR '|')
+       GROUP_CONCAT(DISTINCT TM.title     ORDER BY TMR.ord_num ASC SEPARATOR '|')
                         AS Team,
-       GROUP_CONCAT(D.country         ORDER BY DR.ord_num  ASC SEPARATOR '|')
+       GROUP_CONCAT(D.country             ORDER BY DR.ord_num  ASC SEPARATOR '|')
                         AS DCountry,
-       GROUP_CONCAT(DISTINCT CONCAT(IFNULL(D.fname, 'f.n.u.'), ' ', D.lname)
-                                      ORDER BY DR.ord_num  ASC SEPARATOR '|')
+       GROUP_CONCAT(DISTINCT D.full_name  ORDER BY DR.ord_num  ASC SEPARATOR '|')
                         AS Drivers,
        C.car_chassis    AS Chassis,
        C.car_engine     AS `Engine`,

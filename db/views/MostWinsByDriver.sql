@@ -1,5 +1,5 @@
 CREATE OR REPLACE VIEW MostWinsByDriver AS
-SELECT CONCAT(IFNULL(D.fname, 'f.n.u.'), ' ', D.lname)  AS Driver,
+SELECT D.full_name                                      AS Driver,
        COUNT(*)                                         AS Wins,
        MIN(R.id)                                        AS FirstWin,
        MAX(R.id)                                        AS LastWin,

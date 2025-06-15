@@ -9,8 +9,7 @@ SELECT R.id                 AS `Year`,
        CN.nbr               AS CarNbr,
        GROUP_CONCAT(DISTINCT TM.title ORDER BY TMR.ord_num ASC SEPARATOR ' / ')
                             AS Team,
-       GROUP_CONCAT(CONCAT(IFNULL(D.fname, 'f.n.u.'), ' ', D.lname)
-                                      ORDER BY DR.ord_num  ASC SEPARATOR ' / ')
+       GROUP_CONCAT(D.full_name       ORDER BY DR.ord_num  ASC SEPARATOR ' / ')
                             AS Drivers,
        CONCAT(C.car_chassis, ' / ', C.car_engine)
                             AS Car,
