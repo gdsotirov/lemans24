@@ -7,5 +7,5 @@ SELECT CN.nbr                                                     AS `Number`,
        INNER JOIN car_numbers CN  ON CN.id = RES.car_id AND CN.race_id = R.id
  WHERE RES.pos = 1
 GROUP BY CN.nbr
-ORDER BY CN.nbr ASC;
+ORDER BY CAST(CN.nbr AS DECIMAL(3)) ASC;
 

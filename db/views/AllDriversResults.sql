@@ -1,4 +1,16 @@
 CREATE OR REPLACE VIEW AllDriversResults AS
+WITH ranks AS (
+SELECT RES.id AS id,
+       DENSE_RANK() OVER (PARTITION BY RES.race_id, C.car_class
+                              ORDER BY RES.race_id, pos_to_num(RES.pos) ASC) AS InClass
+  FROM results     RES,
+       car_numbers CN,
+       cars        C
+ WHERE RES.car_id   = CN.id
+   AND CN.car_id    = C.id
+   AND CN.race_id   = RES.race_id
+ ORDER BY RES.race_id, pos_to_num(pos)
+)
 SELECT D.full_name                                     AS `Name`,
        CASE D.sex
          WHEN 'F' THEN 'Female'
@@ -16,39 +28,17 @@ SELECT D.full_name                                     AS `Name`,
                          ELSE NULL
                     END
                     ORDER BY R.id SEPARATOR ', ')      AS OvTop10Years,
-       /*SUM(CASE
-             WHEN RES.pos =
-               (SELECT MIN(pos_to_num(IR.pos)) /* best class position *
-                  FROM results     IR,
-                       car_numbers ICN,
-                       cars        IC
-                 WHERE IR.car_id  = ICN.id
-                   AND ICN.car_id  = IC.id
-                   AND IR.pos NOT IN ('DNA', 'DNF', 'DNP', 'DNQ', 'DNS', 'DSQ', 'NC', 'RES')
-                   AND IR.race_id   = R.id
-                   AND IC.car_class = C.car_class
-               )
-             THEN 1
-             ELSE 0
-           END
-          )*/ NULL                                     AS ClassWins,
-       /*GROUP_CONCAT(
+       SUM(CASE
+            WHEN 1 = (SELECT InClass FROM ranks WHERE id = RES.id) THEN 1
+            ELSE 0
+           END)                                        AS ClassWins,
+       GROUP_CONCAT(
            CASE
-             WHEN RES.pos =
-               (SELECT MIN(pos_to_num(IR.pos)) /* best class position *
-                  FROM results     IR,
-                       car_numbers ICN,
-                       cars        IC
-                 WHERE IR.car_id  = ICN.id
-                   AND ICN.car_id  = IC.id
-                   AND IR.pos NOT IN ('DNA', 'DNF', 'DNP', 'DNQ', 'DNS', 'DSQ', 'NC', 'RES')
-                   AND IR.race_id   = R.id
-                   AND IC.car_class = C.car_class
-               )
-             THEN CONCAT(R.id, ' (', C.car_class, ')')
-             ELSE NULL
+            WHEN 1 = (SELECT InClass FROM ranks WHERE id = RES.id)
+              THEN CONCAT(R.id, ' (', C.car_class, ')')
+            ELSE NULL
            END
-           ORDER BY R.id SEPARATOR ', ')*/ NULL        AS ClassWinYears
+           ORDER BY R.id SEPARATOR ', ')               AS ClassWinYears
   FROM drivers        D,
        driver_results DR,
        races          R,
