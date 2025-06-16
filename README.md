@@ -95,7 +95,7 @@ graphically represented here below.
 * `DriversWithNickname`   - List of drivers having a nickname;
 * `FemaleDrivers`         - List all female drivers with active years
   and achievements;
-* `FemaleDriversByCntry`  - Female drivers by country;
+* `FemaleDriversByCountry`- Female drivers by country;
 * `MostPodiumsByDriver`   - Most podiums by driver;
 * `MostWinsByCar`         - Most wins by cars;
 * `MostWinsByConstructor` - Most wins by engine constructor;
