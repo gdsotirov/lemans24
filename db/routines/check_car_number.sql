@@ -1,5 +1,7 @@
 DELIMITER //
 
+DROP FUNCTION IF EXISTS check_car_number //
+
 CREATE FUNCTION check_car_number(car_nbr VARCHAR(3))
 RETURNS BOOL NO SQL
 BEGIN

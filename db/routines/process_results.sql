@@ -1,6 +1,6 @@
 DELIMITER //
 
-DROP PROCEDURE IF EXISTS process_results;
+DROP PROCEDURE IF EXISTS process_results //
 
 CREATE PROCEDURE process_results()
 BEGIN

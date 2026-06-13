@@ -1,5 +1,7 @@
 DELIMITER //
 
+DROP TRIGGER IF EXISTS races_calc_laps_bi //
+
 CREATE TRIGGER races_calc_laps_bi BEFORE INSERT ON races FOR EACH ROW
 BEGIN
   DECLARE cir_length_km DECIMAL(5,3);

@@ -1,5 +1,7 @@
 DELIMITER //
 
+DROP FUNCTION IF EXISTS check_position //
+
 CREATE FUNCTION check_position(pos VARCHAR(3))
 RETURNS BOOL NO SQL
 BEGIN

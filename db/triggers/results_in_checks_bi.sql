@@ -1,5 +1,7 @@
 DELIMITER //
 
+DROP TRIGGER IF EXISTS results_in_checks_bi //
+
 CREATE TRIGGER results_in_checks_bi
 BEFORE INSERT ON results_in
 FOR EACH ROW

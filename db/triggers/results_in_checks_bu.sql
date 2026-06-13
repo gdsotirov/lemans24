@@ -1,5 +1,7 @@
 DELIMITER //
 
+DROP TRIGGER IF EXISTS results_in_checks_bu //
+
 CREATE TRIGGER results_in_checks_bu
 BEFORE UPDATE ON results_in
 FOR EACH ROW

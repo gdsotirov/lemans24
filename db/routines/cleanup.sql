@@ -1,5 +1,7 @@
 DELIMITER //
 
+DROP PROCEDURE IF EXISTS cleanup //
+
 CREATE PROCEDURE cleanup()
 BEGIN
   DELETE FROM driver_results WHERE driver_id > 0;

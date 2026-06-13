@@ -1,6 +1,6 @@
 DELIMITER //
 
-DROP FUNCTION IF EXISTS drv_full_name;
+DROP FUNCTION IF EXISTS drv_full_name //
 
 CREATE FUNCTION drv_full_name(title     VARCHAR(16),
                               fname     VARCHAR(32),
