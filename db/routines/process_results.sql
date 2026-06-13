@@ -1,5 +1,7 @@
 DELIMITER //
 
+DROP PROCEDURE IF EXISTS process_results;
+
 CREATE PROCEDURE process_results()
 BEGIN
   /* Input results - table results_in */
@@ -41,7 +43,7 @@ BEGIN
   DECLARE new_drv_fname  VARCHAR(32);
   DECLARE new_drv_lname  VARCHAR(32);
   DECLARE new_drv_nick   VARCHAR(32);
-  DECLARE new_drv_nm_sfx VARCHAR(4);
+  DECLARE new_drv_nm_sfx VARCHAR(16);
   DECLARE new_drv_sex    CHAR(1);
   DECLARE new_drv_cntry  CHAR(4);
   DECLARE new_drv_ord    INT;
@@ -243,11 +245,11 @@ BEGIN
          new_drv_name LIKE 'Sir %'     OR
          new_drv_name LIKE 'Capt.%'    OR /* Military titles, Captain */
          new_drv_name LIKE 'Colonel %' OR
-         new_drv_name LIKE 'Lt. %'     OR /* Lieutenant */
-         new_drv_name LIKE 'Maj %'     OR /* Major */
+         new_drv_name LIKE 'Lt. C__.%' OR /* Lieutenant */
+         new_drv_name LIKE 'Maj.%'     OR /* Major */
          new_drv_name LIKE 'Dr.%'         /* Academic titles, Doctor */
       THEN
-        IF new_drv_name LIKE 'Lt. Cdr.%' THEN /* Lieutenant commander */
+        IF new_drv_name LIKE 'Lt. Cdr.%' OR new_drv_name LIKE 'Lt. Col.%' THEN /* Lieutenant commander or collonel */
           SET new_drv_title = SUBSTR(new_drv_name, 1, 8);
           SET new_drv_name = SUBSTR(new_drv_name, 10);
         ELSE
@@ -261,7 +263,11 @@ BEGIN
          new_drv_name LIKE '%, Lord%'  OR
          new_drv_name LIKE '%, Earl%'
       THEN
-        SET new_drv_title = SUBSTR(new_drv_name, INSTR(new_drv_name, ',') + 2);
+        IF new_drv_title IS NULL THEN
+          SET new_drv_title = SUBSTR(new_drv_name, INSTR(new_drv_name, ',') + 2);
+        ELSE /* Move royal title to suffix, if having also military titles */
+          SET new_drv_nm_sfx = SUBSTR(new_drv_name, INSTR(new_drv_name, ',') + 2);
+        END IF;
         SET new_drv_name = SUBSTR(new_drv_name, 1, INSTR(new_drv_name, ',') - 1);
       END IF;
 

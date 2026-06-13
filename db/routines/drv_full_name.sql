@@ -1,10 +1,12 @@
 DELIMITER //
 
+DROP FUNCTION IF EXISTS drv_full_name;
+
 CREATE FUNCTION drv_full_name(title     VARCHAR(16),
                               fname     VARCHAR(32),
                               lname     VARCHAR(32),
                               nickname  VARCHAR(32),
-                              nm_suffix VARCHAR(4))
+                              nm_suffix VARCHAR(16))
   RETURNS VARCHAR(64) NO SQL
 BEGIN
   DECLARE full_name VARCHAR(64) DEFAULT '';
@@ -40,7 +42,11 @@ BEGIN
 
   /* finally add name suffix if any */
   IF nm_suffix IS NOT NULL THEN
-    SET full_name := CONCAT(full_name, ' ', nm_suffix);
+    IF nm_suffix LIKE 'Lord %' THEN
+      SET full_name := CONCAT(full_name, ', ', nm_suffix);
+    ELSE
+      SET full_name := CONCAT(full_name, ' ', nm_suffix);
+    END IF;
   END IF;
 
   RETURN full_name;

@@ -4,7 +4,7 @@ CREATE TABLE IF NOT EXISTS drivers (
   fname     VARCHAR(32)     NULL,
   lname     VARCHAR(32)     NOT NULL,
   nickname  VARCHAR(32)     NULL,
-  nm_suffix VARCHAR(4)      NULL COMMENT 'Name suffix (e.g. Jr., Sr., III)',
+  nm_suffix VARCHAR(16)     NULL COMMENT 'Name suffix (e.g. Jr., Sr., III or nobel title)',
   full_name VARCHAR(64)     GENERATED ALWAYS AS (
                               /* TODO: Call drv_full_name here when possible */
                               CONCAT(CASE WHEN title NOT LIKE 'Baron %' AND
@@ -21,7 +21,10 @@ CREATE TABLE IF NOT EXISTS drivers (
                                                title LIKE 'Lord %'
                                           THEN CONCAT(', ', title) ELSE '' END, /* title after name */
                                      CASE WHEN nm_suffix IS NULL THEN ''
-                                          ELSE CONCAT(' ', nm_suffix)      END  /* name suffix if any */
+                                          ELSE CASE WHEN nm_suffix LIKE 'Lord %'
+                                               THEN CONCAT(', ', nm_suffix)
+                                               ELSE CONCAT(' ', nm_suffix) END  /* name suffix if any */
+                                     END
                                     )
                             )
                             VIRTUAL
