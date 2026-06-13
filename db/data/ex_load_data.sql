@@ -4,6 +4,12 @@ START TRANSACTION;
 
 DELETE FROM results_in WHERE 1=1;
 
+ALTER TABLE results_in AUTO_INCREMENT = 1; /* implicit COMMIT */
+
+COMMIT;
+
+START TRANSACTION;
+
 LOAD DATA INFILE '/var/mysql/files/results_in.csv'
   INTO TABLE results_in
   CHARACTER SET utf8mb4
