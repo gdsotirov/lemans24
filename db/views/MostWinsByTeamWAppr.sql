@@ -4,6 +4,7 @@ SELECT CASE /* some approximations */
          WHEN TM.title LIKE '%Porsche%'
           AND TM.title NOT LIKE 'Martini Racing Porsche%' THEN 'Porsche'
          WHEN TM.title LIKE '%Ferrari%'                   THEN 'Ferrari'
+         WHEN TM.title LIKE '%Toyota%'                    THEN 'Toyota Racing'
          WHEN TM.title LIKE '%Jaguar%'                    THEN 'Jaguar'
          WHEN TM.title LIKE '%Peugeot%'                   THEN 'Peugeot'
          ELSE TM.title
@@ -11,7 +12,8 @@ SELECT CASE /* some approximations */
        COUNT(*)                                         AS Wins,
        MIN(R.id)                                        AS FirstWin,
        MAX(R.id)                                        AS LastWin,
-       GROUP_CONCAT(R.id ORDER BY R.id SEPARATOR ', ')  AS Years
+       GROUP_CONCAT(CONCAT(R.id, ': ', TM.title)
+         ORDER BY R.id SEPARATOR ', ')                  AS Years
   FROM races        R,
        results      RES,
        team_results TMR,
