@@ -4,9 +4,10 @@ SELECT CASE /* some approximations */
          WHEN TM.title LIKE '%Porsche%'
           AND TM.title NOT LIKE 'Martini Racing Porsche%' THEN 'Porsche'
          WHEN TM.title LIKE '%Ferrari%'                   THEN 'Ferrari'
+         WHEN TM.title LIKE '%Bentley%'                   THEN 'Bentley Motors'
          WHEN TM.title LIKE '%Toyota%'                    THEN 'Toyota Racing'
          WHEN TM.title LIKE '%Jaguar%'                    THEN 'Jaguar'
-         WHEN TM.title LIKE '%Peugeot%'                   THEN 'Peugeot'
+         WHEN TM.title LIKE '%Peugeot%'                   THEN 'Peugeot Sport'
          ELSE TM.title
        END                                              AS Team,
        COUNT(*)                                         AS Wins,
